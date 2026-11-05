@@ -8,69 +8,58 @@ const articles = [
 const list = document.querySelector("#article-list");
 const searchInput = document.querySelector("#search-input");
 const loadMore = document.querySelector("#load-more");
+const resultCount = document.querySelector("#result-count");
 let activeFilter = "all";
 let visibleCount = 3;
+const saved = new Set();
 
 function renderArticles() {
   const query = searchInput.value.trim().toLowerCase();
-  const filtered = articles.filter((article) => {
-    const matchesFilter = activeFilter === "all" || article.key === activeFilter;
+  const filtered = articles.filter((article, index) => {
+    const matchesFilter = activeFilter === "all" || (activeFilter === "saved" ? saved.has(index) : article.key === activeFilter);
     const matchesSearch = !query || `${article.title} ${article.description} ${article.source}`.toLowerCase().includes(query);
     return matchesFilter && matchesSearch;
   });
-
-  list.innerHTML = filtered.slice(0, visibleCount).map((article, index) => `
-    <article class="article-card">
-      <div class="article-image ${article.visual}" aria-hidden="true">${index === 0 ? "技術" : index === 1 ? "環境" : "宇宙"}</div>
+  resultCount.textContent = `${filtered.length}件`;
+  list.innerHTML = filtered.slice(0, visibleCount).map((article, index) => {
+    const originalIndex = articles.indexOf(article);
+    return `<article class="article-card">
+      <div class="article-image ${article.visual}" aria-hidden="true">${article.key === "technology" ? "技術" : article.key === "science" ? "環境" : "宇宙"}</div>
       <div class="article-body">
         <div class="article-meta"><b>${article.category}</b>${article.source}　${article.time}</div>
-        <h3>${article.title}</h3>
-        <p>${article.description}</p>
-        <button class="bookmark" aria-label="記事を保存する" data-index="${index}">☆</button>
+        <h3>${article.title}</h3><p>${article.description}</p>
       </div>
-    </article>
-  `).join("");
+      <button class="bookmark ${saved.has(originalIndex) ? "saved" : ""}" aria-label="記事を保存する" data-index="${originalIndex}">${saved.has(originalIndex) ? "★" : "☆"}</button>
+    </article>`;
+  }).join("");
   loadMore.hidden = filtered.length <= visibleCount;
 }
 
-document.querySelectorAll(".tab").forEach((tab) => {
-  tab.addEventListener("click", () => {
-    document.querySelector(".tab.active").classList.remove("active");
-    tab.classList.add("active");
-    activeFilter = tab.dataset.filter;
+document.querySelectorAll(".filter-chip").forEach((chip) => {
+  chip.addEventListener("click", () => {
+    document.querySelector(".filter-chip.active").classList.remove("active");
+    chip.classList.add("active");
+    activeFilter = chip.dataset.filter;
     visibleCount = 3;
     renderArticles();
   });
 });
-
-searchInput.addEventListener("input", renderArticles);
-loadMore.addEventListener("click", () => {
-  visibleCount += 3;
-  renderArticles();
+document.querySelector(".topic-button").addEventListener("click", () => {
+  document.querySelector('[data-filter="technology"]').click();
 });
+searchInput.addEventListener("input", renderArticles);
+loadMore.addEventListener("click", () => { visibleCount += 3; renderArticles(); });
 document.querySelector("#refresh-button").addEventListener("click", (event) => {
   const button = event.currentTarget;
   button.disabled = true;
-  button.innerHTML = "<span>↻</span> 更新中...";
-  setTimeout(() => {
-    document.querySelector("#article-count").textContent = "131";
-    button.disabled = false;
-    button.innerHTML = "<span>↻</span> 更新する";
-  }, 650);
-});
-document.querySelector("#view-all").addEventListener("click", () => {
-  activeFilter = "all";
-  document.querySelector(".tab.active").classList.remove("active");
-  document.querySelector('[data-filter="all"]').classList.add("active");
-  visibleCount = articles.length;
-  renderArticles();
+  button.innerHTML = "<span>↻</span> 更新中";
+  setTimeout(() => { button.disabled = false; button.innerHTML = "<span>↻</span> 更新"; }, 600);
 });
 list.addEventListener("click", (event) => {
   const bookmark = event.target.closest(".bookmark");
-  if (bookmark) {
-    bookmark.classList.toggle("saved");
-    bookmark.textContent = bookmark.classList.contains("saved") ? "★" : "☆";
-  }
+  if (!bookmark) return;
+  const index = Number(bookmark.dataset.index);
+  saved.has(index) ? saved.delete(index) : saved.add(index);
+  renderArticles();
 });
-
 renderArticles();

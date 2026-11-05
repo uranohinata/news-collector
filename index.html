@@ -3,120 +3,73 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="ニュースと記事を効率よく収集・整理するダッシュボード" />
-    <title>ニュースハブ - ニュース収集ダッシュボード</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <meta name="description" content="ニュースと記事をひとつにまとめる、シンプルなニュースリーダー" />
+    <title>ニュース | ニュースハブ</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="app-shell">
-      <header class="topbar">
-        <a class="brand" href="#" aria-label="ニュースハブ ホーム">
-          <span class="brand-mark">N</span>
-          <span>ニュースハブ</span>
-        </a>
-        <div class="topbar-actions">
-          <button class="icon-button" aria-label="通知を開く"><span>♢</span><i></i></button>
-          <button class="profile-button" aria-label="プロフィールを開く">
-            <span class="avatar">U</span>
-            <span class="profile-name">ゲストユーザー</span>
-            <span class="chevron">⌄</span>
-          </button>
-        </div>
-      </header>
-
-      <div class="layout">
-        <aside class="sidebar">
-          <nav aria-label="メインナビゲーション">
-            <p class="nav-label">メニュー</p>
-            <a class="nav-item active" href="#dashboard"><span class="nav-icon">▦</span>ダッシュボード</a>
-            <a class="nav-item" href="#saved"><span class="nav-icon">☆</span>保存した記事 <span class="count">12</span></a>
-            <a class="nav-item" href="#sources"><span class="nav-icon">◉</span>情報源</a>
-            <a class="nav-item" href="#topics"><span class="nav-icon">#</span>トピック</a>
-            <p class="nav-label nav-label-spaced">マイフィード</p>
-            <a class="nav-item" href="#technology"><span class="topic-dot blue"></span>テクノロジー</a>
-            <a class="nav-item" href="#business"><span class="topic-dot orange"></span>ビジネス</a>
-            <a class="nav-item" href="#science"><span class="topic-dot green"></span>サイエンス</a>
-            <a class="nav-item" href="#culture"><span class="topic-dot purple"></span>カルチャー</a>
-          </nav>
-          <div class="sidebar-footer">
-            <a class="nav-item" href="#settings"><span class="nav-icon">⚙</span>設定</a>
-            <p class="sidebar-note">最終更新<br /><strong>2024年6月18日 09:42</strong></p>
-          </div>
-        </aside>
-
-        <main class="main-content" id="dashboard">
-          <section class="welcome-row">
-            <div>
-              <p class="eyebrow">火曜日, 2024年6月18日</p>
-              <h1>おはようございます、ゲストさん。</h1>
-              <p class="subheading">今日の注目ニュースをチェックしましょう。</p>
-            </div>
-            <button class="refresh-button" id="refresh-button"><span>↻</span> 更新する</button>
-          </section>
-
-          <section class="stats-grid" aria-label="ニュース統計">
-            <article class="stat-card">
-              <div class="stat-icon blue-bg">▤</div>
-              <div><p>今日の記事</p><strong id="article-count">128</strong><small class="positive">+12.5% <span>前日比</span></small></div>
-            </article>
-            <article class="stat-card">
-              <div class="stat-icon yellow-bg">◷</div>
-              <div><p>未読の記事</p><strong>36</strong><small>まだ読んでいません</small></div>
-            </article>
-            <article class="stat-card">
-              <div class="stat-icon purple-bg">☆</div>
-              <div><p>保存した記事</p><strong>12</strong><small>あとで読む</small></div>
-            </article>
-            <article class="stat-card">
-              <div class="stat-icon green-bg">⌁</div>
-              <div><p>情報ソース</p><strong>24</strong><small>登録中のソース</small></div>
-            </article>
-          </section>
-
-          <section class="content-grid">
-            <div class="feed-column">
-              <div class="section-heading">
-                <div><h2>注目の記事</h2><p>あなたの興味に合わせた最新ニュース</p></div>
-                <button class="text-button" id="view-all">すべて見る <span>→</span></button>
-              </div>
-              <div class="filter-row">
-                <div class="tabs" role="tablist" aria-label="記事の絞り込み">
-                  <button class="tab active" data-filter="all">すべて</button>
-                  <button class="tab" data-filter="technology">テクノロジー</button>
-                  <button class="tab" data-filter="business">ビジネス</button>
-                  <button class="tab" data-filter="science">サイエンス</button>
-                </div>
-                <label class="search-box"><span>⌕</span><input id="search-input" type="search" placeholder="記事を検索..." /></label>
-              </div>
-              <div id="article-list" class="article-list"></div>
-              <button id="load-more" class="load-more">さらに記事を読み込む <span>↓</span></button>
-            </div>
-
-            <aside class="right-column">
-              <section class="panel">
-                <div class="panel-heading"><h2>トレンドトピック</h2><button class="more-button">•••</button></div>
-                <div class="trend-list">
-                  <a href="#ai"><span class="rank">01</span><span><strong>生成AIの現在地</strong><small>2,481件の記事</small></span><b>↗</b></a>
-                  <a href="#climate"><span class="rank">02</span><span><strong>気候変動対策</strong><small>1,932件の記事</small></span><b>↗</b></a>
-                  <a href="#space"><span class="rank">03</span><span><strong>宇宙開発の新時代</strong><small>1,204件の記事</small></span><b>↗</b></a>
-                  <a href="#startup"><span class="rank">04</span><span><strong>スタートアップ投資</strong><small>986件の記事</small></span><b>↗</b></a>
-                </div>
-              </section>
-              <section class="panel sources-panel">
-                <div class="panel-heading"><h2>登録した情報源</h2><button class="more-button">•••</button></div>
-                <div class="source-row"><span class="source-logo news">N</span><span><strong>TechCrunch Japan</strong><small>最終取得 5分前</small></span><i class="status-dot"></i></div>
-                <div class="source-row"><span class="source-logo wire">W</span><span><strong>WIRED.jp</strong><small>最終取得 12分前</small></span><i class="status-dot"></i></div>
-                <div class="source-row"><span class="source-logo nikkei">日</span><span><strong>日本経済新聞</strong><small>最終取得 18分前</small></span><i class="status-dot"></i></div>
-                <button class="outline-button">情報源を管理する <span>→</span></button>
-              </section>
-            </aside>
-          </section>
-        </main>
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="ニュースハブ トップ"><span class="brand-mark">N</span><strong>ニュース</strong></a>
+      <nav class="topnav" aria-label="メインナビゲーション">
+        <a class="topnav-link active" href="#home">ホーム</a>
+        <a class="topnav-link" href="#saved">保存済み</a>
+      </nav>
+      <div class="top-actions">
+        <label class="global-search"><span>⌕</span><input id="search-input" type="search" placeholder="検索" /></label>
+        <button class="avatar" aria-label="プロフィール">U</button>
       </div>
-    </div>
+    </header>
+
+    <main class="page" id="home">
+      <section class="intro">
+        <div>
+          <p class="date-label">2024年6月18日（火）</p>
+          <h1>今日のニュース。</h1>
+          <p class="intro-copy">気になる記事を、すっきり見つける。</p>
+        </div>
+        <button class="refresh-button" id="refresh-button"><span>↻</span> 更新</button>
+      </section>
+
+      <section class="quick-filters" aria-label="記事の絞り込み">
+        <button class="filter-chip active" data-filter="all">すべて</button>
+        <button class="filter-chip" data-filter="technology"><span class="chip-dot blue"></span>テクノロジー</button>
+        <button class="filter-chip" data-filter="business"><span class="chip-dot orange"></span>ビジネス</button>
+        <button class="filter-chip" data-filter="science"><span class="chip-dot green"></span>サイエンス</button>
+        <button class="filter-chip" data-filter="saved">保存済み</button>
+      </section>
+
+      <section class="content-layout">
+        <div class="feed">
+          <div class="feed-heading">
+            <div><h2>最新の記事</h2><span id="result-count">4件</span></div>
+            <button class="sort-button" id="sort-button">新着順 <span>⌄</span></button>
+          </div>
+          <div id="article-list" class="article-list"></div>
+          <button id="load-more" class="load-more">さらに表示</button>
+        </div>
+
+        <aside class="side-content">
+          <section class="side-card highlight-card">
+            <p class="side-label">今日のトピック</p>
+            <h2>生成AIの現在地</h2>
+            <p>いま知っておきたい、AIの最新ニュースをまとめました。</p>
+            <button class="topic-button" data-topic="technology">記事を見る <span>→</span></button>
+          </section>
+          <section class="side-card">
+            <div class="side-heading"><h2>よく読まれている</h2><span>今日</span></div>
+            <div class="popular-item"><b>01</b><span>企業が注目する生成AIの最新トレンド</span></div>
+            <div class="popular-item"><b>02</b><span>気候変動を止めるためにできること</span></div>
+            <div class="popular-item"><b>03</b><span>民間企業が切り拓く宇宙ビジネス</span></div>
+          </section>
+        </aside>
+      </section>
+    </main>
+
+    <nav class="mobile-nav" aria-label="モバイルナビゲーション">
+      <a class="active" href="#home"><span>⌂</span>ホーム</a>
+      <a href="#saved"><span>☆</span>保存済み</a>
+      <a href="#topics"><span>◉</span>トピック</a>
+    </nav>
     <script src="app.js"></script>
   </body>
 </html>
