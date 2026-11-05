@@ -1,5 +1,276 @@
 {
-  "updatedAt": null,
-  "articles": [],
+  "updatedAt": "2026-11-05T15:47:28.323992+00:00",
+  "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T14:00:00+00:00",
+      "title": "64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」",
+      "description": "古いWindows向けのゲームや業務用アプリケーションを現在のPCで使おうとしても、16ビットで開発されたソフトウェアは64ビット版Windowsの標準機能では実行できません。Windows 3.1などのOSを仮想マシンにインストールする方法もありますが、16ビットアプリケーションをWindows 11で直接動かせるようにする無料のオープンソースソフトウェア",
+      "url": "https://gigazine.net/news/20261105-winevdm/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T12:50:00+00:00",
+      "title": "AppleがiCloudの公開リンク先に有害コンテンツがないかの確認を開始",
+      "description": "iOS 27.3の最初のベータ版が公開され、Apple端末でiCloudのファイルを共有するにあたって「リンクを知っている人は誰でもアクセス可能」な設定である公開リンクを作成した場合、共有アイテムが有害なコンテンツではないかAppleによるチェックが行われるようになることが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-apple-will-check-icloud-public-link/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T12:00:00+00:00",
+      "title": "Nintendo Switchのゲームカード用ROMサプライヤーがROM生産を段階的に終了、物理メディア業界にさらなる打撃",
+      "description": "任天堂の携帯ゲーム機であるNintendo Switchのゲームカード用ROMの主要サプライヤーであるMacronixが、ROMの生産を段階的に廃止する予定を発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-nintendo-switch-cartridge-chip-manufacturer-data-centers/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T11:00:00+00:00",
+      "title": "アニメ配信サービスの終了でDVDやBlu-rayの「合法コピー」を可能にするためDMCA免除を求める動きが進んでいる",
+      "description": "2024年4月、主に日本のアニメを海外向けに配信していた動画配信サービスのFunimationが閉鎖されました。この影響により、「DVDやBlu-rayの合法的なコピー」を可能にするためにデジタルミレニアム著作権法(DMCA)の免除を求める動きが進んでいます。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-funimation-shutdown-legally-rip-anime/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T10:42:00+00:00",
+      "title": "2026年11月5日のヘッドラインニュース",
+      "description": "2020年から2023年にかけて週刊少年ジャンプに連載され、2024年に放送されたTVアニメ第2期のオープニングテーマ「Bling-Bang-Bang-Born」がダンスと合わせて大きな反響を呼んだことでも知られる『マッシュル』の実写映画が、2027年3月19日(金)に公開されることになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-headline/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T10:36:00+00:00",
+      "title": "ユニクロ大型店舗「ユニクロ 京都」のオープン記念キャンペーンでもらえる特製タンブラーはこんな感じ",
+      "description": "2026年11月6日に京都河原町にユニクロのグローバル旗艦店「ユニクロ 京都」がオープンします。11月8日まではオープン記念キャンペーンとして1万円以上の購入で特製ステンレスタンブラーをゲット可能。記者発表会に参加した際に特製ステンレスタンブラーの実物をもらえたので、どんなタンブラーなのか詳しく撮影してみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T10:00:00+00:00",
+      "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持",
+      "description": "アメリカで2026年11月3日に実施された中間選挙に合わせて、各地でAI向けデータセンターの建設を禁止・制限する住民投票が行われました。多くの地域でデータセンターの建設に反対する結果となり、11月4日時点では2026年に実施された関連住民投票47件のうち46件で規制強化を支持する結果が出ています。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-us-data-center-vote-reject/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T09:07:00+00:00",
+      "title": "嵐電コラボTシャツなど京都ゆかりの商品もあるユニクロのグローバル旗艦店「ユニクロ 京都」の内部はこんな感じ",
+      "description": "ユニクロのグローバル旗艦店「ユニクロ 京都」が2026年11月6日にオープンします。記者発表会や佐々木蔵之介さんのトークイベントに続いてメディア先行内覧会にも参加したので、京都ゆかりの商品や西日本初登場のカフェスペース「UNIQLO COFFEE」などの様子をまとめてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-guide/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T08:20:00+00:00",
+      "title": "フランスの血液保存施設で冷蔵庫の設定を-30℃から110℃に引き上げるサイバー攻撃が発生、迅速な対応で血液製剤は無事",
+      "description": "サイバー攻撃によってスーパーの冷蔵庫が50℃まで加熱されたフランスで、今度は血液の保存施設が標的になったことがわかりました。フランス血液研究所によると外部施設の冷蔵庫で、-30℃に設定されていた温度が110℃に変更されたとのこと。なお、警報を受けて、保存されていた血液製剤やサンプルは他に移されたため、被害は出ませんでした。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-french-blood-fridge-cyberattacked/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T08:19:11+00:00",
+      "title": "医療機関のサイバーセキュリティー強化へ ランサムウエア攻撃で診療への長期影響リスク",
+      "description": "厚生労働省は来年度、医療機関のサイバーセキュリティの大幅な強化を進める方針だ。ランサムウェア攻撃の脅威は医療機関にも及んでおり、対策強化が不可欠と判断した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-05T08:00:00+00:00",
+      "title": "華やかなベリーの香りとビターなチョコレートの風味がベストマッチしたスタバのチルドカップ「メリーベリーチョコレートラテ」",
+      "description": "2026年11月3日(火)、スターバックスのチルドカップシリーズに「メリーベリーチョコレートラテ」が期間限定で登場しました。ベリーの香りと濃厚なチョコレートを味わうラテになっているとのことで、どんな味になっているのか実際に飲んで確かめてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261105-starbucks-merryberrychocolatelatte/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T06:27:38+00:00",
+      "title": "【更新】ドコモ、全国で通信障害 通話・データとも利用しづらく",
+      "description": "音声通話、データ通信、SMSが利用しづらい状態だ。【更新】",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T06:20:33+00:00",
+      "title": "ドコモ通信障害は「5G SA」契約者のみ 4G選択→再起動で利用できる可能性も",
+      "description": "5G SAは、5G専用の設備のみで通信するオプション。4G通信が混雑している時もその影響を受けず、快適に通信できるとうたっている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002912/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T06:06:01+00:00",
+      "title": "不正アクセスで停止の「ふるさとチョイス」6日再開 まずWeb版から",
+      "description": "同サイトは19日にサービスを停止。20日には、会員の氏名や住所、電話番号、ハッシュ化された寄附控除試算額など445万4097件の個人情報が外部に流出したと発表していた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002910/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T05:42:46+00:00",
+      "title": "涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？ 危機管理広報のプロが分析",
+      "description": "GMOインターネットグループの熊谷正寿代表は11月2日、グループ企業で発生した不正アクセス問題を巡り、約3時間半にわたる記者会見を開いた。持論の展開や涙、社員への叱責など、本来の説明とは別の「撮れ高」を生んだ会見から企業は何を学ぶべきか、危機管理広報の視点から検証する。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T05:23:32+00:00",
+      "title": "公表済みの脆弱性に気づかず39万6920人分漏えい 採用サービスApplyNow 一部マイナンバーや口座情報も",
+      "description": "採用関連サービスを手掛けるApplyNowは11月4日、9月9日に公表した同社サービスへの不正アクセスについて、39万6920人の個人情報が漏えいしたと発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002908/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T05:11:54+00:00",
+      "title": "モスやワークマン、IIJmioも アララへの不正アクセスで顧客情報の流出発表相次ぐ",
+      "description": "メール配信サービスを提供するアララへの不正アクセスを巡り、モスフードサービスやワークマン、IIJなど利用企業による顧客情報流出の発表が相次いでいる。当初は影響がないと案内していた企業が、後から流出を公表したケースもある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T03:55:28+00:00",
+      "title": "「My docomo」「ドコモオンラインショップ」が緊急メンテ 外部からの不正アクセスの可能性で",
+      "description": "NTTドコモは11月5日、「My docomo」と「ドコモオンラインショップ」で緊急メンテナンスを実施していると発表した。急ぎの手続きについては、店頭での相談などを呼び掛けている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002902/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T03:40:45+00:00",
+      "title": "e-Taxに「不審な通信」 緊急メンテで利用停止、再開未定 「年末調整できない」悲鳴【復旧】",
+      "description": "「不審な通信を検知した」ため、確認のための機器メンテナンスを行っていると発表した。【】",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002887/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T03:29:15+00:00",
+      "title": "「e-Tax」再開 安全性確認、納税者の情報漏えいなし",
+      "description": "国税庁は11月5日午前11時、「e-Tax」の利用を再開したと公式Xで告知した。「納税者の情報は漏えいしていないことを確認した」という。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002897/",
+      "visual": "ai"
+    },
+    {
+      "category": "ニュース",
+      "key": "all",
+      "source": "NHK NEWS WEB",
+      "time": "2026-08-08T14:17:32+00:00",
+      "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
+      "description": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見込みで、低い土地の浸水や急な川の増水などに十分注意が必要です。",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
+      "visual": "climate"
+    },
+    {
+      "category": "ニュース",
+      "key": "all",
+      "source": "NHK NEWS WEB",
+      "time": "2026-08-08T14:06:51+00:00",
+      "title": "愛知県内で水難事故相次ぐ 2人死亡",
+      "description": "8日、愛知県内の海と川で水難事故が相次ぎ、2人が死亡しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
+      "visual": "climate"
+    },
+    {
+      "category": "ニュース",
+      "key": "all",
+      "source": "NHK NEWS WEB",
+      "time": "2026-08-08T12:54:30+00:00",
+      "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+      "description": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
+      "visual": "climate"
+    },
+    {
+      "category": "ニュース",
+      "key": "all",
+      "source": "NHK NEWS WEB",
+      "time": "2026-08-08T11:55:50+00:00",
+      "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
+      "description": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
+      "visual": "climate"
+    },
+    {
+      "category": "ニュース",
+      "key": "all",
+      "source": "NHK NEWS WEB",
+      "time": "2026-08-08T11:53:49+00:00",
+      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "description": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残っているところがあるとして、専門家は「いつかは分からないが、今後、地震を引き起こす可能性もあるため、注意が必要だ」と指摘しています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
+      "visual": "climate"
+    },
+    {
+      "category": "ニュース",
+      "key": "all",
+      "source": "NHK NEWS WEB",
+      "time": "2026-08-08T11:29:37+00:00",
+      "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
+      "description": "ラグビーリーグワンの2部にあたるディビジョン2の「九州電力キューデンヴォルテクス」は、チームに所属するサイモニ・ヴニランギ選手が熱中症の疑いで病院に搬送され、その後、死亡したと発表しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
+      "visual": "climate"
+    },
+    {
+      "category": "ニュース",
+      "key": "all",
+      "source": "NHK NEWS WEB",
+      "time": "2026-08-08T09:38:23+00:00",
+      "title": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+      "description": "韓国のサッカー協会が、代表チームの国際試合を担当した日本を含む外国の審判員などに「性的な接待を行っていた」と複数のメディアが伝え、協会は8日、組織運営に批判が高まっていることなどを含め、一連の騒動を謝罪しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200271000.html",
+      "visual": "climate"
+    }
+  ],
   "errors": []
 }
