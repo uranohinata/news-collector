@@ -9,9 +9,16 @@ const list = document.querySelector("#article-list");
 const searchInput = document.querySelector("#search-input");
 const loadMore = document.querySelector("#load-more");
 const resultCount = document.querySelector("#result-count");
+const dialog = document.querySelector("#article-dialog");
+const dialogTitle = document.querySelector("#dialog-title");
+const dialogCategory = document.querySelector("#dialog-category");
+const dialogMeta = document.querySelector("#dialog-meta");
+const dialogDescription = document.querySelector("#dialog-description");
+const dialogSave = document.querySelector("#dialog-save");
 let activeFilter = "all";
 let visibleCount = 3;
 const saved = new Set();
+let openedArticleIndex = null;
 
 function renderArticles() {
   const query = searchInput.value.trim().toLowerCase();
@@ -23,7 +30,7 @@ function renderArticles() {
   resultCount.textContent = `${filtered.length}件`;
   list.innerHTML = filtered.slice(0, visibleCount).map((article, index) => {
     const originalIndex = articles.indexOf(article);
-    return `<article class="article-card">
+    return `<article class="article-card" tabindex="0" role="button" data-article-index="${originalIndex}">
       <div class="article-image ${article.visual}" aria-hidden="true">${article.key === "technology" ? "技術" : article.key === "science" ? "環境" : "宇宙"}</div>
       <div class="article-body">
         <div class="article-meta"><b>${article.category}</b>${article.source}　${article.time}</div>
@@ -57,9 +64,39 @@ document.querySelector("#refresh-button").addEventListener("click", (event) => {
 });
 list.addEventListener("click", (event) => {
   const bookmark = event.target.closest(".bookmark");
-  if (!bookmark) return;
-  const index = Number(bookmark.dataset.index);
-  saved.has(index) ? saved.delete(index) : saved.add(index);
+  if (bookmark) {
+    const index = Number(bookmark.dataset.index);
+    saved.has(index) ? saved.delete(index) : saved.add(index);
+    renderArticles();
+    return;
+  }
+  const card = event.target.closest(".article-card");
+  if (card) openArticle(Number(card.dataset.articleIndex));
+});
+list.addEventListener("keydown", (event) => {
+  if (event.key !== "Enter" && event.key !== " ") return;
+  const card = event.target.closest(".article-card");
+  if (card) { event.preventDefault(); openArticle(Number(card.dataset.articleIndex)); }
+});
+function openArticle(index) {
+  const article = articles[index];
+  if (!article) return;
+  openedArticleIndex = index;
+  dialogCategory.textContent = article.category;
+  dialogTitle.textContent = article.title;
+  dialogMeta.textContent = `${article.source}　${article.time}`;
+  dialogDescription.textContent = article.description;
+  dialogSave.textContent = saved.has(index) ? "★ 保存済み" : "☆ 保存する";
+  dialog.showModal();
+}
+document.querySelector("#dialog-close").addEventListener("click", () => dialog.close());
+dialog.addEventListener("click", (event) => {
+  if (event.target === dialog) dialog.close();
+});
+dialogSave.addEventListener("click", () => {
+  if (openedArticleIndex === null) return;
+  saved.has(openedArticleIndex) ? saved.delete(openedArticleIndex) : saved.add(openedArticleIndex);
+  dialogSave.textContent = saved.has(openedArticleIndex) ? "★ 保存済み" : "☆ 保存する";
   renderArticles();
 });
 renderArticles();
