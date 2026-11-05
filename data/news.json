@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-05T21:39:03.496399+00:00",
+  "updatedAt": "2026-11-05T22:41:03.862612+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T22:08:51+00:00",
+      "title": "ドコモ不正アクセス、最大30万件の顧客情報流出 「My docomo」など緊急メンテ、再開未定",
+      "description": "My docomoはメンテが続いており、復旧の見込みは未定。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-05T22:03:55+00:00",
+      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など",
+      "description": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -179,26 +199,6 @@
       "title": "「My docomo」「ドコモオンラインショップ」が緊急メンテ 外部からの不正アクセスの可能性で",
       "description": "NTTドコモは11月5日、「My docomo」と「ドコモオンラインショップ」で緊急メンテナンスを実施していると発表した。急ぎの手続きについては、店頭での相談などを呼び掛けている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002902/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T03:40:45+00:00",
-      "title": "e-Taxに「不審な通信」 緊急メンテで利用停止、再開未定 「年末調整できない」悲鳴【復旧】",
-      "description": "「不審な通信を検知した」ため、確認のための機器メンテナンスを行っていると発表した。【】",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002887/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T03:29:15+00:00",
-      "title": "「e-Tax」再開 安全性確認、納税者の情報漏えいなし",
-      "description": "国税庁は11月5日午前11時、「e-Tax」の利用を再開したと公式Xで告知した。「納税者の情報は漏えいしていないことを確認した」という。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002897/",
       "visual": "ai"
     },
     {
