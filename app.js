@@ -21,7 +21,7 @@ function renderArticles() {
 
   list.innerHTML = filtered.slice(0, visibleCount).map((article, index) => `
     <article class="article-card">
-      <div class="article-image ${article.visual}" aria-hidden="true">${index === 0 ? "AI" : index === 1 ? "eco" : "∞"}</div>
+      <div class="article-image ${article.visual}" aria-hidden="true">${index === 0 ? "技術" : index === 1 ? "環境" : "宇宙"}</div>
       <div class="article-body">
         <div class="article-meta"><b>${article.category}</b>${article.source}　${article.time}</div>
         <h3>${article.title}</h3>
