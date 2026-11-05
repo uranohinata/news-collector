@@ -1,8 +1,8 @@
 const articles = [
-  { category: "テクノロジー", key: "technology", source: "TechCrunch Japan", time: "15分前", title: "生成AIは次のステージへ。企業が注目する最新トレンドと未来", description: "ビジネスの現場で急速に広がる生成AI。その可能性と課題を専門家が詳しく解説します。", visual: "ai" },
-  { category: "サイエンス", key: "science", source: "WIRED.jp", time: "42分前", title: "気候変動を止めるために、私たちが今知っておくべきこと", description: "最新の研究から見えてきた、持続可能な未来に向けた取り組みを紹介。", visual: "climate" },
-  { category: "ビジネス", key: "business", source: "日本経済新聞", time: "1時間前", title: "宇宙ビジネスの新時代。民間企業が切り拓く次のフロンティア", description: "新たな投資先としても注目を集める宇宙産業の現在とこれから。", visual: "space" },
-  { category: "テクノロジー", key: "technology", source: "日経クロステック", time: "2時間前", title: "データで見る、これからのデジタル社会", description: "暮らしと産業を変える技術の進化を、最新データとともに読み解きます。", visual: "ai" },
+  { category: "テクノロジー", key: "technology", source: "TechCrunch Japan", time: "15分前", title: "生成AIは次のステージへ。企業が注目する最新トレンドと未来", description: "ビジネスの現場で急速に広がる生成AI。その可能性と課題を専門家が詳しく解説します。", visual: "ai", url: "https://jp.techcrunch.com/" },
+  { category: "サイエンス", key: "science", source: "WIRED.jp", time: "42分前", title: "気候変動を止めるために、私たちが今知っておくべきこと", description: "最新の研究から見えてきた、持続可能な未来に向けた取り組みを紹介。", visual: "climate", url: "https://wired.jp/" },
+  { category: "ビジネス", key: "business", source: "日本経済新聞", time: "1時間前", title: "宇宙ビジネスの新時代。民間企業が切り拓く次のフロンティア", description: "新たな投資先としても注目を集める宇宙産業の現在とこれから。", visual: "space", url: "https://www.nikkei.com/" },
+  { category: "テクノロジー", key: "technology", source: "日経クロステック", time: "2時間前", title: "データで見る、これからのデジタル社会", description: "暮らしと産業を変える技術の進化を、最新データとともに読み解きます。", visual: "ai", url: "https://xtech.nikkei.com/" },
 ];
 
 const list = document.querySelector("#article-list");
@@ -14,6 +14,7 @@ const dialogTitle = document.querySelector("#dialog-title");
 const dialogCategory = document.querySelector("#dialog-category");
 const dialogMeta = document.querySelector("#dialog-meta");
 const dialogDescription = document.querySelector("#dialog-description");
+const dialogRead = document.querySelector("#dialog-read");
 const dialogSave = document.querySelector("#dialog-save");
 let activeFilter = "all";
 let visibleCount = 3;
@@ -86,6 +87,8 @@ function openArticle(index) {
   dialogTitle.textContent = article.title;
   dialogMeta.textContent = `${article.source}　${article.time}`;
   dialogDescription.textContent = article.description;
+  dialogRead.href = article.url;
+  dialogRead.setAttribute("aria-label", `${article.source}の情報源を開く`);
   dialogSave.textContent = saved.has(index) ? "★ 保存済み" : "☆ 保存する";
   dialog.showModal();
 }
