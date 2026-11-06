@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-06T02:52:10.690930+00:00",
+  "updatedAt": "2026-11-06T03:46:06.272300+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T03:40:00+00:00",
+      "title": "電気で細菌を死滅させる歯ブラシが開発される、歯磨きの動きで発電するため電池不要",
+      "description": "歯ブラシの毛が曲がる際に発生する電気を利用して、虫歯や歯周病の原因となる細菌を死滅させる歯ブラシを北京大学の研究チームが開発しました。電池を使わずに歯磨きの動作だけで発電する仕組みで、従来の歯ブラシよりも歯垢や歯茎の炎症を効果的に減らせることが実験で確認されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-self-charged-toothbrush/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T03:03:00+00:00",
+      "title": "Perplexityが独自の業務特化型AIエージェント「Teammates」を発表",
+      "description": "現地時間の2026年11月4日、AI検索エンジンのPerplexityが業務特化型AIエージェント「Teammates」を発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-perplexity-teammates/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T03:03:00+00:00",
+      "title": "OpenAIがLinuxの脆弱性948件を発見、費やしたAPIコストは約1億9200万円",
+      "description": "OpenAIが、社内で最高のサイバーセキュリティ検証能力を持つAIモデル「GPT-6 Cyber」を使ってLinuxカーネルの脆弱(ぜいじゃく)性を検証したと発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-openai-built-linux-vulnerability/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T03:00:00+00:00",
+      "title": "AIに自販機経営を1年任せてみた 指示は“利益の最大化”だけ 米ハーバード大などがシミュレーション",
+      "description": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T02:59:00+00:00",
+      "title": "OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表",
+      "description": "脆弱(ぜいじゃく)性の発見と修正において高い能力を備えるというOpenAIのモデル「GPT-6 Cyber」が発表されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-openai-gpt-6-cyber/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T02:58:44+00:00",
+      "title": "ソニー、プレステサービスの不正アクセス「措置を講じている」 被害状況は公表せず",
+      "description": "ソニーグループの「プレイステーション」のオンラインサービスで、許可なく家族アカウントが追加されている問題で、陶琳最高財務責任者（CFO）は11月5日の決算会見で「措置は講じている」と述べるにとどめた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002947/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,26 +174,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T23:04:59+00:00",
-      "title": "ドコモ通信障害、約14時間で復旧 原因は「交換機の輻輳」、不正アクセスの形跡なし",
-      "description": "原因は、「5G SA」契約者を収容する交換機の輻輳。障害の発生前後を含め、不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002932/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T22:57:34+00:00",
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
-      "description": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "GIGAZINE",
       "time": "2026-11-05T21:00:00+00:00",
       "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
@@ -159,46 +199,6 @@
       "title": "AppleがiCloudの公開リンク先に有害コンテンツがないかの確認を開始",
       "description": "iOS 27.3の最初のベータ版が公開され、Apple端末でiCloudのファイルを共有するにあたって「リンクを知っている人は誰でもアクセス可能」な設定である公開リンクを作成した場合、共有アイテムが有害なコンテンツではないかAppleによるチェックが行われるようになることが明らかになりました。続きを読む...",
       "url": "https://gigazine.net/news/20261105-apple-will-check-icloud-public-link/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T12:00:00+00:00",
-      "title": "Nintendo Switchのゲームカード用ROMサプライヤーがROM生産を段階的に終了、物理メディア業界にさらなる打撃",
-      "description": "任天堂の携帯ゲーム機であるNintendo Switchのゲームカード用ROMの主要サプライヤーであるMacronixが、ROMの生産を段階的に廃止する予定を発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261105-nintendo-switch-cartridge-chip-manufacturer-data-centers/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T11:00:00+00:00",
-      "title": "アニメ配信サービスの終了でDVDやBlu-rayの「合法コピー」を可能にするためDMCA免除を求める動きが進んでいる",
-      "description": "2024年4月、主に日本のアニメを海外向けに配信していた動画配信サービスのFunimationが閉鎖されました。この影響により、「DVDやBlu-rayの合法的なコピー」を可能にするためにデジタルミレニアム著作権法(DMCA)の免除を求める動きが進んでいます。続きを読む...",
-      "url": "https://gigazine.net/news/20261105-funimation-shutdown-legally-rip-anime/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T10:42:00+00:00",
-      "title": "2026年11月5日のヘッドラインニュース",
-      "description": "2020年から2023年にかけて週刊少年ジャンプに連載され、2024年に放送されたTVアニメ第2期のオープニングテーマ「Bling-Bang-Bang-Born」がダンスと合わせて大きな反響を呼んだことでも知られる『マッシュル』の実写映画が、2027年3月19日(金)に公開されることになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261105-headline/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T10:36:00+00:00",
-      "title": "ユニクロ大型店舗「ユニクロ 京都」のオープン記念キャンペーンでもらえる特製タンブラーはこんな感じ",
-      "description": "2026年11月6日に京都河原町にユニクロのグローバル旗艦店「ユニクロ 京都」がオープンします。11月8日まではオープン記念キャンペーンとして1万円以上の購入で特製ステンレスタンブラーをゲット可能。記者発表会に参加した際に特製ステンレスタンブラーの実物をもらえたので、どんなタンブラーなのか詳しく撮影してみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler/",
       "visual": "ai"
     },
     {
