@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-06T04:49:50.825926+00:00",
+  "updatedAt": "2026-11-06T05:51:17.963208+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T05:28:03+00:00",
+      "title": "松屋アプリ、9日ぶり復旧 “詫びポイント”最大3倍",
+      "description": "11月30日まで、アプリ内の弁当予約サービス「松弁ネット」で、付与される「松屋ポイント」を2倍、モバイルオーダーで3倍にするキャンペーンを行う。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002966/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T05:24:00+00:00",
+      "title": "ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで",
+      "description": "ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T05:13:16+00:00",
+      "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も",
+      "description": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T05:00:00+00:00",
+      "title": "人間の歌や話し言葉は鳥の鳴き声と共通した音響パターンを持っていることが明らかに",
+      "description": "367種の鳥の鳴き声を52の人間言語における歌や話し言葉の例と比較した研究で、人間の歌や話し言葉に見られる音響パターンの多くは、鳥のさえずりにも共通していることが示されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-human-speech-birdsong/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,16 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T02:18:00+00:00",
-      "title": "Discordがメモリ使用量削減と安全性向上のためデスクトップ版アプリをRustで再構築へ",
-      "description": "Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-06T02:11:45+00:00",
       "title": "宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」 影響範囲は調査中",
@@ -164,41 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T02:06:00+00:00",
-      "title": "Airbnbが旅のあらゆる側面をサポートしてくれる旅行特化型AIエージェントを2027年前半に発表すると予告",
-      "description": "民泊サービスのAirbnbが、2027年前半に旅行特化のAIエージェントをリリースする予定であると発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-airbnb-ai-travel-agent-2027/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-06T01:39:30+00:00",
       "title": "MetaのAIエージェント「Muse」に音声対話機能 表情豊かなアバターと会話、まず米国で提供",
       "description": "Metaは、AIエージェント「Muse」にリアルタイム音声対話とアバター機能を追加すると発表した。米国で先行提供する。音声で作業を依頼できるほか、新技術により会話に合わせて表情や身ぶりが変わるアバターとの対面対話を可能にした。声は数百種類から選べ、今後はAIグラスなどへの展開も予定している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T00:43:37+00:00",
-      "title": "Google、ワイオミング州のデータセンターなどに170億ドル投資へ 電力費全額負担を約束",
-      "description": "Googleは、ワイオミング州にデータセンターを建設すると発表した。投資額は長期で170億ドルを見込む。米国内でAIデータセンター建設への住民の反発が強まる中、同社は電力費やインフラ整備費の全額負担を約束した。燃料電池やCCS技術を用いた702MWの発電設備も導入し、環境負荷の軽減と地域社会との共存を目指す方針だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002936/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T23:49:28+00:00",
-      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
-      "description": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
       "visual": "ai"
     },
     {
