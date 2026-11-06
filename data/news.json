@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-06T03:46:06.272300+00:00",
+  "updatedAt": "2026-11-06T04:49:50.825926+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T04:00:00+00:00",
+      "title": "女性を物のように見てしまう「性的対象化」は電気刺激で矯正可能という研究結果",
+      "description": "女性の性的な画像を見ると、男性の性的な画像よりも記憶に残りにくい傾向にあるとされています。これは、人を性的なモノとしてのみ扱う「性的対象化(性的モノ化)」と呼ばれる認知傾向が原因とされますが、この性的対象化は生まれつき備わっているものではなく、少なくとも一時的には変えることができると神経学者らの研究で明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-sexual-objectification/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T03:52:00+00:00",
+      "title": "Claudeに個人向け資産管理機能が追加される、「読み取り専用」で毎月の支出などにアドバイス",
+      "description": "AnthropicのAI「Claude」に、個人向け資産管理機能の「Personal Finance」が追加されました。銀行口座に紐付けて、Claudeから資産管理のアドバイスをもらうことができます。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-claude-personal-finance/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T03:46:00+00:00",
+      "title": "Googleが動画生成AI「Gemini Omni 1.2 Flash」をリリース、最大15秒の動画を出力可能",
+      "description": "Googleが動画生成AI「Gemini Omni 1.2 Flash」を現地時間の2026年11月5日にリリースしました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-gemini-omni-1-2-flash/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -9,6 +39,26 @@
       "title": "電気で細菌を死滅させる歯ブラシが開発される、歯磨きの動きで発電するため電池不要",
       "description": "歯ブラシの毛が曲がる際に発生する電気を利用して、虫歯や歯周病の原因となる細菌を死滅させる歯ブラシを北京大学の研究チームが開発しました。電池を使わずに歯磨きの動作だけで発電する仕組みで、従来の歯ブラシよりも歯垢や歯茎の炎症を効果的に減らせることが実験で確認されています。続きを読む...",
       "url": "https://gigazine.net/news/20261106-self-charged-toothbrush/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T03:38:10+00:00",
+      "title": "米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も",
+      "description": "11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T03:31:28+00:00",
+      "title": "消防庁「安否情報システム」不正アクセスでサービス停止 委託先の富士ソフトから報告",
+      "description": "影響範囲を調査するためサービスを停止し、外部からのアクセスを遮断している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002952/",
       "visual": "ai"
     },
     {
@@ -149,56 +199,6 @@
       "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
       "description": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T23:48:01+00:00",
-      "title": "アイリスオーヤマ、非会員含む約770万人分の情報漏えいか 外部クラウドに不審ファイル発見→不正アクセス発覚",
-      "description": "10月28日、同社が利用する外部クラウドサービスで不審なファイルを発見し、アイリスプラザと関連システムを停止して調査したところ、第三者による不正アクセスを確認した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002934/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T23:30:00+00:00",
-      "title": "「給与維持の週休3日制」AI効率化で実現 しかし社員が喜ばず……なぜ？ 「ライザAI」提供企業で起きたこと",
-      "description": "「給与維持の週休3日制」をAI効率化で実現した国内のAIスタートアップ。喜ばれると思ったものの、実際には社員は不安げだったという。いったいなぜ？",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T21:00:00+00:00",
-      "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
-      "description": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警",
-      "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T14:00:00+00:00",
-      "title": "64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」",
-      "description": "古いWindows向けのゲームや業務用アプリケーションを現在のPCで使おうとしても、16ビットで開発されたソフトウェアは64ビット版Windowsの標準機能では実行できません。Windows 3.1などのOSを仮想マシンにインストールする方法もありますが、16ビットアプリケーションをWindows 11で直接動かせるようにする無料のオープンソースソフトウェア",
-      "url": "https://gigazine.net/news/20261105-winevdm/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T12:50:00+00:00",
-      "title": "AppleがiCloudの公開リンク先に有害コンテンツがないかの確認を開始",
-      "description": "iOS 27.3の最初のベータ版が公開され、Apple端末でiCloudのファイルを共有するにあたって「リンクを知っている人は誰でもアクセス可能」な設定である公開リンクを作成した場合、共有アイテムが有害なコンテンツではないかAppleによるチェックが行われるようになることが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261105-apple-will-check-icloud-public-link/",
       "visual": "ai"
     },
     {
