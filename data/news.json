@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-06T09:23:55.497616+00:00",
+  "updatedAt": "2026-11-06T10:28:33.490564+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T10:00:00+00:00",
+      "title": "なぜかWindowsの「ペイント」にリモートコード実行の脆弱性",
+      "description": "Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T09:30:00+00:00",
+      "title": "VRを利用することで手術前の子どもたちの不安を減らせるかもしれない",
+      "description": "「手術を受ける」という行為は多かれ少なかれ不安を感じるもので、それが子どもであればなおさらです。鎮静薬よりも安全に不安を低減させる方法として仮想現実(VR)の利用を検討した研究で、VR利用が子どもたち、保護者、看護師のいずれからも肯定的な評価を受けたことがわかりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-virtual-reality-lower-presurgery-anxiety/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T09:25:00+00:00",
+      "title": "2026年11月6日のヘッドラインニュース",
+      "description": "「ガリガリ君」で知られる赤城乳業が、2006年に誕生した「ガリ子ちゃん」の生誕20周年を記念して、9年ぶりとなる新作「ガリ子ちゃんセレブレーション ダブルモンブラン」を発売します。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-headline/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -129,36 +159,6 @@
       "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も",
       "description": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T05:00:00+00:00",
-      "title": "人間の歌や話し言葉は鳥の鳴き声と共通した音響パターンを持っていることが明らかに",
-      "description": "367種の鳥の鳴き声を52の人間言語における歌や話し言葉の例と比較した研究で、人間の歌や話し言葉に見られる音響パターンの多くは、鳥のさえずりにも共通していることが示されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-human-speech-birdsong/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T04:00:00+00:00",
-      "title": "女性を物のように見てしまう「性的対象化」は電気刺激で矯正可能という研究結果",
-      "description": "女性の性的な画像を見ると、男性の性的な画像よりも記憶に残りにくい傾向にあるとされています。これは、人を性的なモノとしてのみ扱う「性的対象化(性的モノ化)」と呼ばれる認知傾向が原因とされますが、この性的対象化は生まれつき備わっているものではなく、少なくとも一時的には変えることができると神経学者らの研究で明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-sexual-objectification/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T03:52:00+00:00",
-      "title": "Claudeに個人向け資産管理機能が追加される、「読み取り専用」で毎月の支出などにアドバイス",
-      "description": "AnthropicのAI「Claude」に、個人向け資産管理機能の「Personal Finance」が追加されました。銀行口座に紐付けて、Claudeから資産管理のアドバイスをもらうことができます。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-claude-personal-finance/",
       "visual": "ai"
     },
     {
