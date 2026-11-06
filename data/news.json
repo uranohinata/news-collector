@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-11-06T01:59:54.171160+00:00",
+  "updatedAt": "2026-11-06T02:52:10.690930+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T02:25:00+00:00",
+      "title": "約10年間見逃されていたOpenSSHの脆弱性「*sshole」が発覚、257文字以上のパスワードでログイン禁止アカウントを突破可能に",
+      "description": "Linuxでリモートログインに使われるOpenSSHに、特定の条件下で正しいパスワードを知らなくてもログインできてしまう脆弱(ぜいじゃく)性「*sshole(CVE-2026-123158)」が発見されました。影響を受けるのはAlpine Linuxなどを利用する一部のシステムで、257バイト以上のパスワードを入力するだけで、本来はパスワードによるログインが",
+      "url": "https://gigazine.net/news/20261106-openssh-xsshole/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T02:18:00+00:00",
+      "title": "Discordがメモリ使用量削減と安全性向上のためデスクトップ版アプリをRustで再構築へ",
+      "description": "Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T02:11:45+00:00",
+      "title": "宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」 影響範囲は調査中",
+      "description": "宝くじの公式Xアカウントは11月5日、宝くじ公式サイトで利用者のパスワードが意図せず変更される問題を確認し、サイトの利用を一時停止したと発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002943/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T02:10:51+00:00",
+      "title": "Microsoft、Windows向け「Xbox」アプリの起動を最大60％高速化 Web版やクラウドも刷新",
+      "description": "Microsoftは、PC向け「Xbox」アプリの起動速度を最大60％向上させるなどの体験改善を発表し、Insider向けに提供を開始した。Webブラウザ版やスマートテレビ向けクラウドゲームのUI刷新も進める。同社はゲーム事業の再編中で、9月にはXbox部門で268人の人員削減を発表している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002942/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T02:09:25+00:00",
+      "title": "ゲーセンに真っ暗な画面ずらり……セガ系システムの障害が長期化、復旧めど立たず 原因は不正アクセス",
+      "description": "セガ フェイブ（東京都品川区）が提供するゲームセンター向け通信システムの障害が長期化している。一部のゲームセンターでは画面が真っ暗になったアーケードゲームの筐体が並んでいる。原因は不正アクセスといい、復旧の見通しは立っていない。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002941/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-06T02:06:00+00:00",
+      "title": "Airbnbが旅のあらゆる側面をサポートしてくれる旅行特化型AIエージェントを2027年前半に発表すると予告",
+      "description": "民泊サービスのAirbnbが、2027年前半に旅行特化のAIエージェントをリリースする予定であると発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261106-airbnb-ai-travel-agent-2027/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-06T01:39:30+00:00",
+      "title": "MetaのAIエージェント「Muse」に音声対話機能 表情豊かなアバターと会話、まず米国で提供",
+      "description": "Metaは、AIエージェント「Muse」にリアルタイム音声対話とアバター機能を追加すると発表した。米国で先行提供する。音声で作業を依頼できるほか、新技術により会話に合わせて表情や身ぶりが変わるアバターとの対面対話を可能にした。声は数百種類から選べ、今後はAIグラスなどへの展開も予定している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -59,36 +129,6 @@
       "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
       "description": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T22:43:41+00:00",
-      "title": "年収やローン保証額、免許証番号など最大32万人分漏えい SMBC系、保証業務システムに不正アクセス",
-      "description": "SMBCコンシューマーファイナンスは、カードローンなどの保証業務で使っているシステムが第三者による不正アクセスを受け、最大32万118人分の氏名や住所、運転免許証番号、勤務先の年収、ローン保証額などが外部に送信されたと発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T22:08:51+00:00",
-      "title": "ドコモ不正アクセス、最大30万件の顧客情報流出 「My docomo」など緊急メンテ、再開未定",
-      "description": "My docomoはメンテが続いており、復旧の見込みは未定。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T22:03:55+00:00",
-      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など",
-      "description": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
       "visual": "ai"
     },
     {
@@ -159,46 +199,6 @@
       "title": "ユニクロ大型店舗「ユニクロ 京都」のオープン記念キャンペーンでもらえる特製タンブラーはこんな感じ",
       "description": "2026年11月6日に京都河原町にユニクロのグローバル旗艦店「ユニクロ 京都」がオープンします。11月8日まではオープン記念キャンペーンとして1万円以上の購入で特製ステンレスタンブラーをゲット可能。記者発表会に参加した際に特製ステンレスタンブラーの実物をもらえたので、どんなタンブラーなのか詳しく撮影してみました。続きを読む...",
       "url": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-tumbler/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T10:00:00+00:00",
-      "title": "アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持",
-      "description": "アメリカで2026年11月3日に実施された中間選挙に合わせて、各地でAI向けデータセンターの建設を禁止・制限する住民投票が行われました。多くの地域でデータセンターの建設に反対する結果となり、11月4日時点では2026年に実施された関連住民投票47件のうち46件で規制強化を支持する結果が出ています。続きを読む...",
-      "url": "https://gigazine.net/news/20261105-us-data-center-vote-reject/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T09:07:00+00:00",
-      "title": "嵐電コラボTシャツなど京都ゆかりの商品もあるユニクロのグローバル旗艦店「ユニクロ 京都」の内部はこんな感じ",
-      "description": "ユニクロのグローバル旗艦店「ユニクロ 京都」が2026年11月6日にオープンします。記者発表会や佐々木蔵之介さんのトークイベントに続いてメディア先行内覧会にも参加したので、京都ゆかりの商品や西日本初登場のカフェスペース「UNIQLO COFFEE」などの様子をまとめてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261105-uniqlo-kyoto-open-event-guide/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-05T08:20:00+00:00",
-      "title": "フランスの血液保存施設で冷蔵庫の設定を-30℃から110℃に引き上げるサイバー攻撃が発生、迅速な対応で血液製剤は無事",
-      "description": "サイバー攻撃によってスーパーの冷蔵庫が50℃まで加熱されたフランスで、今度は血液の保存施設が標的になったことがわかりました。フランス血液研究所によると外部施設の冷蔵庫で、-30℃に設定されていた温度が110℃に変更されたとのこと。なお、警報を受けて、保存されていた血液製剤やサンプルは他に移されたため、被害は出ませんでした。続きを読む...",
-      "url": "https://gigazine.net/news/20261105-french-blood-fridge-cyberattacked/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-05T08:19:11+00:00",
-      "title": "医療機関のサイバーセキュリティー強化へ ランサムウエア攻撃で診療への長期影響リスク",
-      "description": "厚生労働省は来年度、医療機関のサイバーセキュリティの大幅な強化を進める方針だ。ランサムウェア攻撃の脅威は医療機関にも及んでおり、対策強化が不可欠と判断した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
       "visual": "ai"
     },
     {
