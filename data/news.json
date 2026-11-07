@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-07T08:42:42.606190+00:00",
+  "updatedAt": "2026-11-07T09:38:51.632857+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-07T09:30:00+00:00",
+      "title": "「Kindle」2026年最新モデルをじっくり使ってみたレビュー、進化した使い心地はどのようなものか？",
+      "description": "Amazonが2026年10月1日に発売した電子書籍リーダー「Kindle」の最新モデル「Kindle(16GB)」と「Kindle(32GB)」は、より薄く・軽くなり、操作感なども前モデルから向上したとされています。編集部に届いた新型Kindleを、普段からKindle端末を使用しているユーザーが実際に2週間ほどじっくり使用してみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261107-kindle-2026-review/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-07T09:00:00+00:00",
+      "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
+      "description": "友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「Harmony」です。続きを読む",
+      "url": "https://gigazine.net/news/20261107-harmony/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -94,16 +114,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T09:25:00+00:00",
-      "title": "2026年11月6日のヘッドラインニュース",
-      "description": "「ガリガリ君」で知られる赤城乳業が、2006年に誕生した「ガリ子ちゃん」の生誕20周年を記念して、9年ぶりとなる新作「ガリ子ちゃんセレブレーション ダブルモンブラン」を発売します。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-headline/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-06T08:52:16+00:00",
       "title": "政府、相次ぐ情報漏えいで事業者に注意喚起 「基本的な対策が不十分」な事例を複数確認",
@@ -119,16 +129,6 @@
       "title": "セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか",
       "description": "日本ネットワークセキュリティ協会は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T08:12:00+00:00",
-      "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
-      "description": "中国の大手テクノロジー企業であるBaiduがAIモデル「ERNIE 5.5 Flash Base」をオープンモデルとして公開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-ernie-5-5-flash-base/",
       "visual": "ai"
     },
     {
