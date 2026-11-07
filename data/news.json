@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T00:08:50.586683+00:00",
+  "updatedAt": "2026-11-07T01:30:29.548413+00:00",
   "articles": [
     {
       "category": "テクノロジー",
@@ -44,16 +44,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T10:31:25+00:00",
-      "title": "ロート製薬、約280万人分の個人情報漏えい 9715件は通話音声データとクレカ情報が流出",
-      "description": "11月6日、ロート製薬は9月11日に公表した通信販売システムへの不正アクセスについて、顧客279万7545人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報も不正に取得されていたことが分かったという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "GIGAZINE",
       "time": "2026-11-06T10:00:00+00:00",
       "title": "なぜかWindowsの「ペイント」にリモートコード実行の脆弱性",
@@ -84,26 +74,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T08:52:16+00:00",
-      "title": "政府、相次ぐ情報漏えいで事業者に注意喚起 「基本的な対策が不十分」な事例を複数確認",
-      "description": "国家サイバー統括室は、相次ぐ個人情報漏えいを受け、事業者向けに注意喚起を公表した。基本的な対策の不備が原因とみられる事例を複数確認したほか、攻撃者によるAIの悪用も指摘。具体的なセキュリティ対策を示した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T08:24:24+00:00",
-      "title": "セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか",
-      "description": "日本ネットワークセキュリティ協会は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "GIGAZINE",
       "time": "2026-11-06T08:12:00+00:00",
       "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
@@ -129,76 +99,6 @@
       "title": "OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定",
       "description": "OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。続きを読む...",
       "url": "https://gigazine.net/news/20261106-inkling-2-small/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T07:03:57+00:00",
-      "title": "複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず",
-      "description": "大阪シティ信用金庫や広島信用金庫など各地の信用金庫で11月6日午後1時30分ごろから、窓口での取引やATMでの入出金ができなくなっている。広島信用金庫によると、障害はしんきん共同センターの「西日本センター」で起きたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T06:25:33+00:00",
-      "title": "サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ",
-      "description": "個人情報漏えい事案が続いていることを受け、個人情報を「持たない」方向に動く企業が出てきている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002967/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T05:38:18+00:00",
-      "title": "松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍",
-      "description": "11月30日まで、アプリ内の弁当予約サービス「松弁ネット」で、付与される「松屋ポイント」を2倍、モバイルオーダーで3倍にするキャンペーンを行う。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002966/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T05:13:16+00:00",
-      "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も",
-      "description": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T03:38:10+00:00",
-      "title": "米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も",
-      "description": "11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T03:31:28+00:00",
-      "title": "消防庁「安否情報システム」不正アクセスでサービス停止 委託先の富士ソフトから報告",
-      "description": "影響範囲を調査するためサービスを停止し、外部からのアクセスを遮断している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002952/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T03:00:00+00:00",
-      "title": "AIに自販機経営を1年任せてみた 指示は“利益の最大化”だけ 米ハーバード大などがシミュレーション",
-      "description": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
       "visual": "ai"
     },
     {
