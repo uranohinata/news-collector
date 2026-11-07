@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-07T10:34:37.723717+00:00",
+  "updatedAt": "2026-11-07T11:28:05.950873+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-07T11:00:00+00:00",
+      "title": "手厚い社会福祉制度は国民の寿命を延ばすのか？",
+      "description": "「政府は国民生活を支援するためにどれほど介入するべきなのか」「福祉制度は国民生活にどれほど影響するのか」といった疑問は、近年の政治における重要な論点となっています。学術誌のSocial Indicators Researchに掲載された論文では、さまざまな発展段階にある国々を比較して、福祉制度と国民の寿命との関連性が調査されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261107-social-safety-nets-longer-lives/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -99,16 +109,6 @@
       "title": "なぜかWindowsの「ペイント」にリモートコード実行の脆弱性",
       "description": "Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。続きを読む...",
       "url": "https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T09:30:00+00:00",
-      "title": "VRを利用することで手術前の子どもたちの不安を減らせるかもしれない",
-      "description": "「手術を受ける」という行為は多かれ少なかれ不安を感じるもので、それが子どもであればなおさらです。鎮静薬よりも安全に不安を低減させる方法として仮想現実(VR)の利用を検討した研究で、VR利用が子どもたち、保護者、看護師のいずれからも肯定的な評価を受けたことがわかりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-virtual-reality-lower-presurgery-anxiety/",
       "visual": "ai"
     },
     {
