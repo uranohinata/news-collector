@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-07T05:40:24.330583+00:00",
+  "updatedAt": "2026-11-07T06:44:14.930114+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-07T06:10:00+00:00",
+      "title": "映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破",
+      "description": "2026年11月3日(火・祝)に公開された映画『ゴジラ-0.0(マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261107-godzilla-1million-domestic-audience/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,16 +129,6 @@
       "title": "中国のBaiduが高性能AIモデル「ERNIE 5.5 Flash Base」を公開、今後の強化版を見据えた基盤モデル",
       "description": "中国の大手テクノロジー企業であるBaiduがAIモデル「ERNIE 5.5 Flash Base」をオープンモデルとして公開しました。続きを読む...",
       "url": "https://gigazine.net/news/20261106-ernie-5-5-flash-base/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T08:00:00+00:00",
-      "title": "総カロリー1579kcal＆総重量513gで圧倒的ガーリック臭が炸裂する「ギルティ ザ・ワンパウンダー」をバーガーキングで食べてきた",
-      "description": "バーガーキングから超大型バーガー「ギルティ ザ・ワンパウンダー」が2026年11月6日(金)に登場しました。直火焼きビーフパティ4枚重ねのボリュームもさることながら、ガーリックペースト・フライドガーリック・ガーリックパウダーの3タイプのにんにくを使用した特製ガーリックソースとケチャップで味付けを仕上げているとのこと。どんな味か気になったので、実際に食べに行っ",
-      "url": "https://gigazine.net/news/20261106-burgerking-guilty-one-pounder/",
       "visual": "ai"
     },
     {
