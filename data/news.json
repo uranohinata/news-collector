@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-06T23:29:51.538971+00:00",
+  "updatedAt": "2026-11-07T00:08:50.586683+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-07T00:00:00+00:00",
+      "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
+      "description": "Appleが2026年10月末に発表した「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光ります。この光るAppleロゴは消灯可能であることが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -129,16 +139,6 @@
       "title": "複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず",
       "description": "大阪シティ信用金庫や広島信用金庫など各地の信用金庫で11月6日午後1時30分ごろから、窓口での取引やATMでの入出金ができなくなっている。広島信用金庫によると、障害はしんきん共同センターの「西日本センター」で起きたという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T07:00:00+00:00",
-      "title": "Motorolaのフラグシップスマホ「Motorola signature 27」がまさかのGrapheneOSサポートを公式表明",
-      "description": "Motorolaがハイエンドスマートフォンの「Motorola signature 27」を発表しました。これは、モバイル端末向けOSの1つでセキュリティとプライバシー保護に特化したOS「GrapheneOS」をサポートするMotorola初の機種となります。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-grapheneos-motorola-signature-27/",
       "visual": "ai"
     },
     {
