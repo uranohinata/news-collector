@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-07T02:40:32.951383+00:00",
+  "updatedAt": "2026-11-07T03:41:19.652820+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-07T03:00:00+00:00",
+      "title": "無料で近くにスマートグラスがあるかどうかを教えてくれるアプリ「Nearby Glasses」",
+      "description": "スマートグラスはメガネのような形状をしたウェアラブルデバイスですが、徐々に普及が広がる一方で動画撮影機能によるプライバシー侵害への懸念が生じています。「Nearby Glasses」は周囲のスマートグラスを検出し、ユーザーに警告を発することを目的としたオープンソースのAndroidおよびiOSアプリケーションです。続きを読む...",
+      "url": "https://gigazine.net/news/20261107-nearby-glasses/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,16 +129,6 @@
       "title": "総カロリー1579kcal＆総重量513gで圧倒的ガーリック臭が炸裂する「ギルティ ザ・ワンパウンダー」をバーガーキングで食べてきた",
       "description": "バーガーキングから超大型バーガー「ギルティ ザ・ワンパウンダー」が2026年11月6日(金)に登場しました。直火焼きビーフパティ4枚重ねのボリュームもさることながら、ガーリックペースト・フライドガーリック・ガーリックパウダーの3タイプのにんにくを使用した特製ガーリックソースとケチャップで味付けを仕上げているとのこと。どんな味か気になったので、実際に食べに行っ",
       "url": "https://gigazine.net/news/20261106-burgerking-guilty-one-pounder/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-06T07:16:00+00:00",
-      "title": "OpenAI元CTOのAI企業が高性能AIモデル「Inkling 2 Small」を発表、近日中にオープンモデルとして公開される予定",
-      "description": "OpenAIの元CTOであるミラ・ムラティ氏が設立したアメリカに拠点を置くAI研究企業「Thinking Machines Lab」が、AIモデル「Inkling 2 Small」を現地時間の2026年11月5日に発表しました。近日中にオープンモデルとして公開される予定です。続きを読む...",
-      "url": "https://gigazine.net/news/20261106-inkling-2-small/",
       "visual": "ai"
     },
     {
