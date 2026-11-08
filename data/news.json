@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-08T08:43:21.762863+00:00",
+  "updatedAt": "2026-11-08T09:38:55.570587+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-08T09:00:00+00:00",
+      "title": "無料で高速・暗号化・重複排除対応のバックアップができる「rustic」",
+      "description": "PCの故障やファイルの誤削除に備えるには定期的なバックアップが欠かせませんが、毎回すべてのファイルを保存すると容量や処理時間が増えてしまいます。そこで変更されたデータを中心に保存して容量を節約しつつ、暗号化による保護や過去の状態への復元まで実行できる無料のオープンソースバックアップツールが「rustic」です。続きを読む...",
+      "url": "https://gigazine.net/news/20261108-rustic/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-08T08:45:00+00:00",
+      "title": "AI画像を検出できるブラウザ拡張機能「Pangram AI Detection」を実際に使って本当に検出できるのか試してみた",
+      "description": "画像生成AIは便利な技術ですが、ロマンス詐欺やフェイクニュースなどに悪用されることもあります。生成AIで作成され画像を高精度に見分けることが可能なブラウザ拡張機能「Pangram AI Detection」が登場したので、実際にAI画像を検出できるのか試してみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261108-pangram-image-ai-image-detection/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -79,26 +99,6 @@
       "title": "映画『ゴジラ-0.0』が公開から4日間で国内観客動員100万人を突破",
       "description": "2026年11月3日(火・祝)に公開された映画『ゴジラ-0.0(マイナスゼロ)』の国内観客動員数が、11月6日(金)までの4日間で100万人を突破したことがわかりました。アメリカでも、アニメではない実写の外国語映画として最高の初動を記録しています。続きを読む...",
       "url": "https://gigazine.net/news/20261107-godzilla-1million-domestic-audience/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-07T03:00:00+00:00",
-      "title": "無料で近くにスマートグラスがあるかどうかを教えてくれるアプリ「Nearby Glasses」",
-      "description": "スマートグラスはメガネのような形状をしたウェアラブルデバイスですが、徐々に普及が広がる一方で動画撮影機能によるプライバシー侵害への懸念が生じています。「Nearby Glasses」は周囲のスマートグラスを検出し、ユーザーに警告を発することを目的としたオープンソースのAndroidおよびiOSアプリケーションです。続きを読む...",
-      "url": "https://gigazine.net/news/20261107-nearby-glasses/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-07T00:00:00+00:00",
-      "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
-      "description": "Appleが2026年10月末に発表した「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光ります。この光るAppleロゴは消灯可能であることが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
       "visual": "ai"
     },
     {
