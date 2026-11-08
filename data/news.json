@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-08T21:09:54.689603+00:00",
+  "updatedAt": "2026-11-08T22:04:14.542515+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-08T22:00:00+00:00",
+      "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+      "description": "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-pjit-21k/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -89,16 +99,6 @@
       "title": "521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される",
       "description": "自宅から遠く離れた場所に521日間という長期にわたって監禁されていた10代の少女が、オンラインマルチプレイ対応の宇宙人狼ゲーム「Among Us」で助けを求め、無事救出されるという事件が報告されました。続きを読む...",
       "url": "https://gigazine.net/news/20261108-missing-teen-saved-kidnapper-help-among-us/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-07T23:00:00+00:00",
-      "title": "人が驚くと瞳孔が拡大するのはなぜか？研究者が解説",
-      "description": "周囲が暗かったり、感情が高ぶったりすると人の瞳孔は開きます。なぜこのような動きが見られるのかについて、ブラウン大学の研究者らが新しい研究と共に紹介しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261108-pupils-dilation-surprise/",
       "visual": "ai"
     },
     {
