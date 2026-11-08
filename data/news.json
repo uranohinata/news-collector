@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-08T10:34:51.426871+00:00",
+  "updatedAt": "2026-11-08T11:28:52.746979+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-08T11:00:00+00:00",
+      "title": "『SPY×FAMILY』TVアニメSeason 4＆劇場版第2弾の2027年展開が決定",
+      "description": "「少年ジャンプ＋」連載で累計6億PV超え、コミックスの累計発行部数も4200万部超という人気を誇る『SPY×FAMILY』のTVアニメ・Season 4が2027年に放送されることが決まりました。また、劇場版第2弾も同じく2027年に公開されることが発表されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261108-spy-family-season4-film2/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-08T11:00:00+00:00",
+      "title": "生後しばらく母乳のみで育てられた子どもはADHDの症状が軽減される可能性",
+      "description": "注意欠如多動症(ADHD)は注意力の欠如や多動性などを特徴とする発達障害で、仕事や学業といった日常生活にさまざまな支障を来します。新たな研究では、生後しばらく母乳のみで育てられた子どもは、ADHDの症状を示す頻度が低いことが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261108-breastfeeding-fewer-adhd-symptoms-children/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -79,26 +99,6 @@
       "title": "手厚い社会福祉制度は国民の寿命を延ばすのか？",
       "description": "「政府は国民生活を支援するためにどれほど介入するべきなのか」「福祉制度は国民生活にどれほど影響するのか」といった疑問は、近年の政治における重要な論点となっています。学術誌のSocial Indicators Researchに掲載された論文では、さまざまな発展段階にある国々を比較して、福祉制度と国民の寿命との関連性が調査されました。続きを読む...",
       "url": "https://gigazine.net/news/20261107-social-safety-nets-longer-lives/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-07T09:30:00+00:00",
-      "title": "「Kindle」2026年最新モデルをじっくり使ってみたレビュー、進化した使い心地はどのようなものか？",
-      "description": "Amazonが2026年10月1日に発売した電子書籍リーダー「Kindle」の最新モデル「Kindle(16GB)」と「Kindle(32GB)」は、より薄く・軽くなり、操作感なども前モデルから向上したとされています。編集部に届いた新型Kindleを、普段からKindle端末を使用しているユーザーが実際に2週間ほどじっくり使用してみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261107-kindle-2026-review/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-07T09:00:00+00:00",
-      "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
-      "description": "友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソースソフトウェア「Harmony」です。続きを読む",
-      "url": "https://gigazine.net/news/20261107-harmony/",
       "visual": "ai"
     },
     {
