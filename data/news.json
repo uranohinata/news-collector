@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-09T07:17:53.926554+00:00",
+  "updatedAt": "2026-11-09T08:45:00.449116+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T07:10:20+00:00",
+      "title": "口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
+      "description": "金融機関名、支店名、口座番号、口座名義などの口座振替情報、契約状況、予約履歴、購入履歴、レッスンカルテ、顔写真、要配慮個人情報が漏えいした可能性。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -179,16 +189,6 @@
       "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
       "description": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T02:00:00+00:00",
-      "title": "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査",
-      "description": "調査会社の米Synergy Research Groupは、グローバルにおける2026年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
       "visual": "ai"
     },
     {
