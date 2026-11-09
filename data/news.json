@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-09T08:45:00.449116+00:00",
+  "updatedAt": "2026-11-09T09:57:28.043474+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T09:00:00+00:00",
+      "title": "日清カップヌードルと「銀だこ」「カラムーチョ」「ごはんですよ！」が合わさった「カップヌードル 異世界合体」シリーズ3品を食べてみた",
+      "description": "日清カップヌードルの発売55周年企画として、カップヌードルの定番フレーバーと別ジャンルの品を組み合わせた「異世界合体」シリーズ3品が2026年11月9日(月)から登場したので、早速食べてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-nissin-isekai-gattai-cupnoodle/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T08:53:00+00:00",
+      "title": "Claudeの記憶(メモリ)は夢見るDreaming機能で強化されており間違った記憶を修正することも可能",
+      "description": "Claudeなどの高性能AIサービスには応答履歴に含まれる重要情報を記録しておくメモリ機能が搭載されています。Claudeのメモリ機能についての詳細をAnthropicが公式に解説しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-ai-dreaming-agent-memory/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T08:45:47+00:00",
+      "title": "秋葉原「スマートごみ箱」22台新設 ごみを自動で約5分の1に圧縮、たまり具合は遠隔で把握",
+      "description": "千代田区は11月8日、秋葉原中央通りと秋葉原駅周辺の10カ所でスマートごみ箱22台の運用を始めた。ごみを自動で約5分の1に圧縮し、たまり具合を通信で把握して回収に生かす。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003031/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,26 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T03:45:00+00:00",
-      "title": "サハラ砂漠で見つかった隕石が41億年前の火星産だったことが判明、火星で大きな水の循環があったことも示唆",
-      "description": "2022年にサハラ砂漠で採取された隕石(いんせき)が、少なくとも41億年前に火星の地殻で形成されたものであることがNASAの資金提供を受けた研究者らによる分析で明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-martian-meteorite-found-in-mali/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T03:44:00+00:00",
-      "title": "Metaの複数の従業員が海賊版ポルノ動画を見ていたことが裁判の提出書類で示される",
-      "description": "MetaはAIのトレーニングのためにポルノ動画制作会社から違法に作品をダウンロードした疑いがあるとして、2025年夏に提訴されました。裁判が続く中で、Metaの内部調査により当該ポルノ動画にアクセスしたと思われる従業員が複数いたことが明らかになっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-meta-employees-pirated-adult/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-09T03:42:39+00:00",
       "title": "ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出 サービス停止",
@@ -179,16 +189,6 @@
       "title": "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も",
       "description": "ラクスルは11月9日、印刷通販サービス「ラクスル」のデータ入稿に関わるシステムに不正アクセスがあり、印刷データなどに含まれる個人情報が流出した恐れがあると発表した。名刺やはがきなどの印刷物に載っている、注文者以外の人の情報も含む場合があるという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003004/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T02:30:10+00:00",
-      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
-      "description": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
       "visual": "ai"
     },
     {
