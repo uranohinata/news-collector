@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-09T05:56:55.594217+00:00",
+  "updatedAt": "2026-11-09T07:17:53.926554+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T07:00:00+00:00",
+      "title": "Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている",
+      "description": "2022年10月にリリースされたmacOS Ventura(macOS 13)以降のmacOSには、「ユーザーが誰で、どういった知り合いを持っていて、どのような関係を築いているのか」といった情報をグラフ化するための2つのデーモン(常駐プログラム)が搭載されていることが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-macos-personal-knowledge-graph/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T06:54:28+00:00",
+      "title": "モニターにも値上げの波？ アイオーデータは10月に実施、EIZOも12月以降に メーカー各社に聞いた",
+      "description": "アイオーデータが10月に液晶ディスプレイなどを値上げしたのを受け、国内でモニターを販売するメーカー各社に値上げの予定を聞いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T06:30:35+00:00",
+      "title": "自社の認証情報で生成AI不正利用される ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
+      "description": "不正利用は約7時間続き、AIサービス側が利用制限を適用したことで止まったという。攻撃者が顧客の情報を扱うシステムにアクセスしようとした痕跡はなく、データの改ざんや窃取の形跡もなかったという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T06:00:00+00:00",
+      "title": "ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？",
+      "description": "金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,16 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T03:13:00+00:00",
-      "title": "日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応",
-      "description": "AI Vtuberの開発を進めているShizuku AIがリアルタイムでの日本語音声会話が可能なAI「Shizuku-Duplex」を開発したことを発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-09T03:02:03+00:00",
       "title": "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ 予備費100億円支出",
@@ -129,16 +159,6 @@
       "title": "画像生成AIは既存のキャラクターをどれくらい出力する？ ソニーAIなどが14モデルを調査",
       "description": "ソニー系の研究組織Sony AIなどに所属する研究者らが発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report」は、画像生成AIが既存の知的財産（IP）を認識できる画像をどの程度生成してしまうのか、またそれを防ぐ安全対策",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T02:49:00+00:00",
-      "title": "Appleが2026年に約4300億円の税金を節約、シンガポールがアイルランドを上回りApple最大のタックスヘイブンに",
-      "description": "Appleはシンガポールで利益を計上することで、27億ドル(約4300億円)の税金を節約したと経済紙のThe Financial Timesが報じました。これにより、シンガポールはAppleにとってアイルランドを上回るタックスヘイブンとなっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-apple-saves-2-7-billion-taxes-singapore/",
       "visual": "ai"
     },
     {
@@ -169,26 +189,6 @@
       "title": "クラウドインフラのシェア、AWSが26％に後退 Google Cloudは16％に上昇 市場全体は過去最大の高成長率へ 2026年第3四半期調査",
       "description": "調査会社の米Synergy Research Groupは、グローバルにおける2026年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T01:54:04+00:00",
-      "title": "「太鼓の達人」など7日ぶり稼働 セガ系不正アクセス問題、バンナム系が試験復旧",
-      "description": "セガ製品は引き続きメンテナンス中。8日午前9時時点で再開のめどは立っていない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003003/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T01:13:02+00:00",
-      "title": "ドコモ不正アクセスで「本人確認書類の番号」も流出 見舞金検討",
-      "description": "流出項目が拡大し、原因は不正アクセスだと公表した。利用者への見舞金の支払いを検討しているという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003000/",
       "visual": "ai"
     },
     {
