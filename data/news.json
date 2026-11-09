@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-09T12:56:20.193300+00:00",
+  "updatedAt": "2026-11-09T14:14:57.455607+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T13:00:00+00:00",
+      "title": "男の子に多かった名前が女の子に多く付けられるようになった事例、女の子の名付けの流行りの変化が原因",
+      "description": "世界の赤ちゃんの名前の人気度や流行を調べることができる名付け支援サイトの「NameDaisy」が、「男の子に多かった名前が女の子に多くつけられるようになった事例」を紹介しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-boy-names-became-girl/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -139,16 +149,6 @@
       "title": "自社の認証情報で生成AI不正利用される ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
       "description": "不正利用は約7時間続き、AIサービス側が利用制限を適用したことで止まったという。攻撃者が顧客の情報を扱うシステムにアクセスしようとした痕跡はなく、データの改ざんや窃取の形跡もなかったという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T06:00:00+00:00",
-      "title": "ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？",
-      "description": "金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/",
       "visual": "ai"
     },
     {
