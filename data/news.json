@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-11-09T02:46:07.752424+00:00",
+  "updatedAt": "2026-11-09T03:48:34.499994+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T03:45:00+00:00",
+      "title": "サハラ砂漠で見つかった隕石が41億年前の火星産だったことが判明、火星で大きな水の循環があったことも示唆",
+      "description": "2022年にサハラ砂漠で採取された隕石(いんせき)が、少なくとも41億年前に火星の地殻で形成されたものであることがNASAの資金提供を受けた研究者らによる分析で明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-martian-meteorite-found-in-mali/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T03:44:00+00:00",
+      "title": "Metaの複数の従業員が海賊版ポルノ動画を見ていたことが裁判の提出書類で示される",
+      "description": "MetaはAIのトレーニングのためにポルノ動画制作会社から違法に作品をダウンロードした疑いがあるとして、2025年夏に提訴されました。裁判が続く中で、Metaの内部調査により当該ポルノ動画にアクセスしたと思われる従業員が複数いたことが明らかになっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-meta-employees-pirated-adult/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T03:13:00+00:00",
+      "title": "日本語でリアルタイム会話可能なAI「Shizuku-Duplex」が登場、80ミリ秒ごとに高速処理して相づちやウェブ検索にも対応",
+      "description": "AI Vtuberの開発を進めているShizuku AIがリアルタイムでの日本語音声会話が可能なAI「Shizuku-Duplex」を開発したことを発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-shizuku-duplex-natural-conversation-ai/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T03:02:03+00:00",
+      "title": "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ 予備費100億円支出",
+      "description": "政府は11月6日、サイバー攻撃によって相次ぐ大規模な情報漏えい被害を受けて、サイバーセキュリティに関する関係閣僚会議を開き、緊急対策パッケージを決定した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T03:00:00+00:00",
+      "title": "画像生成AIは既存のキャラクターをどれくらい出力する？ ソニーAIなどが14モデルを調査",
+      "description": "ソニー系の研究組織Sony AIなどに所属する研究者らが発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report」は、画像生成AIが既存の知的財産（IP）を認識できる画像をどの程度生成してしまうのか、またそれを防ぐ安全対策",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T02:49:00+00:00",
+      "title": "Appleが2026年に約4300億円の税金を節約、シンガポールがアイルランドを上回りApple最大のタックスヘイブンに",
+      "description": "Appleはシンガポールで利益を計上することで、27億ドル(約4300億円)の税金を節約したと経済紙のThe Financial Timesが報じました。これにより、シンガポールはAppleにとってアイルランドを上回るタックスヘイブンとなっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-apple-saves-2-7-billion-taxes-singapore/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T02:46:00+00:00",
+      "title": "NVIDIAのジェンスン・フアンCEOが中国の女スパイとの不倫を認める＆取締役会も調査を開始",
+      "description": "NVIDIAのジェンスン・フアンCEOがアメリカ当局によってスパイと断定されている女性との不倫関係を認めました。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-nvidia-spy/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -9,6 +79,26 @@
       "title": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる",
       "description": "AnthropicのAIコーディングツール「Claude Code」でコマンドの実行を許可する際に「次回から表示しない」を選ぶと、コマンドに含まれるパスワードなどの秘密情報まで設定ファイルに保存される問題が明らかになりました。セキュリティ企業のApiiroがGitHubを調査したところ、公開リポジトリ1994件から2539件の秘密情報が発見されたとのことです",
       "url": "https://gigazine.net/news/20261109-claude-code-leak-secrets/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T02:42:45+00:00",
+      "title": "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も",
+      "description": "ラクスルは11月9日、印刷通販サービス「ラクスル」のデータ入稿に関わるシステムに不正アクセスがあり、印刷データなどに含まれる個人情報が流出した恐れがあると発表した。名刺やはがきなどの印刷物に載っている、注文者以外の人の情報も含む場合があるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003004/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T02:30:10+00:00",
+      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+      "description": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
       "visual": "ai"
     },
     {
@@ -85,16 +175,6 @@
       "category": "テクノロジー",
       "key": "technology",
       "source": "ITmedia NEWS",
-      "time": "2026-11-08T23:00:00+00:00",
-      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
-      "description": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
       "time": "2026-11-08T22:44:13+00:00",
       "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
       "description": "NVIDIAの取締役会は、ジェンスン・フアンCEOが中国国家安全部に協力していた疑いのある女性アリス・フアン氏と親密な関係にあったとする報道を受け、独立調査を開始したと発表した。フアンCEOは従業員向けメッセージで不倫関係を認め謝罪している。機密情報流出の事実は現時点で確認されていない。",
@@ -114,91 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-08T13:14:00+00:00",
-      "title": "個人情報を守りきるブラウザゲーム「個人情報漏洩のお知らせ」をプレイしてみた、同名楽曲が流れる中で大量のエラーが警告を消し続ける",
-      "description": "ボカロPとして活動するKish.氏がブラウザゲーム「個人情報漏洩のお知らせ」を公開しました。同名楽曲のPVとともにエラー画面や警告画面や個人情報が表示されまくり、それらを消しまくるというゲームです。面白そうなのでプレイしてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261108-leakgame/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-08T11:00:00+00:00",
-      "title": "『SPY×FAMILY』TVアニメSeason 4＆劇場版第2弾の2027年展開が決定",
-      "description": "「少年ジャンプ＋」連載で累計6億PV超え、コミックスの累計発行部数も4200万部超という人気を誇る『SPY×FAMILY』のTVアニメ・Season 4が2027年に放送されることが決まりました。また、劇場版第2弾も同じく2027年に公開されることが発表されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261108-spy-family-season4-film2/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-08T11:00:00+00:00",
-      "title": "生後しばらく母乳のみで育てられた子どもはADHDの症状が軽減される可能性",
-      "description": "注意欠如多動症(ADHD)は注意力の欠如や多動性などを特徴とする発達障害で、仕事や学業といった日常生活にさまざまな支障を来します。新たな研究では、生後しばらく母乳のみで育てられた子どもは、ADHDの症状を示す頻度が低いことが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261108-breastfeeding-fewer-adhd-symptoms-children/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-08T10:00:00+00:00",
-      "title": "アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1",
-      "description": "AIを使用してシリコンチップを設計する再帰的自己改善に取り組むアメリカのスタートアップ「Ricursive Intelligence」が、アメリカ産のオープンウェイトモデル「Ripple-65B Preview」をリリースしました。Ripple-65B Previewはエージェント型コーディングのベンチマーク「Terminal-Bench 2.1」で80.5",
-      "url": "https://gigazine.net/news/20261108-ripple-65b-preview/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-08T09:00:00+00:00",
-      "title": "無料で高速・暗号化・重複排除対応のバックアップができる「rustic」",
-      "description": "PCの故障やファイルの誤削除に備えるには定期的なバックアップが欠かせませんが、毎回すべてのファイルを保存すると容量や処理時間が増えてしまいます。そこで変更されたデータを中心に保存して容量を節約しつつ、暗号化による保護や過去の状態への復元まで実行できる無料のオープンソースバックアップツールが「rustic」です。続きを読む...",
-      "url": "https://gigazine.net/news/20261108-rustic/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-06T10:31:25+00:00",
       "title": "ロート製薬、約280万人分の個人情報漏えい 9715件は通話音声データとクレカ情報が流出",
       "description": "11月6日、ロート製薬は9月11日に公表した通信販売システムへの不正アクセスについて、顧客279万7545人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報も不正に取得されていたことが分かったという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T08:52:16+00:00",
-      "title": "政府、相次ぐ情報漏えいで事業者に注意喚起 「基本的な対策が不十分」な事例を複数確認",
-      "description": "国家サイバー統括室は、相次ぐ個人情報漏えいを受け、事業者向けに注意喚起を公表した。基本的な対策の不備が原因とみられる事例を複数確認したほか、攻撃者によるAIの悪用も指摘。具体的なセキュリティ対策を示した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T08:24:24+00:00",
-      "title": "セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか",
-      "description": "日本ネットワークセキュリティ協会は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002978/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T07:03:57+00:00",
-      "title": "複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず",
-      "description": "大阪シティ信用金庫や広島信用金庫など各地の信用金庫で11月6日午後1時30分ごろから、窓口での取引やATMでの入出金ができなくなっている。広島信用金庫によると、障害はしんきん共同センターの「西日本センター」で起きたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002971/",
       "visual": "ai"
     },
     {
