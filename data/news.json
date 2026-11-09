@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-09T03:48:34.499994+00:00",
+  "updatedAt": "2026-11-09T04:55:14.029694+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T04:22:14+00:00",
+      "title": "早稲田大、PHP脆弱性への対応中に不正アクセス発見 個人情報約3400件流出確認",
+      "description": "PHPの脆弱性への対応をきっかけに学内システムの状況を確認する中で、不正アクセスの痕跡を見つけたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003012/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T04:00:00+00:00",
+      "title": "IT企業Ciscoが戦争中のイスラエルを相手に事業を拡大した方法が流出した機密文書から発覚",
+      "description": "アメリカに拠点を置く世界最大級のテクノロジー企業・Ciscoで、同社とイスラエル軍の関係を問題視した従業員から内部文書がリークされるという事件が起こりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-cisco-gaza-palestine/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T03:50:00+00:00",
+      "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
+      "description": "AIエージェント「Hermes Agent」を開発するNous Researchが2026年11月6日に新たなAIモデル「Arete-27B」を公開しました。中国のアリババが開発した「Qwen3.8-27B」を追加学習させたモデルで、中国政府の公式見解に沿った回答を生成する割合を22％から0.9％に減らすことに成功したとのことです。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -19,6 +49,26 @@
       "title": "Metaの複数の従業員が海賊版ポルノ動画を見ていたことが裁判の提出書類で示される",
       "description": "MetaはAIのトレーニングのためにポルノ動画制作会社から違法に作品をダウンロードした疑いがあるとして、2025年夏に提訴されました。裁判が続く中で、Metaの内部調査により当該ポルノ動画にアクセスしたと思われる従業員が複数いたことが明らかになっています。続きを読む...",
       "url": "https://gigazine.net/news/20261109-meta-employees-pirated-adult/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T03:42:39+00:00",
+      "title": "ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出 サービス停止",
+      "description": "全会員の氏名とメールアドレスに加え、登録・購入状況に応じ、生年月日や年齢、性別、住所、電話番号も流出した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T03:34:30+00:00",
+      "title": "学園祭の混雑、ITで解消へ お茶の水女子大・共創工学部の学生がセンサー活用し実証",
+      "description": "お茶の水女子大学（東京都文京区）の学園祭「第77回徽音祭（きいんさい）」で11月7日、IT技術を活用し混雑状況を可視化する実証実験が行われた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003006/",
       "visual": "ai"
     },
     {
@@ -134,16 +184,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T01:53:00+00:00",
-      "title": "Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」であんな曲やこんな曲をオカリナで吹きまくるオカリナ選手権が大流行中",
-      "description": "2026年11月5日に発売されたNintendo Switch 2向けゲーム「ゼルダの伝説 時のオカリナ」では、オカリナで特定のメロディを奏でることで、時間を操ったり昼夜を入れ替えたりさまざまなギミックを操作することができます。そんなオカリナ演奏機能を使い、ゲーマーたちがさまざまな楽曲を演奏しまくっていたのでまとめてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-nintendo-switch-2-zelda-ocarina/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-09T01:13:02+00:00",
       "title": "ドコモ不正アクセスで「本人確認書類の番号」も流出 見舞金検討",
@@ -154,51 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T00:26:19+00:00",
-      "title": "128信金の大規模障害、約6時間で復旧 「原因はサイバー攻撃ではない」",
-      "description": "原因は「システム機器の故障」で、「サイバー攻撃に起因するものではない」という。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "GIGAZINE",
       "time": "2026-11-09T00:00:00+00:00",
       "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
       "description": "YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードすることができる「VideoProc Converter AI」と、低解像度の動画をAIを用いて4Kや8Kに高画質化することができる「Aiarty Video Enhancer」を併用すれば、「低解像度の動画をYouTubeからダウンロードして4K高画質化する」という作業が",
       "url": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-08T22:44:13+00:00",
-      "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
-      "description": "NVIDIAの取締役会は、ジェンスン・フアンCEOが中国国家安全部に協力していた疑いのある女性アリス・フアン氏と親密な関係にあったとする報道を受け、独立調査を開始したと発表した。フアンCEOは従業員向けメッセージで不倫関係を認め謝罪している。機密情報流出の事実は現時点で確認されていない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-08T22:00:00+00:00",
-      "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
-      "description": "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-pjit-21k/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T10:31:25+00:00",
-      "title": "ロート製薬、約280万人分の個人情報漏えい 9715件は通話音声データとクレカ情報が流出",
-      "description": "11月6日、ロート製薬は9月11日に公表した通信販売システムへの不正アクセスについて、顧客279万7545人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報も不正に取得されていたことが分かったという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
       "visual": "ai"
     },
     {
