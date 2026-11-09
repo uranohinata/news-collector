@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-09T09:57:28.043474+00:00",
+  "updatedAt": "2026-11-09T10:49:56.054834+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T10:38:00+00:00",
+      "title": "2026年11月9日のヘッドラインニュース",
+      "description": "「この物語は、南家三姉妹の日常を淡々と描くものです。過度な期待はしないでください。」の文言で知られる、週刊ヤングマガジン連載の漫画を原作としたアニメ『みなみけ』が10年以上のブランクを経て新シリーズ『みなみけ これから』として2027年4月から放送されることになりました。キャストは長女・春香役の佐藤利奈さん、次女・夏奈役の井上麻里奈さん、三女・千秋役の茅原実",
+      "url": "https://gigazine.net/news/20261109-headline/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T10:25:46+00:00",
+      "title": "無印良品、ネットストア再開延期 リスト型攻撃を確認、新たに約27万件漏えいか",
+      "description": "良品計画は11月9日、MUJIアプリなどへの不正アクセスに関する第4報を発表した。停止中の無印良品ネットストアは再開を延期し、再開時には全利用者にパスワードの再設定を求める方向だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003038/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T10:00:00+00:00",
+      "title": "AIに「3DCGのおしり」を作らせて性能を比較するベンチマーク「LLM AssBench」が登場",
+      "description": "AIに人間のおしりの3DCGを作らせて性能を比較するベンチマーク「LLM AssBench」が公開されています。AIが生成したおしりはブラウザ上で回転させたりクリックして揺らしたりすることが可能で、さまざまなAIが作り上げたおしりを並べて比較できます。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-llm-assbench/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,26 +154,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T04:00:00+00:00",
-      "title": "IT企業Ciscoが戦争中のイスラエルを相手に事業を拡大した方法が流出した機密文書から発覚",
-      "description": "アメリカに拠点を置く世界最大級のテクノロジー企業・Ciscoで、同社とイスラエル軍の関係を問題視した従業員から内部文書がリークされるという事件が起こりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-cisco-gaza-palestine/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T03:50:00+00:00",
-      "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
-      "description": "AIエージェント「Hermes Agent」を開発するNous Researchが2026年11月6日に新たなAIモデル「Arete-27B」を公開しました。中国のアリババが開発した「Qwen3.8-27B」を追加学習させたモデルで、中国政府の公式見解に沿った回答を生成する割合を22％から0.9％に減らすことに成功したとのことです。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-09T03:42:39+00:00",
       "title": "ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出 サービス停止",
@@ -179,16 +189,6 @@
       "title": "画像生成AIは既存のキャラクターをどれくらい出力する？ ソニーAIなどが14モデルを調査",
       "description": "ソニー系の研究組織Sony AIなどに所属する研究者らが発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report」は、画像生成AIが既存の知的財産（IP）を認識できる画像をどの程度生成してしまうのか、またそれを防ぐ安全対策",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T02:42:45+00:00",
-      "title": "ネット印刷「ラクスル」に不正アクセス 入稿データ一部漏えいか 名刺やはがき記載の個人情報も",
-      "description": "ラクスルは11月9日、印刷通販サービス「ラクスル」のデータ入稿に関わるシステムに不正アクセスがあり、印刷データなどに含まれる個人情報が流出した恐れがあると発表した。名刺やはがきなどの印刷物に載っている、注文者以外の人の情報も含む場合があるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003004/",
       "visual": "ai"
     },
     {
