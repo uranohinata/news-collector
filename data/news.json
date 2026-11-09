@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-09T00:00:12.283745+00:00",
+  "updatedAt": "2026-11-09T01:43:51.873671+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T01:13:02+00:00",
+      "title": "ドコモ不正アクセスで「本人確認書類の番号」も流出 見舞金検討",
+      "description": "流出項目が拡大し、原因は不正アクセスだと公表した。利用者への見舞金の支払いを検討しているという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003000/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T00:26:19+00:00",
+      "title": "128信金の大規模障害、約6時間で復旧 「原因はサイバー攻撃ではない」",
+      "description": "原因は「システム機器の故障」で、「サイバー攻撃に起因するものではない」という。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T00:00:00+00:00",
+      "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
+      "description": "YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードすることができる「VideoProc Converter AI」と、低解像度の動画をAIを用いて4Kや8Kに高画質化することができる「Aiarty Video Enhancer」を併用すれば、「低解像度の動画をYouTubeからダウンロードして4K高画質化する」という作業が",
+      "url": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,16 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-08T01:00:00+00:00",
-      "title": "521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される",
-      "description": "自宅から遠く離れた場所に521日間という長期にわたって監禁されていた10代の少女が、オンラインマルチプレイ対応の宇宙人狼ゲーム「Among Us」で助けを求め、無事救出されるという事件が報告されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261108-missing-teen-saved-kidnapper-help-among-us/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-06T10:31:25+00:00",
       "title": "ロート製薬、約280万人分の個人情報漏えい 9715件は通話音声データとクレカ情報が流出",
@@ -179,26 +199,6 @@
       "title": "松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍",
       "description": "11月30日まで、アプリ内の弁当予約サービス「松弁ネット」で、付与される「松屋ポイント」を2倍、モバイルオーダーで3倍にするキャンペーンを行う。",
       "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002966/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T05:13:16+00:00",
-      "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も",
-      "description": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-06T03:38:10+00:00",
-      "title": "米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も",
-      "description": "11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002949/",
       "visual": "ai"
     },
     {
