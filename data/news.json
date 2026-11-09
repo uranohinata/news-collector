@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-09T10:49:56.054834+00:00",
+  "updatedAt": "2026-11-09T11:48:23.976851+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T11:00:00+00:00",
+      "title": "約2000万ドルの罰金が科せられてもVizioスマートテレビの「スパイ行為をオプトアウトする」オプションは依然として何の効果もない",
+      "description": "多くのスマートテレビでは、再生するコンテンツを検出する「自動コンテンツ認識(ACR)」という機能が働き、ユーザーの好みを収集しています。こうした機能はオプトアウト(拒否)が可能ですが、オプトアウトしてもデータ収集は止まらないという研究結果が報告されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-vizio-acr-data-leak/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T10:52:00+00:00",
+      "title": "チームでの複数人同時利用を前提としたAIエージェント「MAIA」が登場",
+      "description": "AI開発企業のZyphraがAIエージェントツール「MAIA」のベータ版を公開しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261109-maia-zyphra-multiplayer-ai-agent/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-09T10:40:53+00:00",
+      "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に",
+      "description": "ニトリホールディングスは11月9日、同社が管理するシステムへの不正アクセスにより、最大3762万件の個人情報が外部に流出した可能性があると発表した。発覚は6日。10月中旬から下旬にかけて、不正アクセスを受けていた可能性があるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,26 +154,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T05:10:00+00:00",
-      "title": "Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される",
-      "description": "AI物理学スタートアップのPhysical Superintelligence(PSI)が2026年11月6日、2008年から未解決だった量子コンピューティングの難問「アーロンソン＝アンバイニス予想」の証明に成功したと発表しました。証明にはAnthropicの非公開AIモデルを組み込んだ研究システムが使われており、数学的な証明をコンピューターで検証する「Le",
-      "url": "https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T04:55:00+00:00",
-      "title": "Metaの物議を醸していたウェブスクレイピングに関するポリシー変更が無期限延期",
-      "description": "Metaは2026年10月初頭に商用利用規約のアップデートについて通知しました。新規約に基づくと、Facebook・Instagram・Messenger・WhatsAppにビジネスアカウントを持つ企業や著名人はそのアカウントに関連付けられたウェブサイトをMetaがクロールすることに同意したものと見なされる可能性があったため、ユーザーから批判が集まりました。",
-      "url": "https://gigazine.net/news/20261109-meta-scraping/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-09T04:22:14+00:00",
       "title": "早稲田大、PHP脆弱性への対応中に不正アクセス発見 個人情報約3400件流出確認",
@@ -179,16 +189,6 @@
       "title": "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ 予備費100億円支出",
       "description": "政府は11月6日、サイバー攻撃によって相次ぐ大規模な情報漏えい被害を受けて、サイバーセキュリティに関する関係閣僚会議を開き、緊急対策パッケージを決定した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T03:00:00+00:00",
-      "title": "画像生成AIは既存のキャラクターをどれくらい出力する？ ソニーAIなどが14モデルを調査",
-      "description": "ソニー系の研究組織Sony AIなどに所属する研究者らが発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report」は、画像生成AIが既存の知的財産（IP）を認識できる画像をどの程度生成してしまうのか、またそれを防ぐ安全対策",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
       "visual": "ai"
     },
     {
