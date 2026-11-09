@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-09T20:43:54.263499+00:00",
+  "updatedAt": "2026-11-09T21:41:46.341627+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-09T21:00:00+00:00",
+      "title": "Opusに助けを求めることができるJevならOpusと同等の精度を4分の1のコストで実現可能",
+      "description": "JevやGPT-6 Lunaのような高速で安価な意思決定モデルを用いたアイデンティティ解決(IDR)について、最先端LLMであるClaude Opusと同等の精度を出せるかどうかをテストしたところ、JevとClaude Opusを組み合わせたハイブリッドモデルがOpus単体に近い精度を1/4以下の低コストで実現できることが、ソフトウェアエンジニアのアルバート",
+      "url": "https://gigazine.net/news/20261110-llm-judges-identity-resolution/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,16 +129,6 @@
       "title": "口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
       "description": "金融機関名、支店名、口座番号、口座名義などの口座振替情報、契約状況、予約履歴、購入履歴、レッスンカルテ、顔写真、要配慮個人情報が漏えいした可能性。",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T07:00:00+00:00",
-      "title": "Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている",
-      "description": "2022年10月にリリースされたmacOS Ventura(macOS 13)以降のmacOSには、「ユーザーが誰で、どういった知り合いを持っていて、どのような関係を築いているのか」といった情報をグラフ化するための2つのデーモン(常駐プログラム)が搭載されていることが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-macos-personal-knowledge-graph/",
       "visual": "ai"
     },
     {
