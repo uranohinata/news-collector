@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-10T22:33:41.791111+00:00",
+  "updatedAt": "2026-11-10T23:28:05.666699+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T23:00:00+00:00",
+      "title": "「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？",
+      "description": "AIの市場規模は急速に拡大しつつあり、2030年には4兆2000億ドル(約660兆円)に達するとの予測もありますが、一方で「AIブームはバブルに過ぎない」と冷ややかな見方もあります。そんな中でエンジニアのMatteo Raso氏が、「AIはバブルではなく、まだAI企業が成長する余地はある」と主張しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T22:49:32+00:00",
+      "title": "簿記などの受験者情報最大98万人分漏えいか 合否や得点も 日商ネット試験に不正アクセス",
+      "description": "氏名、フリガナ、性別、生年月日、合否結果、試験得点と、任意で入力したメールアドレス、電話番号、住所が漏えいした可能性がある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T22:03:30+00:00",
+      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+      "description": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,16 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T10:00:00+00:00",
-      "title": "「XBOX史上最小」の超小型ワイヤレスコントローラー「XBOX Nano コントローラー」を使ってみた、手のひらサイズでゲームは快適に遊べるのか？",
-      "description": "Microsoftが2026年11月に発売した「XBOX Nano コントローラー」は通常のXBOXコントローラーと同じボタン配置を採用しながら、XBOX史上最小となるコンパクトなワイヤレスコントローラーです。XBOX本体だけでなくPCやスマートフォンでも利用でき、ポケットに入れて気軽に持ち運べるのが特徴というXBOX Nano コントローラーを実際に使って",
-      "url": "https://gigazine.net/news/20261110-microsoft-xbox-nano-controller/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T09:50:02+00:00",
       "title": "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント漏えいか 給与振込用の口座情報なども",
@@ -169,26 +189,6 @@
       "title": "ドコモ・バイクシェア刷新、11月24日に「NOLL」始動へ 当初予定から半年遅れ",
       "description": "当初は5月に実施予定だったが「品質確保のため」延期した後、8月に大規模障害が起きたためさらに延期。当初予定から半年強遅れての船出となる。",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003060/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T03:27:51+00:00",
-      "title": "Instagram、年齢を偽った10代もAIで検出 日本でも保護機能の適用を開始",
-      "description": "Metaは、Instagramで成人として年齢登録していても、AIが10代と推定したユーザーには「ティーンアカウント」の保護機能を強制適用する取り組みを日本を含む世界各国に拡大すると発表した。日本では同月10日より導入する。年齢詐称による制限回避を防ぐ狙いで、今後Threadsなどにも順次展開していく予定だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T03:05:09+00:00",
-      "title": "仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定 フランス外務省が声明",
-      "description": "フランス外務省は11月9日、10月にフランス国内の大手スーパーなど約700店舗の冷蔵・冷凍設備がサイバー攻撃を受けた事件について、イラン革命防衛隊の関連組織の犯行だとする声明を発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
       "visual": "ai"
     },
     {
