@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-10T08:05:57.897401+00:00",
+  "updatedAt": "2026-11-10T09:18:43.147234+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T08:23:42+00:00",
+      "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
+      "description": "ソフトバンクの宮川潤一社長が、子会社IDCフロンティアへの不正アクセスを巡り、脆弱性診断の不備を謝罪した。AIの進化で新たな脆弱性が相次いで見つかる中、サイバー攻撃への対応に苦慮する現状も明かした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -179,16 +189,6 @@
       "title": "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」",
       "description": "国内化学業界で過去最大規模のM＆Aとなる。",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T02:26:43+00:00",
-      "title": "NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい",
-      "description": "NTTデータは11月9日、住友生命保険から構築・運用を受託しているシステムが不正アクセスを受け、利用者約8万人の個人情報が漏えいしたと発表した。対象は「住友生命Vitality体験版・企業型」と「Vitalityスマート」の利用者で、新規申し込みなどを停止している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003051/",
       "visual": "ai"
     },
     {
