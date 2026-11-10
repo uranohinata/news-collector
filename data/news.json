@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-11-10T02:43:30.221430+00:00",
+  "updatedAt": "2026-11-10T03:42:18.650430+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T03:40:00+00:00",
+      "title": "『ゴジラ-0.0』が爆音過ぎると報告される、映画の音はどのように調整されているのか？",
+      "description": "2026年11月3日(火・祝)に公開された映画『ゴジラ-0.0(マイナスゼロ)』は、国内観客動員数が4日間で100万人を突破したほか、11月9日には日本と北米の週末興収ランキングで同時に1位を獲得したことが報告されています。そんな『ゴジラ-0.0』のIMAX上映が爆音過ぎたと投稿されており、映画音楽の専門家が映画の音量について解説しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-godzilla-minus-zero-loud/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T03:30:00+00:00",
+      "title": "Metaの最小・低コストなAIモデル「Muse Ember」各種ベンチマーク結果、本当にコスパが良いのか？",
+      "description": "Metaが2026年11月9日に発表した小型AIモデル「Muse Ember」について、AIモデルの評価を行うArtificial Analysis、Vals AI、Arena.aiなどがベンチマーク結果を公開しました。Muse Emberは競合モデルと同等以上の性能を低コストで実現していると評価されており、特にAIエージェントによる作業やウェブ開発で高いコ",
+      "url": "https://gigazine.net/news/20261110-meta-muse-ember-benchmark/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T03:27:51+00:00",
+      "title": "Instagram、年齢を偽った10代もAIで検出 日本でも保護機能の適用を開始",
+      "description": "Metaは、Instagramで成人として年齢登録していても、AIが10代と推定したユーザーには「ティーンアカウント」の保護機能を強制適用する取り組みを日本を含む世界各国に拡大すると発表した。日本では同月10日より導入する。年齢詐称による制限回避を防ぐ狙いで、今後Threadsなどにも順次展開していく予定だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T03:05:09+00:00",
+      "title": "仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定 フランス外務省が声明",
+      "description": "フランス外務省は11月9日、10月にフランス国内の大手スーパーなど約700店舗の冷蔵・冷凍設備がサイバー攻撃を受けた事件について、イラン革命防衛隊の関連組織の犯行だとする声明を発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T03:00:00+00:00",
+      "title": "サイバー攻撃受けた医療現場のリアル 患者の死亡率が3割上昇 乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
+      "description": "米カリフォルニア大学サンディエゴ校などに所属する研究者らが医学誌「Journal of Medical Internet Research」で発表した論文「Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Rev",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T03:00:00+00:00",
+      "title": "大学生の学業成績に最も悪影響を与えるのはストレスや不安ではなく「先延ばし」",
+      "description": "「先延ばし」は多くの人が持っている悪癖であり、締め切りがある仕事を後回しにして緊急ではない事務作業を進めたり、テスト期間中なのに部屋の掃除を始めたりした経験がある人も多いはず。大学生の間でも、「先延ばし」はストレスや不安よりも学業成績に悪影響を与えているとの研究結果が報告されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-college-students-procrastination-academic-problem/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T02:58:00+00:00",
+      "title": "冷蔵庫・冷凍庫へのサイバー攻撃はイランによるものだとフランス外相が非難",
+      "description": "スーパーマーケットの冷蔵庫や冷凍庫を対象に設定温度を上げるサイバー攻撃が行われた問題で、フランスのジャン＝ノエル・バロ外務大臣が「攻撃はイランの革命防衛隊によって行われたものだと確認された」と述べ、イランに対して制裁を課す方針を示しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-france-fridges-hacking-iran/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T02:55:20+00:00",
+      "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい",
+      "description": "ラフールは「委託元である当社の管理も十分ではなかった」と述べている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T02:55:08+00:00",
+      "title": "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」",
+      "description": "国内化学業界で過去最大規模のM＆Aとなる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T02:47:00+00:00",
+      "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
+      "description": "Anthropicが2026年11月9日に高性能AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。前世代の5.1からプログラミング能力や推論能力が向上しており、1000体以上のAIエージェントを連携させて8日間でOSを開発することにも成功しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-anthropic-claude-fable-mythos-5-2/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -75,16 +175,6 @@
       "category": "テクノロジー",
       "key": "technology",
       "source": "ITmedia NEWS",
-      "time": "2026-11-10T00:28:51+00:00",
-      "title": "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」",
-      "description": "国内化学業界で過去最大規模のM＆Aとなる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
       "time": "2026-11-10T00:06:40+00:00",
       "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
       "description": "Metaは、AIモデル「Muse」ファミリーの最小モデル「Muse Ember」を発表した。AIエージェントの反復タスクに特化しており、上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現している。同日から開発者向けAPI等で提供を開始しており、大量の反復処理を低コストで担う。",
@@ -109,96 +199,6 @@
       "title": "誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除",
       "description": "詐欺的な広告やサイトのコンテンツを覆い隠す不快な広告が爆増しており、Googleへ通報してもイタチごっこで対応が追いつかない状況になっています。そうした広告に悩まされるのはAndroidやiPhoneなどのスマホを使っている時だけではなく、WindowsやMacのPCでウェブサイトを見たりアプリを使ったりしているときも同じ。今回はGIGAZINE編集部がオス",
       "url": "https://gigazine.net/news/20261110-adguard-windows-mac/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T23:00:00+00:00",
-      "title": "「AI店長」、対人関係に苦戦 指摘が生かされずスタッフからの報告減少 PwCが“売店”で実験",
-      "description": "PwCがAIに売店の経営判断を任せる実証実験を実施した。AIは約2週間の運営を担ったものの、スタッフからの指摘を適切に反映できず、報告が減少。収支は約24万円の赤字となった。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T23:00:00+00:00",
-      "title": "地球に迫る小惑星を核爆発で押し返すには「形状に合わせた調整」が重要と判明、軌道を変える効果に約5倍の差",
-      "description": "地球に衝突する小惑星を核爆発の力で押し返し、衝突を回避するという方法はSF映画などでおなじみです。アメリカのサンディア国立研究所が行った新たな研究で、小惑星の形状によって核爆発で軌道を変える効果が大きく異なることが分かりました。同じ小惑星でも爆発のエネルギーを当てる方向によって効果に約5倍の差が生じるとのことです。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-nuclear-blast-asteroid/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T22:26:48+00:00",
-      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
-      "description": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T22:03:56+00:00",
-      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
-      "description": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T21:00:00+00:00",
-      "title": "Opusに助けを求めることができるJevならOpusと同等の精度を4分の1のコストで実現可能",
-      "description": "JevやGPT-6 Lunaのような高速で安価な意思決定モデルを用いたアイデンティティ解決(IDR)について、最先端LLMであるClaude Opusと同等の精度を出せるかどうかをテストしたところ、JevとClaude Opusを組み合わせたハイブリッドモデルがOpus単体に近い精度を1/4以下の低コストで実現できることが、ソフトウェアエンジニアのアルバート",
-      "url": "https://gigazine.net/news/20261110-llm-judges-identity-resolution/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T13:00:00+00:00",
-      "title": "男の子に多かった名前が女の子に多く付けられるようになった事例、女の子の名付けの流行りの変化が原因",
-      "description": "世界の赤ちゃんの名前の人気度や流行を調べることができる名付け支援サイトの「NameDaisy」が、「男の子に多かった名前が女の子に多くつけられるようになった事例」を紹介しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-boy-names-became-girl/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T12:37:00+00:00",
-      "title": "過去15年間で死亡した元NFL選手の75％が慢性外傷性脳症(CTE)を患っていたことが調査で明らかに",
-      "description": "ボストン大学などの研究チームが2026年10月末に発表した研究によると、2008年から2023年までに死亡したプロアメリカンフットボールリーグ・NFLの元選手の約75％に、頭部への衝撃から生じる脳への反復する傷害を原因とする認知症に似た症状である「慢性外傷性脳症(CTE)」の兆候が見られたとのこと。過去の同様の研究では元NFL選手の4分の1がCTEを患ってい",
-      "url": "https://gigazine.net/news/20261109-nfl-cte/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T11:00:00+00:00",
-      "title": "約2000万ドルの罰金が科せられてもVizioスマートテレビの「スパイ行為をオプトアウトする」オプションは依然として何の効果もない",
-      "description": "多くのスマートテレビでは、再生するコンテンツを検出する「自動コンテンツ認識(ACR)」という機能が働き、ユーザーの好みを収集しています。こうした機能はオプトアウト(拒否)が可能ですが、オプトアウトしてもデータ収集は止まらないという研究結果が報告されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-vizio-acr-data-leak/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T10:40:53+00:00",
-      "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に",
-      "description": "ニトリホールディングスは11月9日、同社が管理するシステムへの不正アクセスにより、最大3762万件の個人情報が外部に流出した可能性があると発表した。発覚は6日。10月中旬から下旬にかけて、不正アクセスを受けていた可能性があるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
       "visual": "ai"
     },
     {
