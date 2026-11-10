@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-10T01:54:58.371775+00:00",
+  "updatedAt": "2026-11-10T02:43:30.221430+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T02:26:43+00:00",
+      "title": "NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい",
+      "description": "NTTデータは11月9日、住友生命保険から構築・運用を受託しているシステムが不正アクセスを受け、利用者約8万人の個人情報が漏えいしたと発表した。対象は「住友生命Vitality体験版・企業型」と「Vitalityスマート」の利用者で、新規申し込みなどを停止している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003051/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T02:19:00+00:00",
+      "title": "Apple Intelligenceが中国での規制上のハードルをクリア、ついに中国でもApple Intelligenceが間もなくリリース",
+      "description": "Appleが中国でのApple Intelligenceのローンチに先立ち、規制上のハードルをすべてクリアしたとロイターが報じています。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-apple-intelligence-registers-chinese-regulator/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T02:16:00+00:00",
+      "title": "ディズニーとAdobeが生成AI活用で複数年契約を結びパークやメディアコンテンツにAI導入",
+      "description": "Adobeが、自社のソフトやディズニーのコンテンツに合わせてカスタマイズした独自モデルをディズニーに提供するパートナーシップを締結したと発表しました。ディズニーは「Adobe Firefly」などのAIを取り入れてディズニーランド等で活用します。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-adobe-disney-partnership/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T02:10:07+00:00",
+      "title": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
+      "description": "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T02:00:00+00:00",
+      "title": "“何でもリバースエンジニアリング”生成AIで広がる ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険",
+      "description": "AIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（REA）というツールもGitHubで注目を集めているが、セキュリティ上のリスクも懸念されている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000002975/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T01:54:00+00:00",
+      "title": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現",
+      "description": "Metaが2026年11月9日、同社のAIモデル「Muse」シリーズで最も小型かつ効率的だとする新モデル「Muse Ember」を発表しました。AIエージェントによるプログラミングやツール操作などの反復作業に特化しており、Metaによると、Anthropicの「Claude Haiku 5.5」と同等の性能を約3分の1のコストで実現しています。続きを読む..",
+      "url": "https://gigazine.net/news/20261110-meta-muse-ember/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -134,71 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T10:52:00+00:00",
-      "title": "チームでの複数人同時利用を前提としたAIエージェント「MAIA」が登場",
-      "description": "AI開発企業のZyphraがAIエージェントツール「MAIA」のベータ版を公開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-maia-zyphra-multiplayer-ai-agent/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-09T10:40:53+00:00",
       "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に",
       "description": "ニトリホールディングスは11月9日、同社が管理するシステムへの不正アクセスにより、最大3762万件の個人情報が外部に流出した可能性があると発表した。発覚は6日。10月中旬から下旬にかけて、不正アクセスを受けていた可能性があるという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T10:38:00+00:00",
-      "title": "2026年11月9日のヘッドラインニュース",
-      "description": "「この物語は、南家三姉妹の日常を淡々と描くものです。過度な期待はしないでください。」の文言で知られる、週刊ヤングマガジン連載の漫画を原作としたアニメ『みなみけ』が10年以上のブランクを経て新シリーズ『みなみけ これから』として2027年4月から放送されることになりました。キャストは長女・春香役の佐藤利奈さん、次女・夏奈役の井上麻里奈さん、三女・千秋役の茅原実",
-      "url": "https://gigazine.net/news/20261109-headline/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T10:25:46+00:00",
-      "title": "無印良品、ネットストア再開延期 リスト型攻撃を確認、新たに約27万件漏えいか",
-      "description": "良品計画は11月9日、MUJIアプリなどへの不正アクセスに関する第4報を発表した。停止中の無印良品ネットストアは再開を延期し、再開時には全利用者にパスワードの再設定を求める方向だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003038/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-09T10:00:00+00:00",
-      "title": "AIに「3DCGのおしり」を作らせて性能を比較するベンチマーク「LLM AssBench」が登場",
-      "description": "AIに人間のおしりの3DCGを作らせて性能を比較するベンチマーク「LLM AssBench」が公開されています。AIが生成したおしりはブラウザ上で回転させたりクリックして揺らしたりすることが可能で、さまざまなAIが作り上げたおしりを並べて比較できます。続きを読む...",
-      "url": "https://gigazine.net/news/20261109-llm-assbench/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T08:45:47+00:00",
-      "title": "秋葉原「スマートごみ箱」22台新設 ごみを自動で約5分の1に圧縮、たまり具合は遠隔で把握",
-      "description": "千代田区は11月8日、秋葉原中央通りと秋葉原駅周辺の10カ所でスマートごみ箱22台の運用を始めた。ごみを自動で約5分の1に圧縮し、たまり具合を通信で把握して回収に生かす。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003031/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-09T07:10:20+00:00",
-      "title": "口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
-      "description": "金融機関名、支店名、口座番号、口座名義などの口座振替情報、契約状況、予約履歴、購入履歴、レッスンカルテ、顔写真、要配慮個人情報が漏えいした可能性。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
       "visual": "ai"
     },
     {
