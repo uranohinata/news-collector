@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-10T13:36:44.414818+00:00",
+  "updatedAt": "2026-11-10T14:47:01.244947+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T14:00:00+00:00",
+      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+      "description": "仕事や個人のプロジェクトを進める際はタスクの整理・スケジュールの確認・作業時間の記録などに複数のアプリを使い分けることがあります。そんな作業を1カ所にまとめて管理できるのが無料のオープンソースツール「Leantime」です。カンバン・一覧表・ガントビュー・カレンダー・タイムシートを備えるほか、ADHD・失読症・自閉スペクトラム症などを念頭に置いた設計も特徴と",
+      "url": "https://gigazine.net/news/20261110-leantime/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T13:40:00+00:00",
+      "title": "NVIDIAはジェンスン・フアンCEOのもと「家族経営」で強固に支配されているという指摘",
+      "description": "NVIDIAのジェンスン・フアンCEOがアメリカ当局にスパイだと断定された女性と不倫関係にあった問題で、NVIDIAの取締役会は調査を開始したものの、当面はフアン氏がCEOを続投することになっています。今回の一件ではNVIDIAの株価が下がるなど会社への影響も大きく、退任をはじめとした責任の取り方が複数考えられますが、フアンCEOはNVIDIAを一族で強固に",
+      "url": "https://gigazine.net/news/20261110-jensen-huang-has-a-tight-grip-on-nvidia/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,16 +124,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T07:45:00+00:00",
-      "title": "年齢を偽る13～17歳までの数百万人のユーザーに対してInstagramの10代アカウント保護機能を適用するためAIによる年齢推定技術を世界規模で拡大するとMetaが発表",
-      "description": "Metaが年齢を偽る13～17歳の若者に対してもアカウント保護機能を提供するため、AIを用いた年齢推定技術を全世界規模に拡大すると発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-expanding-teen-account-protections-teens/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T07:23:08+00:00",
       "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
@@ -129,16 +139,6 @@
       "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も",
       "description": "日本ケンタッキー・フライド・チキンが、実験販売メニューの商品画像の制作に生成AIを用いることがあると、ITmedia NEWSの取材に回答した。フロートの画像が「AI画像ではないか」とXで話題になったことがきっかけだが、利用の意図や狙いは明らかにしていない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T06:15:00+00:00",
-      "title": "空売り業者がNVIDIAのCEO不倫事件発覚の6カ月前にNVIDIAの問題を指摘していた",
-      "description": "株の空売りを専門とする投資会社のカルパー・リサーチが、NVIDIAのジェンスン・フアンCEOの不倫が発覚する6カ月前、2026年5月の時点でフアンCEOの動向に懸念があると指摘し、空売りを行っていたことが分かりました。この頃から株価は約26％下落しているため、カルパー・リサーチの見立ては正しかったことになります。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-nvidia-megaspeed-short-seller-prediction/",
       "visual": "ai"
     },
     {
