@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-10T21:33:37.393534+00:00",
+  "updatedAt": "2026-11-10T22:33:41.791111+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T22:00:00+00:00",
+      "title": "無料で使える「SketchUp」代替の3Dモデリングツール「BenchUp」が登場、ブラウザ上で家具の設計が可能",
+      "description": "3Dモデリングソフト「SketchUp」の代替を目指す無料のオープンソースツール「BenchUp」が公開されました。プログラミング言語のRustとグラフィックス技術のWebGPUを採用しており、ブラウザ上で立体的な図形を作成できるほか、Windows・macOS・Linux向けのデスクトップアプリも用意されています。なお、BenchUpは当初「KetchUp",
+      "url": "https://gigazine.net/news/20261111-benchup/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -99,16 +109,6 @@
       "title": "「XBOX史上最小」の超小型ワイヤレスコントローラー「XBOX Nano コントローラー」を使ってみた、手のひらサイズでゲームは快適に遊べるのか？",
       "description": "Microsoftが2026年11月に発売した「XBOX Nano コントローラー」は通常のXBOXコントローラーと同じボタン配置を採用しながら、XBOX史上最小となるコンパクトなワイヤレスコントローラーです。XBOX本体だけでなくPCやスマートフォンでも利用でき、ポケットに入れて気軽に持ち運べるのが特徴というXBOX Nano コントローラーを実際に使って",
       "url": "https://gigazine.net/news/20261110-microsoft-xbox-nano-controller/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T09:59:00+00:00",
-      "title": "2026年11月10日のヘッドラインニュース",
-      "description": "アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』の特別PV「HERE COME THE STANDS」が公開されました。第8話に登場したジョニィのスタンド「タスク」など、これまでに登場したスタンドとその個性豊かな能力にフォーカスした新規カットを含む特別PVとなっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-headline/",
       "visual": "ai"
     },
     {
