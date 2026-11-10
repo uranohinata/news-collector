@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-10T09:18:43.147234+00:00",
+  "updatedAt": "2026-11-10T10:23:07.263430+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T10:00:00+00:00",
+      "title": "「XBOX史上最小」の超小型ワイヤレスコントローラー「XBOX Nano コントローラー」を使ってみた、手のひらサイズでゲームは快適に遊べるのか？",
+      "description": "Microsoftが2026年11月に発売した「XBOX Nano コントローラー」は通常のXBOXコントローラーと同じボタン配置を採用しながら、XBOX史上最小となるコンパクトなワイヤレスコントローラーです。XBOX本体だけでなくPCやスマートフォンでも利用でき、ポケットに入れて気軽に持ち運べるのが特徴というXBOX Nano コントローラーを実際に使って",
+      "url": "https://gigazine.net/news/20261110-microsoft-xbox-nano-controller/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T09:59:00+00:00",
+      "title": "2026年11月10日のヘッドラインニュース",
+      "description": "アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』の特別PV「HERE COME THE STANDS」が公開されました。第8話に登場したジョニィのスタンド「タスク」など、これまでに登場したスタンドとその個性豊かな能力にフォーカスした新規カットを含む特別PVとなっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-headline/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T09:50:02+00:00",
+      "title": "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント漏えいか 給与振込用の口座情報なども",
+      "description": "スキマバイトアプリ「シェアフル」を運営するシェアフル（東京都港区）は11月9日、社内管理システムへの不正アクセスにより、最大約750万件のユーザーアカウントに関する個人情報が流出した可能性があると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,26 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T05:00:00+00:00",
-      "title": "「肉を食べるとテストステロンが増える」という説は本当なのか？",
-      "description": "テストステロンは主要な男性ホルモンとして知られており、一部のインフルエンサーは「肉をたくさん食べるとテストステロン値が上がる」と主張しています。新たに東フィンランド大学などの研究チームが、タンパク質摂取量とテストステロン値の関連性についての研究結果を報告しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-animal-protein-lower-testosterone/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T04:38:00+00:00",
-      "title": "スポーツ賭博で4800万円超を失った男性が違法賭博を提供したとしてKalshiを提訴",
-      "description": "あらゆる出来事を賭け事にする予測市場のKalshiで、複数のスポーツの試合の結果について賭けを行い30万8000ドル(約4870万円)超を失った男性が、「Kalshiはワシントン州のオンライン賭博禁止法に違反している」としてKalshiを提訴しました。この男性はKalshiに対して58万ドル(約9170万円)超の支払いを求めています。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-lost-308000-sports-bets-sues-kalshi-illegal-gambling/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T04:20:17+00:00",
       "title": "ドコモ・バイクシェア刷新、11月24日に「NOLL」始動へ 当初予定から半年遅れ",
@@ -179,16 +189,6 @@
       "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい",
       "description": "ラフールは「委託元である当社の管理も十分ではなかった」と述べている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T02:55:08+00:00",
-      "title": "三井化学、JSRを1兆8400億円で買収 「国内トップクラスの半導体材料企業に」",
-      "description": "国内化学業界で過去最大規模のM＆Aとなる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
       "visual": "ai"
     },
     {
