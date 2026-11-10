@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-10T11:16:50.134497+00:00",
+  "updatedAt": "2026-11-10T12:16:39.939071+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T12:00:00+00:00",
+      "title": "よく飛ぶ紙飛行機の作り方をまとめて難易度や用紙の種類で絞り込みもできるサイト「Foldable Flight」",
+      "description": "「Foldable Flight」は紙飛行機専門のYouTubeチャンネルおよびオンラインデータベースで、作りたい紙飛行機の作成難度・見た目のタイプ・使う用紙などから紙飛行機を選択し、作り方を見ることができます。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-foldable-flight/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T11:50:00+00:00",
+      "title": "「明星 一平ちゃん夜店の焼そば 大盛 だっくだくタルタルソース えびフライ味」は具だくさんタルタルソースたっぷりで満腹の一品",
+      "description": "「明星 一平ちゃん」シリーズに、ソース焼きそばではなくタルタルソースを使った新商品「明星 一平ちゃん夜店の焼そば 大盛 だっくだくタルタルソース えびフライ味」が2026年11月9日(月)から加わったので、さっそく買ってきて食べてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-myojo-ippei-tartar/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T11:01:53+00:00",
+      "title": "ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」 7～9月期決算は1兆円超の赤字",
+      "description": "ソフトバンクグループの後藤芳光CFOは11月10日の決算説明会で、米SpaceXのイーロン・マスクCEOがXに投稿した「債務不履行」の指摘を「全くの事実無根」と否定した。米中間選挙での民主党勝利については、データセンター事業が遅れる可能性も「シナリオの一つ」とした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003079/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,26 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T05:40:00+00:00",
-      "title": "Googleが新型AIチップ「TPU 8tx」「TPU 8i Max」を発表、AMD製CPUを採用した機密情報保護モデルと処理性能2倍のモデルが登場",
-      "description": "Googleが2026年11月9日にAI処理に特化した第8世代TPUの新システム「TPU 8tx」と「TPU 8i Max」を発表しました。TPU 8txはAMD製CPUと組み合わせて機密データを安全に処理できるシステムで、TPU 8i Maxは2つのチップを組み合わせることで大量の情報を扱うAIの処理性能を高めています。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-google-tpu-8i-max-8tx/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T05:35:00+00:00",
-      "title": "FBIがNVIDIAのジェンスン・フアンCEOと中国女スパイとの不倫を捜査しているとトランプ大統領が発言、「フアンCEOは問題の人物がスパイだとは全く知らなかった」と擁護",
-      "description": "NVIDIAのジェンスン・フアンCEOと親しい関係にあるアリス・フアン氏が中国のスパイであり中国政府に情報を流していたとアメリカの諜報機関が断定し、その後ジェンスン・フアンCEOはアリス・フアン氏との不倫関係を認めました。アメリカのドナルド・トランプ大統領は2026年11月9日に、「この不倫関係を捜査しているが、人工知能(AI)の開発に貢献してきたジェンスン",
-      "url": "https://gigazine.net/news/20261110-spy-jensen-huang/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T05:29:01+00:00",
       "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か",
@@ -179,16 +189,6 @@
       "title": "サイバー攻撃受けた医療現場のリアル 患者の死亡率が3割上昇 乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
       "description": "米カリフォルニア大学サンディエゴ校などに所属する研究者らが医学誌「Journal of Medical Internet Research」で発表した論文「Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Rev",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T02:55:20+00:00",
-      "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい",
-      "description": "ラフールは「委託元である当社の管理も十分ではなかった」と述べている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
       "visual": "ai"
     },
     {
