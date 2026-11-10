@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-10T03:42:18.650430+00:00",
+  "updatedAt": "2026-11-10T04:45:06.391504+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T04:38:00+00:00",
+      "title": "スポーツ賭博で4800万円超を失った男性が違法賭博を提供したとしてKalshiを提訴",
+      "description": "あらゆる出来事を賭け事にする予測市場のKalshiで、複数のスポーツの試合の結果について賭けを行い30万8000ドル(約4870万円)超を失った男性が、「Kalshiはワシントン州のオンライン賭博禁止法に違反している」としてKalshiを提訴しました。この男性はKalshiに対して58万ドル(約9170万円)超の支払いを求めています。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-lost-308000-sports-bets-sues-kalshi-illegal-gambling/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-10T04:20:17+00:00",
+      "title": "ドコモ・バイクシェア刷新、11月24日に「NOLL」始動へ 当初予定から半年遅れ",
+      "description": "当初は5月に実施予定だったが「品質確保のため」延期した後、8月に大規模障害が起きたためさらに延期。当初予定から半年強遅れての船出となる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003060/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T03:50:00+00:00",
+      "title": "NVIDIAのCEO不倫事件関連でスパイ疑惑のMegaspeed社に対する調査にNVIDIAが介入しようとしていたことが判明",
+      "description": "NVIDIAのジェンスン・フアンCEOが、NVIDIA製AIチップを中国に横流ししている疑いがあるシンガポール企業Megaspeedの幹部女性と不倫しました。これに関連し、Megaspeedを調査していたアメリカの商務省に、NVIDIAの弁護士から過去に接触があったことが判明しています。この介入により商務省は調査の中断を余儀なくされたと報じられています。続き",
+      "url": "https://gigazine.net/news/20261110-nvidia-megaspeed-commerce-dept-investigation/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -154,41 +184,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T01:54:00+00:00",
-      "title": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現",
-      "description": "Metaが2026年11月9日、同社のAIモデル「Muse」シリーズで最も小型かつ効率的だとする新モデル「Muse Ember」を発表しました。AIエージェントによるプログラミングやツール操作などの反復作業に特化しており、Metaによると、Anthropicの「Claude Haiku 5.5」と同等の性能を約3分の1のコストで実現しています。続きを読む..",
-      "url": "https://gigazine.net/news/20261110-meta-muse-ember/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T01:27:00+00:00",
-      "title": "Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」の好調でNintendo Switch 2本体が2026年に入ってから最高の売上を記録",
-      "description": "2026年11月5日(木)、Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」が発売されました。「ゼルダの伝説 時のオカリナ」の人気により、Nintendo Switch 2は2026年に入ってから最高の売上を記録していることが明らかになっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-nintendo-switch-2-best-sales-week-2026-zelda/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T00:06:40+00:00",
       "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
       "description": "Metaは、AIモデル「Muse」ファミリーの最小モデル「Muse Ember」を発表した。AIエージェントの反復タスクに特化しており、上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現している。同日から開発者向けAPI等で提供を開始しており、大量の反復処理を低コストで担う。",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T00:00:00+00:00",
-      "title": "実在しそうで、どこにもいない「AI人」 なぜ人は“完璧なAI映像”に違和感を覚えるのか",
-      "description": "指の本数がおかしい、顔が途中で変わる。そんな分かりやすい破綻は消えつつあるのに、AI映像には今も「なんとなくAIっぽい」と感じる瞬間がある。映像監督の筆者が「AI人」と名付けたAI生成の人物を手掛かりに、その違和感の正体を探る。では、AIが技術的に完璧になれば、違和感は消えるのだろうか。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000002985/",
       "visual": "ai"
     },
     {
