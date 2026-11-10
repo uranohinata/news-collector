@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-10T04:45:06.391504+00:00",
+  "updatedAt": "2026-11-10T05:45:44.614529+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T05:40:00+00:00",
+      "title": "Googleが新型AIチップ「TPU 8tx」「TPU 8i Max」を発表、AMD製CPUを採用した機密情報保護モデルと処理性能2倍のモデルが登場",
+      "description": "Googleが2026年11月9日にAI処理に特化した第8世代TPUの新システム「TPU 8tx」と「TPU 8i Max」を発表しました。TPU 8txはAMD製CPUと組み合わせて機密データを安全に処理できるシステムで、TPU 8i Maxは2つのチップを組み合わせることで大量の情報を扱うAIの処理性能を高めています。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-google-tpu-8i-max-8tx/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T05:35:00+00:00",
+      "title": "FBIがNVIDIAのジェンスン・フアンCEOと中国女スパイとの不倫を捜査しているとトランプ大統領が発言、「フアンCEOは問題の人物がスパイだとは全く知らなかった」と擁護",
+      "description": "NVIDIAのジェンスン・フアンCEOと親しい関係にあるアリス・フアン氏が中国のスパイであり中国政府に情報を流していたとアメリカの諜報機関が断定し、その後ジェンスン・フアンCEOはアリス・フアン氏との不倫関係を認めました。アメリカのドナルド・トランプ大統領は2026年11月9日に、「この不倫関係を捜査しているが、人工知能(AI)の開発に貢献してきたジェンスン",
+      "url": "https://gigazine.net/news/20261110-spy-jensen-huang/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T05:25:00+00:00",
+      "title": "中国政府がNVIDIAのCEO不倫事件に関して「スパイ疑惑は根拠のない話」と言及",
+      "description": "NVIDIAのジェンスン・フアンCEOが、アメリカの諜報当局に「中国のスパイ」と断定されている女性と不倫していた問題で、中国政府がスパイ疑惑を「根拠のない話」と否定しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-nvidia-megaspeed-china-gov-rejected/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-10T05:00:00+00:00",
+      "title": "「肉を食べるとテストステロンが増える」という説は本当なのか？",
+      "description": "テストステロンは主要な男性ホルモンとして知られており、一部のインフルエンサーは「肉をたくさん食べるとテストステロン値が上がる」と主張しています。新たに東フィンランド大学などの研究チームが、タンパク質摂取量とテストステロン値の関連性についての研究結果を報告しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261110-animal-protein-lower-testosterone/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -94,16 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T02:58:00+00:00",
-      "title": "冷蔵庫・冷凍庫へのサイバー攻撃はイランによるものだとフランス外相が非難",
-      "description": "スーパーマーケットの冷蔵庫や冷凍庫を対象に設定温度を上げるサイバー攻撃が行われた問題で、フランスのジャン＝ノエル・バロ外務大臣が「攻撃はイランの革命防衛隊によって行われたものだと確認された」と述べ、イランに対して制裁を課す方針を示しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-france-fridges-hacking-iran/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T02:55:20+00:00",
       "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開 「ラフールサーベイ」約2.4万人の情報漏えい",
@@ -124,41 +154,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T02:47:00+00:00",
-      "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
-      "description": "Anthropicが2026年11月9日に高性能AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。前世代の5.1からプログラミング能力や推論能力が向上しており、1000体以上のAIエージェントを連携させて8日間でOSを開発することにも成功しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-anthropic-claude-fable-mythos-5-2/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T02:26:43+00:00",
       "title": "NTTデータ、住友生命から受託したシステムに不正アクセス 「Vitality」利用者約8万人の情報漏えい",
       "description": "NTTデータは11月9日、住友生命保険から構築・運用を受託しているシステムが不正アクセスを受け、利用者約8万人の個人情報が漏えいしたと発表した。対象は「住友生命Vitality体験版・企業型」と「Vitalityスマート」の利用者で、新規申し込みなどを停止している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003051/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T02:19:00+00:00",
-      "title": "Apple Intelligenceが中国での規制上のハードルをクリア、ついに中国でもApple Intelligenceが間もなくリリース",
-      "description": "Appleが中国でのApple Intelligenceのローンチに先立ち、規制上のハードルをすべてクリアしたとロイターが報じています。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-apple-intelligence-registers-chinese-regulator/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T02:16:00+00:00",
-      "title": "ディズニーとAdobeが生成AI活用で複数年契約を結びパークやメディアコンテンツにAI導入",
-      "description": "Adobeが、自社のソフトやディズニーのコンテンツに合わせてカスタマイズした独自モデルをディズニーに提供するパートナーシップを締結したと発表しました。ディズニーは「Adobe Firefly」などのAIを取り入れてディズニーランド等で活用します。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-adobe-disney-partnership/",
       "visual": "ai"
     },
     {
