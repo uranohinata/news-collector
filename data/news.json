@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-11T06:57:22.458473+00:00",
+  "updatedAt": "2026-11-11T08:16:47.198882+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T07:40:00+00:00",
+      "title": "ジェンスン・フアンCEOと不倫したアリス・フアンとは何者なのか？",
+      "description": "NVIDIAのジェンスン・フアンCEOが、アメリカの諜報機関からスパイと見なされている女性と不倫したことを認めました。この女性はMegaspeedというシンガポール企業の幹部で、その立場を利用して中国にアメリカ製品を出荷していた疑いが持たれています。この女性は一体何者なのか、経済紙のFinancial Timesなどがまとめています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-who-is-alice-huang/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T07:12:21+00:00",
+      "title": "メモリ8GBでも快適？ Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
+      "description": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直させてみた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T07:05:00+00:00",
+      "title": "Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功",
+      "description": "Google DeepMindがソフトウェアの検証を行うためのマルチエージェントAIフレームワーク「AlphaProof Code」を発表しました。研究チームはAlphaProof Codeを用いて、Googleメッセージなどの暗号通信に使用されている「Signalプロトコル」が十分なセキュリティ保護機能を備えていることを数学的に証明することに成功しています",
+      "url": "https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T06:43:42+00:00",
+      "title": "まるで「自宅警備員」？ 室内を自律飛行する防犯ドローン、Amazon傘下が発表 約4万円から",
+      "description": "米Amazon傘下のRingは、室内を自律飛行する家庭向け防犯ドローンを発表した。AIを活用して屋内を巡回し、センサーが異常を検知すると自動で現場へ移動して撮影する。価格は約4万円。企業向けの自律走行型警備ロボットも発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,31 +154,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T03:36:00+00:00",
-      "title": "Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も",
-      "description": "Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T03:35:42+00:00",
       "title": "“タッチ不要”の改札、山手線など40駅に導入 28年春から JR東",
       "description": "JR東日本は、Suicaをタッチせずに通過できる「ウォークスルー改札」を2028年春から本格導入する。山手線全駅など40駅から始め、31年度末までに全駅への拡大を目指す。27年4月から14駅で体験導入を実施する。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T03:32:00+00:00",
-      "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
-      "description": "NVIDIAのジェンスン・フアンCEOがアメリカ当局に「中国のスパイ」と断定された女性と不倫していた問題で、女性はフアン氏との関係を利用して2023年以降、少なくとも75億ドル(約1兆1900億円)分のNVIDIA製半導体を中国に出荷していたことがわかりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/",
       "visual": "ai"
     },
     {
@@ -179,26 +199,6 @@
       "title": "【復旧】「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
       "description": "「iCloudアカウントおよびサインイン」「iCloudカレンダー」など6つのサービスが、一部のユーザーで「機能停止」状態だ。【追記あり】",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T01:38:56+00:00",
-      "title": "相次ぐ個人情報流出対策に、パスワードは紙に書いてアナログ管理 一部「伏せ文字」で",
-      "description": "高齢者にもスマートフォン（スマホ）はすっかり浸透した。スマホのアプリは便利だが、設定したパスワードを思い出せなくなることもあれば、最近はスマホに記憶させておいたままだと不正利用の不安もある。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003092/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T01:30:44+00:00",
-      "title": "エディオン、クレカ番号＋セキュリティコードも一部漏えいか 決済処理に不正プログラム、エラーログにも記録",
-      "description": "決済処理に不正なプログラムが組み込まれていた。また、注文画面でエラーが発生した際、例外的にシステムログへカード番号やセキュリティコードが一時的に記録されていた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
       "visual": "ai"
     },
     {
