@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-11T04:50:33.584087+00:00",
+  "updatedAt": "2026-11-11T05:50:50.023596+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T05:40:00+00:00",
+      "title": "AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話",
+      "description": "部屋のどこかから聞こえる謎の「ピッ」という電子音を突き止めるため、AIを使って音の発生場所を特定するシステムを開発した事例をソフトウェア開発者のサイモン・ウィリソン氏が公開しました。スマートフォンやタブレットなどのマイクを活用し、最終的に音の発生源を約40cmの範囲まで絞り込むことに成功したとのことです。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-mysterious-beeps/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T05:25:00+00:00",
+      "title": "テストが大学生に与えたストレスが「下水の化学的痕跡」から明らかに、抗うつ薬の使用も増加した可能性",
+      "description": "ストレスは心の中だけに影響するものではなく、血液・唾液・髪の毛など体中のさまざまな場所に化学的痕跡を残します。「大学の下水」を分析した新たな研究では、大学のテスト期間中に学生たちが経験したストレスの痕跡が、下水の中にみられることがわかりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-sewage-chemical-signature-university-exams/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T05:19:36+00:00",
+      "title": "内閣府、メルマガ利用者のメアド6万件超漏えい 氏名なども流出の可能性 アララ不正アクセスで",
+      "description": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T05:15:00+00:00",
+      "title": "NVIDIAが仮想的な日本人900万人分の家計や財務状況を含めたペルソナをまとめたデータセットを公開",
+      "description": "NVIDIAは11月10日に東京都で主催した開発者向けイベント「NVIDIA Agentic AI Day」において、日本語AIの開発を支援する2つの合成データセット「Nemotron Personas Finance Japan」と「Nemotron PII Japan」を発表しました。オープンソースペルソナデータセット 「Nemotron Persona",
+      "url": "https://gigazine.net/news/20261111-nemotron-personas-finance-japan/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T04:50:38+00:00",
+      "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功 三菱電機",
+      "description": "一般的な金属製アンテナの接続性能と差分がないことを確認したという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -84,41 +134,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T03:20:00+00:00",
-      "title": "日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果",
-      "description": "日中に太陽の光をたくさん浴びる人は寿命が長いことが知られているほか、日照時間が短くなる冬には冬季うつ(季節性感情障害)のリスクも高まります。新たな研究では、日常生活で強い光を浴びる量が多い人は、後に認知症を発症するリスクが低いことが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-less-bright-light-predictor-dementia/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T03:16:00+00:00",
-      "title": "Amazon Ringが家の中を巡回するセキュリティロボットの「Ring Rover Cam」と屋内用ドローン「Ring Drone Cam」を発表",
-      "description": "Amazon傘下のホームセキュリティブランド「Ring」が、屋内用ロボットシリーズの「Ring Robotics」を発表しました。屋内用ドローンの「Ring Drone Cam」と屋内用移動式ロボット「Ring Rover Cam」が登場しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-amazon-ring-robotics/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T03:11:32+00:00",
       "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？ 「クライアント分離」を2秒で突破する攻撃 米大学が検証",
       "description": "米カリフォルニア大学リバーサイド校などに所属する研究者らが2月に発表した論文「AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks」は、Wi-Fiの同じネットワーク内にいる端末同士の通信を遮断する「クライアント分離」を突破する攻撃手法を発表した研究報告だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T03:10:00+00:00",
-      "title": "Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に",
-      "description": "Adobeは2026年11月10日、クリエイター向けイベント「Adobe MAX 2026」で、PhotoshopやPremiere Proなどの主要アプリを外部のAIエージェントから操作できるようにするModel Context Protocol(MCP)対応を発表しました。2027年初頭にプライベートベータ版を提供する予定で、画像や動画の編集作業をAIエ",
-      "url": "https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/",
       "visual": "ai"
     },
     {
@@ -179,26 +199,6 @@
       "title": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
       "description": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T00:18:27+00:00",
-      "title": "GMOあおぞらネット銀、「不正な通信」検知でAPI一時停止 「予防的な措置」",
-      "description": "11月10日夜から11日朝にかけ、銀行APIサービスを2度にわたり一時停止した。「安全確保のための予防的な措置」という。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003087/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T23:02:05+00:00",
-      "title": "Anthropic、IPOの仮条件を1株70?78ドルに 調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
-      "description": "Anthropicは、IPOに向けた修正版登録届出書を提出し、仮条件を1株70?78ドルに設定した。公開株数は8億2500万株で、調達額は最大約644億ドルとなる。Googleなど7社が260億ドル分を別途引き受ける。時価総額は最大約1兆4000億ドルに上る見込みで、11月19日に取引を開始すると報じられている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
       "visual": "ai"
     },
     {
