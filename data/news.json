@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-11T00:05:05.602094+00:00",
+  "updatedAt": "2026-11-11T01:35:37.322014+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T00:42:26+00:00",
+      "title": "「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
+      "description": "「iCloudアカウントおよびサインイン」「iCloudカレンダー」など6つのサービスが、一部のユーザーで「機能停止」状態だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T00:33:03+00:00",
+      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
+      "description": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T00:18:27+00:00",
+      "title": "GMOあおぞらネット銀、「不正な通信」検知でAPI一時停止 「予防的な措置」",
+      "description": "11月10日夜から11日朝にかけ、銀行APIサービスを2度にわたり一時停止した。「安全確保のための予防的な措置」という。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003087/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -169,36 +199,6 @@
       "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
       "description": "ソフトバンクの宮川潤一社長が、子会社IDCフロンティアへの不正アクセスを巡り、脆弱性診断の不備を謝罪した。AIの進化で新たな脆弱性が相次いで見つかる中、サイバー攻撃への対応に苦慮する現状も明かした。",
       "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T07:23:08+00:00",
-      "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
-      "description": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T07:13:36+00:00",
-      "title": "ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も",
-      "description": "日本ケンタッキー・フライド・チキンが、実験販売メニューの商品画像の制作に生成AIを用いることがあると、ITmedia NEWSの取材に回答した。フロートの画像が「AI画像ではないか」とXで話題になったことがきっかけだが、利用の意図や狙いは明らかにしていない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T05:29:01+00:00",
-      "title": "マイナカードを使うコンビニ交付に障害 自治体が相次ぎ公表 富士フイルム系システムで通信異常か",
-      "description": "マイナンバーカードを使ったコンビニ交付サービスで、戸籍謄本などを取得できない障害が発生したと、各地の自治体が11月10日朝から相次いで公表している。一部の自治体は、富士フイルムシステムサービスの証明書発行システムが使うネットワークで通信異常が起きたと説明している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
       "visual": "ai"
     },
     {
