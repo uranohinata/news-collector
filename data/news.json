@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-11T13:42:52.600062+00:00",
+  "updatedAt": "2026-11-11T14:47:05.758930+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T14:00:00+00:00",
+      "title": "無料でWebサイト・DNS・AWS認証情報・クレカ・機密文書などにおとりを設置して不審な操作を検知できる「Canarytokens」、インストール不要でセルフホストにも対応",
+      "description": "自分が管理するWebページやDNS・AWSなどへの不審なアクセスを把握するには、それぞれのサービスでログを調査するなどの方法がありますが、攻撃者が触れそうな場所へ特殊なおとりを用意することでアクセスされた際に通知を受け取る方法もあります。そこで、Webページ・DNS・AWS・クレジットカード・QRコードなどに対応したおとりを無料で生成し、その利用をメールで通",
+      "url": "https://gigazine.net/news/20261111-canarytokens/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -109,16 +119,6 @@
       "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
       "description": "Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の",
       "url": "https://gigazine.net/news/20261111-gemini-4-carbon/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T08:50:00+00:00",
-      "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
-      "description": "AI開発企業のAnthropicが2026年11月10日に、チャットAI「Claude」の画面内でAdobe製品やNotionなどの外部アプリを直接操作できる新機能を発表しました。Claudeとの会話を続けながら写真やPDFを編集したり、Notionの文書を作成したりできるようになります。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/",
       "visual": "ai"
     },
     {
