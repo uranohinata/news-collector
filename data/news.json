@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-11T05:50:50.023596+00:00",
+  "updatedAt": "2026-11-11T06:57:22.458473+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T06:17:18+00:00",
+      "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討 東京地裁の請求棄却に「野放しでもOK？」",
+      "description": "実業家の前澤友作氏は11月10日、自身の名前や顔写真を無断で使った「なりすまし広告」を巡る米Metaとの訴訟で東京地裁が請求を棄却したことを受け、控訴を検討するとXに投稿した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T06:00:00+00:00",
+      "title": "ドーパミンが人間が本来避ける「苦み」をおいしく感じるよう指示している、最初は嫌いでも食べるうちに好きになっていくメカニズムの一部が明らかに",
+      "description": "初めてコーヒーを飲んだ時、「舌に残る苦みがとにかく受け付けない」と感じた人は少なくないはず。このような舌に残る苦みは脳が本能的に避けようとする味です。それでも多くの人がコーヒーを愛飲しているように、苦みを好む人は少なくありません。これは神経伝達物質であるドーパミンの作用である可能性が、最新の研究により明らかになっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-why-learn-to-love-bitter-coffee/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,16 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T03:30:00+00:00",
-      "title": "AI搭載人工衛星に音声で命令して宇宙で『DOOM』を起動することに成功",
-      "description": "欧州宇宙機関(ESA)の人工衛星に地上から音声で命令し、宇宙空間でFPSゲーム『DOOM』を起動する実験が成功しました。人工衛星に搭載されたAIが音声を認識してゲームを起動する仕組みで、2026年4月から7月にかけて7回の実験が行われ、最終的に人間が直接話した音声による操作に成功しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-doom-satelite-ops-sat/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T03:11:32+00:00",
       "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？ 「クライアント分離」を2秒で突破する攻撃 米大学が検証",
@@ -189,16 +199,6 @@
       "title": "エディオン、クレカ番号＋セキュリティコードも一部漏えいか 決済処理に不正プログラム、エラーログにも記録",
       "description": "決済処理に不正なプログラムが組み込まれていた。また、注文画面でエラーが発生した際、例外的にシステムログへカード番号やセキュリティコードが一時的に記録されていた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T00:33:03+00:00",
-      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
-      "description": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
       "visual": "ai"
     },
     {
