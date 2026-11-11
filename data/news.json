@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-11T11:24:48.094609+00:00",
+  "updatedAt": "2026-11-11T12:23:31.556814+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T12:00:00+00:00",
+      "title": "AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功",
+      "description": "AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,16 +129,6 @@
       "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい JR東海やアイスタイルに影響",
       "description": "ユミルリンクは11月11日、不正アクセスにより約4786万件の個人情報が流出したと発表した。10月に公表した最大約5162万件から件数を精査。被害は同社のメール配信サービスを利用するアイスタイルやJR東海などにも広がっている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T08:35:00+00:00",
-      "title": "Microsoft幹部が開発したGPU用タスクマネージャー「gputaskman」、Windows・macOS・Linux対応で各タスクのGPU使用率やVRAM使用量をhtopっぽく監視できる",
-      "description": "Windows標準のタスクマネージャーでは各タスクのVRAM使用量を監視することができません。「gputaskman」はMicrosoftのバイス・プレジデントであるスコット・ハンゼルマン氏が開発したGPUタスクマネージャーで、GPUの使用状況を詳しく監視できます。便利そうだったので使ってみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-gputaskman/",
       "visual": "ai"
     },
     {
