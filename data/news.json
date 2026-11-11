@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-11T09:24:03.516263+00:00",
+  "updatedAt": "2026-11-11T10:26:55.712522+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T10:00:00+00:00",
+      "title": "「Happy Hacking Keyboard(HHKB)」シリーズ30周年記念の60％キーボード「HHKB Professional Elite」はどんな打ち心地なのか？実際にタイピングしてみた",
+      "description": "PFUの高級キーボード「Happy Hacking Keyboard(HHKB)」シリーズから登場した、世界限定300台の「HHKB Professional Elite」は、アルミ削り出しの筐体を採用した税込33万円の特別モデルです。前回は開封して外観や細部のデザインをチェックしましたが、今回は実際にPCに接続してタイピングし、打鍵感や打鍵音、使い勝手など",
+      "url": "https://gigazine.net/news/20261111-hhkb-professional-elite-usage/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T09:45:00+00:00",
+      "title": "2026年11月11日のヘッドラインニュース",
+      "description": "任天堂は、2026年11月5日(木)に世界同時発売したNintendo Switch 2用ソフト『ゼルダの伝説 時のオカリナ』の世界累計販売本数が、発売後4日間で520万本を突破したことを発表しました。このうち国内販売本数は81万本で、任天堂が発売したNintendo Switch 2用ソフトの発売後4日間の世界累計販売本数として過去最高を記録したとのこと。",
+      "url": "https://gigazine.net/news/20261111-headline/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T09:36:04+00:00",
+      "title": "続くドコモ通信障害 一部除き復旧も、完全解消には至らず 原因は調査中",
+      "description": "NTTドコモは11月11日、全国で発生した5G SA契約者向けの通信障害について、一部を除き復旧したと発表した。午後4時30分時点で完全復旧には至っておらず、原因は調査中。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -49,16 +79,6 @@
       "title": "Microsoft幹部が開発したGPU用タスクマネージャー「gputaskman」、Windows・macOS・Linux対応で各タスクのGPU使用率やVRAM使用量をhtopっぽく監視できる",
       "description": "Windows標準のタスクマネージャーでは各タスクのVRAM使用量を監視することができません。「gputaskman」はMicrosoftのバイス・プレジデントであるスコット・ハンゼルマン氏が開発したGPUタスクマネージャーで、GPUの使用状況を詳しく監視できます。便利そうだったので使ってみました。続きを読む...",
       "url": "https://gigazine.net/news/20261111-gputaskman/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T08:34:17+00:00",
-      "title": "続くドコモ通信障害 一部除き復旧も、完全解消には至らず 原因は調査中",
-      "description": "NTTドコモは11月11日、全国で発生した5G SA契約者向けの通信障害について、一部を除き復旧したと発表した。午後4時30分時点で完全復旧には至っておらず、原因は調査中。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
       "visual": "ai"
     },
     {
@@ -134,31 +154,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T05:25:00+00:00",
-      "title": "テストが大学生に与えたストレスが「下水の化学的痕跡」から明らかに、抗うつ薬の使用も増加した可能性",
-      "description": "ストレスは心の中だけに影響するものではなく、血液・唾液・髪の毛など体中のさまざまな場所に化学的痕跡を残します。「大学の下水」を分析した新たな研究では、大学のテスト期間中に学生たちが経験したストレスの痕跡が、下水の中にみられることがわかりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-sewage-chemical-signature-university-exams/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T05:19:36+00:00",
       "title": "内閣府、メルマガ利用者のメアド6万件超漏えい 氏名なども流出の可能性 アララ不正アクセスで",
       "description": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T05:15:00+00:00",
-      "title": "NVIDIAが仮想的な日本人900万人分の家計や財務状況を含めたペルソナをまとめたデータセットを公開",
-      "description": "NVIDIAは11月10日に東京都で主催した開発者向けイベント「NVIDIA Agentic AI Day」において、日本語AIの開発を支援する2つの合成データセット「Nemotron Personas Finance Japan」と「Nemotron PII Japan」を発表しました。オープンソースペルソナデータセット 「Nemotron Persona",
-      "url": "https://gigazine.net/news/20261111-nemotron-personas-finance-japan/",
       "visual": "ai"
     },
     {
