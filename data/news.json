@@ -1,14 +1,74 @@
 {
-  "updatedAt": "2026-11-11T01:35:37.322014+00:00",
+  "updatedAt": "2026-11-11T02:42:22.334151+00:00",
   "articles": [
     {
       "category": "テクノロジー",
       "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T02:27:00+00:00",
+      "title": "AppleがインドのiPhone部品工場で作業員3人が死亡した事故を調査へ",
+      "description": "中国に次ぐiPhoneの生産拠点であるインドの工場で、3人の作業員が死亡する事故が発生したことがわかりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-three-workers-die-tata-india-iphone-factory/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
       "source": "ITmedia NEWS",
-      "time": "2026-11-11T00:42:26+00:00",
-      "title": "「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
-      "description": "「iCloudアカウントおよびサインイン」「iCloudカレンダー」など6つのサービスが、一部のユーザーで「機能停止」状態だ。",
+      "time": "2026-11-11T02:06:43+00:00",
+      "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声",
+      "description": "ドコモは影響範囲を「確認中」としているが、Xでは、ユーザーから「5G SAがつながらない」「4Gにしたらつながった」などの声が出ている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T02:03:17+00:00",
+      "title": "「ブロッキング」実施検討へ向けた作業部会設置 総務省 法的整理など加速へ",
+      "description": "総務省は11月10日、サイバー攻撃で漏えいした個人情報の拡散などの二次被害の抑止策を議論するため、作業部会を新設すると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003094/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T01:58:00+00:00",
+      "title": "1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応",
+      "description": "中国企業のMiniMaxが画像生成AI「MiniMax-H3-Image」を公開しました。1600万ピクセルの画像を実用的な速度で生成できることを強みとしています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-minimax-h3-image/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T01:52:11+00:00",
+      "title": "【復旧】「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
+      "description": "「iCloudアカウントおよびサインイン」「iCloudカレンダー」など6つのサービスが、一部のユーザーで「機能停止」状態だ。【追記あり】",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T01:38:56+00:00",
+      "title": "相次ぐ個人情報流出対策に、パスワードは紙に書いてアナログ管理 一部「伏せ文字」で",
+      "description": "高齢者にもスマートフォン（スマホ）はすっかり浸透した。スマホのアプリは便利だが、設定したパスワードを思い出せなくなることもあれば、最近はスマホに記憶させておいたままだと不正利用の不安もある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003092/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T01:30:44+00:00",
+      "title": "エディオン、クレカ番号＋セキュリティコードも一部漏えいか 決済処理に不正プログラム、エラーログにも記録",
+      "description": "決済処理に不正なプログラムが組み込まれていた。また、注文画面でエラーが発生した際、例外的にシステムログへカード番号やセキュリティコードが一時的に記録されていた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
       "visual": "ai"
     },
     {
@@ -104,16 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T20:00:00+00:00",
-      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
-      "description": "海外で規制する動きが出ている「AI眼鏡（スマートグラス）」。負の側面が注目されがちだが、ビジネスや医療の現場で活用される事例も出始めている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "GIGAZINE",
       "time": "2026-11-10T14:00:00+00:00",
       "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
@@ -149,56 +199,6 @@
       "title": "よく飛ぶ紙飛行機の作り方をまとめて難易度や用紙の種類で絞り込みもできるサイト「Foldable Flight」",
       "description": "「Foldable Flight」は紙飛行機専門のYouTubeチャンネルおよびオンラインデータベースで、作りたい紙飛行機の作成難度・見た目のタイプ・使う用紙などから紙飛行機を選択し、作り方を見ることができます。続きを読む...",
       "url": "https://gigazine.net/news/20261110-foldable-flight/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T11:50:00+00:00",
-      "title": "「明星 一平ちゃん夜店の焼そば 大盛 だっくだくタルタルソース えびフライ味」は具だくさんタルタルソースたっぷりで満腹の一品",
-      "description": "「明星 一平ちゃん」シリーズに、ソース焼きそばではなくタルタルソースを使った新商品「明星 一平ちゃん夜店の焼そば 大盛 だっくだくタルタルソース えびフライ味」が2026年11月9日(月)から加わったので、さっそく買ってきて食べてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-myojo-ippei-tartar/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T11:01:53+00:00",
-      "title": "ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」 7～9月期決算は1兆円超の赤字",
-      "description": "ソフトバンクグループの後藤芳光CFOは11月10日の決算説明会で、米SpaceXのイーロン・マスクCEOがXに投稿した「債務不履行」の指摘を「全くの事実無根」と否定した。米中間選挙での民主党勝利については、データセンター事業が遅れる可能性も「シナリオの一つ」とした。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003079/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T11:00:00+00:00",
-      "title": "先史時代の人間が定住するには「水」だけでなく「石」も重要だった可能性が砂漠の調査で明らかに",
-      "description": "現世人類(ホモ・サピエンス)はアフリカ大陸で誕生し、12万5000年前頃にアラビア半島への進出を始め、6万年前頃に本格的なユーラシア大陸への移動(出アフリカ)が進んだとされています。そんな出アフリカルートにある砂漠を調査した研究で、先史時代の人類が定住するには「水」だけでなく「石」も重要だったことが示唆されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-stone-water-determined-human-settlement/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T09:50:02+00:00",
-      "title": "スキマバイト「シェアフル」に不正アクセス 最大750万アカウント漏えいか 給与振込用の口座情報なども",
-      "description": "スキマバイトアプリ「シェアフル」を運営するシェアフル（東京都港区）は11月9日、社内管理システムへの不正アクセスにより、最大約750万件のユーザーアカウントに関する個人情報が流出した可能性があると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T08:23:42+00:00",
-      "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
-      "description": "ソフトバンクの宮川潤一社長が、子会社IDCフロンティアへの不正アクセスを巡り、脆弱性診断の不備を謝罪した。AIの進化で新たな脆弱性が相次いで見つかる中、サイバー攻撃への対応に苦慮する現状も明かした。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
       "visual": "ai"
     },
     {
