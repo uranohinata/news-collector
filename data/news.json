@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-11T08:16:47.198882+00:00",
+  "updatedAt": "2026-11-11T09:24:03.516263+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T09:18:00+00:00",
+      "title": "Starlinkがバッテリー搭載でどこでもインターネットに接続可能な携帯型アンテナ「Mini 2」を発表",
+      "description": "Starlinkはアンテナを設置するだけでどこでもインターネットに接続できる衛星インターネットサービスです。新たに、4.5時間のバッテリー駆動が可能な「Mini 2」が登場しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-starlink-mini-2/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T09:00:00+00:00",
+      "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
+      "description": "Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の",
+      "url": "https://gigazine.net/news/20261111-gemini-4-carbon/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T08:50:00+00:00",
+      "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
+      "description": "AI開発企業のAnthropicが2026年11月10日に、チャットAI「Claude」の画面内でAdobe製品やNotionなどの外部アプリを直接操作できる新機能を発表しました。Claudeとの会話を続けながら写真やPDFを編集したり、Notionの文書を作成したりできるようになります。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T08:35:52+00:00",
+      "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい JR東海やアイスタイルに影響",
+      "description": "ユミルリンクは11月11日、不正アクセスにより約4786万件の個人情報が流出したと発表した。10月に公表した最大約5162万件から件数を精査。被害は同社のメール配信サービスを利用するアイスタイルやJR東海などにも広がっている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T08:35:00+00:00",
+      "title": "Microsoft幹部が開発したGPU用タスクマネージャー「gputaskman」、Windows・macOS・Linux対応で各タスクのGPU使用率やVRAM使用量をhtopっぽく監視できる",
+      "description": "Windows標準のタスクマネージャーでは各タスクのVRAM使用量を監視することができません。「gputaskman」はMicrosoftのバイス・プレジデントであるスコット・ハンゼルマン氏が開発したGPUタスクマネージャーで、GPUの使用状況を詳しく監視できます。便利そうだったので使ってみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-gputaskman/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T08:34:17+00:00",
+      "title": "続くドコモ通信障害 一部除き復旧も、完全解消には至らず 原因は調査中",
+      "description": "NTTドコモは11月11日、全国で発生した5G SA契約者向けの通信障害について、一部を除き復旧したと発表した。午後4時30分時点で完全復旧には至っておらず、原因は調査中。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,46 +174,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T04:42:00+00:00",
-      "title": "AMDがZen 6を採用した第6世代EPYCの出荷開始を発表",
-      "description": "AMDがサーバー向けCPU「EPYC 9006シリーズ」の出荷開始を発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-zen-6-epyc/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T04:10:00+00:00",
-      "title": "Googleがロボット用AI「Gemini Robotics 2.5」を発表",
-      "description": "Google DeepMindがロボット工学用AIモデル「Gemini Robotics 2.5」を2026年11月10日に発表しました。現実世界でより速く学習し、日常生活から工場での勤務まであらゆる場面に対応できるように調整されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-gemini-robotics-2-5/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T04:08:00+00:00",
-      "title": "限定300台アルミ削り出しボディが光る33万円のキーボード「HHKB Professional Elite」開封の儀＆外観こんな感じレビュー",
-      "description": "PFUの高級キーボード「Happy Hacking Keyboard(HHKB)」シリーズから、世界限定300台の特別モデル「HHKB Professional Elite」が登場しました。税込33万円という価格で、通常モデルとは異なりアルミ削り出しの筐体を使った特別仕様となっています。今回はHHKB Professional Eliteの実機を借りることが",
-      "url": "https://gigazine.net/news/20261111-hhkb-professional-elite-appearance/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T04:00:00+00:00",
-      "title": "古代エジプトで「神に捧げられる供物用の猫」がひどい扱いを受けていたことが判明",
-      "description": "古代エジプトでは神々に供物として猫が捧げられていました。考古学の学術誌である「Journal of Archaeological Science」に掲載された最新の研究によると、そんな神々の供物となる猫でさえ、手厚く世話されていたわけではないそうです。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-egyptian-cats-meant-for-gods/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T03:35:42+00:00",
       "title": "“タッチ不要”の改札、山手線など40駅に導入 28年春から JR東",
@@ -179,26 +199,6 @@
       "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声【更新】",
       "description": "ドコモの「5G SA」でまた障害が起きた。【更新】",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T02:03:17+00:00",
-      "title": "「ブロッキング」実施検討へ向けた作業部会設置 総務省 法的整理など加速へ",
-      "description": "総務省は11月10日、サイバー攻撃で漏えいした個人情報の拡散などの二次被害の抑止策を議論するため、作業部会を新設すると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003094/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T01:52:11+00:00",
-      "title": "【復旧】「iCloud」で朝から障害 「ログインできない」ユーザー混乱、メールやカレンダーも",
-      "description": "「iCloudアカウントおよびサインイン」「iCloudカレンダー」など6つのサービスが、一部のユーザーで「機能停止」状態だ。【追記あり】",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
       "visual": "ai"
     },
     {
