@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-11T19:51:32.683433+00:00",
+  "updatedAt": "2026-11-11T22:38:50.552476+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T22:00:00+00:00",
+      "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
+      "description": "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生したことから、多くのユーザーや企業に混乱を招きました。続きを",
+      "url": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T21:00:00+00:00",
+      "title": "iPhone DuoはiPhone 18 Proと同じチップでもGPU性能に差、発熱や電池持ちなどのベンチマーク結果が公開される",
+      "description": "ハードウェアの検証を行うLTT Labsが、Appleの折りたたみスマートフォン「iPhone Duo」をiPhone 18 ProやSamsung製スマートフォンと比較した結果を公開しました。CPUやGPUの処理性能に加えて高負荷時の発熱と性能低下、使用する画面によるバッテリー持続時間の違いも調べています。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-iphone-duo-benchmark-battery/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -99,26 +119,6 @@
       "title": "続くドコモ通信障害 一部除き復旧も、完全解消には至らず 原因は調査中",
       "description": "NTTドコモは11月11日、全国で発生した5G SA契約者向けの通信障害について、一部を除き復旧したと発表した。午後4時30分時点で完全復旧には至っておらず、原因は調査中。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T09:18:00+00:00",
-      "title": "Starlinkがバッテリー搭載でどこでもインターネットに接続可能な携帯型アンテナ「Mini 2」を発表",
-      "description": "Starlinkはアンテナを設置するだけでどこでもインターネットに接続できる衛星インターネットサービスです。新たに、4.5時間のバッテリー駆動が可能な「Mini 2」が登場しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-starlink-mini-2/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T09:00:00+00:00",
-      "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
-      "description": "Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の",
-      "url": "https://gigazine.net/news/20261111-gemini-4-carbon/",
       "visual": "ai"
     },
     {
