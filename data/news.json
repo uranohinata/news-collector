@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-11-11T02:42:22.334151+00:00",
+  "updatedAt": "2026-11-11T03:45:38.945028+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T03:36:00+00:00",
+      "title": "Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も",
+      "description": "Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T03:32:00+00:00",
+      "title": "ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い",
+      "description": "NVIDIAのジェンスン・フアンCEOがアメリカ当局に「中国のスパイ」と断定された女性と不倫していた問題で、女性はフアン氏との関係を利用して2023年以降、少なくとも75億ドル(約1兆1900億円)分のNVIDIA製半導体を中国に出荷していたことがわかりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-nvidia-spy-affair-ai-chip-shipments-to-china/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T03:30:00+00:00",
+      "title": "AI搭載人工衛星に音声で命令して宇宙で『DOOM』を起動することに成功",
+      "description": "欧州宇宙機関(ESA)の人工衛星に地上から音声で命令し、宇宙空間でFPSゲーム『DOOM』を起動する実験が成功しました。人工衛星に搭載されたAIが音声を認識してゲームを起動する仕組みで、2026年4月から7月にかけて7回の実験が行われ、最終的に人間が直接話した音声による操作に成功しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-doom-satelite-ops-sat/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T03:20:00+00:00",
+      "title": "日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果",
+      "description": "日中に太陽の光をたくさん浴びる人は寿命が長いことが知られているほか、日照時間が短くなる冬には冬季うつ(季節性感情障害)のリスクも高まります。新たな研究では、日常生活で強い光を浴びる量が多い人は、後に認知症を発症するリスクが低いことが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-less-bright-light-predictor-dementia/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T03:16:00+00:00",
+      "title": "Amazon Ringが家の中を巡回するセキュリティロボットの「Ring Rover Cam」と屋内用ドローン「Ring Drone Cam」を発表",
+      "description": "Amazon傘下のホームセキュリティブランド「Ring」が、屋内用ロボットシリーズの「Ring Robotics」を発表しました。屋内用ドローンの「Ring Drone Cam」と屋内用移動式ロボット「Ring Rover Cam」が登場しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-amazon-ring-robotics/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T03:11:32+00:00",
+      "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？ 「クライアント分離」を2秒で突破する攻撃 米大学が検証",
+      "description": "米カリフォルニア大学リバーサイド校などに所属する研究者らが2月に発表した論文「AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks」は、Wi-Fiの同じネットワーク内にいる端末同士の通信を遮断する「クライアント分離」を突破する攻撃手法を発表した研究報告だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T03:10:00+00:00",
+      "title": "Adobeが2027年のMCP対応を予告、PhotoshopやPremiere ProをAIエージェントから操作可能に",
+      "description": "Adobeは2026年11月10日、クリエイター向けイベント「Adobe MAX 2026」で、PhotoshopやPremiere Proなどの主要アプリを外部のAIエージェントから操作できるようにするModel Context Protocol(MCP)対応を発表しました。2027年初頭にプライベートベータ版を提供する予定で、画像や動画の編集作業をAIエ",
+      "url": "https://gigazine.net/news/20261111-adobe-creative-tools-mcp-support/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T02:52:53+00:00",
+      "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声【更新】",
+      "description": "ドコモの「5G SA」でまた障害が起きた。【更新】",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T02:45:00+00:00",
+      "title": "「Firefox 160」正式版リリース、ウェブページを常に最前面に表示できる「ミニウィンドウ」機能が登場",
+      "description": "ウェブブラウザ「Firefox 160」の正式版が公開されました。ウェブページの一部を常に最前面に表示するミニウィンドウ機能が追加されたほか、ピクチャーインピクチャーで動画の再生速度を変更できるようになりました。また、閲覧履歴からドラッグ＆ドロップで新しいタブを開く機能や、40言語に対応した音声認識機能なども追加されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-firefox-160/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T02:44:00+00:00",
+      "title": "今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正",
+      "description": "Windowsのセキュリティ更新プログラムやバグ修正を配信する毎月恒例のWindows Updateが公開されました。今回のWindows Updateでは、「Outlook」に存在する脆弱(ぜいじゃく)性など複数の脆弱性が修正されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-windows-update/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -9,16 +109,6 @@
       "title": "AppleがインドのiPhone部品工場で作業員3人が死亡した事故を調査へ",
       "description": "中国に次ぐiPhoneの生産拠点であるインドの工場で、3人の作業員が死亡する事故が発生したことがわかりました。続きを読む...",
       "url": "https://gigazine.net/news/20261111-three-workers-die-tata-india-iphone-factory/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T02:06:43+00:00",
-      "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声",
-      "description": "ドコモは影響範囲を「確認中」としているが、Xでは、ユーザーから「5G SAがつながらない」「4Gにしたらつながった」などの声が出ている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
       "visual": "ai"
     },
     {
@@ -94,16 +184,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T00:00:00+00:00",
-      "title": "GIGAZINE読者は記事広告で何をレビューしてほしいのか？",
-      "description": "ゲームを長時間プレイしたときにスマートフォンがどれくらい熱くなるのかや、冷凍食品を調理するとどんな仕上がりになるのかなど、実際に製品を買う前にレビューを読んで確かめておきたいことはいろいろあります。GIGAZINEでは編集部が製品やサービスを実際に試してレビューする記事広告をこれまでに多数掲載していますが、そんな記事広告でどういう製品やサービスを取り上げてほ",
-      "url": "https://gigazine.net/news/20261111-gigazine-review-survey/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T23:02:05+00:00",
       "title": "Anthropic、IPOの仮条件を1株70?78ドルに 調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
@@ -114,91 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T23:00:00+00:00",
-      "title": "「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？",
-      "description": "AIの市場規模は急速に拡大しつつあり、2030年には4兆2000億ドル(約660兆円)に達するとの予測もありますが、一方で「AIブームはバブルに過ぎない」と冷ややかな見方もあります。そんな中でエンジニアのMatteo Raso氏が、「AIはバブルではなく、まだAI企業が成長する余地はある」と主張しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-10T22:49:32+00:00",
       "title": "簿記などの受験者情報最大98万人分漏えいか 合否や得点も 日商ネット試験に不正アクセス",
       "description": "氏名、フリガナ、性別、生年月日、合否結果、試験得点と、任意で入力したメールアドレス、電話番号、住所が漏えいした可能性がある。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T22:03:30+00:00",
-      "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
-      "description": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T22:00:00+00:00",
-      "title": "無料で使える「SketchUp」代替の3Dモデリングツール「BenchUp」が登場、ブラウザ上で家具の設計が可能",
-      "description": "3Dモデリングソフト「SketchUp」の代替を目指す無料のオープンソースツール「BenchUp」が公開されました。プログラミング言語のRustとグラフィックス技術のWebGPUを採用しており、ブラウザ上で立体的な図形を作成できるほか、Windows・macOS・Linux向けのデスクトップアプリも用意されています。なお、BenchUpは当初「KetchUp",
-      "url": "https://gigazine.net/news/20261111-benchup/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T21:00:00+00:00",
-      "title": "11年間にわたるリバースエンジニアリングでDOS版「ウイングコマンダー」の2人同時協力プレイ実現に成功",
-      "description": "子どもの頃にDOS版「ウイングコマンダー」の協力プレイを楽しんでいた兄弟が、11年もの間リバースエンジニアリングを続け、ついに夢に見た「僚機との協力プレイ」を実現しました。単一のコックピットを共有するのではなくそれぞれの機体を駆って協力プレイしたいという子どもの頃の夢から始まり、ゲームのメモリ・コード・ネットワークプロトコルの深淵を探求するなど、数年間に及ぶ",
-      "url": "https://gigazine.net/news/20261111-wing-commander-together/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T14:00:00+00:00",
-      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
-      "description": "仕事や個人のプロジェクトを進める際はタスクの整理・スケジュールの確認・作業時間の記録などに複数のアプリを使い分けることがあります。そんな作業を1カ所にまとめて管理できるのが無料のオープンソースツール「Leantime」です。カンバン・一覧表・ガントビュー・カレンダー・タイムシートを備えるほか、ADHD・失読症・自閉スペクトラム症などを念頭に置いた設計も特徴と",
-      "url": "https://gigazine.net/news/20261110-leantime/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T13:40:00+00:00",
-      "title": "NVIDIAはジェンスン・フアンCEOのもと「家族経営」で強固に支配されているという指摘",
-      "description": "NVIDIAのジェンスン・フアンCEOがアメリカ当局にスパイだと断定された女性と不倫関係にあった問題で、NVIDIAの取締役会は調査を開始したものの、当面はフアン氏がCEOを続投することになっています。今回の一件ではNVIDIAの株価が下がるなど会社への影響も大きく、退任をはじめとした責任の取り方が複数考えられますが、フアンCEOはNVIDIAを一族で強固に",
-      "url": "https://gigazine.net/news/20261110-jensen-huang-has-a-tight-grip-on-nvidia/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T13:00:00+00:00",
-      "title": "車を遠隔解錠できる脆弱性が存在していたことが発覚、トヨタが対象の可能性あり",
-      "description": "一部の自動車メーカーのシステムに脆弱(ぜいじゃく)性が存在し、車のドアを遠隔操作で解錠したりエンジンを始動したりできる状態だったことがセキュリティ研究者によって報告されました。メーカー名は公表されていませんが、トヨタとレクサスが該当する可能性が指摘されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-unlock-any-car-from-x-brand/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-10T12:00:00+00:00",
-      "title": "よく飛ぶ紙飛行機の作り方をまとめて難易度や用紙の種類で絞り込みもできるサイト「Foldable Flight」",
-      "description": "「Foldable Flight」は紙飛行機専門のYouTubeチャンネルおよびオンラインデータベースで、作りたい紙飛行機の作成難度・見た目のタイプ・使う用紙などから紙飛行機を選択し、作り方を見ることができます。続きを読む...",
-      "url": "https://gigazine.net/news/20261110-foldable-flight/",
       "visual": "ai"
     },
     {
