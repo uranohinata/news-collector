@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-11T10:26:55.712522+00:00",
+  "updatedAt": "2026-11-11T11:24:48.094609+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T11:05:00+00:00",
+      "title": "「黒いU.F.O.」「黒いカレーメシ」「黒いどん兵衛」試食レビュー、「背徳こそ正義！」とアピールする3品の味を確かめてみた",
+      "description": "日清食品からブラックフライデーに合わせた新商品として、「“黒い欲望”を解放し、本能のままに食を楽しんでいただきたい」というコンセプトの「背徳BLACK」シリーズ3品、「日清焼そばBLACK U.F.O. ガリマヨブラックイカスミソース焼そば」「日清のBLACKどん兵衛 背脂醤油黒うどん」「日清BLACKカレーメシ 濃厚チーズ」が2026年11月16日(月)か",
+      "url": "https://gigazine.net/news/20261111-nissin-immoral-black/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T11:00:00+00:00",
+      "title": "2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か",
+      "description": "元OpenAIのガバナンス研究者であるダニエル・ココタイロ氏が率いる非営利研究団体のAI Futures Projectが、最高水準の人間の研究者を一掃するかもしれない「Superhuman AI Researcher(超人的AI研究者：SAR)」が2027年に登場する可能性が高いとの予測を発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T10:45:00+00:00",
+      "title": "サイバートラック生産終了についてイーロン・マスクが「売れ行きは好調だが利益の大きいサイバーキャブを優先した」と反論",
+      "description": "テスラのイーロン・マスクCEOが電動ピックアップトラック「Cybertruck(サイバートラック)」の生産を2027年半ばで終了することを明らかにしました。メディアでは生産終了の原因として不具合やリコールの多さ、販売台数が当初の予測をはるかに下回ったことなどが挙げられましたが、マスクCEOは「受注自体は好調」と反論しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-elon-musk-cybertruck/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T10:31:00+00:00",
+      "title": "GoogleのAI「Gemini」は個人のGoogleドライブ内のファイルやGmailを人間のレビュー担当者が見ることができるようにしている可能性がある",
+      "description": "GoogleのAI「Gemini」にはログインしたアカウントのGmailやGoogleドライブと連携してよりパーソナルなチャットやデータ分析を行うことができる機能があります。この機能が明示的に指示していない場合でも個人データを参照しており、さらにはGeminiが読み取った個人情報について人間のレビュー担当者に見られている可能性があると報告されています。続きを",
+      "url": "https://gigazine.net/news/20261111-gemini-drive/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T10:11:24+00:00",
+      "title": "靖国神社に不正アクセス 約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
+      "description": "靖国神社（東京都千代田区）は11月11日、同神社が運営する通販サイト「オンライン授与品・頒布品サイト」への不正アクセスにより、約1万4500件の個人情報が漏えいしたと発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -84,31 +134,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T07:40:00+00:00",
-      "title": "ジェンスン・フアンCEOと不倫したアリス・フアンとは何者なのか？",
-      "description": "NVIDIAのジェンスン・フアンCEOが、アメリカの諜報機関からスパイと見なされている女性と不倫したことを認めました。この女性はMegaspeedというシンガポール企業の幹部で、その立場を利用して中国にアメリカ製品を出荷していた疑いが持たれています。この女性は一体何者なのか、経済紙のFinancial Timesなどがまとめています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-who-is-alice-huang/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T07:12:21+00:00",
       "title": "メモリ8GBでも快適？ Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
       "description": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直させてみた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T07:05:00+00:00",
-      "title": "Google DeepMindがAIでコードを検証する「AlphaProof Code」を使ってSignalプロトコルの安全性の形式的検証に成功",
-      "description": "Google DeepMindがソフトウェアの検証を行うためのマルチエージェントAIフレームワーク「AlphaProof Code」を発表しました。研究チームはAlphaProof Codeを用いて、Googleメッセージなどの暗号通信に使用されている「Signalプロトコル」が十分なセキュリティ保護機能を備えていることを数学的に証明することに成功しています",
-      "url": "https://gigazine.net/news/20261111-google-deepmind-alphaproof-code-verification/",
       "visual": "ai"
     },
     {
@@ -129,26 +159,6 @@
       "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討 東京地裁の請求棄却に「野放しでもOK？」",
       "description": "実業家の前澤友作氏は11月10日、自身の名前や顔写真を無断で使った「なりすまし広告」を巡る米Metaとの訴訟で東京地裁が請求を棄却したことを受け、控訴を検討するとXに投稿した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T06:00:00+00:00",
-      "title": "ドーパミンが人間が本来避ける「苦み」をおいしく感じるよう指示している、最初は嫌いでも食べるうちに好きになっていくメカニズムの一部が明らかに",
-      "description": "初めてコーヒーを飲んだ時、「舌に残る苦みがとにかく受け付けない」と感じた人は少なくないはず。このような舌に残る苦みは脳が本能的に避けようとする味です。それでも多くの人がコーヒーを愛飲しているように、苦みを好む人は少なくありません。これは神経伝達物質であるドーパミンの作用である可能性が、最新の研究により明らかになっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-why-learn-to-love-bitter-coffee/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T05:40:00+00:00",
-      "title": "AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話",
-      "description": "部屋のどこかから聞こえる謎の「ピッ」という電子音を突き止めるため、AIを使って音の発生場所を特定するシステムを開発した事例をソフトウェア開発者のサイモン・ウィリソン氏が公開しました。スマートフォンやタブレットなどのマイクを活用し、最終的に音の発生源を約40cmの範囲まで絞り込むことに成功したとのことです。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-mysterious-beeps/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？ 「クライアント分離」を2秒で突破する攻撃 米大学が検証",
       "description": "米カリフォルニア大学リバーサイド校などに所属する研究者らが2月に発表した論文「AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks」は、Wi-Fiの同じネットワーク内にいる端末同士の通信を遮断する「クライアント分離」を突破する攻撃手法を発表した研究報告だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T02:52:53+00:00",
-      "title": "ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声【更新】",
-      "description": "ドコモの「5G SA」でまた障害が起きた。【更新】",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
       "visual": "ai"
     },
     {
