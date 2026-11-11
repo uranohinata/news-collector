@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-11T03:45:38.945028+00:00",
+  "updatedAt": "2026-11-11T04:50:33.584087+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T04:42:00+00:00",
+      "title": "AMDがZen 6を採用した第6世代EPYCの出荷開始を発表",
+      "description": "AMDがサーバー向けCPU「EPYC 9006シリーズ」の出荷開始を発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-zen-6-epyc/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T04:10:00+00:00",
+      "title": "Googleがロボット用AI「Gemini Robotics 2.5」を発表",
+      "description": "Google DeepMindがロボット工学用AIモデル「Gemini Robotics 2.5」を2026年11月10日に発表しました。現実世界でより速く学習し、日常生活から工場での勤務まであらゆる場面に対応できるように調整されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-gemini-robotics-2-5/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T04:08:00+00:00",
+      "title": "限定300台アルミ削り出しボディが光る33万円のキーボード「HHKB Professional Elite」開封の儀＆外観こんな感じレビュー",
+      "description": "PFUの高級キーボード「Happy Hacking Keyboard(HHKB)」シリーズから、世界限定300台の特別モデル「HHKB Professional Elite」が登場しました。税込33万円という価格で、通常モデルとは異なりアルミ削り出しの筐体を使った特別仕様となっています。今回はHHKB Professional Eliteの実機を借りることが",
+      "url": "https://gigazine.net/news/20261111-hhkb-professional-elite-appearance/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-11T04:00:00+00:00",
+      "title": "古代エジプトで「神に捧げられる供物用の猫」がひどい扱いを受けていたことが判明",
+      "description": "古代エジプトでは神々に供物として猫が捧げられていました。考古学の学術誌である「Journal of Archaeological Science」に掲載された最新の研究によると、そんな神々の供物となる猫でさえ、手厚く世話されていたわけではないそうです。続きを読む...",
+      "url": "https://gigazine.net/news/20261111-egyptian-cats-meant-for-gods/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -9,6 +49,16 @@
       "title": "Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も",
       "description": "Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。続きを読む...",
       "url": "https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T03:35:42+00:00",
+      "title": "“タッチ不要”の改札、山手線など40駅に導入 28年春から JR東",
+      "description": "JR東日本は、Suicaをタッチせずに通過できる「ウォークスルー改札」を2028年春から本格導入する。山手線全駅など40駅から始め、31年度末までに全駅への拡大を目指す。27年4月から14駅で体験導入を実施する。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
       "visual": "ai"
     },
     {
@@ -84,51 +134,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T02:45:00+00:00",
-      "title": "「Firefox 160」正式版リリース、ウェブページを常に最前面に表示できる「ミニウィンドウ」機能が登場",
-      "description": "ウェブブラウザ「Firefox 160」の正式版が公開されました。ウェブページの一部を常に最前面に表示するミニウィンドウ機能が追加されたほか、ピクチャーインピクチャーで動画の再生速度を変更できるようになりました。また、閲覧履歴からドラッグ＆ドロップで新しいタブを開く機能や、40言語に対応した音声認識機能なども追加されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-firefox-160/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T02:44:00+00:00",
-      "title": "今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正",
-      "description": "Windowsのセキュリティ更新プログラムやバグ修正を配信する毎月恒例のWindows Updateが公開されました。今回のWindows Updateでは、「Outlook」に存在する脆弱(ぜいじゃく)性など複数の脆弱性が修正されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-windows-update/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T02:27:00+00:00",
-      "title": "AppleがインドのiPhone部品工場で作業員3人が死亡した事故を調査へ",
-      "description": "中国に次ぐiPhoneの生産拠点であるインドの工場で、3人の作業員が死亡する事故が発生したことがわかりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-three-workers-die-tata-india-iphone-factory/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T02:03:17+00:00",
       "title": "「ブロッキング」実施検討へ向けた作業部会設置 総務省 法的整理など加速へ",
       "description": "総務省は11月10日、サイバー攻撃で漏えいした個人情報の拡散などの二次被害の抑止策を議論するため、作業部会を新設すると発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003094/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T01:58:00+00:00",
-      "title": "1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応",
-      "description": "中国企業のMiniMaxが画像生成AI「MiniMax-H3-Image」を公開しました。1600万ピクセルの画像を実用的な速度で生成できることを強みとしています。続きを読む...",
-      "url": "https://gigazine.net/news/20261111-minimax-h3-image/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "Anthropic、IPOの仮条件を1株70?78ドルに 調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
       "description": "Anthropicは、IPOに向けた修正版登録届出書を提出し、仮条件を1株70?78ドルに設定した。公開株数は8億2500万株で、調達額は最大約644億ドルとなる。Googleなど7社が260億ドル分を別途引き受ける。時価総額は最大約1兆4000億ドルに上る見込みで、11月19日に取引を開始すると報じられている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-10T22:49:32+00:00",
-      "title": "簿記などの受験者情報最大98万人分漏えいか 合否や得点も 日商ネット試験に不正アクセス",
-      "description": "氏名、フリガナ、性別、生年月日、合否結果、試験得点と、任意で入力したメールアドレス、電話番号、住所が漏えいした可能性がある。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
       "visual": "ai"
     },
     {
