@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-12T21:16:25.962329+00:00",
+  "updatedAt": "2026-11-12T22:14:59.011315+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T22:00:00+00:00",
+      "title": "無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場",
+      "description": "Amazonはすべて自律AIエージェントによって開発された新しいローカルAWSエミュレーター「AWS Emulator」をリリースしました。AWS EmulatorはAWSサービスをローカル環境で実行することによりAWSアプリケーションの開発とテストを可能にするとのことです。注目すべき点として、AWS Emulatorのプロジェクトでは人間のエンジニアによる",
+      "url": "https://gigazine.net/news/20261113-aws-emulator/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-12T21:41:21+00:00",
+      "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+      "description": "Microsoftの「Microsoft 365」で米国時間11月12日、Exchange Onlineなどに接続できない大規模障害が発生した。原因は多数のサーバが自動ヘルスチェックに失敗して応答しなくなったためで、直近の構成変更が影響した可能性がある。一部は復旧しており、同社は自動復旧の導入など対応を進めている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -144,16 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T07:00:00+00:00",
-      "title": "AIエージェントが公的機関に記録のないマヤ文明の遺跡をたった数十時間で再発見したとの報告",
-      "description": "AIテクノロジーは急速に発展しており、近年では学術研究にAIが利用されることが一般的になっています。イタリア出身のAI研究者であるピエトロ・ミオティ氏が、「AIエージェントを使って公式登録簿から漏れていたマヤ文明の遺跡を再発見した」という事例について報告しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-ai-agents-rediscovered-maya-site/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-12T05:10:47+00:00",
       "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
@@ -189,16 +199,6 @@
       "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
       "description": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T00:56:17+00:00",
-      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
-      "description": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
       "visual": "ai"
     },
     {
