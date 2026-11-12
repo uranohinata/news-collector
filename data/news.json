@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-11T23:21:10.742678+00:00",
+  "updatedAt": "2026-11-12T00:15:24.993981+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T00:00:00+00:00",
+      "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
+      "description": "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルスクラッチで開発された国産生成AI基盤モデルで、日本語に特化しているのが特徴。このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い翻訳が可能で、テキスト翻訳だけでなくFirefoxやChromeの拡張機能でも提供されています。2026年10月にはPL",
+      "url": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-11T23:46:34+00:00",
+      "title": "Appleサポートコミュニティ、11月20日に閉鎖へ 新規投稿は既に終了",
+      "description": "Appleは、「Appleサポートコミュニティ」を11月20日に閉鎖すると発表した。1998年に開設された同フォーラムは、現在すでに新規投稿の受け付けを終了し、閲覧専用となっている。Appleは戦略と顧客ニーズを慎重に評価した結果としており、今後は公式サポートサイトを利用するよう呼び掛けている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,16 +124,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T09:45:00+00:00",
-      "title": "2026年11月11日のヘッドラインニュース",
-      "description": "任天堂は、2026年11月5日(木)に世界同時発売したNintendo Switch 2用ソフト『ゼルダの伝説 時のオカリナ』の世界累計販売本数が、発売後4日間で520万本を突破したことを発表しました。このうち国内販売本数は81万本で、任天堂が発売したNintendo Switch 2用ソフトの発売後4日間の世界累計販売本数として過去最高を記録したとのこと。",
-      "url": "https://gigazine.net/news/20261111-headline/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T09:36:04+00:00",
       "title": "続くドコモ通信障害 一部除き復旧も、完全解消には至らず 原因は調査中",
@@ -189,16 +199,6 @@
       "title": "“タッチ不要”の改札、山手線など40駅に導入 28年春から JR東",
       "description": "JR東日本は、Suicaをタッチせずに通過できる「ウォークスルー改札」を2028年春から本格導入する。山手線全駅など40駅から始め、31年度末までに全駅への拡大を目指す。27年4月から14駅で体験導入を実施する。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T03:11:32+00:00",
-      "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？ 「クライアント分離」を2秒で突破する攻撃 米大学が検証",
-      "description": "米カリフォルニア大学リバーサイド校などに所属する研究者らが2月に発表した論文「AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks」は、Wi-Fiの同じネットワーク内にいる端末同士の通信を遮断する「クライアント分離」を突破する攻撃手法を発表した研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
       "visual": "ai"
     },
     {
