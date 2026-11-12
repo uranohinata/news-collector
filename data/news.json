@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-12T11:50:06.529428+00:00",
+  "updatedAt": "2026-11-12T12:55:48.990836+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T12:00:00+00:00",
+      "title": "レーザー兵器を搭載したAI潜水ロボット3500台がサケ養殖場を巡回しサケジラミを駆除して1億1200万匹の魚を守っている",
+      "description": "ノルウェーのサケ養殖場ではAIを搭載した水中ロボットが魚に付着した寄生虫を検出し、レーザーで駆除する取り組みが広がっています。テクノロジー系メディアのTom's Hardwareによると、水中ロボットの稼働台数は3500台を超えているとのことです。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-stingray-marine-solutions-ai-robots-salmon/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -149,16 +159,6 @@
       "title": "NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落",
       "description": "米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOの解任の可否を決める会合を開く。フアン氏を巡る2件の不倫報道が続く中、同氏に明確な後継者はいない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003138/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T04:45:00+00:00",
-      "title": "動画系AIのRunwayが動画から世界を理解してロボットを動かすためのAI「Praxis-1」を公開",
-      "description": "動画生成AIの「Runway」シリーズや動画編集AI「Aleph 2.0」などを展開するアメリカの生成AI企業・Runwayが、動画の事前学習を実際のロボットの制御に変換するオープンウェイトワールドアクションモデル「Praxis-1」を発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-praxis-1/",
       "visual": "ai"
     },
     {
