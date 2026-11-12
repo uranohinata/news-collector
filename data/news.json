@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-12T06:59:39.167182+00:00",
+  "updatedAt": "2026-11-12T08:20:37.232466+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T08:07:00+00:00",
+      "title": "ユナイテッド航空がAIを利用したフライト予約を禁止",
+      "description": "アメリカの大手航空会社・ユナイテッド航空が、AIエージェントやAIアシスタントを利用したフライトの予約を禁止したと発表しました。理由としては情報漏洩(ろうえい)の懸念やマイルの不正利用防止のほか、当局の規制に違反する可能性が挙げられています。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-united-airlines-bans-ai-agents/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T07:00:00+00:00",
+      "title": "AIエージェントが公的機関に記録のないマヤ文明の遺跡をたった数十時間で再発見したとの報告",
+      "description": "AIテクノロジーは急速に発展しており、近年では学術研究にAIが利用されることが一般的になっています。イタリア出身のAI研究者であるピエトロ・ミオティ氏が、「AIエージェントを使って公式登録簿から漏れていたマヤ文明の遺跡を再発見した」という事例について報告しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-ai-agents-rediscovered-maya-site/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -99,26 +119,6 @@
       "title": "AppleがローカルAI実行アプリ「Harbor」を開発中であることが判明、複数のMacを接続してメモリを共有可能",
       "description": "AppleがMacでAIをローカル実行するためのアプリ「Harbor」を開発中であることが判明しました。開発はApple傘下のClarisが担当しています。続きを読む...",
       "url": "https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T03:40:00+00:00",
-      "title": "任天堂がGitHubでSwitch関連改造チップファームウェアのDMCA削除要請を申請",
-      "description": "任天堂は2026年8月には1日に7件のDMCA削除通知をGitHubに提出して400以上のNintendo Switchエミュレーターリポジトリを削除するなど、GitHub上のエミュレーターやハッキングツールに対応しています。2026年11月には新たに、Nintendo Switch用改造チップの情報とファームウェアを提供しているリポジトリを対象とした削除通",
-      "url": "https://gigazine.net/news/20261112-switch-modchip-firmware/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T03:32:00+00:00",
-      "title": "NVIDIAのジェンスン・フアンCEOが部下女性とも不倫関係にあったとの指摘、議員からは辞任要求の圧も",
-      "description": "中国のスパイと目される女性との不倫が取り沙汰されているNVIDIAのジェンスン・フアンCEOについて、直属の部下でヘルスケア担当バイスプレジデント(VP)のキンバリー・パウエル氏とも不倫関係にあったことが新たに指摘されています。議員らからは、国家安全保障の面でリスクがあることを理由にフアンCEOの辞任を求める声があるほか、議会への召喚も検討が進められています",
-      "url": "https://gigazine.net/news/20261112-jensen-huang-had-relationship-with-exec/",
       "visual": "ai"
     },
     {
