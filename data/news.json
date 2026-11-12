@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-12T05:52:54.295963+00:00",
+  "updatedAt": "2026-11-12T06:59:39.167182+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T06:10:00+00:00",
+      "title": "ネコは「自分の不満を解消させるため」に人間に向かって鳴いている可能性",
+      "description": "ネコは人間の飼い主に対してよそよそしい部分もありますが、時には「ニャーニャー」とまるで話しかけるように鳴いてくることがあります。38匹のネコと飼い主を対象にした実験では、ネコは「自分の不満を飼い主に解消させるため」に鳴いている可能性が示されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-cat-meows-demand-you-fix-world/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T06:00:00+00:00",
+      "title": "数十億人のユーザー数をわずか数KBのメモリで推定できるアルゴリズム「HyperLogLog」とは？",
+      "description": "ウェブサイトを訪れたユーザーの数を正確に把握するには、訪問者のIDを記録して重複を取り除く必要があります。しかし、2007年に発表されたアルゴリズム「HyperLogLog」を使えば、わずか数KBのメモリで数十億人規模のユーザー数を推定することが可能です。このHyperLogLogの仕組みについて、科学誌のScientific Americanが解説していま",
+      "url": "https://gigazine.net/news/20261112-hyperloglog-with-coin-toss/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -99,26 +119,6 @@
       "title": "NVIDIAのジェンスン・フアンCEOが部下女性とも不倫関係にあったとの指摘、議員からは辞任要求の圧も",
       "description": "中国のスパイと目される女性との不倫が取り沙汰されているNVIDIAのジェンスン・フアンCEOについて、直属の部下でヘルスケア担当バイスプレジデント(VP)のキンバリー・パウエル氏とも不倫関係にあったことが新たに指摘されています。議員らからは、国家安全保障の面でリスクがあることを理由にフアンCEOの辞任を求める声があるほか、議会への召喚も検討が進められています",
       "url": "https://gigazine.net/news/20261112-jensen-huang-had-relationship-with-exec/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T03:30:00+00:00",
-      "title": "パーキンソン病の診断を受ける最大7年前から「歩き方」に兆候が現れている可能性",
-      "description": "パーキンソン病は手の震えや歩行困難といった運動障害を示す神経変性疾患であり、近年は患者数が急増しています。そんなパーキンソン病の診断を受ける数年前から、その人の「歩き方」にパーキンソン病の兆候が現れている可能性があるとの研究結果が発表されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-how-you-walk-parkinsons-early-signal/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T03:00:00+00:00",
-      "title": "『ストリートファイター6』のリュウと春麗がPC画面上に登場して必殺技でウィンドウを吹っ飛ばす「Desktop Mate」のDLCを使ってみた",
-      "description": "キャラクターの3DモデルをPCの画面上に表示できる「Desktop Mate」から、『ストリートファイター6』の「リュウ」と「春麗」のDLCが登場しました。必殺技でウィンドウを吹っ飛ばすこともできるとのことなので、実際にダウンロードして使ってみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-desktop-mate-ryu-chunli-dlc/",
       "visual": "ai"
     },
     {
