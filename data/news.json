@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-12T09:28:52.393786+00:00",
+  "updatedAt": "2026-11-12T10:31:40.997287+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T10:00:00+00:00",
+      "title": "データセンターがスプリンクラーの「誤作動」で水浸しになりかけた事例",
+      "description": "企業が持つあらゆるデータやシステムがデジタル化され、AIの活用が進む昨今においては、膨大なデータを保存しているデータセンターが企業の核となっています。そんなデータセンターがスプリンクラーの「誤作動」によって危うく水没しかけたというヒヤリハットについて、金融取引企業のJane Streetに勤務していたマイケル・バカレラ氏が語っています。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-false-smoke-alarm-datacenter/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-12T09:54:27+00:00",
+      "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性 リスト型攻撃か",
+      "description": "宝くじを販売する全国の都道府県と指定都市は11月11日、公式サイトに不正ログインした第三者が、一部会員のくじの当落情報や氏名、住所などを閲覧した可能性があると発表した。同日までに、不正な購入や当せん金の受け取りは確認していないという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T09:50:00+00:00",
+      "title": "SONYやAppleやGoogleに「テレビでユーザーの画面や音声を収集しているか？」と質問した結果が公開される",
+      "description": "テレビメーカーは「自動コンテンツ認識(ACR)」と呼ばれる機能を用いてユーザーの閲覧情報を収集しており、ACRを無効化しても収集が続くという調査結果もあります。こうした状況を受けて、海外メディアのThe Vergeがテレビメーカーに対してデータ収集に関する質問状を送り、回答結果を公開しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-tv-manufacturer-questions/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T09:43:00+00:00",
+      "title": "2026年11月12日のヘッドラインニュース",
+      "description": "ケンタッキー・フライド・チキンが、ガツンとした濃厚な味わいが特徴の「欲望まみれの背徳バーガーズ」を2026年11月18日から販売します。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-headline/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,36 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T04:29:00+00:00",
-      "title": "Googleの落とし物トラッカー「Pixel Tag」が日本で発売される",
-      "description": "2026年8月に発表された落とし物トラッカー「Pixel Tag」が日本で発売されました。ただ、記事作成時点では在庫切れとなっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-pixel-tag-release/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T04:00:00+00:00",
-      "title": "Verisignが「.name」のサードレベルドメイン廃止計画を撤回",
-      "description": "「.name」ドメインを管理するVerisignは、2027年2月に予定していたサードレベルドメインの一斉削除とメール転送サービスの終了を取りやめました。既存のドメインは引き続き更新でき、登録済みのアドレスでメール転送も使い続けられる見通し。ただし、新規受付を終了するための申請は改めて出し直すとのことです。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-dot-name-third-level-reversal/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T03:55:00+00:00",
-      "title": "Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース",
-      "description": "大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-gemini-decisions-1/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-12T02:29:43+00:00",
       "title": "Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
@@ -189,16 +199,6 @@
       "title": "ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」 約9時間で復旧",
       "description": "不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T23:46:34+00:00",
-      "title": "Appleサポートコミュニティ、11月20日に閉鎖へ 新規投稿は既に終了",
-      "description": "Appleは、「Appleサポートコミュニティ」を11月20日に閉鎖すると発表した。1998年に開設された同フォーラムは、現在すでに新規投稿の受け付けを終了し、閲覧専用となっている。Appleは戦略と顧客ニーズを慎重に評価した結果としており、今後は公式サポートサイトを利用するよう呼び掛けている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
       "visual": "ai"
     },
     {
