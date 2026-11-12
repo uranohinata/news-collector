@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-12T01:46:11.843422+00:00",
+  "updatedAt": "2026-11-12T02:43:21.652265+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T02:39:00+00:00",
+      "title": "NVIDIAがジェンスン・フアンCEOを解任する準備を進めている",
+      "description": "NVIDIAのジェンスン・フアンCEOが不倫をしていたという事実を受け、NVIDIAの取締役会がフアンCEOを解任する準備を進めていると報じられました。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-nvidia-preparing-oust-ceo/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T02:04:00+00:00",
+      "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
+      "description": "Appleが2026年11月10日、Apple製品のユーザー同士が質問や回答を投稿できるAppleサポートコミュニティを11月20日に閉鎖すると発表しました。1998年から名称を変えながら運営されてきたフォーラムが、約28年の歴史に幕を下ろします。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-apple-support-community-closing/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-12T01:49:56+00:00",
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
+      "description": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,31 +144,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T10:31:00+00:00",
-      "title": "GoogleのAI「Gemini」は個人のGoogleドライブ内のファイルやGmailを人間のレビュー担当者が見ることができるようにしている可能性がある",
-      "description": "GoogleのAI「Gemini」にはログインしたアカウントのGmailやGoogleドライブと連携してよりパーソナルなチャットやデータ分析を行うことができる機能があります。この機能が明示的に指示していない場合でも個人データを参照しており、さらにはGeminiが読み取った個人情報について人間のレビュー担当者に見られている可能性があると報告されています。続きを",
-      "url": "https://gigazine.net/news/20261111-gemini-drive/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-11T10:11:24+00:00",
       "title": "靖国神社に不正アクセス 約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
       "description": "靖国神社（東京都千代田区）は11月11日、同神社が運営する通販サイト「オンライン授与品・頒布品サイト」への不正アクセスにより、約1万4500件の個人情報が漏えいしたと発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-11T10:00:00+00:00",
-      "title": "「Happy Hacking Keyboard(HHKB)」シリーズ30周年記念の60％キーボード「HHKB Professional Elite」はどんな打ち心地なのか？実際にタイピングしてみた",
-      "description": "PFUの高級キーボード「Happy Hacking Keyboard(HHKB)」シリーズから登場した、世界限定300台の「HHKB Professional Elite」は、アルミ削り出しの筐体を採用した税込33万円の特別モデルです。前回は開封して外観や細部のデザインをチェックしましたが、今回は実際にPCに接続してタイピングし、打鍵感や打鍵音、使い勝手など",
-      "url": "https://gigazine.net/news/20261111-hhkb-professional-elite-usage/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討 東京地裁の請求棄却に「野放しでもOK？」",
       "description": "実業家の前澤友作氏は11月10日、自身の名前や顔写真を無断で使った「なりすまし広告」を巡る米Metaとの訴訟で東京地裁が請求を棄却したことを受け、控訴を検討するとXに投稿した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T05:19:36+00:00",
-      "title": "内閣府、メルマガ利用者のメアド6万件超漏えい 氏名なども流出の可能性 アララ不正アクセスで",
-      "description": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
       "visual": "ai"
     },
     {
