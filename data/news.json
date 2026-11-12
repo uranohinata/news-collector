@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-12T12:55:48.990836+00:00",
+  "updatedAt": "2026-11-12T14:12:17.428482+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T14:00:00+00:00",
+      "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」",
+      "description": "AIにプログラムを作成させると短時間で動作するコードを得られますが、機能の追加を繰り返すうちに古い処理との整合性が崩れたりコードが複雑になったりすることがあります。こうした問題を調べるために開発され、AI自身が作ったコードに新しい仕様を段階的に追加させながら機能の維持や品質の変化を測定するベンチマークが「SlopCodeBench」です。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-slopcodebench/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T13:36:00+00:00",
+      "title": "GmailやGoogleフォトの情報をGoogle検索のAIや広告に使わせないための設定方法まとめ",
+      "description": "Googleは2026年10月16日にプライバシーポリシーを改定し、ユーザーがGmailやGoogleフォトの情報をパーソナライズド広告に対応する別のGoogleサービスで使うことを許可した場合、その情報が広告のカスタマイズにも使われることがあると明記しました。メールサービス「Proton Mail」を運営するProtonは、Google検索やGoogleマ",
+      "url": "https://gigazine.net/news/20261112-google-gmail-photos-search-ads/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,26 +139,6 @@
       "title": "ネコは「自分の不満を解消させるため」に人間に向かって鳴いている可能性",
       "description": "ネコは人間の飼い主に対してよそよそしい部分もありますが、時には「ニャーニャー」とまるで話しかけるように鳴いてくることがあります。38匹のネコと飼い主を対象にした実験では、ネコは「自分の不満を飼い主に解消させるため」に鳴いている可能性が示されました。続きを読む...",
       "url": "https://gigazine.net/news/20261112-cat-meows-demand-you-fix-world/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T06:00:00+00:00",
-      "title": "数十億人のユーザー数をわずか数KBのメモリで推定できるアルゴリズム「HyperLogLog」とは？",
-      "description": "ウェブサイトを訪れたユーザーの数を正確に把握するには、訪問者のIDを記録して重複を取り除く必要があります。しかし、2007年に発表されたアルゴリズム「HyperLogLog」を使えば、わずか数KBのメモリで数十億人規模のユーザー数を推定することが可能です。このHyperLogLogの仕組みについて、科学誌のScientific Americanが解説していま",
-      "url": "https://gigazine.net/news/20261112-hyperloglog-with-coin-toss/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T05:50:00+00:00",
-      "title": "NVIDIA製半導体を中国に出荷した疑惑のあるMegaspeedのエンティティリスト追加を商務省が先送りし続けていることが判明",
-      "description": "アメリカの国家安全保障上の問題が考えられる企業は「エンティティリスト」に登録され輸出入に制限がかかります。NVIDIAのジェンスン・フアンCEOと不倫関係にあった女性が幹部を務めるシンガポールのデータセンター企業・Megaspeedも、政府の複数機関からエンティティリストへの追加を求められていましたが、リストを監督する商務省が追加を先送りし続けていることがわ",
-      "url": "https://gigazine.net/news/20261112-lutnick-delays-megaspeed-blacklist/",
       "visual": "ai"
     },
     {
