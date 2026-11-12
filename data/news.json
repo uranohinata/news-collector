@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-12T14:12:17.428482+00:00",
+  "updatedAt": "2026-11-12T15:22:12.921989+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-12T14:53:52+00:00",
+      "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに",
+      "description": "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T14:16:00+00:00",
+      "title": "NVIDIAのジェンスン・フアンがCEOを辞任",
+      "description": "NVIDIAの創業者であるジェンスン・フアン氏がCEOおよび取締役を辞任しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-nvidia-jensen-huang-resigns/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -134,16 +154,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T06:10:00+00:00",
-      "title": "ネコは「自分の不満を解消させるため」に人間に向かって鳴いている可能性",
-      "description": "ネコは人間の飼い主に対してよそよそしい部分もありますが、時には「ニャーニャー」とまるで話しかけるように鳴いてくることがあります。38匹のネコと飼い主を対象にした実験では、ネコは「自分の不満を飼い主に解消させるため」に鳴いている可能性が示されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-cat-meows-demand-you-fix-world/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-12T05:10:47+00:00",
       "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
@@ -189,16 +199,6 @@
       "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
       "description": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T00:53:56+00:00",
-      "title": "ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」 約9時間で復旧",
-      "description": "不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
       "visual": "ai"
     },
     {
