@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-12T03:45:30.745655+00:00",
+  "updatedAt": "2026-11-12T04:50:38.384793+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T04:45:00+00:00",
+      "title": "動画系AIのRunwayが動画から世界を理解してロボットを動かすためのAI「Praxis-1」を公開",
+      "description": "動画生成AIの「Runway」シリーズや動画編集AI「Aleph 2.0」などを展開するアメリカの生成AI企業・Runwayが、動画の事前学習を実際のロボットの制御に変換するオープンウェイトワールドアクションモデル「Praxis-1」を発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-praxis-1/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T04:29:00+00:00",
+      "title": "Googleの落とし物トラッカー「Pixel Tag」が日本で発売される",
+      "description": "2026年8月に発表された落とし物トラッカー「Pixel Tag」が日本で発売されました。ただ、記事作成時点では在庫切れとなっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-pixel-tag-release/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T04:00:00+00:00",
+      "title": "Verisignが「.name」のサードレベルドメイン廃止計画を撤回",
+      "description": "「.name」ドメインを管理するVerisignは、2027年2月に予定していたサードレベルドメインの一斉削除とメール転送サービスの終了を取りやめました。既存のドメインは引き続き更新でき、登録済みのアドレスでメール転送も使い続けられる見通し。ただし、新規受付を終了するための申請は改めて出し直すとのことです。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-dot-name-third-level-reversal/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T03:55:00+00:00",
+      "title": "Googleが意思決定AIモデルの「Gemini Decisions 1」をリリース",
+      "description": "大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAIモデル「Jev」が登場して以降、同様の「意思決定モデル」と呼ばれるAIエージェントの判断を誘導するモデルが相次いで登場しています。新たにGoogleから意思決定モデルの「Gemini Decision 1」が登場しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-gemini-decisions-1/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T03:49:00+00:00",
+      "title": "AppleがローカルAI実行アプリ「Harbor」を開発中であることが判明、複数のMacを接続してメモリを共有可能",
+      "description": "AppleがMacでAIをローカル実行するためのアプリ「Harbor」を開発中であることが判明しました。開発はApple傘下のClarisが担当しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -54,51 +104,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T02:49:00+00:00",
-      "title": "Blueskyの通知がワンタップで「フォロー通知」「リプライ通知」「フォロー中の人」など絞り込み可能に",
-      "description": "SNS「Bluesky」の通知機能がアップデートされ、通知を種類別に分類表示できるようになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-bluesky-new-notification-screen/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T02:45:00+00:00",
-      "title": "「Qwen4-Max-Preview」が無料で使用可能になったのでゲームを作ってみた",
-      "description": "中国の大手テクノロジー企業であるAlibabaがQwen4シリーズのプレビュー版として「Qwen4-Max-Preview」をリリースしました。無料プランでも使用可能だったので実際にゲームを作ってみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-qwen4-preview/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T02:39:00+00:00",
-      "title": "NVIDIAがジェンスン・フアンCEOを解任する準備を進めている",
-      "description": "NVIDIAのジェンスン・フアンCEOが不倫をしていたという事実を受け、NVIDIAの取締役会がフアンCEOを解任する準備を進めていると報じられました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-nvidia-preparing-oust-ceo/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-12T02:29:43+00:00",
       "title": "Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
       "description": "Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度を前モデルから大幅に向上させており、非営利目的ならAPI経由で利用できる。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T02:04:00+00:00",
-      "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
-      "description": "Appleが2026年11月10日、Apple製品のユーザー同士が質問や回答を投稿できるAppleサポートコミュニティを11月20日に閉鎖すると発表しました。1998年から名称を変えながら運営されてきたフォーラムが、約28年の歴史に幕を下ろします。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-apple-support-community-closing/",
       "visual": "ai"
     },
     {
@@ -129,16 +139,6 @@
       "title": "ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」 約9時間で復旧",
       "description": "不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T00:00:00+00:00",
-      "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
-      "description": "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルスクラッチで開発された国産生成AI基盤モデルで、日本語に特化しているのが特徴。このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い翻訳が可能で、テキスト翻訳だけでなくFirefoxやChromeの拡張機能でも提供されています。2026年10月にはPL",
-      "url": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
       "visual": "ai"
     },
     {
