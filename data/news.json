@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-12T00:15:24.993981+00:00",
+  "updatedAt": "2026-11-12T01:46:11.843422+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-12T00:56:17+00:00",
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
+      "description": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-12T00:53:56+00:00",
+      "title": "ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」 約9時間で復旧",
+      "description": "不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -179,26 +199,6 @@
       "title": "内閣府、メルマガ利用者のメアド6万件超漏えい 氏名なども流出の可能性 アララ不正アクセスで",
       "description": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T04:50:38+00:00",
-      "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功 三菱電機",
-      "description": "一般的な金属製アンテナの接続性能と差分がないことを確認したという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T03:35:42+00:00",
-      "title": "“タッチ不要”の改札、山手線など40駅に導入 28年春から JR東",
-      "description": "JR東日本は、Suicaをタッチせずに通過できる「ウォークスルー改札」を2028年春から本格導入する。山手線全駅など40駅から始め、31年度末までに全駅への拡大を目指す。27年4月から14駅で体験導入を実施する。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
       "visual": "ai"
     },
     {
