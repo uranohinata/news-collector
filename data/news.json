@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-12T04:50:38.384793+00:00",
+  "updatedAt": "2026-11-12T05:52:54.295963+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-12T05:50:00+00:00",
+      "title": "NVIDIA製半導体を中国に出荷した疑惑のあるMegaspeedのエンティティリスト追加を商務省が先送りし続けていることが判明",
+      "description": "アメリカの国家安全保障上の問題が考えられる企業は「エンティティリスト」に登録され輸出入に制限がかかります。NVIDIAのジェンスン・フアンCEOと不倫関係にあった女性が幹部を務めるシンガポールのデータセンター企業・Megaspeedも、政府の複数機関からエンティティリストへの追加を求められていましたが、リストを監督する商務省が追加を先送りし続けていることがわ",
+      "url": "https://gigazine.net/news/20261112-lutnick-delays-megaspeed-blacklist/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-12T05:10:47+00:00",
+      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "description": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-12T04:58:04+00:00",
+      "title": "NVIDIA取締役会、フアンCEO解任の可否決定へ 2件の不倫報道で株価8％超下落",
+      "description": "米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOの解任の可否を決める会合を開く。フアン氏を巡る2件の不倫報道が続く中、同氏に明確な後継者はいない。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003138/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -94,16 +124,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T02:53:00+00:00",
-      "title": "DNA変異が細胞に与える影響を予測するAIモデル「AlphaGenome 2」をGoogle DeepMindが発表、病気の原因解明に期待",
-      "description": "Google DeepMindが2026年11月11日に、DNAの塩基配列の違いが個々の細胞にどのような影響を与えるのかを予測するAIモデル「AlphaGenome 2」を発表しました。68種類の組織にわたる1億件以上の細胞データを用いて学習したAlphaGenome 2は、従来モデルと比べて遺伝子の発現に影響する変異を約2倍多く特定できるとのことです。続き",
-      "url": "https://gigazine.net/news/20261112-google-deepmind-alphagenome-2/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-12T02:29:43+00:00",
       "title": "Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
@@ -179,26 +199,6 @@
       "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい JR東海やアイスタイルに影響",
       "description": "ユミルリンクは11月11日、不正アクセスにより約4786万件の個人情報が流出したと発表した。10月に公表した最大約5162万件から件数を精査。被害は同社のメール配信サービスを利用するアイスタイルやJR東海などにも広がっている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T07:12:21+00:00",
-      "title": "メモリ8GBでも快適？ Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
-      "description": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直させてみた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-11T06:43:42+00:00",
-      "title": "まるで「自宅警備員」？ 室内を自律飛行する防犯ドローン、Amazon傘下が発表 約4万円から",
-      "description": "米Amazon傘下のRingは、室内を自律飛行する家庭向け防犯ドローンを発表した。AIを活用して屋内を巡回し、センサーが異常を検知すると自動で現場へ移動して撮影する。価格は約4万円。企業向けの自律走行型警備ロボットも発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
       "visual": "ai"
     },
     {
