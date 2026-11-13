@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-13T04:50:59.969317+00:00",
+  "updatedAt": "2026-11-13T05:52:27.352135+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T05:05:00+00:00",
+      "title": "人類は今もなお進化し続けている、人類の体に現れている「5つの進化の兆候」とは？",
+      "description": "「人類の進化」と聞くと、四足歩行のサルが徐々に直立二足歩行へと変わっていき、最終的に狩猟や石器作りの能力を身につけたというイメージを持つ人も多いはず。ところが、人類の進化は記事作成時点でも進み続けているとのことで、科学系メディアのScienceAlertが「人類の体に現れている5つの進化の兆候」をまとめました。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-humans-still-evolving-5-signs/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T04:31:03+00:00",
+      "title": "「Qoo10」不正アクセス、個人情報漏えい 「住所の地理座標」や「身体的特徴」も対象の可能性",
+      "description": "氏名や住所の他、住所の地理座標、顧客が任意で入力した身体的特徴などが含まれる可能性があるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -144,16 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T03:18:00+00:00",
-      "title": "ウクライナのStarshieldに再度の速度制限、「ロシアからの攻撃を阻止できない」とゼレンスキー大統領が報告",
-      "description": "ウクライナのウォロディミル・ゼレンスキー大統領が、SpaceXが提供する衛星インターネットサービス・Starlinkの軍事版であるStarshieldに、再び速度制限が課せられたと報告しています。これにより、ロシアから飛来するドローンの迎撃が困難になっているそうです。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-ukraine-cant-stop-russian-strikes-starshield-limited-again/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-13T03:00:00+00:00",
       "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
@@ -189,16 +199,6 @@
       "title": "Google、Gemini搭載のメガネを米韓で予約開始 395ドルからで12月10日発売へ",
       "description": "Googleは、Samsungらと共同開発したGemini対応スマートグラス「intelligent eyewear」の予約受付を米国と韓国で開始した。カメラとマイクを内蔵し、視界の情報を基にGeminiと音声で対話できる。外向きLEDや自動顔ぼかし機能など、周囲のプライバシーにも配慮されている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T23:15:50+00:00",
-      "title": "サイバーセキュリティクラウド、GitHubから顧客情報流出か 「セキュリティ企業として重く受け止め」",
-      "description": "従業員が業務で使っていたGitHubの認証情報1件が外部に流出したことを、外部機関からの情報提供で確認した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003163/",
       "visual": "ai"
     },
     {
