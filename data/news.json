@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-13T08:18:44.939222+00:00",
+  "updatedAt": "2026-11-13T09:27:12.235731+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T09:17:00+00:00",
+      "title": "Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで",
+      "description": "Firefoxブラウザには無料のVPNが内蔵されており、ウェブサイトがIPアドレスを使ってユーザーの所在地を特定したり、ウェブ上のアクセス履歴を追跡したりすることを制限することができます。通常は内蔵VPNを利用するにはサインインした上で月間50GBのデータ制限がありますが、2026年11月10日から2027年1月31日までの期間限定で、無制限に利用できるよう",
+      "url": "https://gigazine.net/news/20261113-firefox-vpn/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T08:30:00+00:00",
+      "title": "Reddit内の商品レビュー情報を1ページにまとめて見られる「Reddit Reviews」テスト開始",
+      "description": "ソーシャル掲示板サイト・Redditで、製品レビュー情報をまとめて見られる「Reddit Reviews」のテストがスタートしました。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-reddit-reviews/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T08:22:00+00:00",
+      "title": "「モスの匠味 黒毛和牛ダブルバーガー ～大葉の香味ソース ゆず皮添え～」試食レビュー、肉をかみ切る感覚が楽しい一品",
+      "description": "モスバーガーの期間限定メニューとして「モスの匠味 黒毛和牛ダブルバーガー ～大葉の香味ソース ゆず皮添え～」が2026年11月11日に登場しました。黒毛和牛パティを2枚挟んだバーガーで、レギュラーパティより肉の割合が多いご馳走バーガーに仕上がっているとのこと。どんな味がするのか気になったので実際にモスバーガーに行って食べてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-mos-kurogewagyuu-double/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,41 +154,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T03:40:00+00:00",
-      "title": "Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能",
-      "description": "Anthropicが新規株式公開(IPO)に関する日本語ページを公開しました。IPOの詳しいスケジュールやティッカーコードなども記されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-anthropic-ipo/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T03:40:00+00:00",
-      "title": "「宝くじの高額当選」は未婚男性が結婚する確率を高めるが既婚女性では離婚率を上昇させる可能性",
-      "description": "一般的に経済的地位が高い人は結婚しやすいとされていますが、本当に経済的地位が結婚に影響するのか、それとも経済的地位が高い人に多くみられる性質が影響するのかを区別するのは困難です。新たな研究では、偶然の収入である「宝くじの高額当選」に着目して、経済的地位が男女の結婚や離婚に与える影響を調査しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-winning-lottery-men-marry-women-divorce/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-13T03:38:07+00:00",
       "title": "虎柄ロボットに「阪神君」と命名 首相、フィジカルAIを体験 関連企業と意見交換",
       "description": "高市早苗首相は11月12日、機械を人工知能（AI）で自律的に動かす「フィジカルAI」の関連企業の代表らを官邸に招き、意見交換会を開いた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T03:30:00+00:00",
-      "title": "人間が初めて写ったとされる写真の「靴磨き」と「客」がいた場所を188年越しに特定",
-      "description": "フランス・パリのレピュブリック広場で、1838年に撮影された「人間が初めて写ったとされる写真」に写った靴磨きとその客がいた地点を示す銘板が2026年10月15日に公開されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-first-photographed-humans-location/",
       "visual": "ai"
     },
     {
