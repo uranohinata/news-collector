@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-13T12:25:15.586819+00:00",
+  "updatedAt": "2026-11-13T13:41:37.371354+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T13:00:00+00:00",
+      "title": "古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始",
+      "description": "「Home Assistant」は異なるメーカーのIoTデバイスを一元管理して、スマートホームを構築できるオープンソースサービスであり、非営利団体のOpen Home Foundationによって運営されています。そんなOpen Home Foundationの商業部門であるNabu Casaが、非スマートホームのデバイスをスマートホームデバイスとして生まれ",
+      "url": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,16 +129,6 @@
       "title": "Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで",
       "description": "Firefoxブラウザには無料のVPNが内蔵されており、ウェブサイトがIPアドレスを使ってユーザーの所在地を特定したり、ウェブ上のアクセス履歴を追跡したりすることを制限することができます。通常は内蔵VPNを利用するにはサインインした上で月間50GBのデータ制限がありますが、2026年11月10日から2027年1月31日までの期間限定で、無制限に利用できるよう",
       "url": "https://gigazine.net/news/20261113-firefox-vpn/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T08:30:00+00:00",
-      "title": "Reddit内の商品レビュー情報を1ページにまとめて見られる「Reddit Reviews」テスト開始",
-      "description": "ソーシャル掲示板サイト・Redditで、製品レビュー情報をまとめて見られる「Reddit Reviews」のテストがスタートしました。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-reddit-reviews/",
       "visual": "ai"
     },
     {
