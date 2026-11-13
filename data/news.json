@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-13T10:28:34.961707+00:00",
+  "updatedAt": "2026-11-13T11:26:31.084401+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T11:23:00+00:00",
+      "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",
+      "description": "アメリカは高性能AIチップの中国への輸出を制限しており、中国も輸入を制限しています。しかし、AI研究組織のUnemployment Labsが複数の中国製AIモデルを分析した結果、制限対象GPUを用いて開発された痕跡が発見されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T11:00:00+00:00",
+      "title": "太陽を281.1年かけて公転する準惑星候補の天体「2026 ED138」が見つかる",
+      "description": "2026年10月、アメリカの天文学者が既存の観測データを分析することで、太陽を281.1年かけて公転する準惑星候補の天体「2026 ED138」を発見しました。記事作成時点で存在する準惑星は5つのみで、2026 ED138が準惑星と認められれば6つ目となります。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-2026-ed138/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T10:45:49+00:00",
+      "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
+      "description": "NTTドコモビジネスなど4社が、データセンターの排熱を使ったエビ養殖の実証に乗り出す。2027年度にはバナメイエビの飼育を始める計画だ。なぜエビを選んだのか、育てたエビをどうするのか。同社の担当者に話を聞いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,26 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T06:25:00+00:00",
-      "title": "LED照明に虫が集まりにくいのはなぜか？",
-      "description": "夜の街灯や玄関灯にガなどの虫が集まっている光景は、誰しも一度は目にしたことがあるはず。ブロガーのケイト・セント・ジョン氏が、屋外の照明をLEDに替えた家庭の体験談や、ブリストル大学の研究チームが家庭用の照明4種類を比べた野外実験をもとに、LEDに虫が集まりにくい理由を自身のブログでまとめています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-insects-led-lights/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T06:00:00+00:00",
-      "title": "Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」のクリエイターが制作秘話を語る",
-      "description": "Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」でプロデューサーを務める青沼英二氏と藤林秀麿氏が、ゲームメディア・GameSpotに同作の制作秘話を語っています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-nintendo-how-made-zelda-ocarina-of-time/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-13T05:58:17+00:00",
       "title": "【復旧】ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
@@ -189,16 +199,6 @@
       "title": "メモリ8GBでも快適？ Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
       "description": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直させてみた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-13T03:00:00+00:00",
-      "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
-      "description": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
       "visual": "ai"
     },
     {
