@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-13T11:26:31.084401+00:00",
+  "updatedAt": "2026-11-13T12:25:15.586819+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T12:00:00+00:00",
+      "title": "古いiPadやメモリ1GBの小型端末でも160億パラメータのAIをローカルで動かせる無料ツール「smolmaxxing」が登場",
+      "description": "古いタブレットや小型デバイスでもAIモデルを動かせるようにするオープンソースプロジェクト「smolmaxxing」が公開されました。メモリ容量が限られた端末でもAIモデルを実行できるようにするもので、2013年発売の初代iPad Airや小型のテレビ用端末で動作が確認されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-smolmaxxing/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T11:45:00+00:00",
+      "title": "イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起",
+      "description": "ブロックチェーンの「イーサリアム」を関する開発プログラムの作成や国際会議を主催するイーサリアム財団の元従業員が、「イーサリアムのライセンスを順守しなかった場合、剣で自らの命を絶つ」という財団の内部方針に反対したことで不当に解雇されたとして、財団および共同創設者に対し2026年11月4日に訴訟を提起しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-ethereum-foundation-sword/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -109,26 +129,6 @@
       "title": "Reddit内の商品レビュー情報を1ページにまとめて見られる「Reddit Reviews」テスト開始",
       "description": "ソーシャル掲示板サイト・Redditで、製品レビュー情報をまとめて見られる「Reddit Reviews」のテストがスタートしました。続きを読む...",
       "url": "https://gigazine.net/news/20261113-reddit-reviews/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T08:22:00+00:00",
-      "title": "「モスの匠味 黒毛和牛ダブルバーガー ～大葉の香味ソース ゆず皮添え～」試食レビュー、肉をかみ切る感覚が楽しい一品",
-      "description": "モスバーガーの期間限定メニューとして「モスの匠味 黒毛和牛ダブルバーガー ～大葉の香味ソース ゆず皮添え～」が2026年11月11日に登場しました。黒毛和牛パティを2枚挟んだバーガーで、レギュラーパティより肉の割合が多いご馳走バーガーに仕上がっているとのこと。どんな味がするのか気になったので実際にモスバーガーに行って食べてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-mos-kurogewagyuu-double/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T07:25:00+00:00",
-      "title": "AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明",
-      "description": "AIユーザーと非AIユーザーを比べたとき、平均労働時間はAIユーザーのほうが最大で90分長いことが明らかになりました。この数字は従業員モニタリングソフトウェアを開発・提供しているActivTrakの研究部門・ActivTrak生産性研究所が467社・9140人を対象に集めた情報を分析した結果わかったもので、自己申告制の調査よりも信頼度の高い結果だと考えられま",
-      "url": "https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/",
       "visual": "ai"
     },
     {
