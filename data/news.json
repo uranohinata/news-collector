@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-13T06:58:42.218401+00:00",
+  "updatedAt": "2026-11-13T08:18:44.939222+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T07:25:00+00:00",
+      "title": "AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明",
+      "description": "AIユーザーと非AIユーザーを比べたとき、平均労働時間はAIユーザーのほうが最大で90分長いことが明らかになりました。この数字は従業員モニタリングソフトウェアを開発・提供しているActivTrakの研究部門・ActivTrak生産性研究所が467社・9140人を対象に集めた情報を分析した結果わかったもので、自己申告制の調査よりも信頼度の高い結果だと考えられま",
+      "url": "https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -159,16 +169,6 @@
       "title": "メモリ8GBでも快適？ Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
       "description": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直させてみた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T03:26:00+00:00",
-      "title": "わざと不規則な構造にして衝撃吸収性能を高めたメタマテリアルをMITなどが開発",
-      "description": "マサチューセッツ工科大学(MIT)やノースイースタン大学などの研究チームが、植物の葉脈やトンボの羽に見られるネットワーク構造を取り入れた新たなメタマテリアルを開発しました。従来の規則正しい内部構造を持つメタマテリアルと比較して衝撃吸収性能に優れており、ヘルメットや防具、梱包材などへの応用が期待されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-scale-rich-network-based-nanomaterial-mit/",
       "visual": "ai"
     },
     {
