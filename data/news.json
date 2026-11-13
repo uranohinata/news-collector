@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-13T05:52:27.352135+00:00",
+  "updatedAt": "2026-11-13T06:58:42.218401+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T06:25:00+00:00",
+      "title": "LED照明に虫が集まりにくいのはなぜか？",
+      "description": "夜の街灯や玄関灯にガなどの虫が集まっている光景は、誰しも一度は目にしたことがあるはず。ブロガーのケイト・セント・ジョン氏が、屋外の照明をLEDに替えた家庭の体験談や、ブリストル大学の研究チームが家庭用の照明4種類を比べた野外実験をもとに、LEDに虫が集まりにくい理由を自身のブログでまとめています。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-insects-led-lights/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T06:00:00+00:00",
+      "title": "Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」のクリエイターが制作秘話を語る",
+      "description": "Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」でプロデューサーを務める青沼英二氏と藤林秀麿氏が、ゲームメディア・GameSpotに同作の制作秘話を語っています。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-nintendo-how-made-zelda-ocarina-of-time/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T05:58:17+00:00",
+      "title": "【復旧】ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
+      "description": "「JALも予約できない」という声も出ていた。【更新】",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -144,41 +174,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T03:25:00+00:00",
-      "title": "SpaceXとテスラの合併交渉は早ければ2026年末に合意か",
-      "description": "イーロン・マスク氏のもと特別委員会を設置して合併の検討を進めているSpaceXとテスラが、早ければ2026年末にも合併に合意する可能性があることがわかりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-spacex-tesla-merger-nagotiations/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T03:20:00+00:00",
-      "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮",
-      "description": "Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-13T03:00:00+00:00",
       "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
       "description": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-13T02:51:05+00:00",
-      "title": "ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
-      "description": "「JALも予約できない」という声もXで複数出ているが、JALは現時点で告知を出していない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
       "visual": "ai"
     },
     {
