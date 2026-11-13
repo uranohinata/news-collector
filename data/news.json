@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-11-13T02:41:10.926427+00:00",
+  "updatedAt": "2026-11-13T03:45:18.291428+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T03:40:00+00:00",
+      "title": "Anthropicの株式は11月19日に取引開始、日本でもIPO抽選に参加可能",
+      "description": "Anthropicが新規株式公開(IPO)に関する日本語ページを公開しました。IPOの詳しいスケジュールやティッカーコードなども記されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-anthropic-ipo/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T03:40:00+00:00",
+      "title": "「宝くじの高額当選」は未婚男性が結婚する確率を高めるが既婚女性では離婚率を上昇させる可能性",
+      "description": "一般的に経済的地位が高い人は結婚しやすいとされていますが、本当に経済的地位が結婚に影響するのか、それとも経済的地位が高い人に多くみられる性質が影響するのかを区別するのは困難です。新たな研究では、偶然の収入である「宝くじの高額当選」に着目して、経済的地位が男女の結婚や離婚に与える影響を調査しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-winning-lottery-men-marry-women-divorce/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T03:30:00+00:00",
+      "title": "人間が初めて写ったとされる写真の「靴磨き」と「客」がいた場所を188年越しに特定",
+      "description": "フランス・パリのレピュブリック広場で、1838年に撮影された「人間が初めて写ったとされる写真」に写った靴磨きとその客がいた地点を示す銘板が2026年10月15日に公開されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-first-photographed-humans-location/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T03:27:56+00:00",
+      "title": "メモリ8GBでも快適？ Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
+      "description": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直させてみた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T03:26:00+00:00",
+      "title": "わざと不規則な構造にして衝撃吸収性能を高めたメタマテリアルをMITなどが開発",
+      "description": "マサチューセッツ工科大学(MIT)やノースイースタン大学などの研究チームが、植物の葉脈やトンボの羽に見られるネットワーク構造を取り入れた新たなメタマテリアルを開発しました。従来の規則正しい内部構造を持つメタマテリアルと比較して衝撃吸収性能に優れており、ヘルメットや防具、梱包材などへの応用が期待されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-scale-rich-network-based-nanomaterial-mit/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T03:25:00+00:00",
+      "title": "SpaceXとテスラの合併交渉は早ければ2026年末に合意か",
+      "description": "イーロン・マスク氏のもと特別委員会を設置して合併の検討を進めているSpaceXとテスラが、早ければ2026年末にも合併に合意する可能性があることがわかりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-spacex-tesla-merger-nagotiations/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T03:20:00+00:00",
+      "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮",
+      "description": "Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T03:18:00+00:00",
+      "title": "ウクライナのStarshieldに再度の速度制限、「ロシアからの攻撃を阻止できない」とゼレンスキー大統領が報告",
+      "description": "ウクライナのウォロディミル・ゼレンスキー大統領が、SpaceXが提供する衛星インターネットサービス・Starlinkの軍事版であるStarshieldに、再び速度制限が課せられたと報告しています。これにより、ロシアから飛来するドローンの迎撃が困難になっているそうです。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-ukraine-cant-stop-russian-strikes-starshield-limited-again/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T03:00:00+00:00",
+      "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も",
+      "description": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T02:51:05+00:00",
+      "title": "ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
+      "description": "「JALも予約できない」という声もXで複数出ているが、JALは現時点で告知を出していない。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -34,16 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T02:09:00+00:00",
-      "title": "X(旧Twitter)で投稿できる写真・動画の数が4個から5倍の20個に増加",
-      "description": "過去10年間にわたってX(旧Twitter)で投稿できる写真や動画といったメディアファイルの数は最大4個でした。これがついにアップデートされ、最大20個のメディアファイルを同時に投稿できるようになっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-x-share-20-photos-videos-per-post/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-13T00:44:12+00:00",
       "title": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず",
@@ -59,16 +149,6 @@
       "title": "Google、Gemini搭載のメガネを米韓で予約開始 395ドルからで12月10日発売へ",
       "description": "Googleは、Samsungらと共同開発したGemini対応スマートグラス「intelligent eyewear」の予約受付を米国と韓国で開始した。カメラとマイクを内蔵し、視界の情報を基にGeminiと音声で対話できる。外向きLEDや自動顔ぼかし機能など、周囲のプライバシーにも配慮されている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T00:15:00+00:00",
-      "title": "2026年のCPU-Z統計ではメモリ64GB搭載PCの割合が2025年の同時期より18％減少、旧世代のDDR4はシェア拡大",
-      "description": "PCの構成を調べられる無料ソフト「CPU-Z」の開発元であるCPUIDが、2026年11月時点のハードウェア統計を公開しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-cpu-z-64gb-ram-ddr4/",
       "visual": "ai"
     },
     {
@@ -94,16 +174,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T22:00:00+00:00",
-      "title": "無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場",
-      "description": "Amazonはすべて自律AIエージェントによって開発された新しいローカルAWSエミュレーター「AWS Emulator」をリリースしました。AWS EmulatorはAWSサービスをローカル環境で実行することによりAWSアプリケーションの開発とテストを可能にするとのことです。注目すべき点として、AWS Emulatorのプロジェクトでは人間のエンジニアによる",
-      "url": "https://gigazine.net/news/20261113-aws-emulator/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-12T21:41:21+00:00",
       "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
@@ -124,81 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T14:16:00+00:00",
-      "title": "NVIDIAのジェンスン・フアンがCEOを辞任",
-      "description": "NVIDIAの創業者であるジェンスン・フアン氏がCEOおよび取締役を辞任しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-nvidia-jensen-huang-resigns/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T14:00:00+00:00",
-      "title": "長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」",
-      "description": "AIにプログラムを作成させると短時間で動作するコードを得られますが、機能の追加を繰り返すうちに古い処理との整合性が崩れたりコードが複雑になったりすることがあります。こうした問題を調べるために開発され、AI自身が作ったコードに新しい仕様を段階的に追加させながら機能の維持や品質の変化を測定するベンチマークが「SlopCodeBench」です。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-slopcodebench/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T13:36:00+00:00",
-      "title": "GmailやGoogleフォトの情報をGoogle検索のAIや広告に使わせないための設定方法まとめ",
-      "description": "Googleは2026年10月16日にプライバシーポリシーを改定し、ユーザーがGmailやGoogleフォトの情報をパーソナライズド広告に対応する別のGoogleサービスで使うことを許可した場合、その情報が広告のカスタマイズにも使われることがあると明記しました。メールサービス「Proton Mail」を運営するProtonは、Google検索やGoogleマ",
-      "url": "https://gigazine.net/news/20261112-google-gmail-photos-search-ads/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-12T12:00:00+00:00",
-      "title": "レーザー兵器を搭載したAI潜水ロボット3500台がサケ養殖場を巡回しサケジラミを駆除して1億1200万匹の魚を守っている",
-      "description": "ノルウェーのサケ養殖場ではAIを搭載した水中ロボットが魚に付着した寄生虫を検出し、レーザーで駆除する取り組みが広がっています。テクノロジー系メディアのTom's Hardwareによると、水中ロボットの稼働台数は3500台を超えているとのことです。続きを読む...",
-      "url": "https://gigazine.net/news/20261112-stingray-marine-solutions-ai-robots-salmon/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-12T09:54:27+00:00",
       "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性 リスト型攻撃か",
       "description": "宝くじを販売する全国の都道府県と指定都市は11月11日、公式サイトに不正ログインした第三者が、一部会員のくじの当落情報や氏名、住所などを閲覧した可能性があると発表した。同日までに、不正な購入や当せん金の受け取りは確認していないという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T08:30:48+00:00",
-      "title": "介護現場の人手不足を補う「ヒト型助手ロボット」 遠隔で利用者見守る最新テクノロジーも",
-      "description": "高齢化が進む中、介護業界は深刻な人手不足に直面している。こうした問題を打開しようと、現場を支える新たなテクノロジーの開発と導入が進んでいる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T08:15:59+00:00",
-      "title": "セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
-      "description": "韓国の金融機関のサイバーセキュリティを監視する韓国金融保安院は11月10日、9日午後3時ごろに外部からハッキング攻撃を受けたと発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T08:00:22+00:00",
-      "title": "無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有＆漏えい“巡り謝罪 削除漏れなぜ発生",
-      "description": "良品計画は11月12日、不正アクセスを巡る謝罪会見を開いた。2021年7月までクレジットカード番号で顧客を識別していたと説明。システム変更後も一部のカード情報を削除せず保管していた問題について、運用上の不備を認めた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
       "visual": "ai"
     },
     {
