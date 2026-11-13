@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-13T03:45:18.291428+00:00",
+  "updatedAt": "2026-11-13T04:50:59.969317+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T04:30:00+00:00",
+      "title": "GoogleがAIでカスタマイズできる共同作業・プランニングハブを構築するための実験的AIプラットフォーム「Tabletop」ベータ版をリリース",
+      "description": "Googleが新しい実験プロジェクト「Tabletop」を発表しました。リンクやファイルを共有スペースにドロップしてTabletopにプロンプトを入力することで、複数人で活用できるコラボレーションスペースをAIが即席で作成します。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-google-tabletop/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T04:02:15+00:00",
+      "title": "AWS、Microsoft 365障害の影響を否定 正常稼働を強調",
+      "description": "AWSは11月12日、別サービスで発生した障害を巡り、AWSの稼働状況について不正確な報道が出ていると、公式Xアカウントに投稿した。同日に米Microsoftの「Microsoft 365」で発生している大規模障害と、別の時間帯に発生したAWS障害を関連付ける報道に反論したとみられる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003185/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T04:00:00+00:00",
+      "title": "「GeForce RTX 5080」がNVIDIAのアメリカ向け公式ストアから一時姿を消す、実売価格は希望小売価格の約2.2倍に",
+      "description": "アメリカの小売店でNVIDIAのグラフィックカード「GeForce RTX 5080」の品薄が進む中、2026年10月30日にNVIDIA公式ストアの製品一覧から一時姿を消しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261113-nvidia-rtx-5080-store-price/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T03:55:31+00:00",
+      "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化 倉庫・物流へ展開視野",
+      "description": "パナソニックホールディングス（HD）は11月11日、人工知能（AI）とロボットを組み合わせた「フィジカルAI」の研究開発を強化する方針を明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-13T03:50:00+00:00",
+      "title": "Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響",
+      "description": "Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めています",
+      "url": "https://gigazine.net/news/20261113-microsoft-365-down/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T03:48:15+00:00",
+      "title": "MS障害、政府共通システムにも影響 デジタル相「朝、なんで使えないんだろうと思ったら」",
+      "description": "古川デジタル大臣は、記者からOutlookの障害について問われ、「今日朝使ってみて、『なんで使えないんだろう』と思って報道を見た」という。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003183/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -19,6 +79,16 @@
       "title": "「宝くじの高額当選」は未婚男性が結婚する確率を高めるが既婚女性では離婚率を上昇させる可能性",
       "description": "一般的に経済的地位が高い人は結婚しやすいとされていますが、本当に経済的地位が結婚に影響するのか、それとも経済的地位が高い人に多くみられる性質が影響するのかを区別するのは困難です。新たな研究では、偶然の収入である「宝くじの高額当選」に着目して、経済的地位が男女の結婚や離婚に与える影響を調査しています。続きを読む...",
       "url": "https://gigazine.net/news/20261113-winning-lottery-men-marry-women-divorce/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-13T03:38:07+00:00",
+      "title": "虎柄ロボットに「阪神君」と命名 首相、フィジカルAIを体験 関連企業と意見交換",
+      "description": "高市早苗首相は11月12日、機械を人工知能（AI）で自律的に動かす「フィジカルAI」の関連企業の代表らを官邸に招き、意見交換会を開いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
       "visual": "ai"
     },
     {
@@ -104,36 +174,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T02:35:00+00:00",
-      "title": "GoogleがGemini搭載スマートグラスによる盗撮やプライバシー侵害を防ぐための対策を発表",
-      "description": "Googleが2026年11月12日、AIアシスタントのGeminiを搭載したスマートグラスの予約受付を開始するとともに、プライバシー保護対策の詳細を公開しました。装着者だけでなく周囲の人々のプライバシーも保護するため、ハードウェアとソフトウェアの両面で対策を講じています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-google-smart-glasses-privacy/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T02:33:00+00:00",
-      "title": "GoogleのGemini搭載スマートグラス「Intelligent Eyewear」が予約受付開始、70以上の言語のリアルタイム翻訳やハンズフリーでのAI操作が可能",
-      "description": "Googleは2026年11月12日、SamsungおよびメガネブランドのWarby Parker、Gentle Monsterと共同開発したスマートグラス「Intelligent Eyewear」の予約受付を開始しました。AIアシスタントのGeminiを搭載し、スマートフォンを取り出すことなく目の前にある物について質問したり、外国語の会話をリアルタイムで翻",
-      "url": "https://gigazine.net/news/20261113-google-intelligent-eyewear/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T02:27:00+00:00",
-      "title": "OpenRouterの日本語版が登場、GPT-6.1 Solを用いた自己修正型翻訳システムで高品質な多言語対応を実現",
-      "description": "AIのAPI一元管理サービスを展開するOpenRouterが、日本語版を含む複数の言語へのローカライズ版を公開しました。ローカライズに用いたAIモデルやシステムの解説ブログも公開されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-openrouter-self-correcting-localization/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-13T00:44:12+00:00",
       "title": "緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず",
@@ -159,46 +199,6 @@
       "title": "サイバーセキュリティクラウド、GitHubから顧客情報流出か 「セキュリティ企業として重く受け止め」",
       "description": "従業員が業務で使っていたGitHubの認証情報1件が外部に流出したことを、外部機関からの情報提供で確認した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003163/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T23:04:46+00:00",
-      "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
-      "description": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T21:41:21+00:00",
-      "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
-      "description": "Microsoftの「Microsoft 365」で米国時間11月12日、Exchange Onlineなどに接続できない大規模障害が発生した。原因は多数のサーバが自動ヘルスチェックに失敗して応答しなくなったためで、直近の構成変更が影響した可能性がある。一部は復旧しており、同社は自動復旧の導入など対応を進めている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T14:53:52+00:00",
-      "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任 クレスCFOが暫定CEOに",
-      "description": "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-12T09:54:27+00:00",
-      "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性 リスト型攻撃か",
-      "description": "宝くじを販売する全国の都道府県と指定都市は11月11日、公式サイトに不正ログインした第三者が、一部会員のくじの当落情報や氏名、住所などを閲覧した可能性があると発表した。同日までに、不正な購入や当せん金の受け取りは確認していないという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
       "visual": "ai"
     },
     {
