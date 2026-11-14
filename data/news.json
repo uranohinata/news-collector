@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-14T10:33:58.832142+00:00",
+  "updatedAt": "2026-11-14T11:29:02.529958+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-14T11:00:00+00:00",
+      "title": "日本では妻の収入が増えると夫はより多くの家事をするようになるのか？",
+      "description": "夫婦の間で家事を分担する際には、「収入は夫(妻)の方が多いので妻(夫)にはより多くの家事を負担させる」といった風に、労働収入によって家事負担を割り振る場合があります。日本の既婚者を追跡した研究では、「妻の収入が上がった時に夫婦の家事分担はどうなるのか？」という疑問について調べています。続きを読む...",
+      "url": "https://gigazine.net/news/20261114-japanese-wives-earn-more-husbands-households/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -109,16 +119,6 @@
       "title": "イーサリアム財団のライセンスを順守しなかった時は剣で自らの命を絶つ「切腹ライセンス」を拒否したことで解雇された従業員が訴訟を提起",
       "description": "ブロックチェーンの「イーサリアム」を関する開発プログラムの作成や国際会議を主催するイーサリアム財団の元従業員が、「イーサリアムのライセンスを順守しなかった場合、剣で自らの命を絶つ」という財団の内部方針に反対したことで不当に解雇されたとして、財団および共同創設者に対し2026年11月4日に訴訟を提起しました。続きを読む...",
       "url": "https://gigazine.net/news/20261113-ethereum-foundation-sword/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-13T11:23:00+00:00",
-      "title": "中国AI企業は禁輸措置中でもNVIDIAのBlackwell世代AIチップを使って高性能AIを作っていた",
-      "description": "アメリカは高性能AIチップの中国への輸出を制限しており、中国も輸入を制限しています。しかし、AI研究組織のUnemployment Labsが複数の中国製AIモデルを分析した結果、制限対象GPUを用いて開発された痕跡が発見されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
       "visual": "ai"
     },
     {
