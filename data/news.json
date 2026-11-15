@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-15T21:07:40.380193+00:00",
+  "updatedAt": "2026-11-15T22:05:58.921456+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-15T22:00:00+00:00",
+      "title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
+      "description": "映画「バック・トゥ・ザ・フューチャー」では、タイムマシンを動かすために1.21GW(12億1000万W)もの電力を必要とする設定となっています。そんな途方もない電力を家庭用電源から生み出して市販のスピーカーに瞬間的に流し込むとどうなるのかを検証した実験動画を、電気工作系YouTuberのPhotonicinductionが公開しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-billion-wats-in-speaker/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -89,16 +99,6 @@
       "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
       "description": "近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を",
       "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-14T23:00:00+00:00",
-      "title": "ナルシシストはSNSの登場で増加しているのか？",
-      "description": "承認欲求を簡単に満たすことができるSNSの登場で、強い自己愛を持つナルシシストが増えているのではないかと考えた研究者らが、ナルシシストとSNSの関係について調査しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261115-narcissists-sns/",
       "visual": "ai"
     },
     {
