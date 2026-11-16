@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-16T21:41:25.191475+00:00",
+  "updatedAt": "2026-11-16T22:40:27.843870+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T22:05:16+00:00",
+      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
+      "description": "Microsoftは、「Microsoft 365」で12日に発生した大規模障害の暫定的なインシデントレポートを公開した。7月に展開した更新プログラムに潜む不具合が、通信トラフィック移行による負荷増と容量低下という悪条件と重なり顕在化。世界規模で連鎖的なサーバダウンを引き起こした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T22:00:00+00:00",
+      "title": "空気清浄機のクラウド機能を消すためにリバースエンジニアリング",
+      "description": "必要に迫られてWi-Fi対応の空気清浄機を購入した組み込み系エンジニアのスコット・ゴールドマン氏が、空気清浄機とApple Homeとの連携を目指す過程で困難に直面し解決に至った経緯について、自らのブログで語っています。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-reverse-engineering-air-purifier/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,16 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T07:55:00+00:00",
-      "title": "工場建設ゲーム「Factorio」の中に2000台近くのスピーカーを並べてMP3プレイヤーを実装",
-      "description": "植民星に工場を建設して作業を自動化するシミュレーションゲーム「Factorio」では、ゲーム内の回路ネットワークを使ってさまざまな装置を制御できます。そんなFactorioで約2000台のプログラマブルスピーカーを組み合わせ、MODを使わずに音楽や歌声などの音声ファイルを再現するシステム「FactoTune」が開発されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-mp3-player-on-factorio/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-16T07:52:17+00:00",
       "title": "ドコモ、また「5G SA」で通信障害 今月3回目【復旧】",
@@ -189,16 +199,6 @@
       "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
       "description": "ドイツのルール大学ボーフムなどに所属する研究者らが発表した論文「The State of Passkeys: Studying the Adoption and Security of Passkeys on the Web」は、公開されているサイトのパスキーの普及状況と安全性を調査した研究報告だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T03:00:00+00:00",
-      "title": "フリーランス市場、受注者の約8割がAIを利用 自発的に開示は1割弱、両者に意識差 IBMリサーチなど調査",
-      "description": "南カリフォルニア大学やIBMリサーチなどに所属する研究者らが「CHI ’26」で発表した論文「“Better Ask for Forgiveness than Permission”: Practices and Policies of AI Disclosure in Freelance Work」は、フリーランス市場において、ワーカー（受注者）とクライア",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
       "visual": "ai"
     },
     {
