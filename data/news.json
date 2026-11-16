@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-16T03:58:46.271773+00:00",
+  "updatedAt": "2026-11-16T05:31:16.388448+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T05:05:00+00:00",
+      "title": "NVIDIAのコレット・クレス暫定CEOはジェンスン・フアンのやり方を「セーブ」していたとの指摘",
+      "description": "不倫問題を機に辞任したNVIDIAのジェンスン・フアン氏の後任に、最高財務責任者のコレット・クレス氏が暫定として就きました。このクレス氏がどんな人物なのか、ウォール・ストリート・ジャーナルなどがまとめています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-colette-kress-nvidia/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T05:05:00+00:00",
+      "title": "「高用量インフルエンザワクチン」を接種した人はワクチン未接種者より約55％もアルツハイマー病リスクが低い",
+      "description": "例年秋から冬にかけて流行するインフルエンザは高熱や頭痛、全身の筋肉痛、鼻水やせきといった症状が現れる病気です。そんなインフルエンザを予防するワクチンの中でも、通常の約4倍もの有効成分(抗原)を含む「高用量インフルエンザワクチン」を接種することが、大幅なアルツハイマー病リスクの低下に関連しているとの研究結果が報告されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-flu-vaccine-lower-alzheimers-risk/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T05:03:00+00:00",
+      "title": "Samsung・SK hynix・Micronが共謀してDRAMの供給を制限し価格をつり上げたとする訴訟で裁判所が棄却申し立てを退ける",
+      "description": "世界のDRAM市場を支配するSamsung・SK hynix・Micronの3社が共謀してDRAMの供給を制限し、価格をつり上げたとして起こされた集団訴訟について、アメリカの連邦地方裁判所は2026年11月14日に3社による訴訟の棄却申し立てを退けました。裁判所は3社が独立した経営判断ではなく、事前の合意に基づいて行動した可能性を示す状況証拠が十分にあると判",
+      "url": "https://gigazine.net/news/20261116-drum-supply-antitrust-suit-dismessed/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T04:27:00+00:00",
+      "title": "「Qwen4-Max」が登場、一部テストでClaude Opus 5.5に勝利し小型オープンモデルも後日公開予定",
+      "description": "中国の大手テクノロジー企業であるAlibabaがAIモデル「Qwen4-Max」を2026年11月16日に正式リリースしました。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-qwen4-max/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T04:14:00+00:00",
+      "title": "NVIDIAのジェンスン・フアンがCEO復帰に向け関係者と協議中との報道",
+      "description": "アメリカの政府当局により「中国の女スパイ」と断定されている女性との不倫を認め、NVIDIAのCEOを辞任した創業者のジェンスン・フアン氏が、同社のCEOに復帰するべく関係者と協議を進めていることが報じられています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-jensen-huang-discusses-comeback-nvidia-ceo/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -19,6 +69,16 @@
       "title": "Uberで数千人のドライバーの免許証情報が盗まれるデータ侵害が発生",
       "description": "ライドシェアやフードデリバリーを提供するテクノロジー企業のUberが、2026年10月に技術プロバイダーの1社で発生したデータ侵害により、数千人のドライバーの個人情報と運転免許証情報が盗まれたことを明かしました。続きを読む...",
       "url": "https://gigazine.net/news/20261116-uber-stole-data/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T03:42:48+00:00",
+      "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
+      "description": "理化学研究所は11月16日、スーパーコンピュータ「富岳」に関するシステムが不正アクセスを受けたと、ITmedia NEWSの取材に対し明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
       "visual": "ai"
     },
     {
@@ -74,16 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T03:00:00+00:00",
-      "title": "人間の顔に「飼いネコの目や特徴」が重なって見えるという奇妙な症例が報告される",
-      "description": "アメリカ北東部に住む28歳のカールさんという男性は、「ルナ」という灰色のネコを飼っています。そんなカールさんは脳手術を受けて以降、「出会った人の顔に飼いネコの目や特徴が重なって見える」という奇妙な症状を経験しているとのことです。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-man-seeing-cats-peoples-faces/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-16T02:56:22+00:00",
       "title": "ドコモ、また「5G SA」で通信障害 今月3回目【更新】",
@@ -104,51 +154,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T02:45:00+00:00",
-      "title": "SpaceXが宇宙船「Starship(スターシップ)」本体の空中キャッチに初成功",
-      "description": "宇宙開発企業のSpaceXが2026年11月14日に超大型ロケット兼宇宙船「Starship(スターシップ)」の15回目の飛行試験を実施し、宇宙から帰還したスターシップ本体を発射塔のアームで受け止める「キャッチ」に初めて成功しました。スターシップの完全再利用に向けた重要な成果となっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-spacex-starship/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-16T02:26:04+00:00",
       "title": "「艦これアーケード」「オンゲキ」など一部再開 不正アクセスで停止のセガ系システムが試験復旧",
       "description": "セガ フェイブは、不正アクセスを受けて停止していたゲームセンター向けネットワークサービス「ALL.Net」の一部機能を復旧し、「オンゲキ」「艦これアーケード」など12タイトルの試験稼働を再開した。一部サービスは停止が続いている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T02:23:00+00:00",
-      "title": "NVIDIA製半導体の中国への出荷疑惑があるMegaspeedが「法に基づいて適切に運営している」と声明を発表",
-      "description": "NVIDIAのCEOを辞任したジェンスン・フアン氏の不倫相手で、アメリカ当局に中国のスパイだと断定されたアリス・フアン氏について、所属先だったとみられるシンガポールのデータセンター企業・Megaspeedが「アリス・フアン氏は2025年8月に退職済み」と明らかにしました。また、NVIDIA製半導体を中国に出荷していた疑いがかけられていることに対して、「アメリ",
-      "url": "https://gigazine.net/news/20261116-megaspeed-says-alice-huang-left-in-2025/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T02:14:00+00:00",
-      "title": "ULAの新型ロケット・VulcanがAmazonの衛星インターネット用衛星40基の軌道投入に失敗",
-      "description": "ロッキード・マーティンとボーイングの合弁事業であるユナイテッド・ローンチ・アライアンス(ULA)が、Amazonの衛星インターネットサービスであるAmazon Leoで利用する衛星40基の打ち上げに失敗しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-amazon-leo-vulcan-rocket-fails-destroying-40-satellites/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T02:11:00+00:00",
-      "title": "日本語でリアルタイム会話可能なAI「Haru-4B」がオープンモデルとして公開される、電話で話せるデモもあり",
-      "description": "日本の学生たちで構成されるAI開発企業のhigurashiがリアルタイム音声会話AI「Haru-4B」を公開しました。日本語での自然なやり取りが可能です。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-haru-4b-conversation-ai/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
       "description": "障害発生中は、Outlookでメール送受信ができなかったり、Copilotが使えないなどの問題が起き、日本の政府や企業にも大きな影響が出た。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-14T22:15:24+00:00",
-      "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
-      "description": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名運動が拡大しており、署名サイト「Stand with Jensen」には11万人超が賛同している。イーロン・マスク氏らも名を連ねており、取締役会に公正な調査と退任理由の説明を求めている。米政府や議会による調査も並行して進んでおり、波紋が広がっている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
       "visual": "ai"
     },
     {
