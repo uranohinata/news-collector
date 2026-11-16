@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-11-16T02:47:53.869441+00:00",
+  "updatedAt": "2026-11-16T03:58:46.271773+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T03:55:00+00:00",
+      "title": "古いBitlyの短縮リンクがバーガーキング・マクドナルド・トランプ大統領のSNS投稿で悪用されて「ナチスの収容所一覧」などに書き換えられる問題が発生",
+      "description": "バーガーキングやマクドナルド、ドナルド・トランプ大統領がXアカウントで投稿した内容に含まれていた「URL短縮サービスのBitlyを使って生成した古いリンク」が悪用され、ユーザーを無関係なコンテンツに誘導していることが明らかになりました。Bitlyは問題を認めた後、影響を受けたリンクを無効化しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-bitly-link/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T03:47:00+00:00",
+      "title": "Uberで数千人のドライバーの免許証情報が盗まれるデータ侵害が発生",
+      "description": "ライドシェアやフードデリバリーを提供するテクノロジー企業のUberが、2026年10月に技術プロバイダーの1社で発生したデータ侵害により、数千人のドライバーの個人情報と運転免許証情報が盗まれたことを明かしました。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-uber-stole-data/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T03:30:00+00:00",
+      "title": "刺しゅう機の専用アプリでサブスクが必要だったのでChatGPTを使ってサブスク不要のアプリを自作",
+      "description": "Amazonで購入した300ドル(約4万8000円)の刺しゅう機の専用アプリに月額課金サービスが存在したため、料金を払う代わりにAIを用いてアプリを自作してしまった人が現れました。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-embroidery-machine-need-subscription-built-app/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T03:14:00+00:00",
+      "title": "Microsoft 365のシステム障害によりホテル宿泊客15人が塩素ガス中毒に見舞われる",
+      "description": "2026年11月13日、Microsoftのクラウドサービス「Microsoft 365」で世界規模の大規模障害が発生しました。この影響により、ドイツにあるテーマパークで宿泊客15人が塩素ガス中毒の被害に遭ったことが分かりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-microsoft-365-gas-poisoning/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T03:12:00+00:00",
+      "title": "ついに「llama.cpp」がバージョン1.0.0に到達",
+      "description": "ローカルPCで各種AIモデルを実行する際の基盤ソフトウェアである「llama.cpp」と「ggml」がバージョン1.0.0に到達しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-llama-cpp-ggml-milestone/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T03:00:00+00:00",
+      "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
+      "description": "ドイツのルール大学ボーフムなどに所属する研究者らが発表した論文「The State of Passkeys: Studying the Adoption and Security of Passkeys on the Web」は、公開されているサイトのパスキーの普及状況と安全性を調査した研究報告だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T03:00:00+00:00",
+      "title": "フリーランス市場、受注者の約8割がAIを利用 自発的に開示は1割弱、両者に意識差 IBMリサーチなど調査",
+      "description": "南カリフォルニア大学やIBMリサーチなどに所属する研究者らが「CHI ’26」で発表した論文「“Better Ask for Forgiveness than Permission”: Practices and Policies of AI Disclosure in Freelance Work」は、フリーランス市場において、ワーカー（受注者）とクライア",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T03:00:00+00:00",
+      "title": "人間の顔に「飼いネコの目や特徴」が重なって見えるという奇妙な症例が報告される",
+      "description": "アメリカ北東部に住む28歳のカールさんという男性は、「ルナ」という灰色のネコを飼っています。そんなカールさんは脳手術を受けて以降、「出会った人の顔に飼いネコの目や特徴が重なって見える」という奇妙な症状を経験しているとのことです。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-man-seeing-cats-peoples-faces/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T02:56:22+00:00",
+      "title": "ドコモ、また「5G SA」で通信障害 今月3回目【更新】",
+      "description": "「5G SA」の障害は11月5日と11日にも発生しており、今月3回目だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T02:46:01+00:00",
+      "title": "マネックス証券、免許証画像やマイナカード表面など1592件漏えいか 口座開設システムに不正アクセス",
+      "description": "運転免許証は表面・裏面と自撮り画像、マイナンバーカードは表面画像を含む。個人番号が含まれるマイナカードの裏面の漏えいは確認していない。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -55,16 +155,6 @@
       "category": "テクノロジー",
       "key": "technology",
       "source": "ITmedia NEWS",
-      "time": "2026-11-16T01:58:42+00:00",
-      "title": "ドコモ、また「5G SA」で通信障害 今月3回目【更新】",
-      "description": "「5G SA」の障害は11月5日と11日にも発生しており、今月3回目だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
       "time": "2026-11-16T01:14:23+00:00",
       "title": "エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ 退職者などアクセス可能な状態、約13年続く",
       "description": "ステージング環境へのログイン時の認証用パスワードを固定文字列で運用し、ベーシック認証などの認証情報も長期間変更していなかったたという。",
@@ -104,101 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T22:00:00+00:00",
-      "title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
-      "description": "映画「バック・トゥ・ザ・フューチャー」では、タイムマシンを動かすために1.21GW(12億1000万W)もの電力を必要とする設定となっています。そんな途方もない電力を家庭用電源から生み出して市販のスピーカーに瞬間的に流し込むとどうなるのかを検証した実験動画を、電気工作系YouTuberのPhotonicinductionが公開しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-billion-wats-in-speaker/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T17:07:00+00:00",
-      "title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
-      "description": "サンフランシスコで2人のサイクリストがひき逃げ事故で亡くなった後、都市活動家グループが、自転車レーンを守るための交通コーンを非公式で設置しました。通常はこのようにゲリラ的に設置されたものは市当局に撤去されますが、同じ活動家グループが設置した物を市が公式なものとして認めるという対応をした事例があります。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-guerrilla-bike-lanes/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T14:20:00+00:00",
-      "title": "大量のMacBook Proでデータセンターを構築した企業が「なぜMacなのか」を解説",
-      "description": "NamespaceはWindowsやmacOSの仮想環境をオンラインで提供している企業です。NamespaceはmacOS関連サービスを展開するために大量のMacBook Proを導入しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261115-mac-datacenter-namespace/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T14:00:00+00:00",
-      "title": "無料でSQLiteデータベース（.sqlite・.db）・.sqlダンプファイル・CSVファイルなどを編集・変換できる「editsqlite」",
-      "description": "データベースの中身を調べたいとき、サーバーへのアップロードや専用ソフトのインストールが必要になる場面があります。そうした手間を省き、ブラウザ上でSQLiteデータベース(.sqlite・.db)・SQLダンプファイル・CSVファイルを開いて編集と形式変換ができる無料のWebアプリが「editsqlite」です。続きを読む...",
-      "url": "https://gigazine.net/news/20261115-editsqlite/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T09:00:00+00:00",
-      "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
-      "description": "動画撮影で意外と難しいのが、周囲の雑音を抑えながらクリアな音声を録音することです。Insta360のワイヤレスマイク「Insta360 Mic Pro」は好きな画像やロゴを表示できるカラーE-Inkディスプレイが送信機に搭載されているのが特徴で、AIによるノイズキャンセリングや最大400mのワイヤレス伝送に対応し、32bit float内部録音によって大きな",
-      "url": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T08:53:00+00:00",
-      "title": "ジェンスン・フアンのNVIDIAのCEO復帰を求める署名が10万筆を突破、イーロン・マスクらも署名",
-      "description": "NVIDIAの共同創業者ジェンスン・フアン氏は、スパイと目される女性との不倫問題が話題となったのち、現地時間2026年11月12日付けでCEOを辞任しました。しかし、女性が本当にスパイだったかは確認されておらず、フアン氏は実質的に適正な手続きを経ずに解任されたも同然だとして、フアン氏のCEOへの復帰を取締役会に求める署名活動が行われています。署名には現役社員",
-      "url": "https://gigazine.net/news/20261115-stand-with-jensen/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-14T22:15:24+00:00",
       "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
       "description": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名運動が拡大しており、署名サイト「Stand with Jensen」には11万人超が賛同している。イーロン・マスク氏らも名を連ねており、取締役会に公正な調査と退任理由の説明を求めている。米政府や議会による調査も並行して進んでおり、波紋が広がっている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-13T22:30:00+00:00",
-      "title": "相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
-      "description": "大創産業（ダイソー）は11月11日、紙の「パスワード管理ノート」の売れ行きが10月末ごろから伸び、一時的に品薄になっているとITmedia NEWSの取材に答えた。IPAは紙での管理を否定しない一方、紙では防ぎにくいリスクへの対策として、多要素認証やパスキーの設定を勧めている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-13T14:34:56+00:00",
-      "title": "AI×裸眼3Dディスプレイ？ 2D映像をその場で3D化し、見る人の目も追う 現地で確かめた",
-      "description": "文章作成とんでん、ソフトバンク、SBクリエイティブの3社が、裸眼で3D映像を見られるデジタルサイネージの実証実験を公開した。AIが視聴者の目の位置を追跡し、既存の2D動画をリアルタイムで3D映像に変換する。現地で体験した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-13T10:45:49+00:00",
-      "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
-      "description": "NTTドコモビジネスなど4社が、データセンターの排熱を使ったエビ養殖の実証に乗り出す。2027年度にはバナメイエビの飼育を始める計画だ。なぜエビを選んだのか、育てたエビをどうするのか。同社の担当者に話を聞いた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
       "visual": "ai"
     },
     {
