@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-16T10:22:28.013335+00:00",
+  "updatedAt": "2026-11-16T11:44:40.674858+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T11:00:00+00:00",
+      "title": "インターネットや携帯電話網がなくてもHF帯でメッセージやファイルを送受信できる「HERMES」とは？",
+      "description": "2009年に設立された非営利団体のRhizomaticaは、遠隔地や開発途上地域に住むコミュニティのためにオープンソースの通信インフラ開発に取り組んでいます。そんなRhizomaticaが開発した「High-frequency Emergency and Rural Multimedia Exchange System(HERMES：HF帯緊急・農村マルチメ",
+      "url": "https://gigazine.net/news/20261116-open-source-hf-communications-hermes/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T10:38:00+00:00",
+      "title": "2026年11月16日のヘッドラインニュース",
+      "description": "TVアニメ『Re:ゼロから始める異世界生活』の5th seasonの製作決定が発表されました。あわせて、新シーズンの物語を示唆するウルトラティザービジュアルも公開されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-headline/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,16 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T07:15:00+00:00",
-      "title": "地図もカメラも使わずロボット同士の通信だけで空間の形状を認識する技術が開発される",
-      "description": "パリ・シテ大学やソルボンヌ大学、東京大学、お茶の水女子大学などの研究チームが、複数の小型ロボットが互いに情報を交換するだけで自分たちがいる空間の形状を認識する技術を開発しました。カメラやGPS、中央制御用のコンピューターを必要とせず、25台の小型ロボットを用いた実験では30回中30回、空間の形状を正しく識別することに成功しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-robo-hearing-the-shape-of-arena/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-16T06:57:02+00:00",
       "title": "秋葉原スマートごみ箱、不法投棄を見越し“防犯カメラのある場所”に設置していた 千代田区に聞いた運用の実際",
@@ -149,16 +159,6 @@
       "title": "マッチングアプリ「タップル」緊急メンテで停止 「待ち合わせしてるのに連絡取れない」ユーザー困惑",
       "description": "メンテ入りから5時間以上経った午後3時半時点でも復旧しておらず、「待ち合わせしているのに連絡が取れない」などユーザーが困惑している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003230/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T06:27:00+00:00",
-      "title": "Amazonが世界中のあらゆる商品情報を集約する「World Product Graph」計画を進めていることが判明、AIショッピングエージェントに対抗へ",
-      "description": "Amazonが自社で販売していない商品も含め、世界中の商品情報を集約する「World Product Graph」という計画を進めていることが、ロイターが入手した内部文書を基に報じています。商品検索の主導権を握ることで、Googleや他社のAIショッピングエージェントに対抗する狙いがあるとみられます。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-amazon-world-product-graph/",
       "visual": "ai"
     },
     {
