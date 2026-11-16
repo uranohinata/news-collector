@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-16T00:10:40.477949+00:00",
+  "updatedAt": "2026-11-16T01:55:06.175571+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T01:14:23+00:00",
+      "title": "エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ 退職者などアクセス可能な状態、約13年続く",
+      "description": "ステージング環境へのログイン時の認証用パスワードを固定文字列で運用し、ベーシック認証などの認証情報も長期間変更していなかったたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T00:49:03+00:00",
+      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
+      "description": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -19,16 +39,6 @@
       "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
       "description": "障害発生中は、Outlookでメール送受信ができなかったり、Copilotが使えないなどの問題が起き、日本の政府や企業にも大きな影響が出た。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-15T23:00:07+00:00",
-      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証",
-      "description": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "【復旧】ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
       "description": "「JALも予約できない」という声も出ていた。【更新】",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-13T04:31:03+00:00",
-      "title": "「Qoo10」不正アクセス、個人情報漏えい 「住所の地理座標」や「身体的特徴」も対象の可能性",
-      "description": "氏名や住所の他、住所の地理座標、顧客が任意で入力した身体的特徴などが含まれる可能性があるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
       "visual": "ai"
     },
     {
