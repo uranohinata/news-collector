@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-16T08:24:16.169194+00:00",
+  "updatedAt": "2026-11-16T10:22:28.013335+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T10:10:00+00:00",
+      "title": "「マジック：ザ・ギャザリング」のアニメシリーズ『PLANESWALKER』制作プレビュー映像公開、2027年にNetflixで配信へ",
+      "description": "世界初のトレーディングカードゲームで最もよく遊ばれているトレーディングカードゲームでもある「マジック：ザ・ギャザリング(Magic: The Gathering)」を題材としたアニメシリーズ『PLANESWALKER』が2027年にNetflixで配信される予定であることが明らかになりました。YouTubeではスタッフ陣や関係者のコメント、イメージボードなど",
+      "url": "https://gigazine.net/news/20261116-anime-mtg-planeswalker-sneak-peek/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T10:00:00+00:00",
+      "title": "AIが文学界を揺るがしている",
+      "description": "生成AIの発達により自然な言葉づかいで物語性のある文章もAIが生成できるようになったことで、AIで年間200冊のロマンス小説を執筆する作家の例や、執筆に生成AIを使った疑いで出版を停止した騒動、「AIで書いたのではないか」と疑惑を受けた短編小説が国際文学賞の最優秀賞を受賞した一件など、さまざまな議論が文学界で発生しています。そういった状況を受け、イギリス大手",
+      "url": "https://gigazine.net/news/20261116-ai-literary-world/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T09:17:00+00:00",
+      "title": "Appleの共同設立者であるスティーブ・ウォズニアックはApple Iを組み立てる前にどうやってBASIC言語を開発したのか？",
+      "description": "Apple初のマイクロコンピュータ「Apple I」向けに、Apple共同設立者のスティーブ・ウォズニアック氏は「Integer BASIC」を開発しました。Apple Iが開発される前にどうやってInteger BASICを開発したのか、Q＆Aサービス「Stack Exchange」でまとめられています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-apple-basic-wozniak/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T09:05:36+00:00",
+      "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界",
+      "description": "米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。半導体業界や同社の事業への影響は。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T08:49:00+00:00",
+      "title": "ChatGPTのチャット内でクレカ決済できる「ChatGPT Wallet」が登場",
+      "description": "ChatGPTに決済機能「ChatGPT Wallet」が追加されました。チャット内で商品選びから決済までを実行可能で、セキュリティも確保されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-chatgpt-wallet/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,46 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T06:00:00+00:00",
-      "title": "無料でブラウザから海の中を自由自在に泳ぎ回れる3D空間を形成する「Abyssal Garden」、WebGPUを駆使してわずか96KBのHTMLファイル1つでスマホでもオフラインでも動作可能",
-      "description": "WebGPUを使ったコードのみで生成された「Abyssal Garden」は、わずか97KBのHTMLファイルをブラウザで開くだけで、水中世界の3D空間を自由自在に泳ぎ回ることができます。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-abyssal-garden/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T05:45:00+00:00",
-      "title": "ついに「Rust 1.100」リリース、約10年越しの新機能が正式採用されパッケージの安全対策も強化",
-      "description": "プログラミング言語「Rust」の開発チームが2026年11月12日に「Rust 1.100.0」をリリースしました。Rust 1.100では約10年にわたって開発が続けられてきた「never型」が正式に利用可能になったほか、外部パッケージの安全対策やメモリ管理に関する機能の改善などが行われています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-rust-1-100/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T05:05:00+00:00",
-      "title": "NVIDIAのコレット・クレス暫定CEOはジェンスン・フアンのやり方を「セーブ」していたとの指摘",
-      "description": "不倫問題を機に辞任したNVIDIAのジェンスン・フアン氏の後任に、最高財務責任者のコレット・クレス氏が暫定として就きました。このクレス氏がどんな人物なのか、ウォール・ストリート・ジャーナルなどがまとめています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-colette-kress-nvidia/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T05:05:00+00:00",
-      "title": "「高用量インフルエンザワクチン」を接種した人はワクチン未接種者より約55％もアルツハイマー病リスクが低い",
-      "description": "例年秋から冬にかけて流行するインフルエンザは高熱や頭痛、全身の筋肉痛、鼻水やせきといった症状が現れる病気です。そんなインフルエンザを予防するワクチンの中でも、通常の約4倍もの有効成分(抗原)を含む「高用量インフルエンザワクチン」を接種することが、大幅なアルツハイマー病リスクの低下に関連しているとの研究結果が報告されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-flu-vaccine-lower-alzheimers-risk/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-16T03:42:48+00:00",
       "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
@@ -189,16 +199,6 @@
       "title": "マネックス証券、免許証画像やマイナカード表面など1592件漏えいか 口座開設システムに不正アクセス",
       "description": "運転免許証は表面・裏面と自撮り画像、マイナンバーカードは表面画像を含む。個人番号が含まれるマイナカードの裏面の漏えいは確認していない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T02:26:04+00:00",
-      "title": "「艦これアーケード」「オンゲキ」など一部再開 不正アクセスで停止のセガ系システムが試験復旧",
-      "description": "セガ フェイブは、不正アクセスを受けて停止していたゲームセンター向けネットワークサービス「ALL.Net」の一部機能を復旧し、「オンゲキ」「艦これアーケード」など12タイトルの試験稼働を再開した。一部サービスは停止が続いている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
       "visual": "ai"
     },
     {
