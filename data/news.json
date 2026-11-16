@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-16T01:55:06.175571+00:00",
+  "updatedAt": "2026-11-16T02:47:53.869441+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T02:45:00+00:00",
+      "title": "SpaceXが宇宙船「Starship(スターシップ)」本体の空中キャッチに初成功",
+      "description": "宇宙開発企業のSpaceXが2026年11月14日に超大型ロケット兼宇宙船「Starship(スターシップ)」の15回目の飛行試験を実施し、宇宙から帰還したスターシップ本体を発射塔のアームで受け止める「キャッチ」に初めて成功しました。スターシップの完全再利用に向けた重要な成果となっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-spacex-starship/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T02:26:04+00:00",
+      "title": "「艦これアーケード」「オンゲキ」など一部再開 不正アクセスで停止のセガ系システムが試験復旧",
+      "description": "セガ フェイブは、不正アクセスを受けて停止していたゲームセンター向けネットワークサービス「ALL.Net」の一部機能を復旧し、「オンゲキ」「艦これアーケード」など12タイトルの試験稼働を再開した。一部サービスは停止が続いている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T02:23:00+00:00",
+      "title": "NVIDIA製半導体の中国への出荷疑惑があるMegaspeedが「法に基づいて適切に運営している」と声明を発表",
+      "description": "NVIDIAのCEOを辞任したジェンスン・フアン氏の不倫相手で、アメリカ当局に中国のスパイだと断定されたアリス・フアン氏について、所属先だったとみられるシンガポールのデータセンター企業・Megaspeedが「アリス・フアン氏は2025年8月に退職済み」と明らかにしました。また、NVIDIA製半導体を中国に出荷していた疑いがかけられていることに対して、「アメリ",
+      "url": "https://gigazine.net/news/20261116-megaspeed-says-alice-huang-left-in-2025/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T02:14:00+00:00",
+      "title": "ULAの新型ロケット・VulcanがAmazonの衛星インターネット用衛星40基の軌道投入に失敗",
+      "description": "ロッキード・マーティンとボーイングの合弁事業であるユナイテッド・ローンチ・アライアンス(ULA)が、Amazonの衛星インターネットサービスであるAmazon Leoで利用する衛星40基の打ち上げに失敗しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-amazon-leo-vulcan-rocket-fails-destroying-40-satellites/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T02:11:00+00:00",
+      "title": "日本語でリアルタイム会話可能なAI「Haru-4B」がオープンモデルとして公開される、電話で話せるデモもあり",
+      "description": "日本の学生たちで構成されるAI開発企業のhigurashiがリアルタイム音声会話AI「Haru-4B」を公開しました。日本語での自然なやり取りが可能です。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-haru-4b-conversation-ai/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T01:58:42+00:00",
+      "title": "ドコモ、また「5G SA」で通信障害 今月3回目【更新】",
+      "description": "「5G SA」の障害は11月5日と11日にも発生しており、今月3回目だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,46 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T04:00:00+00:00",
-      "title": "ソニーの65万円超する金メッキ無酸素銅シャーシ採用のゴールデンなプレミアムウォークマン「NW-WM1ZM3」フォトレビュー",
-      "description": "ソニーが長年培ってきたアナログとデジタルの高音質技術を結集した新しいSignature Seriesとして、音響特性を最大限引き出すため金メッキ無酸素銅シャーシを採用したプレミアムウォークマン「NW-WM1ZM3」を発表しました。「NW-WM1ZM3」と同時に「NW-WM1AM3」と「NW-ZX900」というウォークマンも一緒にソニーから発表されたのですが、",
-      "url": "https://gigazine.net/news/20261115-sony-nw-wm1zm3-wm1am3-zx900/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T03:00:00+00:00",
-      "title": "「義務教育期間を1年延ばす」という政策が後の認知症発症率を大きく引き下げた可能性",
-      "description": "認知症は人生の質を大きく低下させる深刻な病気であり、その発症リスクは遺伝・生活習慣・環境・社会経済的状況などさまざまな要因に左右されます。新たな研究では、義務教育の期間が1年延びたことで後の認知症発症率が大きく低下した可能性が示されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261115-more-education-reduces-dementia-risk/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T01:00:00+00:00",
-      "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
-      "description": "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261115-dayjob-tax/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-15T00:00:00+00:00",
-      "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
-      "description": "近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を",
-      "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-14T22:15:24+00:00",
       "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
@@ -179,26 +199,6 @@
       "title": "データセンターの排熱でエビ養殖、NTT系が実験 育ったら食べられる？ 担当者に聞いてみた",
       "description": "NTTドコモビジネスなど4社が、データセンターの排熱を使ったエビ養殖の実証に乗り出す。2027年度にはバナメイエビの飼育を始める計画だ。なぜエビを選んだのか、育てたエビをどうするのか。同社の担当者に話を聞いた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-13T09:17:23+00:00",
-      "title": "「お名前.com」不正アクセス、補償申請約30億円に GMOインターネットが決算説明会で謝罪",
-      "description": "GMOインターネットは11月13日、「お名前.com デスクトップクラウド」への不正アクセスに関わる直接費用が計30億5000万円に上る見込みだと発表した。費用総額は確定していないとして、通期の業績予想は修正していない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-13T05:58:17+00:00",
-      "title": "【復旧】ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
-      "description": "「JALも予約できない」という声も出ていた。【更新】",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
       "visual": "ai"
     },
     {
