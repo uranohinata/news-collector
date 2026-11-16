@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-16T11:44:40.674858+00:00",
+  "updatedAt": "2026-11-16T14:51:14.185395+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T14:00:56+00:00",
+      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
+      "description": "Googleは、AIを悪用したサイバー攻撃の動向をまとめた四半期レポートを公開した。攻撃者が複数のAIエージェントを組み合わせ、自律的に脆弱性の発見から攻撃までを実行するフレームワークが初めて確認された。偽プロフィールによる標的への接近や世論工作の自動化、LLMJackingの被害拡大なども報告している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T14:00:00+00:00",
+      "title": "無料で高校1年生(数学IA履修程度)を対象に大規模言語モデル(LLM)・GPTの仕組みを数学とプログラミングの初歩から順番に作って学ぶ教材「microgpt-lesson」、Google Colabで動作",
+      "description": "ChatGPTなどのAIは文章を作成したり質問に回答したりできますが、その内部でどのような計算が行われているのかを理解するには数学やプログラミングの知識が必要です。そんな大規模言語モデル(LLM)の仕組みを高校1年生向けの数学から順番に学び、Google Colab上で実際に小さなGPTを作ることができる無料教材「microgpt-lesson」です。続きを",
+      "url": "https://gigazine.net/news/20261116-microgpt-lesson/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-16T12:00:00+00:00",
+      "title": "ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理",
+      "description": "排ガス規制に適合させるため、Claude CodeとOpenAI Codexで車を修理したという人が詳細を報告しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261116-claude-codex-controll-jeep/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,26 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T07:35:00+00:00",
-      "title": "OLED搭載の新型MacBook Proで「目が疲れる」「頭痛がする」との報告が相次ぐ",
-      "description": "Appleが2026年11月6日に発売した有機EL(OLED)ディスプレイ搭載の新型MacBook Proについて「目が疲れる」「頭痛やめまいが起きる」といった報告が相次いでいます。従来モデルより美しい映像を表示できる一方で、画面の明るさを調整する仕組みが一部のユーザーに不快感を与えている可能性が指摘されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-oled-macbook-pro/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T07:31:00+00:00",
-      "title": "日本やアメリカ・イギリス・インドなど「パックス・シリカ」加盟国がAIサプライチェーンの安全保障で合意",
-      "description": "アメリカ商務省が主導し日本などが参加している国際的な協力の枠組み「パックス・シリカ(Pax Silica)」の加盟国が、中国からの脅威にさらされやすいAI技術やサプライチェーンを共同で把握・保護していく方針で合意したことがわかりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-pax-silica-protect-ai-supply-chains/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-16T07:20:17+00:00",
       "title": "次世代半導体向けで注目の酸化ガリウム、埼玉発で世界へ 電力ロス大幅低減でAI需要狙う",
@@ -189,16 +199,6 @@
       "title": "フリーランス市場、受注者の約8割がAIを利用 自発的に開示は1割弱、両者に意識差 IBMリサーチなど調査",
       "description": "南カリフォルニア大学やIBMリサーチなどに所属する研究者らが「CHI ’26」で発表した論文「“Better Ask for Forgiveness than Permission”: Practices and Policies of AI Disclosure in Freelance Work」は、フリーランス市場において、ワーカー（受注者）とクライア",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T02:46:01+00:00",
-      "title": "マネックス証券、免許証画像やマイナカード表面など1592件漏えいか 口座開設システムに不正アクセス",
-      "description": "運転免許証は表面・裏面と自撮り画像、マイナンバーカードは表面画像を含む。個人番号が含まれるマイナカードの裏面の漏えいは確認していない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
       "visual": "ai"
     },
     {
