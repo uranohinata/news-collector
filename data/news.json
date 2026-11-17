@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-11-17T03:17:00.480900+00:00",
+  "updatedAt": "2026-11-17T04:25:38.023691+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T04:05:00+00:00",
+      "title": "MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に",
+      "description": "2026年11月12日に発生したOutlookやExchange Onlineなどの世界規模のサービス障害について、Microsoftが11月16日に暫定的な調査報告書を公開しました。2026年7月のバグ修正によって混入した新たなバグと複数のインフラ上の問題が重なったことで、障害が連鎖的に拡大したことが明らかになっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T03:50:05+00:00",
+      "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
+      "description": "米商務省は、中国企業などが第三国のデータセンターを経由して米国製先端AIチップを遠隔利用することを防ぐ暫定最終規則を発表した。物理的な輸出規制の抜け道をふさぐ狙いで、一定以上の計算資源を提供するデータセンターへのチップ輸出にライセンスを義務付ける。NVIDIAを巡る疑惑が背景にあるとみられる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T03:37:00+00:00",
+      "title": "NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能",
+      "description": "NVIDIAが小型AIスーパーコンピューター「DGX Spark」を4台連係させてAIクラスターを形成できる「DGX Spark Developer Kit」を発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-dgx-spark-developer-kit/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T03:35:13+00:00",
+      "title": "モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
+      "description": "企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T03:30:00+00:00",
+      "title": "JPモルガン・チェースの技術的問題でアメリカのオンラインバンキングに次々と障害発生",
+      "description": "ニューヨークに本社を置くグローバル金融サービス会社のJPモルガン・チェースで発生した技術的な問題が金融システム全体に波及した結果、数千人の顧客がオンライン口座へのアクセスが困難になる影響を受けたことが報じられています。JPモルガン・チェースは「ハードウェアシステムにおけるソフトウェアの不具合に関連した一時的な問題であり、サイバー攻撃によるものではなく、本日中",
+      "url": "https://gigazine.net/news/20261117-bank-outage-chase/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T03:26:00+00:00",
+      "title": "過去8年間中7年間で最も人気のあるパスワードは「123456」、日本人は「Onepiece1」もお気に入り",
+      "description": "同名のパスワードマネージャーを展開する企業NordPassが、2025年9月から2026年9月にかけてダークウェブ等に漏えいしたパスワードを分析しました。過去8年間のデータと併せて、「世界で人気のパスワードランキング」などを公開しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-nordpass-most-common-passwords/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T03:20:00+00:00",
+      "title": "Hugging Faceのモデル公開ページでOpenRouterのルーティングサービスを用いたチャットが可能に",
+      "description": "Hugging FaceとOpenRouterが提携し、Hugging Faceのサービス内でOpenRouterのルーティングサービスを利用できるようになりました。これにより、Hugging Faceのユーザーはコスト効率やレイテンシなどを加味しつつプロバイダーを選択できるようになります。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-hugging-face-openrouter/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -34,6 +104,16 @@
     {
       "category": "テクノロジー",
       "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T03:00:00+00:00",
+      "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+      "description": "米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラ",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
       "source": "GIGAZINE",
       "time": "2026-11-17T03:00:00+00:00",
       "title": "「キムチ」の乳酸菌が腸内からナノプラスチックを排出するのに役立つ可能性",
@@ -49,56 +129,6 @@
       "title": "閲覧履歴や購入履歴などをもとに商品の値段を客ごとに変える「監視型価格設定」を禁止する法案をニューヨーク市議会が可決",
       "description": "アメリカのニューヨーク市議会は現地時間の2026年11月12日、「監視型価格設定」を禁止する法案を賛成44票、反対5票で可決しました。続きを読む...",
       "url": "https://gigazine.net/news/20261117-nyc-surveillance-pricing-ban/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T02:36:00+00:00",
-      "title": "Nintendo Switch 2版「ゼルダの伝説 時のオカリナ」でプレイヤーを最もゲームオーバーに至らしめる敵の存在が明らかに",
-      "description": "2026年11月5日(木)に発売されたNintendo Switch 2版「ゼルダの伝説 時のオカリナ」で、最も多くプレイヤーをゲームオーバーに導いているモンスターの正体が明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-zelda-ocarina-of-time-no-1-death/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T02:30:00+00:00",
-      "title": "中国からアメリカ製AIサーバーへのリモートアクセスを制限する新規則をアメリカが策定、輸出規制を回避するクラウドレンタルの抜け穴に対抗",
-      "description": "アメリカ商務省の産業安全保障局(BIS)は2026年11月16日、中国などの企業が第三国のデータセンターを経由して高性能なAIチップを遠隔利用することを制限する新たな規則を発表しました。従来の半導体輸出規制ではカバーできなかったクラウド経由での計算資源の利用を規制することで、先端AI技術の流出を防ぐ狙いがあります。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-bis-issued-rule-cloud-access-from-china/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T02:25:00+00:00",
-      "title": "Amazonのブラックフライデーセールで「お得」と宣伝された商品の約3分の1が普段より安くなっていなかったとの調査結果",
-      "description": "Amazonがブラックフライデーやサイバーマンデーで割引商品として紹介した351点をアメリカの経済政策団体であるGroundwork Collaborativeが調査したところ、約3分の1がセール開始前30日間の最安値と同じか、むしろ高い価格で販売されていたことが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-amazon-black-friday-decoy-deal/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T01:49:00+00:00",
-      "title": "脱獄したPlayStation 4で90億パラメーターのAIモデルを毎秒最大43トークンで動作させる「Garlic LLM」が登場",
-      "description": "2013年に発売されたソニーの家庭用ゲーム機「PlayStation 4(PS4)」で90億パラメーターの大規模言語モデルをローカル実行できるオープンソースのアプリ「Garlic LLM」が登場しました。PS4に搭載されたGPUを直接操作することで毎秒最大43トークンの生成速度を実現しており、インターネット接続なしでAIとのチャットや音声会話が可能です。続き",
-      "url": "https://gigazine.net/news/20261117-playstation-4-garlic-llm/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T01:47:00+00:00",
-      "title": "画像や音声も処理できる意思決定モデル「d1.2」「d1.2-ultra」が登場",
-      "description": "AI企業のLiquid AIがマルチモーダル意思決定モデル「d1.2」と「d1.2-ultra」を現地時間の2026年11月16日にリリースしました。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-liquid-ai-decision-model-omnimodal/",
       "visual": "ai"
     },
     {
@@ -169,36 +199,6 @@
       "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
       "description": "Microsoftは、「Microsoft 365」で12日に発生した大規模障害の暫定的なインシデントレポートを公開した。7月に展開した更新プログラムに潜む不具合が、通信トラフィック移行による負荷増と容量低下という悪条件と重なり顕在化。世界規模で連鎖的なサーバダウンを引き起こした。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T14:00:56+00:00",
-      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
-      "description": "Googleは、AIを悪用したサイバー攻撃の動向をまとめた四半期レポートを公開した。攻撃者が複数のAIエージェントを組み合わせ、自律的に脆弱性の発見から攻撃までを実行するフレームワークが初めて確認された。偽プロフィールによる標的への接近や世論工作の自動化、LLMJackingの被害拡大なども報告している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T09:05:36+00:00",
-      "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界",
-      "description": "米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。半導体業界や同社の事業への影響は。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T07:52:17+00:00",
-      "title": "ドコモ、また「5G SA」で通信障害 今月3回目【復旧】",
-      "description": "「5G SA」の障害は11月5日と11日にも発生しており、今月3回目だ。【復旧】",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
       "visual": "ai"
     },
     {
