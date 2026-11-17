@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-17T00:49:37.569557+00:00",
+  "updatedAt": "2026-11-17T02:04:05.199468+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T01:49:00+00:00",
+      "title": "脱獄したPlayStation 4で90億パラメーターのAIモデルを毎秒最大43トークンで動作させる「Garlic LLM」が登場",
+      "description": "2013年に発売されたソニーの家庭用ゲーム機「PlayStation 4(PS4)」で90億パラメーターの大規模言語モデルをローカル実行できるオープンソースのアプリ「Garlic LLM」が登場しました。PS4に搭載されたGPUを直接操作することで毎秒最大43トークンの生成速度を実現しており、インターネット接続なしでAIとのチャットや音声会話が可能です。続き",
+      "url": "https://gigazine.net/news/20261117-playstation-4-garlic-llm/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T01:47:00+00:00",
+      "title": "画像や音声も処理できる意思決定モデル「d1.2」「d1.2-ultra」が登場",
+      "description": "AI企業のLiquid AIがマルチモーダル意思決定モデル「d1.2」と「d1.2-ultra」を現地時間の2026年11月16日にリリースしました。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-liquid-ai-decision-model-omnimodal/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T01:09:00+00:00",
+      "title": "「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか",
+      "description": "カナ氏名、電話番号、メールアドレス、ユーザーID、ハッシュ化済みパスワード、生年月日、性別、国籍が、第三者に取得された可能性があるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T01:00:00+00:00",
+      "title": "Windowsに対抗する無料のデスクトップ環境はどう生まれたのか？「KDE」開発者たちの30年間を描く映画が公開",
+      "description": "Linux向けのデスクトップ環境「KDE Plasma」などを開発するオープンソースプロジェクト「KDE」の30年間の歴史を振り返るドキュメンタリー映画「KDE: The Documentary — The Story of Free Software Underdogs」が公開されました。Windowsなどの商用OSに対抗する無料のデスクトップ環境を作ろう",
+      "url": "https://gigazine.net/news/20261117-kde-documentary/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,41 +154,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T10:00:00+00:00",
-      "title": "AIが文学界を揺るがしている",
-      "description": "生成AIの発達により自然な言葉づかいで物語性のある文章もAIが生成できるようになったことで、AIで年間200冊のロマンス小説を執筆する作家の例や、執筆に生成AIを使った疑いで出版を停止した騒動、「AIで書いたのではないか」と疑惑を受けた短編小説が国際文学賞の最優秀賞を受賞した一件など、さまざまな議論が文学界で発生しています。そういった状況を受け、イギリス大手",
-      "url": "https://gigazine.net/news/20261116-ai-literary-world/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T09:17:00+00:00",
-      "title": "Appleの共同設立者であるスティーブ・ウォズニアックはApple Iを組み立てる前にどうやってBASIC言語を開発したのか？",
-      "description": "Apple初のマイクロコンピュータ「Apple I」向けに、Apple共同設立者のスティーブ・ウォズニアック氏は「Integer BASIC」を開発しました。Apple Iが開発される前にどうやってInteger BASICを開発したのか、Q＆Aサービス「Stack Exchange」でまとめられています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-apple-basic-wozniak/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-16T09:05:36+00:00",
       "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界",
       "description": "米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。半導体業界や同社の事業への影響は。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T08:49:00+00:00",
-      "title": "ChatGPTのチャット内でクレカ決済できる「ChatGPT Wallet」が登場",
-      "description": "ChatGPTに決済機能「ChatGPT Wallet」が追加されました。チャット内で商品選びから決済までを実行可能で、セキュリティも確保されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-chatgpt-wallet/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "秋葉原スマートごみ箱、不法投棄を見越し“防犯カメラのある場所”に設置していた 千代田区に聞いた運用の実際",
       "description": "千代田区は、秋葉原のスマートごみ箱で運用3日目に不法投棄が見つかった件について、ITmedia NEWSの取材に回答した。不法投棄はあらかじめ想定し、もともと防犯カメラがある場所にごみ箱を置いていたほか、費用が計約7300万円であることも明らかにした。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003228/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T06:55:27+00:00",
-      "title": "マッチングアプリ「タップル」緊急メンテで停止 「待ち合わせしてるのに連絡取れない」ユーザー困惑",
-      "description": "メンテ入りから5時間以上経った午後3時半時点でも復旧しておらず、「待ち合わせしているのに連絡が取れない」などユーザーが困惑している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003230/",
       "visual": "ai"
     },
     {
