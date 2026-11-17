@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-16T23:36:35.270580+00:00",
+  "updatedAt": "2026-11-17T00:49:37.569557+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T00:03:15+00:00",
+      "title": "OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始",
+      "description": "OpenAIは、外部の独立評価機関が社内に常駐してAIの安全性を検証する「埋め込み型評価」の開始を発表した。METRやApollo Researchなど4団体と契約を結び、学習中のモデルやソースコードへの深いアクセスを提供する。モデルの意図的な妨害行為や不適切な挙動を評価し、安全管理の透明性向上を図る狙いだ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T00:00:00+00:00",
+      "title": "GIGAZINE読者の自動車利用率を調べてみた、年代や居住地でクルマの利用率はどれくらい変わるのか？",
+      "description": "GIGAZINEでは年に3回プレゼントアンケートを実施して、読者にさまざまな質問を投げかけています。このアンケートで、GIGAZINE読者の自動車の利用実態を調べてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-gigazine-car-usage/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-16T23:04:43+00:00",
+      "title": "OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」",
+      "description": "カリフォルニア州の司法長官は、OpenAIを提訴した。十分な安全対策を講じずに高度なAIモデルを開発・テストしたとしている。テスト中に自律エージェントの制御を80回以上失ったにもかかわらず一部しか公表しなかったと指摘。OpenAI側は「自社のみが狙い撃ちにされている」と反論している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,16 +154,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-16T08:00:00+00:00",
-      "title": "華やかでフルーティーなブドウの香りに適度な微炭酸で上品な味わいの「Welch’sスパークリングロゼ」を飲んでみた",
-      "description": "2026年11月10日(火)、アサヒ飲料のブドウジュースブランド「Welch’s(ウェルチ)」に、期間限定のスパークリングドリンク「Welch’sスパークリングロゼ」が登場しました。フルーティーな香りと心地よい微炭酸が特徴というジュースが気になったので、どんな味になっているのか飲んで確かめてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261116-asahiinryo-welch-sparkling-rose/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-16T07:52:17+00:00",
       "title": "ドコモ、また「5G SA」で通信障害 今月3回目【復旧】",
@@ -179,26 +199,6 @@
       "title": "マッチングアプリ「タップル」緊急メンテで停止 「待ち合わせしてるのに連絡取れない」ユーザー困惑",
       "description": "メンテ入りから5時間以上経った午後3時半時点でも復旧しておらず、「待ち合わせしているのに連絡が取れない」などユーザーが困惑している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003230/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T03:42:48+00:00",
-      "title": "スパコン「富岳」に不正アクセス 理研が明らかに",
-      "description": "理化学研究所は11月16日、スーパーコンピュータ「富岳」に関するシステムが不正アクセスを受けたと、ITmedia NEWSの取材に対し明らかにした。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T03:00:00+00:00",
-      "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果",
-      "description": "ドイツのルール大学ボーフムなどに所属する研究者らが発表した論文「The State of Passkeys: Studying the Adoption and Security of Passkeys on the Web」は、公開されているサイトのパスキーの普及状況と安全性を調査した研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
       "visual": "ai"
     },
     {
