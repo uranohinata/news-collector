@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-17T12:53:12.012740+00:00",
+  "updatedAt": "2026-11-17T14:09:57.299144+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T14:00:00+00:00",
+      "title": "VRAMが数百GBなくてもGPU1基でGLM-5.3-Flashを動かすことができる「Project Maya」",
+      "description": "AIモデルを自分のPCで動かす場合はモデルのデータをVRAMに読み込みますが、数千億パラメーター級の巨大なモデルを動かすのに必要なメモリは数百GB単位になるため自前環境で動かすことはほぼ不可能です。そこでVRAM・メインメモリ・SSDを組み合わせて条件をクリアすれば、GPU1基の環境でも巨大モデルを実行できるようにするための無料のオープンソースツールが「Pr",
+      "url": "https://gigazine.net/news/20261117-project-maya/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T13:30:00+00:00",
+      "title": "自動でクレーンのようにモノをつかんで部屋をお片付けしてくれるオープンソースロボット「Stringman」",
+      "description": "オープンソースハードウェアを開発するNeufangled Roboticsが、床に散らばったおもちゃや衣類を片付けるためのロボット「Stringman」を開発しました。天井近くの四隅から伸ばしたラインで2本指の「手」をつり下げ、クレーンのように動かしてモノを運んでもらうことができます。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-stringman-cable-robot/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T13:00:00+00:00",
+      "title": "Claude Fable 5.2を使って一発で指示通りのゲームを作成できた話",
+      "description": "甥っ子から「ゲームを作って」と頼まれた機械学習エンジニアが、AIの「Claude Fable 5.2」に1回指示を出すだけでゲームを完成させたとする体験談を共有しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-claude-made-dream-game/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,41 +134,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T07:45:00+00:00",
-      "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
-      "description": "Windows 11が「Claude Code」や「Codex」などのAIコーディングエージェントや開発者向けツールの使用状況を記録し、Microsoftへの送信対象となる診断データに含めていることが明らかになりました。Windows 11の内部動作を調査した開発者のシュシェン・リー氏が2026年11月16日に報告しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-windows-coding-agent-telemetry/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T07:25:00+00:00",
-      "title": "ロシアが外国のインフルエンサーを招いて占領地周遊ツアーを開催し占領を正当化するプロパガンダを展開している",
-      "description": "ウクライナのキーウを拠点としてオンラインで情報を発信している地元紙キーウ・インディペンデントが、インフルエンサーを利用したロシアによるプロパガンダを暴いています。ロシアは国営メディアを用いたプロパガンダも展開していますが、インフルエンサーを使うとまるで独立した情報のように見せられるところがポイントで、占領地の住民にも「外部の人間が現状を認めている」かのように",
-      "url": "https://gigazine.net/news/20261117-foreign-infruencer-donetsk/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-17T07:22:56+00:00",
       "title": "メルカリと駿河屋、米国で合弁 実店舗運営、AI活用した査定・価格設定も",
       "description": "両社は2025年12月に資本業務提携契約を結び、メルカリ上で駿河屋の商品を販売するなど連携してきた。新たに、米国での共同事業にも連携を広げる。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003266/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T07:10:00+00:00",
-      "title": "Zoom・CNN・BBC・IKEAなど178組織のサイトにOptimizely経由で悪意のあるJavaScriptが配信され仮想通貨の盗難被害も発生",
-      "description": "ウェブサイトの改善や効果測定に使われる「Optimizely(オプティマイズリー)」を通じて悪意のあるJavaScriptが配信され、Zoom・CNN・Salesforce・GitLab・BBC・IKEAなど178組織のウェブサイトに影響が及んでいたことが判明しました。悪意のあるJavaScriptには仮想通貨の送金先を書き換えたりクレジットカード情報を盗み",
-      "url": "https://gigazine.net/news/20261117-infect-malware-optimizely/",
       "visual": "ai"
     },
     {
