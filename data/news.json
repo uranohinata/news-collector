@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-17T08:15:08.809555+00:00",
+  "updatedAt": "2026-11-17T09:30:38.101370+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T09:10:00+00:00",
+      "title": "5年前に自分で歌った曲がAI音楽企業の著作権侵害申し立てで削除される、異議申し立ても2回却下",
+      "description": "約5年前に自分で録音した歌声をYouTubeに投稿していたミュージシャンが、AIを活用する音楽配信企業から著作権侵害を申し立てられて動画を削除される事態が発生しました。ミュージシャンは2回にわたって異議を申し立てたものの認められませんでした。問題を解決するまでの経緯をテクノロジーメディアの404 Mediaが報じています。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-musician-copyright-hell/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T09:00:00+00:00",
+      "title": "2026年11月17日のヘッドラインニュース",
+      "description": "明治のロングセラーアイス「明治うずまきソフト」が、発売30周年を記念して「まきすぎソフト」に変身した期間限定パッケージで販売されています。パッケージには「30thなのでいつもより張り切って巻きました♪」と記載されており、通常よりもうずまきが増えた特別仕様になっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-headline/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T08:54:00+00:00",
+      "title": "人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる",
+      "description": "NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T08:18:24+00:00",
+      "title": "東京都、水道利用者個人情報871件含むHDD紛失 一部に口座番号も 10月に同様事案",
+      "description": "東京都水道局は11月16日、個人情報を記録したハードディスクドライブ（HDD：情報記憶装置）の紛失が発覚したと発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -94,36 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T04:45:00+00:00",
-      "title": "OpenAIが児童ポルノ検出ツールを開発し監視団体に提供開始",
-      "description": "OpenAIがAI生成画像を含む児童性的虐待コンテンツの検出を支援するツールを発表しました。新しいツールで監視団体を支援するとともに、ChatGPTに新しい警告機能を追加し、開発者向けガイダンスを公開することで、オンライン児童性的虐待との闘いを強化することを掲げています。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-openai-child-safety/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T04:40:00+00:00",
-      "title": "Metaが1400億円超の罰金を科される、Androidの写真をスキャンするFacebook機能が原因",
-      "description": "Android版Facebookアプリがスマートフォンに保存されている写真や動画を勝手に覗いていたとして、イタリアの個人情報保護機関がMetaに8億500万ユーロ(約1410億円)の制裁金を科したことが分かりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-italy-fines-meta-facebook-scan/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T04:37:00+00:00",
-      "title": "Appleがアプリのデータアクセス範囲をわかりやすく詳細に指定できるようにアップデート、AIエージェントの意図せぬデータアクセスを防ぐことが狙いか",
-      "description": "現地時間の2026年11月16日、AppleがmacOS 27.3 beta 2でアプリに許可されているデータアクセスの範囲をよりわかりやすく、細かく指定できるよう権限設定を見直したことを発表しました。これはAIエージェントがユーザーの意図しないデータにアクセスすることを防ぐための措置であると報じられています。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-macos-control-data-access-full-disk/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-17T03:50:05+00:00",
       "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
@@ -189,16 +199,6 @@
       "title": "「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか",
       "description": "カナ氏名、電話番号、メールアドレス、ユーザーID、ハッシュ化済みパスワード、生年月日、性別、国籍が、第三者に取得された可能性があるという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T00:03:15+00:00",
-      "title": "OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始",
-      "description": "OpenAIは、外部の独立評価機関が社内に常駐してAIの安全性を検証する「埋め込み型評価」の開始を発表した。METRやApollo Researchなど4団体と契約を結び、学習中のモデルやソースコードへの深いアクセスを提供する。モデルの意図的な妨害行為や不適切な挙動を評価し、安全管理の透明性向上を図る狙いだ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
       "visual": "ai"
     },
     {
