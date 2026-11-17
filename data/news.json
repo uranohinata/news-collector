@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-17T11:44:08.056095+00:00",
+  "updatedAt": "2026-11-17T12:53:12.012740+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T12:00:00+00:00",
+      "title": "遺跡の溝から大量のカエルの骨が発見された事件の犯人がついに明らかに",
+      "description": "イギリスのケンブリッジ近郊にあるローマ時代の遺跡から大量のカエルの骨が発見され、なぜこれほど多くのカエルが1カ所で死んだのかが謎となっていました。ボーンマス大学などの研究チームが骨を詳しく分析した結果、ある生き物の生態が関与していた可能性が指摘されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-roman-frog-graveyard/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -129,16 +139,6 @@
       "title": "Zoom・CNN・BBC・IKEAなど178組織のサイトにOptimizely経由で悪意のあるJavaScriptが配信され仮想通貨の盗難被害も発生",
       "description": "ウェブサイトの改善や効果測定に使われる「Optimizely(オプティマイズリー)」を通じて悪意のあるJavaScriptが配信され、Zoom・CNN・Salesforce・GitLab・BBC・IKEAなど178組織のウェブサイトに影響が及んでいたことが判明しました。悪意のあるJavaScriptには仮想通貨の送金先を書き換えたりクレジットカード情報を盗み",
       "url": "https://gigazine.net/news/20261117-infect-malware-optimizely/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T07:00:00+00:00",
-      "title": "木製フレームで温かみがある31.5インチのフルカラー電子ペーパーディスプレイ「Frame」をTRMNLが発表",
-      "description": "目に優しい電子ペーパーディスプレイ製品を開発しているTRMNLが、現地時間の2026年11月16日に、31.5インチのフルカラー電子ペーパーディスプレイ「Frame」を発表しました。Frameは自社工房で手作りした木製フレームを採用しており、温かみのあるディスプレイとなっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-full-color-epaper-display-trmnl-frame/",
       "visual": "ai"
     },
     {
