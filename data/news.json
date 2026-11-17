@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-11-17T06:31:10.601499+00:00",
+  "updatedAt": "2026-11-17T08:15:08.809555+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T08:00:00+00:00",
+      "title": "濃いみそスープと幅広はるさめでがっつり味わえるエースコックの「スープはるさめ味噌ラーメン味」試食レビュー",
+      "description": "エースコックの「スープはるさめ」シリーズから、「スープはるさめ 味噌ラーメン味」が2026年11月23日から期間限定で販売されます。一足早く編集部に届いたため、寒い季節の恒例となった一杯を今年も味わってみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-acecook-soup-harusame-miso-ramen/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T07:45:00+00:00",
+      "title": "Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明",
+      "description": "Windows 11が「Claude Code」や「Codex」などのAIコーディングエージェントや開発者向けツールの使用状況を記録し、Microsoftへの送信対象となる診断データに含めていることが明らかになりました。Windows 11の内部動作を調査した開発者のシュシェン・リー氏が2026年11月16日に報告しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-windows-coding-agent-telemetry/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T07:25:00+00:00",
+      "title": "ロシアが外国のインフルエンサーを招いて占領地周遊ツアーを開催し占領を正当化するプロパガンダを展開している",
+      "description": "ウクライナのキーウを拠点としてオンラインで情報を発信している地元紙キーウ・インディペンデントが、インフルエンサーを利用したロシアによるプロパガンダを暴いています。ロシアは国営メディアを用いたプロパガンダも展開していますが、インフルエンサーを使うとまるで独立した情報のように見せられるところがポイントで、占領地の住民にも「外部の人間が現状を認めている」かのように",
+      "url": "https://gigazine.net/news/20261117-foreign-infruencer-donetsk/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T07:22:56+00:00",
+      "title": "メルカリと駿河屋、米国で合弁 実店舗運営、AI活用した査定・価格設定も",
+      "description": "両社は2025年12月に資本業務提携契約を結び、メルカリ上で駿河屋の商品を販売するなど連携してきた。新たに、米国での共同事業にも連携を広げる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003266/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T07:10:00+00:00",
+      "title": "Zoom・CNN・BBC・IKEAなど178組織のサイトにOptimizely経由で悪意のあるJavaScriptが配信され仮想通貨の盗難被害も発生",
+      "description": "ウェブサイトの改善や効果測定に使われる「Optimizely(オプティマイズリー)」を通じて悪意のあるJavaScriptが配信され、Zoom・CNN・Salesforce・GitLab・BBC・IKEAなど178組織のウェブサイトに影響が及んでいたことが判明しました。悪意のあるJavaScriptには仮想通貨の送金先を書き換えたりクレジットカード情報を盗み",
+      "url": "https://gigazine.net/news/20261117-infect-malware-optimizely/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T07:00:00+00:00",
+      "title": "木製フレームで温かみがある31.5インチのフルカラー電子ペーパーディスプレイ「Frame」をTRMNLが発表",
+      "description": "目に優しい電子ペーパーディスプレイ製品を開発しているTRMNLが、現地時間の2026年11月16日に、31.5インチのフルカラー電子ペーパーディスプレイ「Frame」を発表しました。Frameは自社工房で手作りした木製フレームを採用しており、温かみのあるディスプレイとなっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261117-full-color-epaper-display-trmnl-frame/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T06:06:05+00:00",
+      "title": "ドコモ3度の通信障害「大変遺憾」と総務相 「構造的な課題、洗い出し求める」",
+      "description": "総務省からドコモに対して、個別の障害の原因究明・再発防止策に加え、一連の障害の関係性を検証し、その根本原因を究明することを求めたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -54,16 +124,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T04:05:00+00:00",
-      "title": "MicrosoftがOutlookの大規模障害の原因を公表、2026年7月のバグ修正が引き金となりサーバーの80％以上が応答不能に",
-      "description": "2026年11月12日に発生したOutlookやExchange Onlineなどの世界規模のサービス障害について、Microsoftが11月16日に暫定的な調査報告書を公開しました。2026年7月のバグ修正によって混入した新たなバグと複数のインフラ上の問題が重なったことで、障害が連鎖的に拡大したことが明らかになっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-microsoft-outlook-incidents-updates/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-17T03:50:05+00:00",
       "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
@@ -74,51 +134,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T03:37:00+00:00",
-      "title": "NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能",
-      "description": "NVIDIAが小型AIスーパーコンピューター「DGX Spark」を4台連係させてAIクラスターを形成できる「DGX Spark Developer Kit」を発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-dgx-spark-developer-kit/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-17T03:35:13+00:00",
       "title": "モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
       "description": "企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T03:30:00+00:00",
-      "title": "JPモルガン・チェースの技術的問題でアメリカのオンラインバンキングに次々と障害発生",
-      "description": "ニューヨークに本社を置くグローバル金融サービス会社のJPモルガン・チェースで発生した技術的な問題が金融システム全体に波及した結果、数千人の顧客がオンライン口座へのアクセスが困難になる影響を受けたことが報じられています。JPモルガン・チェースは「ハードウェアシステムにおけるソフトウェアの不具合に関連した一時的な問題であり、サイバー攻撃によるものではなく、本日中",
-      "url": "https://gigazine.net/news/20261117-bank-outage-chase/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T03:26:00+00:00",
-      "title": "過去8年間中7年間で最も人気のあるパスワードは「123456」、日本人は「Onepiece1」もお気に入り",
-      "description": "同名のパスワードマネージャーを展開する企業NordPassが、2025年9月から2026年9月にかけてダークウェブ等に漏えいしたパスワードを分析しました。過去8年間のデータと併せて、「世界で人気のパスワードランキング」などを公開しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-nordpass-most-common-passwords/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T03:20:00+00:00",
-      "title": "Hugging Faceのモデル公開ページでOpenRouterのルーティングサービスを用いたチャットが可能に",
-      "description": "Hugging FaceとOpenRouterが提携し、Hugging Faceのサービス内でOpenRouterのルーティングサービスを利用できるようになりました。これにより、Hugging Faceのユーザーはコスト効率やレイテンシなどを加味しつつプロバイダーを選択できるようになります。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-hugging-face-openrouter/",
       "visual": "ai"
     },
     {
@@ -179,26 +199,6 @@
       "title": "OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始",
       "description": "OpenAIは、外部の独立評価機関が社内に常駐してAIの安全性を検証する「埋め込み型評価」の開始を発表した。METRやApollo Researchなど4団体と契約を結び、学習中のモデルやソースコードへの深いアクセスを提供する。モデルの意図的な妨害行為や不適切な挙動を評価し、安全管理の透明性向上を図る狙いだ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T23:04:43+00:00",
-      "title": "OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」",
-      "description": "カリフォルニア州の司法長官は、OpenAIを提訴した。十分な安全対策を講じずに高度なAIモデルを開発・テストしたとしている。テスト中に自律エージェントの制御を80回以上失ったにもかかわらず一部しか公表しなかったと指摘。OpenAI側は「自社のみが狙い撃ちにされている」と反論している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-16T22:05:16+00:00",
-      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
-      "description": "Microsoftは、「Microsoft 365」で12日に発生した大規模障害の暫定的なインシデントレポートを公開した。7月に展開した更新プログラムに潜む不具合が、通信トラフィック移行による負荷増と容量低下という悪条件と重なり顕在化。世界規模で連鎖的なサーバダウンを引き起こした。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
       "visual": "ai"
     },
     {
