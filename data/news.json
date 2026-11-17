@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-17T21:45:41.948768+00:00",
+  "updatedAt": "2026-11-17T22:46:30.838508+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T22:00:00+00:00",
+      "title": "広告ブロッカー「uBlock Origin」にワンクリックで任意のJavaScriptを実行可能にできる脆弱性が存在していたことが判明",
+      "description": "広告ブロッカー「uBlock Origin」のFirefox版においてワンクリックで実行可能な汎用XSS(UXSS)脆弱性が存在していたことが2026年11月15日に発表されました。この脆弱性を悪用することで、悪意のあるウェブサイトはuBlock Originに任意の信頼済みフィルターを追加させることが可能。信頼済みフィルターはウェブページへのJavaScr",
+      "url": "https://gigazine.net/news/20261118-ublock-origin-uxss-vulnerability/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T21:54:40+00:00",
+      "title": "NVIDIAのフアン前CEO、退任後初のX投稿 「取締役会が望むならCEOに復帰したい」",
+      "description": "NVIDIAを退任したジェンスン・フアン前CEOは、自身のXで「取締役会が望むならCEOに復帰したい」と表明し、私生活での過ちを謝罪した。同日、NVIDIAは国家安全保障を監督する新委員会の設立を発表。米下院の各委員会も、12月初旬にフアン氏らへ非公開の聴取を行うことを明らかにしている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003278/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,16 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T08:00:00+00:00",
-      "title": "濃いみそスープと幅広はるさめでがっつり味わえるエースコックの「スープはるさめ味噌ラーメン味」試食レビュー",
-      "description": "エースコックの「スープはるさめ」シリーズから、「スープはるさめ 味噌ラーメン味」が2026年11月23日から期間限定で販売されます。一足早く編集部に届いたため、寒い季節の恒例となった一杯を今年も味わってみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-acecook-soup-harusame-miso-ramen/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-17T07:22:56+00:00",
       "title": "メルカリと駿河屋、米国で合弁 実店舗運営、AI活用した査定・価格設定も",
@@ -189,16 +199,6 @@
       "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も",
       "description": "OpenAIは、児童性的虐待コンテンツ（CSAM）を検出するための新たな画像分類ツールを発表した。従来は検出が困難だった新規画像やAI生成画像も対象とし、審査を通過した組織へAPI経由で無償提供する。同時にChatGPT上でのCSAM検索行為に対し、アカウントを24時間停止する警告機能も導入した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T01:44:12+00:00",
-      "title": "スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認",
-      "description": "ネット上に公開されていた富岳の稼働状況を表示するダッシュボードを足がかりに、運用系の内部ネットワークに不正に侵入されたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
       "visual": "ai"
     },
     {
