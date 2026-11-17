@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-17T22:46:30.838508+00:00",
+  "updatedAt": "2026-11-17T23:42:35.201465+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-17T23:00:00+00:00",
+      "title": "「太陽光発電パネルの周囲で羊を放牧する」という手法が生態系改善や農家の収益向上につながる",
+      "description": "一部の太陽光発電施設では、雑草がソーラーパネルに日陰を作らないようにするため、「羊」を放牧して雑草を処理させています。そんなソーラーパネル周辺で羊を放牧することの、生態学的・経済的メリットについて調べた2つの研究が発表されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-sheep-grazing-solar-fields-gains/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-17T22:47:14+00:00",
+      "title": "OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開 AI自己改善能力は初の「High」に",
+      "description": "OpenAIは、専門業務向け最上位モデル「GPT-6.2 Astra」と汎用モデル「GPT-6.2 Sol」を発表した。AstraはAIの自己改善能力で同社初の「High」と評価された一方、両モデルともサイバーセキュリティ能力は「Critical」となり制限が強化された。同日より各有料プランで利用可能だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003279/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,16 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T08:54:00+00:00",
-      "title": "人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる",
-      "description": "NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-17T08:18:24+00:00",
       "title": "東京都、水道利用者個人情報871件含むHDD紛失 一部に口座番号も 10月に同様事案",
@@ -189,16 +199,6 @@
       "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
       "description": "米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラ",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T01:45:02+00:00",
-      "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も",
-      "description": "OpenAIは、児童性的虐待コンテンツ（CSAM）を検出するための新たな画像分類ツールを発表した。従来は検出が困難だった新規画像やAI生成画像も対象とし、審査を通過した組織へAPI経由で無償提供する。同時にChatGPT上でのCSAM検索行為に対し、アカウントを24時間停止する警告機能も導入した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
       "visual": "ai"
     },
     {
