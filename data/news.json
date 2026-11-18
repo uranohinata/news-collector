@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-18T00:56:21.845761+00:00",
+  "updatedAt": "2026-11-18T02:13:26.594930+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T01:55:00+00:00",
+      "title": "ジェンスン・フアンがCEO復帰への意欲を公表するもNVIDIA会長は「復帰させる予定なし」と明言",
+      "description": "NVIDIAのハーベイ・C・ジョーンズ会長が、同社の決算説明会の中で中国の女スパイとの不倫問題を受けてCEOを辞任したジェンスン・フアン氏のCEO復帰について、「予定はない」と言及したことが明らかになりました。フアン氏はCEO辞任後初めてXへの投稿を行い、CEO復帰への意欲を見せていましたが、会社側が一蹴した形です。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-nvidia-not-plan-reappoint-jensen-huang-ceo/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T01:48:00+00:00",
+      "title": "韓国が大学入試のAIカンニング対策を大幅強化、メガネの全数検査や衣服のボタンの封印を実施し受験資格停止期間を10年に延長へ",
+      "description": "韓国政府が2026年11月17日、大学入試におけるAIや小型電子機器を悪用したカンニングへの対策を発表しました。受験生が着用するメガネの全数検査や衣服のボタンをシールで覆うといった対策を実施するほか、不正行為をした受験生の受験資格停止期間を1年から10年に延長する方針を示しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-korean-anti-ai-cheating/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-18T01:39:12+00:00",
+      "title": "口座情報漏えいの楽天証券、「ワンタイムキー発行に時間がかかっている」 出金やログインパス変更に必要",
+      "description": "ワンタイムキーは、出金やログインパスワードの変更、一部環境でのパスキー設定などに必要だが、こうした作業に支障が出ている可能性がある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003284/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T01:33:00+00:00",
+      "title": "iCloudやApp Storeなど複数のAppleサービスで障害が発生",
+      "description": "2026年11月18日、一部地域でiCloudをはじめとするAppleのサービスに障害が発生しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-apple-down/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-18T00:57:48+00:00",
+      "title": "「楽天証券」漏えい、あなたは対象？ ログインして「重要なお知らせ」確認を",
+      "description": "記者のアカウントでは「重要なお知らせ」に、「お客様の情報漏えいの可能性に関するお詫びと重要なご連絡」というメッセージが届いており、本文には漏えい項目が書かれていた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003281/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-18T00:38:00+00:00",
+      "title": "NVIDIA、フアン氏退任後初の決算 取締役会「正式なCEOは急がず適任者を選ぶ」",
+      "description": "NVIDIAは、フアン前CEO退任後初となる第3四半期決算を発表した。売上高は前年同期比103％増と好調を維持。電話会議でジョーンズ会長は、行動規範違反を理由に「前CEOを復帰させる意向はない」と明言した。本人の復帰希望を退けた形で、新CEO探しは社内外から慎重に進めるとしている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003280/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,41 +164,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T10:50:00+00:00",
-      "title": "ブラウザ上でWindows 98向けソフトのオリジナル実行ファイルが動作するエミュレーター「Wine-Assembly」",
-      "description": "ブラウザ上で動作するWindows 98エミュレーター「Wine-Assembly」が公開されています。OSイメージやソースポートは一切使用せず完全にクライアント側で動作していて、エミュレーター内で動作するプログラムの設定やスコアはブラウザ内にローカル保存されます。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-wine-assembly/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-17T10:31:33+00:00",
       "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
       "description": "11月17日午後6時40分ごろから、Google Playでフリマアプリ「メルカリ」が検索・ダウンロードできない状況だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T09:10:00+00:00",
-      "title": "5年前に自分で歌った曲がAI音楽企業の著作権侵害申し立てで削除される、異議申し立ても2回却下",
-      "description": "約5年前に自分で録音した歌声をYouTubeに投稿していたミュージシャンが、AIを活用する音楽配信企業から著作権侵害を申し立てられて動画を削除される事態が発生しました。ミュージシャンは2回にわたって異議を申し立てたものの認められませんでした。問題を解決するまでの経緯をテクノロジーメディアの404 Mediaが報じています。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-musician-copyright-hell/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-17T09:00:00+00:00",
-      "title": "2026年11月17日のヘッドラインニュース",
-      "description": "明治のロングセラーアイス「明治うずまきソフト」が、発売30周年を記念して「まきすぎソフト」に変身した期間限定パッケージで販売されています。パッケージには「30thなのでいつもより張り切って巻きました♪」と記載されており、通常よりもうずまきが増えた特別仕様になっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261117-headline/",
       "visual": "ai"
     },
     {
@@ -169,36 +199,6 @@
       "title": "ドコモ3度の通信障害「大変遺憾」と総務相 「構造的な課題、洗い出し求める」",
       "description": "総務省からドコモに対して、個別の障害の原因究明・再発防止策に加え、一連の障害の関係性を検証し、その根本原因を究明することを求めたという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T03:50:05+00:00",
-      "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
-      "description": "米商務省は、中国企業などが第三国のデータセンターを経由して米国製先端AIチップを遠隔利用することを防ぐ暫定最終規則を発表した。物理的な輸出規制の抜け道をふさぐ狙いで、一定以上の計算資源を提供するデータセンターへのチップ輸出にライセンスを義務付ける。NVIDIAを巡る疑惑が背景にあるとみられる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T03:35:13+00:00",
-      "title": "モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
-      "description": "企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T03:00:00+00:00",
-      "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査",
-      "description": "米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
       "visual": "ai"
     },
     {
