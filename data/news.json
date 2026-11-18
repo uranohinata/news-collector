@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-18T05:33:53.268704+00:00",
+  "updatedAt": "2026-11-18T07:01:37.599037+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T07:00:00+00:00",
+      "title": "学校でのスマホ禁止措置は徐々にテストの成績向上につながっている",
+      "description": "スマートフォンに熱中して学力が低下する子どもたちが増えたことで、校内にいる間だけでもスマートフォンの利用を禁止しようとする学校が増えてきました。アメリカの4600校を対象に実施した調査では、わずかではあるものの、スマートフォンの利用禁止が学力の向上に寄与していることが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-student-smartphone-ban/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-18T06:25:07+00:00",
+      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？ 「スマホが電話の再発明なら、これは再再発明」",
+      "description": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T06:20:00+00:00",
+      "title": "「寝室の温度」が生産性を阻害する隠れた要因になっているかもしれない",
+      "description": "寝室の温度が暑すぎたり寒すぎたりしてなかなか寝付けなかったり、夜中に汗をかいて起きてしまったりした経験がある人もいるはず。人々の睡眠や生産性を2～3週間にわたり追跡した研究で、「寝室の温度」が日中の生産性に影響を与えている可能性があると判明しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-bedroom-temperature-hidden-drag-productivity/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T06:14:00+00:00",
+      "title": "Apple HomeViewのスピーカーベースモデルと壁掛けモデルの違いが明らかに、スピーカーサイズに違いも修理しやすさは同等",
+      "description": "2026年10月にAppleが発表したスマートホームを一元管理できる「Apple HomeView」には、スピーカーベースが付属しているモデルと、壁掛けできるモデルがあります。この2つのモデルの違いが、iFixitによる分解調査で明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-apple-homeview-models-differences/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-18T06:10:28+00:00",
+      "title": "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
+      "description": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T05:56:00+00:00",
+      "title": "アメリカ国家安全保障通信ネットワーク「NSANet」がダウンしたと関係筋が語る",
+      "description": "アメリカ国家安全保障局(NSA)が内部通信に使用している極秘ネットワーク「NSANet」がダウンしていると、事情に詳しい6人が明らかにしました。2026年11月17日に障害が発生し、ネットワーク復旧作業のためにほとんどの職員のキャンパスへの立ち入りが禁止される事態になりましたが、AIツールを使った研究によって発見されたソフトウェア脆弱(ぜいじゃく)性を修正す",
+      "url": "https://gigazine.net/news/20261118-nsa-network-outage/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -14,21 +74,21 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T04:15:00+00:00",
-      "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
-      "description": "OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処理できるモデルです。両モデルとも従来より少ない出力トークン数で高い性能を発揮でき、資料作成やPC操作の精度も向上している",
-      "url": "https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-18T05:25:50+00:00",
+      "title": "消えていた「Android版メルカリ」Google Playストアに復帰 約1日半で復活",
+      "description": "ストアから消えていた理由などは明らかにしていない。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003292/",
       "visual": "ai"
     },
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T04:05:07+00:00",
-      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？ 「スマホが電話の再発明なら、これは再再発明」",
-      "description": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T04:15:00+00:00",
+      "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
+      "description": "OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処理できるモデルです。両モデルとも従来より少ない出力トークン数で高い性能を発揮でき、資料作成やPC操作の精度も向上している",
+      "url": "https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/",
       "visual": "ai"
     },
     {
@@ -84,51 +144,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T02:53:00+00:00",
-      "title": "イーロン・マスクの母親がゲーム「インフィニティニキ」のアップデート予告に登場してプレイヤーは困惑",
-      "description": "電気自動車メーカー・テスラや宇宙開発企業・SpaceXのCEOとして知られる実業家のイーロン・マスク氏の母親で、モデルとして活躍するメイ・マスク氏が、オープンワールド着せ替えアドベンチャーゲーム「インフィニティニキ」のアップデート予告に登場し、ゲーマーを困惑させています。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-infinity-nikki-elon-musk-mom-appears-trailers/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-18T02:52:31+00:00",
       "title": "「JINS」最大約1829万件漏えいの可能性 RIZAPやしまむらも……「KARTE」不正アクセスの影響広がる",
       "description": "KARTEは、企業がWebサイトやアプリの利用者の行動を分析し、最適な内容のメールやLINEメッセージなどを配信できるマーケティングサービス。16日に不正アクセスによる情報漏えいを発表していた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003287/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T02:49:00+00:00",
-      "title": "メモリ不足でAppleがSamsungと異例の4年間にわたるDRAM長期供給契約を締結へ、メモリメーカー優位の市場に",
-      "description": "AIデータセンターの建設ラッシュに伴って世界的なメモリ不足が深刻化する中、AppleがSamsungと4年間にわたるDRAMの長期供給契約を締結する見通しだと、韓国の経済紙・毎日経済が報じました。部品メーカーに対して強い価格交渉力を持つことで知られるAppleにとって、異例の契約となります。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-apple-samsung-dram/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T02:25:00+00:00",
-      "title": "「Google Chrome 158」安定版リリース、ウェブアプリのインストール機能やAndroid版でのWebHID対応などが追加",
-      "description": "ウェブブラウザ「Google Chrome」の最新安定版であるバージョン158がリリースされました。ウェブサイトからウェブアプリのインストールを要求できる「Web Install API」や「install要素」が追加されたほか、動画や音声の再生状態に応じてCSSを適用する機能、Android版ChromeでのWebHID API対応などが行われています。続",
-      "url": "https://gigazine.net/news/20261118-google-chrome-158/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T01:55:00+00:00",
-      "title": "ジェンスン・フアンがCEO復帰への意欲を公表するもNVIDIA会長は「復帰させる予定なし」と明言",
-      "description": "NVIDIAのハーベイ・C・ジョーンズ会長が、同社の決算説明会の中で中国の女スパイとの不倫問題を受けてCEOを辞任したジェンスン・フアン氏のCEO復帰について、「予定はない」と言及したことが明らかになりました。フアン氏はCEO辞任後初めてXへの投稿を行い、CEO復帰への意欲を見せていましたが、会社側が一蹴した形です。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-nvidia-not-plan-reappoint-jensen-huang-ceo/",
       "visual": "ai"
     },
     {
@@ -179,26 +199,6 @@
       "title": "NVIDIAのフアン前CEO、退任後初のX投稿 「取締役会が望むならCEOに復帰したい」",
       "description": "NVIDIAを退任したジェンスン・フアン前CEOは、自身のXで「取締役会が望むならCEOに復帰したい」と表明し、私生活での過ちを謝罪した。同日、NVIDIAは国家安全保障を監督する新委員会の設立を発表。米下院の各委員会も、12月初旬にフアン氏らへ非公開の聴取を行うことを明らかにしている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003278/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T10:57:46+00:00",
-      "title": "楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 「テスト環境」の一部情報が流出のおそれ",
-      "description": "楽天証券は、第三者による不正アクセスで最大約1125万口座分の顧客情報が漏えいした可能性があると発表した。うち最大約447万口座分は氏名や住所、金融資産情報なども対象。パスワードや暗証番号の漏えいは確認していない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003275/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T10:31:33+00:00",
-      "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
-      "description": "11月17日午後6時40分ごろから、Google Playでフリマアプリ「メルカリ」が検索・ダウンロードできない状況だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
       "visual": "ai"
     },
     {
