@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-18T21:45:02.163477+00:00",
+  "updatedAt": "2026-11-18T22:44:38.962546+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T22:00:00+00:00",
+      "title": "AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？",
+      "description": "AnthropicはAIモデル「Claude Mythos Preview」を使用して主要なOSやウェブブラウザーなどで深刻度の高い脆弱(ぜいじゃく)性を数千件見つけたと2026年4月に発表しました。そこから約7カ月が経過した11月9日に、セキュリティ企業のVulnCheckが公開台帳などをもとにその後の修正状況を報告しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-anthropic-glasswing-vulnerability-fixes/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -109,16 +119,6 @@
       "title": "Microsoftが新型AIプログラミングモデル「MAI Code 2」と高速版「MAI Code 2 Flash」を発表、GPT-6.1 Solに匹敵する性能を40％のコストで発揮",
       "description": "Microsoftが2026年11月17日にプログラミング向けAIモデル「MAI Code 2」と「MAI Code 2 Flash」を発表しました。MAI Code 2はOpenAIの「GPT-6.1 Sol」に匹敵する性能を低コストで発揮するとされており、両モデルともAIプログラミング支援ツール「GitHub Copilot」で利用可能になっています。続",
       "url": "https://gigazine.net/news/20261118-mai-code-2-flash/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T08:50:00+00:00",
-      "title": "ジェンスン・フアンの不倫相手でスパイ疑惑のアリス・フアンは夫がデータセンター事業を政府支援のもと展開、会社はHuaweiと関係も",
-      "description": "NVIDIAのジェンスン・フアン元CEOと不倫関係にあり中国のスパイという疑いもあるアリス・フアン氏について、夫・康偉(カン・ウェイ)氏が投資会社創業者で、データセンター事業も手がけており中国政府から支援を受けていたことが明らかになっています。また、この投資会社は半導体分野でNVIDIAとライバル関係にあるHuawei(華為技術)ともつながりがあったことがわ",
-      "url": "https://gigazine.net/news/20261118-who-is-alice-huangs-husband-kang-wei/",
       "visual": "ai"
     },
     {
