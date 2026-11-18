@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-18T15:23:58.937914+00:00",
+  "updatedAt": "2026-11-18T16:29:12.960064+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T15:45:00+00:00",
+      "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
+      "description": "前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,16 +129,6 @@
       "title": "日本で最も使われているパスワードは「pass1111」 NordPass調査",
       "description": "パスワード管理ツールのNordPassは、よく使われているパスワードのランキング2026年版を公開した。日本の1位は「pass1111」で、世界1位の「123456」は日本では4位だった。",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T08:00:00+00:00",
-      "title": "クロワッサンとカフェラテを同時に頬張った味を再現したという「クラフトボス クロワッサンラテ」を飲んでみた",
-      "description": "サントリーのペットボトル飲料シリーズ「クラフトボス」から、2026年11月10日(火)に「クラフトボス クロワッサンラテ」が登場しました。「クロワッサンとカフェラテを同時に頬張った時の味わい」を再現したというラテがどんな味なのか気になったので、実際に飲んでみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-suntory-craftboss-croissant-latte/",
       "visual": "ai"
     },
     {
