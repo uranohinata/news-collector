@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-18T09:53:48.584794+00:00",
+  "updatedAt": "2026-11-18T10:55:25.669803+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T10:00:00+00:00",
+      "title": "Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？",
+      "description": "Googleで何らかの検索をした際、検索結果の一番上に「AIによる概要」が表示されることがよくあります。検索結果画面にAIによる概要が表示されると、外部ウェブサイトのクリック率が約40％減少するという研究結果も発表されており、ウェブサイト向けの収益分析ツールを提供するRevScopeが現状や対策まとめています。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -159,16 +169,6 @@
       "title": "消えていた「Android版メルカリ」Google Playストアに復帰 約1日半で復活",
       "description": "ストアから消えていた理由などは明らかにしていない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003292/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T04:15:00+00:00",
-      "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
-      "description": "OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処理できるモデルです。両モデルとも従来より少ない出力トークン数で高い性能を発揮でき、資料作成やPC操作の精度も向上している",
-      "url": "https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/",
       "visual": "ai"
     },
     {
