@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-18T04:29:23.574267+00:00",
+  "updatedAt": "2026-11-18T05:33:53.268704+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T05:30:00+00:00",
+      "title": "「遊☆戯☆王」の詰めデュエルは数理論理学において「NP困難」である",
+      "description": "「NP困難」とは計算量理論において、複雑性クラスのひとつである「NP」に属するどの問題と比べても少なくとも同程度に難しい問題のことです。あるNP困難な問題を効率的に解く方法が見つかれば、NPに属するすべての問題も効率的に解けることになります。そんなNP困難のことを、「遊☆戯☆王オフィシャルカードゲーム(OCG)」を用いて説明しているムービーでは、カードゲーム",
+      "url": "https://gigazine.net/news/20261118-yugioh-factoring/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -9,6 +19,16 @@
       "title": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に",
       "description": "OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処理できるモデルです。両モデルとも従来より少ない出力トークン数で高い性能を発揮でき、資料作成やPC操作の精度も向上している",
       "url": "https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-18T04:05:07+00:00",
+      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？ 「スマホが電話の再発明なら、これは再再発明」",
+      "description": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
       "visual": "ai"
     },
     {
@@ -114,16 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T01:48:00+00:00",
-      "title": "韓国が大学入試のAIカンニング対策を大幅強化、メガネの全数検査や衣服のボタンの封印を実施し受験資格停止期間を10年に延長へ",
-      "description": "韓国政府が2026年11月17日、大学入試におけるAIや小型電子機器を悪用したカンニングへの対策を発表しました。受験生が着用するメガネの全数検査や衣服のボタンをシールで覆うといった対策を実施するほか、不正行為をした受験生の受験資格停止期間を1年から10年に延長する方針を示しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-korean-anti-ai-cheating/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-18T01:39:12+00:00",
       "title": "口座情報漏えいの楽天証券、「ワンタイムキー発行に時間がかかっている」 出金やログインパス変更に必要",
@@ -189,16 +199,6 @@
       "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
       "description": "11月17日午後6時40分ごろから、Google Playでフリマアプリ「メルカリ」が検索・ダウンロードできない状況だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-17T08:18:24+00:00",
-      "title": "東京都、水道利用者個人情報871件含むHDD紛失 一部に口座番号も 10月に同様事案",
-      "description": "東京都水道局は11月16日、個人情報を記録したハードディスクドライブ（HDD：情報記憶装置）の紛失が発覚したと発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
       "visual": "ai"
     },
     {
