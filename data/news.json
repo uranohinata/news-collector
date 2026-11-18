@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-18T11:53:26.195525+00:00",
+  "updatedAt": "2026-11-18T12:57:51.332765+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T12:00:00+00:00",
+      "title": "Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法",
+      "description": "AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組みを構築しているのかについて、Anthropicのエンジニアであるアディ・オスマーニ氏が解説しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-claude-code-test-code-review/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -139,16 +149,6 @@
       "title": "「寝室の温度」が生産性を阻害する隠れた要因になっているかもしれない",
       "description": "寝室の温度が暑すぎたり寒すぎたりしてなかなか寝付けなかったり、夜中に汗をかいて起きてしまったりした経験がある人もいるはず。人々の睡眠や生産性を2～3週間にわたり追跡した研究で、「寝室の温度」が日中の生産性に影響を与えている可能性があると判明しました。続きを読む...",
       "url": "https://gigazine.net/news/20261118-bedroom-temperature-hidden-drag-productivity/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T06:14:00+00:00",
-      "title": "Apple HomeViewのスピーカーベースモデルと壁掛けモデルの違いが明らかに、スピーカーサイズに違いも修理しやすさは同等",
-      "description": "2026年10月にAppleが発表したスマートホームを一元管理できる「Apple HomeView」には、スピーカーベースが付属しているモデルと、壁掛けできるモデルがあります。この2つのモデルの違いが、iFixitによる分解調査で明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-apple-homeview-models-differences/",
       "visual": "ai"
     },
     {
