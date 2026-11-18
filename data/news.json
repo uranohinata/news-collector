@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-18T12:57:51.332765+00:00",
+  "updatedAt": "2026-11-18T14:16:36.785349+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T14:00:00+00:00",
+      "title": "無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」",
+      "description": "1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCで動作させるソフトウェアの「Strata」をベースにGPUの計算処理をオープンな標準規格「SYCL」で書き直すことでIntel製GPUにも対応し、Intel・AMD・NVIDIA製のGPUを共通のコードで扱えるようにした無料のオープンソースソフトウェアが「XeStrata",
+      "url": "https://gigazine.net/news/20261118-xestrata/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-18T13:30:00+00:00",
+      "title": "パーキンソン病に特有の「におい」を手がかりに皮脂の成分を診断に役立てる検査法が開発される",
+      "description": "イギリスのマンチェスター大学などの研究チームが2022年9月に発表した「綿棒で皮膚をぬぐって採取した皮脂を分析し、パーキンソン病の診断に役立てる検査法」について、マンチェスター大学は2026年11月、開発の経緯やその後の研究成果を紹介し、臨床試験の計画を明らかにしました。続きを読む...",
+      "url": "https://gigazine.net/news/20261118-parkinsons-smell-skin-swab/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -129,26 +149,6 @@
       "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？ 「スマホが電話の再発明なら、これは再再発明」",
       "description": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T07:00:00+00:00",
-      "title": "学校でのスマホ禁止措置は徐々にテストの成績向上につながっている",
-      "description": "スマートフォンに熱中して学力が低下する子どもたちが増えたことで、校内にいる間だけでもスマートフォンの利用を禁止しようとする学校が増えてきました。アメリカの4600校を対象に実施した調査では、わずかではあるものの、スマートフォンの利用禁止が学力の向上に寄与していることが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-student-smartphone-ban/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T06:20:00+00:00",
-      "title": "「寝室の温度」が生産性を阻害する隠れた要因になっているかもしれない",
-      "description": "寝室の温度が暑すぎたり寒すぎたりしてなかなか寝付けなかったり、夜中に汗をかいて起きてしまったりした経験がある人もいるはず。人々の睡眠や生産性を2～3週間にわたり追跡した研究で、「寝室の温度」が日中の生産性に影響を与えている可能性があると判明しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-bedroom-temperature-hidden-drag-productivity/",
       "visual": "ai"
     },
     {
