@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-19T13:00:19.404152+00:00",
+  "updatedAt": "2026-11-19T14:29:49.501531+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T14:00:00+00:00",
+      "title": "録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能",
+      "description": "日本語特化型の音声認識AI「Haas-ja-v1.0」や音声合成AI「Irodori-TTS」などを1つの実行環境にまとめた無料のオープンソースツールが「speech.cpp」です。GPUが不要でブラウザから文字起こしや音声読み上げが可能とのことなので実際に使ってみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-speech-cpp/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -149,16 +159,6 @@
       "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
       "description": "MicrosoftのAIエージェント開発用SDK「Microsoft Agent Framework」のPythonパッケージが侵害され、認証情報を盗む不正版「1.26.1」「1.26.2」がPyPIで一時公開された。Python起動時に自動実行され、クラウドやGitHubの認証情報を外部へ送信する。両版は削除済みで、影響環境での認証情報再発行や環境再構築が",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T05:45:00+00:00",
-      "title": "サム・アルトマンが「誰もが十分なRAMを持つべきだと考えている」と発言",
-      "description": "OpenAIのサム・アルトマンCEOは、2026年10月に公開されたインタビューで「世界的に供給が限られているDRAMを個人のPCに大量に搭載することは資源配分の観点から非常に非効率」という旨の発言をして物議を醸しました。その発言について、2026年11月16日に開催されたサミット「Semafor Silicon Valley & The World」に登壇",
-      "url": "https://gigazine.net/news/20261119-sam-altman-ram/",
       "visual": "ai"
     },
     {
