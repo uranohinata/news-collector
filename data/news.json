@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-19T04:30:12.436730+00:00",
+  "updatedAt": "2026-11-19T05:55:12.581342+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T05:45:00+00:00",
+      "title": "サム・アルトマンが「誰もが十分なRAMを持つべきだと考えている」と発言",
+      "description": "OpenAIのサム・アルトマンCEOは、2026年10月に公開されたインタビューで「世界的に供給が限られているDRAMを個人のPCに大量に搭載することは資源配分の観点から非常に非効率」という旨の発言をして物議を醸しました。その発言について、2026年11月16日に開催されたサミット「Semafor Silicon Valley & The World」に登壇",
+      "url": "https://gigazine.net/news/20261119-sam-altman-ram/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T05:38:00+00:00",
+      "title": "「スター・ウォーズ」のキャラクター3体が自律的に反応するAI搭載ロボットに、ディズニーがAWSと組んで開発",
+      "description": "ディズニーのテーマパークの設計・管理などを手がけるウォルト・ディズニー・イマジニアリングが、AWSと組んで開発した新型ロボット3体を発表しました。ディズニーが「オーディオ・アニマトロニクス」と呼ぶ音と動きを同期させたロボットの最新型で、AIを搭載していて、「何を言うか」「どう動くか」を自律的に決定するとのことです。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-anzellans-newest-robotic-characters/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T05:11:07+00:00",
+      "title": "Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
+      "description": "日本政府の国家サイバー統括室も19日に注意喚起し、速やかなアップデートの適用を呼び掛けた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T05:00:00+00:00",
+      "title": "「高校時代のバイト経験」が中年期のキャリアに影響を及ぼすことが判明",
+      "description": "高校時代にアルバイトを経験することについては、「学業や課外活動の妨げになる」という否定的な意見もあれば、「責任感や対人スキルを養うのに役立つ」とポジティブな声もあります。そんな高校時代のアルバイト経験が中年期のキャリアに影響を及ぼす影響を調べた研究結果を、ペンシルベニア州立大学の研究チームが発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-high-school-job-mid-life-career/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T04:35:00+00:00",
+      "title": "「Google検索の利用禁止」をアメリカの複数の学区が検討中、学生のAI使用を禁止した影響でGoogle検索も一緒に利用できなくなるため",
+      "description": "ニューヨーク、ロサンゼルス、シカゴなど複数の学区が、Google検索に代わる検索エンジンの利用を検討していることが明らかになりました。これは学生のAI使用を禁止したところ、一緒にGoogle検索も利用できなくなってしまったためです。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-school-consider-ditching-google-search/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -29,16 +79,6 @@
       "title": "ケンブリッジ辞典が2026年度版「今年の単語」に「人間(human)」を選出",
       "description": "ケンブリッジ辞典が、2026年のワード・オブ・ザ・イヤー(今年の単語)に、名詞ではなく形容詞としての「human」を選びました。なぜこの単語を選んだのかも説明しています。続きを読む...",
       "url": "https://gigazine.net/news/20261119-cambridge-dictionary-word-of-the-year-human/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T03:34:25+00:00",
-      "title": "Webサーバソフト「NGINX」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
-      "description": "日本政府の国家サイバー統括室も19日に注意喚起し、速やかなアップデートの適用を呼び掛けた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
       "visual": "ai"
     },
     {
@@ -84,16 +124,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T03:05:00+00:00",
-      "title": "「自分の倫理的行動」ばかりを自慢する上司は従業員を不快にさせている可能性があるとの研究結果",
-      "description": "従業員は上司との何気ない会話を通じて人となりを評価しており、上司が尊敬できると思えば率先して協力やサポートをしますが、不快だと感じれば距離を置きます。上司と部下に対するフィールド調査や実験を組み合わせた新たな研究では、「自分の倫理的行動」ばかりを自慢する上司は、従業員を不快にさせている可能性があるとの結果が示されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-bosses-brag-own-good-deeds-risk/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T03:00:00+00:00",
       "title": "ちまたの“格安GPT”、中身は偽物？ 非公式APIのモデル偽装を調査した結果……",
@@ -124,41 +154,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T02:57:00+00:00",
-      "title": "「GTA6休暇」を目当てに43人がアメリカ陸軍に再入隊",
-      "description": "2026年11月19日、ついに「グランド・セフト・オートVI(GTA6)」が発売されました。このGTA6を思う存分プレイするために、43人の兵士が「GTA6休暇」の付与を条件として軍に再入隊したことが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-43-soldiers-reenlisted-army-grand-theft-auto-vi/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T02:56:47+00:00",
       "title": "体操、強化にAI導入 スポーツ振興センターと富士通が共同研究開始「無限の可能性ある」",
       "description": "日本スポーツ振興センター（JSC）と富士通は11月18日、東京都内で記者会見し、体操の競技力向上に向けて人工知能（AI）を用いた共同研究を開始すると明らかにした。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003323/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T02:38:00+00:00",
-      "title": "Metaは10代のInstagramの利用を促進する「プロジェクト・グリフィンドール」を実施していた",
-      "description": "Instagramに「学校バッジ」を導入し、同じ学校に通う子どもたちのつながりを可視化して定着率を高める戦略「プロジェクト・グリフィンドール」をMetaが実施していたことが明らかになりました。Instagramが子どもを取り込んで食い物にしていると訴える裁判の手続きでこの事実が分かったため、Metaへの追及はさらに強まるとみられます。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-meta-insgtagram-project-gryffindor/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T02:25:00+00:00",
-      "title": "Qi2対応・最大25Wの急速充電＆最高峰の冷却性能でスピーディーかつ熱くならずに充電できるAnkerのモバイルバッテリー「MagGo Power Bank 2 Pro」を使ってみた",
-      "description": "AnkerはQi2 25W対応＆冷却ファン搭載で業界最高水準の充電速度と安全性を両立したモバイルバッテリー「Anker MagGo Power Bank 2 Pro」を2026年11月19日に発売しました。そんなMagGo Power Bank 2 Proが編集部に届いたので、さっそく使ってみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-anker-maggo-power-bank-2-pro/",
       "visual": "ai"
     },
     {
