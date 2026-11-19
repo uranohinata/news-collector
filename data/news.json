@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-19T03:21:35.759211+00:00",
+  "updatedAt": "2026-11-19T04:30:12.436730+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T04:24:00+00:00",
+      "title": "ペンシルベニア州の高校が日用品を銃と誤認し続けるAI武器探知機を無効化",
+      "description": "Wi-Fiの信号を利用して隠された銃器を検出するセンサーを試験的に導入していた学校が、あまりにも誤検知が多かったとして、本格的な導入を保留したことが分かりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-hempfield-delay-weapon-detection-system/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T04:10:00+00:00",
+      "title": "AI音楽生成サービスの「Suno」がAI音楽用のPVを作成できる「Visuals」を発表",
+      "description": "AI音楽生成サービスの「Suno」は、2026年11月17日に音楽に合わせた動画を制作できるクリエイティブツール「Visuals」を公開しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-suno-visuals/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T03:35:00+00:00",
+      "title": "ケンブリッジ辞典が2026年度版「今年の単語」に「人間(human)」を選出",
+      "description": "ケンブリッジ辞典が、2026年のワード・オブ・ザ・イヤー(今年の単語)に、名詞ではなく形容詞としての「human」を選びました。なぜこの単語を選んだのかも説明しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-cambridge-dictionary-word-of-the-year-human/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T03:34:25+00:00",
+      "title": "Webサーバソフト「NGINX」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
+      "description": "日本政府の国家サイバー統括室も19日に注意喚起し、速やかなアップデートの適用を呼び掛けた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T03:30:00+00:00",
+      "title": "宇宙空間でのたった1回の核爆発で低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性",
+      "description": "通信や気象観測、安全保障などに利用されている人工衛星のうち、1万3000基以上が地球の低軌道を周回しています。ウィスコンシン大学マディソン校やプリンストン大学の研究チームが、宇宙空間で核爆発が発生すると低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性を示す論文を未査読論文リポジトリのarXivで公開しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-nuclear-blast-cripple-satellite/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T03:25:00+00:00",
+      "title": "OpenAI研究者の上位1割は1日当たり367万円分のAIを使用、AI開発の中核は人間が担いつつ「AIによるAIの開発」の実現に向けて加速中",
+      "description": "最先端AIの開発組織は、AIによってAIの改善を自律的に進行させる「再帰的自己改善(RSI)」の実現に向けて研究開発を続けています。新たにOpenAIが2026年10月までの開発進行状況を2026年11月18日に報告しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-openai-rsi-research-acceleration/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T03:22:00+00:00",
+      "title": "ボイジャー1号が光の粒子が24時間で進む距離「1光日」に到達",
+      "description": "1977年9月に打ち上げられたNASAの無人宇宙探査機「ボイジャー1号」が、地球から光の粒子が24時間で進む距離である「1光日」の距離に到達したことが発表されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-voyager-1-light-day/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T03:16:18+00:00",
+      "title": "職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安",
+      "description": "日本のものづくりを支える職人の高齢化が進む中、経験や勘に頼ってきた技術を人工知能（AI）で「見える化」し、次世代に伝える取り組みが広がりつつある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003324/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -9,6 +89,36 @@
       "title": "「自分の倫理的行動」ばかりを自慢する上司は従業員を不快にさせている可能性があるとの研究結果",
       "description": "従業員は上司との何気ない会話を通じて人となりを評価しており、上司が尊敬できると思えば率先して協力やサポートをしますが、不快だと感じれば距離を置きます。上司と部下に対するフィールド調査や実験を組み合わせた新たな研究では、「自分の倫理的行動」ばかりを自慢する上司は、従業員を不快にさせている可能性があるとの結果が示されました。続きを読む...",
       "url": "https://gigazine.net/news/20261119-bosses-brag-own-good-deeds-risk/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T03:00:00+00:00",
+      "title": "ちまたの“格安GPT”、中身は偽物？ 非公式APIのモデル偽装を調査した結果……",
+      "description": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T03:00:00+00:00",
+      "title": "楽天証券漏えい、“テスト環境に顧客情報”のマズさ 識者「一般的でない」",
+      "description": "第三者による不正アクセスを受け、最大約1125万口座分のIDや、約447万口座分の口座情報などが漏えいした可能性があると発表した楽天証券。テスト環境のシステム内で管理していた情報の一部が外部に漏えいした可能性があるという。ただ、識者はテスト環境で顧客情報を管理する状況を「一般的でない」と指摘する。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003312/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T03:00:00+00:00",
+      "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+      "description": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
       "visual": "ai"
     },
     {
@@ -64,51 +174,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T02:15:00+00:00",
-      "title": "ジェンスン・フアンのNVIDIA離脱は「連勝中のチームからマイケル・ジョーダンを追い出すようなもの」とイーロン・マスクが語る",
-      "description": "スパイ疑惑のある女性との不倫関係が発覚し、NVIDIAのCEOを辞任したジェンスン・フアン氏について、実業家のイーロン・マスク氏が「ジェンスン・フアンを追い出すことはチームからマイケル・ジョーダンを追い出すようなもの」と語りました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-elon-musk-says-jensen-huang-michael-jordan/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T02:15:00+00:00",
-      "title": "Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに",
-      "description": "Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。続きを読む.",
-      "url": "https://gigazine.net/news/20261119-google-gemini-4-neon/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T02:09:22+00:00",
       "title": "OpenAIのAIモデル、AMDのGPU回路設計を最大14％改善 独自チップ「ハラペーニョ」でも成果",
       "description": "OpenAIは、自社のAIモデルによる半導体設計の最適化で、AMDの次世代フラッグシップGPUの一部回路において最大14％のPPA改善を達成したと発表した。自社開発の推論専用チップ「Jalapeno」でも回路面積を削減しており、今後はSynopsysと協力してEDAツールを操作する新モデルを訓練する。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T02:07:00+00:00",
-      "title": "ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる",
-      "description": "Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-google-genie-4/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T01:17:00+00:00",
-      "title": "好きな時にAmazonの商品を受け取れる「Amazonロッカー」のセキュリティをあらゆる手段を駆使して突破する試み～ソフトウェア編",
-      "description": "DEF CON 34カンファレンスにおいてセキュリティエンジニアのマーティン・ヴィゴ氏が、日常生活に不可欠な存在となりつつあるAmazonロッカーのセキュリティに関する調査結果を発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-breaking-amazon-lockers/",
       "visual": "ai"
     },
     {
@@ -129,76 +199,6 @@
       "title": "28年春導入の「手ぶら改札」 40駅の顔ぶれに透けるJR東の狙い 東京メトロも“陣営”入り",
       "description": "JR東日本が2028年春からの導入を発表したUWBウォークスルー改札。その直後、UWBの業界標準団体に東京メトロが加わった。JRとメトロの駅を、スマホを取り出さずに通り抜けられる日は来るのか。「勝手にスマホを読み取られないか」という不安への答えから、導入駅に空港駅が含まれた理由、さらに参入を検討しているという“ビッグネーム”の存在まで、その意味を読み解く。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003313/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T23:59:10+00:00",
-      "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
-      "description": "六花亭はクレジットカード情報をサーバ内に保存していないが、不正プログラムにより、入力された情報が外部に送信される状態になっていた可能性があるという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T23:00:00+00:00",
-      "title": "AIで仕事は速くなったのに、チームの成果につながらないのはなぜ？ 9500人調査が示した「落とし穴」",
-      "description": "生成AIを業務で使う企業は半数を超えた。個人の仕事は確かに速くなった。だが、そのスピードがチームや組織の成果に結びついているかというと、話は別だ。9500人超を対象にした海外調査からは、各自のチャット履歴に思考の過程が閉じ込められ、レビューの現場で時間を食いつぶしている姿が浮かび上がる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003314/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T23:00:00+00:00",
-      "title": "AIコーディングエージェントの登場でコード作成量が30％増もコードレビュー時間は49％長くなりボトルネックが移り変わったことをハーバード大学の研究者が発見",
-      "description": "ハーバード大学の研究者がAIコーディングエージェントを導入した企業を対象とした調査を実施したところ、AIコーディングエージェントの活用でコードの作成量は約30％増加したものの、コードのレビューにかかる時間が49％増加したため、完成した作業量には目立った増加が見られないことが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-ai-coding-agents-shifted-bottleneck-code-review/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T22:58:41+00:00",
-      "title": "Google、「Gemini 4 Neon」発表 「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能",
-      "description": "Googleは、推論の深さと効率のバランスを重視した新AIモデル「Gemini 4 Neon」を発表し、同日より順次提供を開始した。上位の「Carbon」と軽量な「Hydrogen」の中間に位置付けられ、複雑なコーディングや企業業務に適する。APIやGoogle AI Pro／UltraプランのGeminiアプリから利用可能だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003315/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T22:00:00+00:00",
-      "title": "AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？",
-      "description": "AnthropicはAIモデル「Claude Mythos Preview」を使用して主要なOSやウェブブラウザーなどで深刻度の高い脆弱(ぜいじゃく)性を数千件見つけたと2026年4月に発表しました。そこから約7カ月が経過した11月9日に、セキュリティ企業のVulnCheckが公開台帳などをもとにその後の修正状況を報告しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-anthropic-glasswing-vulnerability-fixes/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T11:16:22+00:00",
-      "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
-      "description": "楽天証券の顧客情報漏えい問題で、同社が本番の顧客データをマスキングせずにテスト環境へ保存していたことが分かった。最大約1572万口座分が漏えいした可能性がある。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T08:42:23+00:00",
-      "title": "日本で最も使われているパスワードは「pass1111」 NordPass調査",
-      "description": "パスワード管理ツールのNordPassは、よく使われているパスワードのランキング2026年版を公開した。日本の1位は「pass1111」で、世界1位の「123456」は日本では4位だった。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
       "visual": "ai"
     },
     {
