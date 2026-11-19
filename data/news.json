@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-18T23:42:40.016617+00:00",
+  "updatedAt": "2026-11-19T00:55:48.174845+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T00:00:00+00:00",
+      "title": "28年春導入の「手ぶら改札」 40駅の顔ぶれに透けるJR東の狙い 東京メトロも“陣営”入り",
+      "description": "JR東日本が2028年春からの導入を発表したUWBウォークスルー改札。その直後、UWBの業界標準団体に東京メトロが加わった。JRとメトロの駅を、スマホを取り出さずに通り抜けられる日は来るのか。「勝手にスマホを読み取られないか」という不安への答えから、導入駅に空港駅が含まれた理由、さらに参入を検討しているという“ビッグネーム”の存在まで、その意味を読み解く。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003313/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-18T23:59:10+00:00",
+      "title": "六花亭、カード番号全桁＋セキュリティコード約8000件流出か 決済画面のプログラム改ざん",
+      "description": "六花亭はクレジットカード情報をサーバ内に保存していないが、不正プログラムにより、入力された情報が外部に送信される状態になっていた可能性があるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003316/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -179,26 +199,6 @@
       "title": "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
       "description": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T05:25:50+00:00",
-      "title": "消えていた「Android版メルカリ」Google Playストアに復帰 約1日半で復活",
-      "description": "ストアから消えていた理由などは明らかにしていない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003292/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T03:00:00+00:00",
-      "title": "未成年の電動モビリティー事故、3カ月ごとに15?33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析",
-      "description": "米スタンフォード大学などに所属する研究者らが医学誌「JAMA」で発表した論文「Injuries From Electric Bicycles and Scooters Managed in Pediatric Health Systems」は、子どもや10代の若者における電動自転車および電動キックボードの事故による負傷率の推移や重症度を調査した研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003265/",
       "visual": "ai"
     },
     {
