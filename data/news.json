@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-19T00:55:48.174845+00:00",
+  "updatedAt": "2026-11-19T02:10:21.355843+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T02:07:00+00:00",
+      "title": "ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる",
+      "description": "Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-google-genie-4/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T01:17:00+00:00",
+      "title": "好きな時にAmazonの商品を受け取れる「Amazonロッカー」のセキュリティをあらゆる手段を駆使して突破する試み～ソフトウェア編",
+      "description": "DEF CON 34カンファレンスにおいてセキュリティエンジニアのマーティン・ヴィゴ氏が、日常生活に不可欠な存在となりつつあるAmazonロッカーのセキュリティに関する調査結果を発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-breaking-amazon-lockers/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T00:59:11+00:00",
+      "title": "Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供 旧「Gemini Spark」",
+      "description": "Googleは、GeminiアプリのAIエージェント機能「Tasks in Gemini」（旧Gemini Spark）を日本を含む6カ国で無料提供すると発表した。無料版は「Gemini 4 Hydrogen」で動作し、隔離された仮想マシン上でバックグラウンド作業を代行する。米国では電話予約や決済などの機能も順次展開する。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003319/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -134,31 +164,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T10:00:00+00:00",
-      "title": "Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？",
-      "description": "Googleで何らかの検索をした際、検索結果の一番上に「AIによる概要」が表示されることがよくあります。検索結果画面にAIによる概要が表示されると、外部ウェブサイトのクリック率が約40％減少するという研究結果も発表されており、ウェブサイト向けの収益分析ツールを提供するRevScopeが現状や対策まとめています。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-18T09:20:45+00:00",
       "title": "JR東の新キャラはB案“紫うさぎ”に 「Suica券面に登場」など、IP展開の可能性は",
       "description": "",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T09:12:00+00:00",
-      "title": "2026年11月18日のヘッドラインニュース",
-      "description": "JR東日本が2026年9月8日から9月23日まで開催していたSuicaの新イメージキャラクターデザイン投票の結果が発表されました。投票総数166万4399票のうち86万152票を獲得した「B案」のデザインに決定しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-headline/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？ 「スマホが電話の再発明なら、これは再再発明」",
       "description": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T06:10:28+00:00",
-      "title": "AI脅威対処へ新枠組み 重要鉱物やエネルギーで連携 首相、ASEANとの首脳会議出席",
-      "description": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
       "visual": "ai"
     },
     {
