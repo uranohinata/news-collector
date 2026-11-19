@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-19T11:52:46.128116+00:00",
+  "updatedAt": "2026-11-19T13:00:19.404152+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T13:00:00+00:00",
+      "title": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる",
+      "description": "半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。これについて、経済メディアのFinancial Timesやウォール・ストリート・ジャーナルが報じています。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T12:00:00+00:00",
+      "title": "Huawei最大級のAIデータセンターでも計算能力はxAIの「Colossus 2」の約7％で中国は2028年まで大幅に後れを取る可能性大",
+      "description": "Huaweiは内モンゴル自治区のホリンゴルという地区に中国最大級のAIデータセンターを構えています。このデータセンターの計算能力を分析した研究機関のEpoch AIが、「世界最大のAIデータセンター・Colossus 2に比べるとまだまだ」と報告しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-china-ai-data-center-compute-gap/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -144,31 +164,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T05:38:00+00:00",
-      "title": "「スター・ウォーズ」のキャラクター3体が自律的に反応するAI搭載ロボットに、ディズニーがAWSと組んで開発",
-      "description": "ディズニーのテーマパークの設計・管理などを手がけるウォルト・ディズニー・イマジニアリングが、AWSと組んで開発した新型ロボット3体を発表しました。ディズニーが「オーディオ・アニマトロニクス」と呼ぶ音と動きを同期させたロボットの最新型で、AIを搭載していて、「何を言うか」「どう動くか」を自律的に決定するとのことです。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-anzellans-newest-robotic-characters/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T05:11:07+00:00",
       "title": "Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
       "description": "日本政府の国家サイバー統括室も19日に注意喚起し、速やかなアップデートの適用を呼び掛けた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T05:00:00+00:00",
-      "title": "「高校時代のバイト経験」が中年期のキャリアに影響を及ぼすことが判明",
-      "description": "高校時代にアルバイトを経験することについては、「学業や課外活動の妨げになる」という否定的な意見もあれば、「責任感や対人スキルを養うのに役立つ」とポジティブな声もあります。そんな高校時代のアルバイト経験が中年期のキャリアに影響を及ぼす影響を調べた研究結果を、ペンシルベニア州立大学の研究チームが発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-high-school-job-mid-life-career/",
       "visual": "ai"
     },
     {
