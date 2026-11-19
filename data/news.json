@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-19T21:43:00.078938+00:00",
+  "updatedAt": "2026-11-19T22:41:51.753189+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T22:00:00+00:00",
+      "title": "好きな時にAmazonの商品を受け取れる「Amazonロッカー」のセキュリティをあらゆる手段を駆使して突破する試み～ハードウェア編",
+      "description": "DEF CON 34カンファレンスにおいてセキュリティエンジニアのマーティン・ヴィゴ氏が発表したAmazonロッカーのセキュリティに関する調査結果の後半は、ハードウェア部分に焦点を当てています。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-breaking-amazon-lockers-hardware/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T21:38:41+00:00",
+      "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る",
+      "description": "Anthropicは、Nasdaq市場に上場した（ティッカー：ANT）。公開価格は1株83ドルで、IPO調達額は約813億ドルとSpaceXを上回り史上最大規模となった。初値は公開価格を約34％上回る111.50ドルを付け、時価総額は初値ベースで約2兆ドルに達した。アモデイCEOは上場に際し、安全性を重視する姿勢を改めて表明した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -144,16 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T06:16:00+00:00",
-      "title": "初代「シムシティ」のソースコードを解析して判明した高評価の都市を作るための意外な条件とは？",
-      "description": "都市開発シミュレーションゲーム「シムシティ」では、住民の生活環境や街の発展状況に応じて都市の評価スコアが算出されます。35年間にわたってシムシティをプレイしてきたソフトウェア開発者のジェフ・クエスト氏がゲームのソースコードを解析し、高い評価を得る都市の条件を調べました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-simcity-high-score/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T05:58:26+00:00",
       "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
@@ -189,16 +199,6 @@
       "title": "ちまたの“格安GPT”、中身は偽物？ 非公式APIのモデル偽装を調査した結果……",
       "description": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T03:00:00+00:00",
-      "title": "楽天証券漏えい、“テスト環境に顧客情報”のマズさ 識者「一般的でない」",
-      "description": "第三者による不正アクセスを受け、最大約1125万口座分のIDや、約447万口座分の口座情報などが漏えいした可能性があると発表した楽天証券。テスト環境のシステム内で管理していた情報の一部が外部に漏えいした可能性があるという。ただ、識者はテスト環境で顧客情報を管理する状況を「一般的でない」と指摘する。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003312/",
       "visual": "ai"
     },
     {
