@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-19T05:55:12.581342+00:00",
+  "updatedAt": "2026-11-19T07:02:01.162299+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T07:00:00+00:00",
+      "title": "ドイツ銀行が「危険なビジネス」に手を染めていた実態が1500万件以上の流出資料によって次々と明るみに",
+      "description": "2026年11月17日、ドイツのメガバンクであるドイツ銀行から1500万件に及ぶ内部資料が流出したことが判明しました。この内部資料は国際的な共同調査報道チームによって精査されており、ドイツ銀行がロシアとの取引や納税義務回避の支援といった「危険なビジネス」に手を染めていた実態が、次々と明らかになっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-deutsche-bank-risky-business-leak-files/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T06:16:00+00:00",
+      "title": "初代「シムシティ」のソースコードを解析して判明した高評価の都市を作るための意外な条件とは？",
+      "description": "都市開発シミュレーションゲーム「シムシティ」では、住民の生活環境や街の発展状況に応じて都市の評価スコアが算出されます。35年間にわたってシムシティをプレイしてきたソフトウェア開発者のジェフ・クエスト氏がゲームのソースコードを解析し、高い評価を得る都市の条件を調べました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-simcity-high-score/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T05:58:26+00:00",
+      "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
+      "description": "MicrosoftのAIエージェント開発用SDK「Microsoft Agent Framework」のPythonパッケージが侵害され、認証情報を盗む不正版「1.26.1」「1.26.2」がPyPIで一時公開された。Python起動時に自動実行され、クラウドやGitHubの認証情報を外部へ送信する。両版は削除済みで、影響環境での認証情報再発行や環境再構築が",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -94,26 +124,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T03:25:00+00:00",
-      "title": "OpenAI研究者の上位1割は1日当たり367万円分のAIを使用、AI開発の中核は人間が担いつつ「AIによるAIの開発」の実現に向けて加速中",
-      "description": "最先端AIの開発組織は、AIによってAIの改善を自律的に進行させる「再帰的自己改善(RSI)」の実現に向けて研究開発を続けています。新たにOpenAIが2026年10月までの開発進行状況を2026年11月18日に報告しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-openai-rsi-research-acceleration/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T03:22:00+00:00",
-      "title": "ボイジャー1号が光の粒子が24時間で進む距離「1光日」に到達",
-      "description": "1977年9月に打ち上げられたNASAの無人宇宙探査機「ボイジャー1号」が、地球から光の粒子が24時間で進む距離である「1光日」の距離に到達したことが発表されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-voyager-1-light-day/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T03:16:18+00:00",
       "title": "職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安",
@@ -189,16 +199,6 @@
       "title": "Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供 旧「Gemini Spark」",
       "description": "Googleは、GeminiアプリのAIエージェント機能「Tasks in Gemini」（旧Gemini Spark）を日本を含む6カ国で無料提供すると発表した。無料版は「Gemini 4 Hydrogen」で動作し、隔離された仮想マシン上でバックグラウンド作業を代行する。米国では電話予約や決済などの機能も順次展開する。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003319/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T00:00:00+00:00",
-      "title": "28年春導入の「手ぶら改札」 40駅の顔ぶれに透けるJR東の狙い 東京メトロも“陣営”入り",
-      "description": "JR東日本が2028年春からの導入を発表したUWBウォークスルー改札。その直後、UWBの業界標準団体に東京メトロが加わった。JRとメトロの駅を、スマホを取り出さずに通り抜けられる日は来るのか。「勝手にスマホを読み取られないか」という不安への答えから、導入駅に空港駅が含まれた理由、さらに参入を検討しているという“ビッグネーム”の存在まで、その意味を読み解く。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003313/",
       "visual": "ai"
     },
     {
