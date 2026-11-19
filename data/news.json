@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-19T08:39:38.129877+00:00",
+  "updatedAt": "2026-11-19T09:55:48.940402+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T09:38:00+00:00",
+      "title": "2026年11月19日のヘッドラインニュース",
+      "description": "マクドナルドが毎年恒例の「グラコロ」を2026年11月25日に発売することを告知しました。定番商品の「グラコロ」に加えて、新商品として「コク旨ボロネーゼグラコロ」が登場します。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-headline/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T09:18:57+00:00",
+      "title": "脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……",
+      "description": "素直に読むと「ンギンクス」だし、「エヌジーアイエヌエックス」「エヌジンクス」などと発音する人もいるようだが……。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T09:02:50+00:00",
+      "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止 漏えい受け予定から前倒し",
+      "description": "物語コーポレーションは11月19日、「焼肉きんぐ」「ゆず庵」などグループの公式アプリ計11本で、会員情報から氏名と電話番号の項目をなくしたとITmedia NEWSの取材に回答した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,16 +154,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T03:35:00+00:00",
-      "title": "ケンブリッジ辞典が2026年度版「今年の単語」に「人間(human)」を選出",
-      "description": "ケンブリッジ辞典が、2026年のワード・オブ・ザ・イヤー(今年の単語)に、名詞ではなく形容詞としての「human」を選びました。なぜこの単語を選んだのかも説明しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-cambridge-dictionary-word-of-the-year-human/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T03:16:18+00:00",
       "title": "職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安",
@@ -179,26 +199,6 @@
       "title": "体操、強化にAI導入 スポーツ振興センターと富士通が共同研究開始「無限の可能性ある」",
       "description": "日本スポーツ振興センター（JSC）と富士通は11月18日、東京都内で記者会見し、体操の競技力向上に向けて人工知能（AI）を用いた共同研究を開始すると明らかにした。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003323/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T02:24:39+00:00",
-      "title": "JR東の新キャラはB案“紫うさぎ”に 「Suica券面に登場」など、IP展開の可能性は",
-      "description": "",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T02:09:22+00:00",
-      "title": "OpenAIのAIモデル、AMDのGPU回路設計を最大14％改善 独自チップ「ハラペーニョ」でも成果",
-      "description": "OpenAIは、自社のAIモデルによる半導体設計の最適化で、AMDの次世代フラッグシップGPUの一部回路において最大14％のPPA改善を達成したと発表した。自社開発の推論専用チップ「Jalapeno」でも回路面積を削減しており、今後はSynopsysと協力してEDAツールを操作する新モデルを訓練する。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
       "visual": "ai"
     },
     {
