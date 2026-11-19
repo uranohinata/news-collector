@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-11-19T02:10:21.355843+00:00",
+  "updatedAt": "2026-11-19T03:21:35.759211+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T03:05:00+00:00",
+      "title": "「自分の倫理的行動」ばかりを自慢する上司は従業員を不快にさせている可能性があるとの研究結果",
+      "description": "従業員は上司との何気ない会話を通じて人となりを評価しており、上司が尊敬できると思えば率先して協力やサポートをしますが、不快だと感じれば距離を置きます。上司と部下に対するフィールド調査や実験を組み合わせた新たな研究では、「自分の倫理的行動」ばかりを自慢する上司は、従業員を不快にさせている可能性があるとの結果が示されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-bosses-brag-own-good-deeds-risk/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T02:57:00+00:00",
+      "title": "「GTA6休暇」を目当てに43人がアメリカ陸軍に再入隊",
+      "description": "2026年11月19日、ついに「グランド・セフト・オートVI(GTA6)」が発売されました。このGTA6を思う存分プレイするために、43人の兵士が「GTA6休暇」の付与を条件として軍に再入隊したことが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-43-soldiers-reenlisted-army-grand-theft-auto-vi/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T02:56:47+00:00",
+      "title": "体操、強化にAI導入 スポーツ振興センターと富士通が共同研究開始「無限の可能性ある」",
+      "description": "日本スポーツ振興センター（JSC）と富士通は11月18日、東京都内で記者会見し、体操の競技力向上に向けて人工知能（AI）を用いた共同研究を開始すると明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003323/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T02:38:00+00:00",
+      "title": "Metaは10代のInstagramの利用を促進する「プロジェクト・グリフィンドール」を実施していた",
+      "description": "Instagramに「学校バッジ」を導入し、同じ学校に通う子どもたちのつながりを可視化して定着率を高める戦略「プロジェクト・グリフィンドール」をMetaが実施していたことが明らかになりました。Instagramが子どもを取り込んで食い物にしていると訴える裁判の手続きでこの事実が分かったため、Metaへの追及はさらに強まるとみられます。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-meta-insgtagram-project-gryffindor/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T02:25:00+00:00",
+      "title": "Qi2対応・最大25Wの急速充電＆最高峰の冷却性能でスピーディーかつ熱くならずに充電できるAnkerのモバイルバッテリー「MagGo Power Bank 2 Pro」を使ってみた",
+      "description": "AnkerはQi2 25W対応＆冷却ファン搭載で業界最高水準の充電速度と安全性を両立したモバイルバッテリー「Anker MagGo Power Bank 2 Pro」を2026年11月19日に発売しました。そんなMagGo Power Bank 2 Proが編集部に届いたので、さっそく使ってみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-anker-maggo-power-bank-2-pro/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T02:24:39+00:00",
+      "title": "JR東の新キャラはB案“紫うさぎ”に 「Suica券面に登場」など、IP展開の可能性は",
+      "description": "",
+      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T02:15:00+00:00",
+      "title": "ジェンスン・フアンのNVIDIA離脱は「連勝中のチームからマイケル・ジョーダンを追い出すようなもの」とイーロン・マスクが語る",
+      "description": "スパイ疑惑のある女性との不倫関係が発覚し、NVIDIAのCEOを辞任したジェンスン・フアン氏について、実業家のイーロン・マスク氏が「ジェンスン・フアンを追い出すことはチームからマイケル・ジョーダンを追い出すようなもの」と語りました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-elon-musk-says-jensen-huang-michael-jordan/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T02:15:00+00:00",
+      "title": "Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに",
+      "description": "Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。続きを読む.",
+      "url": "https://gigazine.net/news/20261119-google-gemini-4-neon/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T02:09:22+00:00",
+      "title": "OpenAIのAIモデル、AMDのGPU回路設計を最大14％改善 独自チップ「ハラペーニョ」でも成果",
+      "description": "OpenAIは、自社のAIモデルによる半導体設計の最適化で、AMDの次世代フラッグシップGPUの一部回路において最大14％のPPA改善を達成したと発表した。自社開発の推論専用チップ「Jalapeno」でも回路面積を削減しており、今後はSynopsysと協力してEDAツールを操作する新モデルを訓練する。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -94,56 +184,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T15:45:00+00:00",
-      "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
-      "description": "前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T14:00:00+00:00",
-      "title": "無料でIntel・AMD・NVIDIAのGPUを使ってQwen3.8-Flash-Nextをローカルで動かせる「XeStrata」",
-      "description": "1250億パラメーターのAIモデル「Qwen3.8-Flash-Next」を一般的なPCで動作させるソフトウェアの「Strata」をベースにGPUの計算処理をオープンな標準規格「SYCL」で書き直すことでIntel製GPUにも対応し、Intel・AMD・NVIDIA製のGPUを共通のコードで扱えるようにした無料のオープンソースソフトウェアが「XeStrata",
-      "url": "https://gigazine.net/news/20261118-xestrata/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T13:30:00+00:00",
-      "title": "パーキンソン病に特有の「におい」を手がかりに皮脂の成分を診断に役立てる検査法が開発される",
-      "description": "イギリスのマンチェスター大学などの研究チームが2022年9月に発表した「綿棒で皮膚をぬぐって採取した皮脂を分析し、パーキンソン病の診断に役立てる検査法」について、マンチェスター大学は2026年11月、開発の経緯やその後の研究成果を紹介し、臨床試験の計画を明らかにしました。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-parkinsons-smell-skin-swab/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T12:00:00+00:00",
-      "title": "Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法",
-      "description": "AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組みを構築しているのかについて、Anthropicのエンジニアであるアディ・オスマーニ氏が解説しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-claude-code-test-code-review/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T11:20:00+00:00",
-      "title": "Waymoがロボタクシーの高速道路利用を全米で中止、カリフォルニア州で複数の衝突事故を受けて出された使用中止命令を受け",
-      "description": "無人走行車両を用いたロボタクシー事業を展開しているWaymoが、ロボタクシーのアメリカでの高速道路利用を全面的に中止しました。Waymoは実績を積み重ねて高速道路の走行可能区間を広げてきましたが、2026年5月に一時中断。7月から高速道路の利用を再開しましたが、2026年11月に入り立て続けに問題を起こし、カリフォルニア州から高速道路の利用中止を告げられてい",
-      "url": "https://gigazine.net/news/20261118-waymo-suspends-freeway-rides/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-18T11:16:22+00:00",
       "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
@@ -154,51 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-18T11:00:00+00:00",
-      "title": "CloudflareがなぜパブリックDNSはブロックされるべきではないのかを説明",
-      "description": "パブリックDNSリゾルバーを運営するCloudflareは、違法なサイトへのアクセスをブロックせよという裁判所命令に従わなかったために多額の制裁金を科され、控訴しています。なぜ従わなかったのか、そもそもパブリックDNSリゾルバーとは何なのかについて、Cloudflareが説明しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261118-cloudflare-explain-dns-blocking/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T09:20:45+00:00",
-      "title": "JR東の新キャラはB案“紫うさぎ”に 「Suica券面に登場」など、IP展開の可能性は",
-      "description": "",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-18T08:42:23+00:00",
       "title": "日本で最も使われているパスワードは「pass1111」 NordPass調査",
       "description": "パスワード管理ツールのNordPassは、よく使われているパスワードのランキング2026年版を公開した。日本の1位は「pass1111」で、世界1位の「123456」は日本では4位だった。",
       "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T07:59:01+00:00",
-      "title": "NewsPicks漏えい、Metabase脆弱性が原因 パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚",
-      "description": "Metabaseが脆弱性を公表した6日後（3営業日後）の8月12日に修正版に更新した。だが攻撃者はその前に侵入しており、情報を窃取していたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-18T07:01:59+00:00",
-      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？ 「スマホが電話の再発明なら、これは再再発明」",
-      "description": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
       "visual": "ai"
     },
     {
