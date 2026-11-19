@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-19T07:02:01.162299+00:00",
+  "updatedAt": "2026-11-19T08:39:38.129877+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T07:58:00+00:00",
+      "title": "OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発",
+      "description": "OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -9,6 +19,16 @@
       "title": "ドイツ銀行が「危険なビジネス」に手を染めていた実態が1500万件以上の流出資料によって次々と明るみに",
       "description": "2026年11月17日、ドイツのメガバンクであるドイツ銀行から1500万件に及ぶ内部資料が流出したことが判明しました。この内部資料は国際的な共同調査報道チームによって精査されており、ドイツ銀行がロシアとの取引や納税義務回避の支援といった「危険なビジネス」に手を染めていた実態が、次々と明らかになっています。続きを読む...",
       "url": "https://gigazine.net/news/20261119-deutsche-bank-risky-business-leak-files/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T06:30:00+00:00",
+      "title": "nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け",
+      "description": "nginx脆弱性を受け、木原稔官房長官は利用事業者に対して「必要な措置を取ることをお願いしたい」と呼び掛けた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003334/",
       "visual": "ai"
     },
     {
@@ -114,16 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T03:30:00+00:00",
-      "title": "宇宙空間でのたった1回の核爆発で低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性",
-      "description": "通信や気象観測、安全保障などに利用されている人工衛星のうち、1万3000基以上が地球の低軌道を周回しています。ウィスコンシン大学マディソン校やプリンストン大学の研究チームが、宇宙空間で核爆発が発生すると低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性を示す論文を未査読論文リポジトリのarXivで公開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-nuclear-blast-cripple-satellite/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T03:16:18+00:00",
       "title": "職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安",
@@ -189,16 +199,6 @@
       "title": "OpenAIのAIモデル、AMDのGPU回路設計を最大14％改善 独自チップ「ハラペーニョ」でも成果",
       "description": "OpenAIは、自社のAIモデルによる半導体設計の最適化で、AMDの次世代フラッグシップGPUの一部回路において最大14％のPPA改善を達成したと発表した。自社開発の推論専用チップ「Jalapeno」でも回路面積を削減しており、今後はSynopsysと協力してEDAツールを操作する新モデルを訓練する。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003321/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T00:59:11+00:00",
-      "title": "Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供 旧「Gemini Spark」",
-      "description": "Googleは、GeminiアプリのAIエージェント機能「Tasks in Gemini」（旧Gemini Spark）を日本を含む6カ国で無料提供すると発表した。無料版は「Gemini 4 Hydrogen」で動作し、隔離された仮想マシン上でバックグラウンド作業を代行する。米国では電話予約や決済などの機能も順次展開する。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003319/",
       "visual": "ai"
     },
     {
