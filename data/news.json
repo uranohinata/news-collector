@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-19T09:55:48.940402+00:00",
+  "updatedAt": "2026-11-19T10:55:17.170675+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T10:30:00+00:00",
+      "title": "後入れゴマペーストと追いゴマでゴマ風味が限界突破な「サッポロ一番 ゴママニア 濃厚胡麻担担麺」試食レビュー",
+      "description": "サンヨー食品のカップ麺ブランド「サッポロ一番」に、「マニアの素」を加えることでごまの風味が引き立つという「サッポロ一番 ゴママニア 濃厚胡麻担担麺」が2026年11月16日(月)から加わったということなので、買ってきて食べてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-sanyo-sesame-tantanmen/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T10:00:00+00:00",
+      "title": "「DNSリゾルバによる海賊版サイトのブロック」が著作権侵害対策に不向きな理由とは？",
+      "description": "インターネットユーザーをマルウェアやフィッシング詐欺から保護する機能を持つ無料のパブリックDNSサービス(DNSリゾルバ)であるQuad9が、2026年11月24日をもってフランスから撤退します。この背景には裁判所から「海賊版サイトのブロック」を命じられた件がありますが、テクノロジー系メディアのTech StackupsがDNSリゾルバによる対応は著作権侵害",
+      "url": "https://gigazine.net/news/20261119-quad9-dns-blocking-doesnt-work/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T09:53:00+00:00",
+      "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止 予定を前倒し",
+      "description": "物語コーポレーションは11月19日、「焼肉きんぐ」「ゆず庵」などグループの公式アプリ計11本で、会員情報から氏名と電話番号の項目をなくしたとITmedia NEWSの取材に回答した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T09:40:42+00:00",
+      "title": "楽天証券、アンソロピックIPOで「抽選対象外」の表示不具合 後から「当選」の報告相次ぐ 「想定より申し込み多く」",
+      "description": "楽天証券で11月19日、米Anthropicの米国株式IPOの抽選結果の発表が遅れ、申込者の画面に一時「抽選対象外」の表示が出た。楽天証券は「想定よりお申込みが多く」処理に時間がかかったと説明しており、SNSでは表示が出た後に当選していたとの報告が相次いだ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -19,16 +59,6 @@
       "title": "脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……",
       "description": "素直に読むと「ンギンクス」だし、「エヌジーアイエヌエックス」「エヌジンクス」などと発音する人もいるようだが……。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T09:02:50+00:00",
-      "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止 漏えい受け予定から前倒し",
-      "description": "物語コーポレーションは11月19日、「焼肉きんぐ」「ゆず庵」などグループの公式アプリ計11本で、会員情報から氏名と電話番号の項目をなくしたとITmedia NEWSの取材に回答した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
       "visual": "ai"
     },
     {
@@ -134,26 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T04:24:00+00:00",
-      "title": "ペンシルベニア州の高校が日用品を銃と誤認し続けるAI武器探知機を無効化",
-      "description": "Wi-Fiの信号を利用して隠された銃器を検出するセンサーを試験的に導入していた学校が、あまりにも誤検知が多かったとして、本格的な導入を保留したことが分かりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-hempfield-delay-weapon-detection-system/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T04:10:00+00:00",
-      "title": "AI音楽生成サービスの「Suno」がAI音楽用のPVを作成できる「Visuals」を発表",
-      "description": "AI音楽生成サービスの「Suno」は、2026年11月17日に音楽に合わせた動画を制作できるクリエイティブツール「Visuals」を公開しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-suno-visuals/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T03:16:18+00:00",
       "title": "職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安",
@@ -189,16 +199,6 @@
       "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
       "description": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T02:56:47+00:00",
-      "title": "体操、強化にAI導入 スポーツ振興センターと富士通が共同研究開始「無限の可能性ある」",
-      "description": "日本スポーツ振興センター（JSC）と富士通は11月18日、東京都内で記者会見し、体操の競技力向上に向けて人工知能（AI）を用いた共同研究を開始すると明らかにした。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003323/",
       "visual": "ai"
     },
     {
