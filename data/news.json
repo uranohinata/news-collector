@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-19T10:55:17.170675+00:00",
+  "updatedAt": "2026-11-19T11:52:46.128116+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T11:04:47+00:00",
+      "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
+      "description": "北海道岩見沢市と新得町で、業務の再委託先がマルウェアに感染し、個人情報が漏えいした恐れがある。委託先のGIS北海道は取材に対し、ゲーム「NIKKE」経由の感染を認めた。業務用PCでゲームを起動したかは回答を控えた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-19T11:00:00+00:00",
+      "title": "各AIモデルに最適なハーネスはどれか？",
+      "description": "AIエージェントの実行基盤を開発するRuntaが、AIコーディングエージェントのハーネス22構成とAIモデル5種類を組み合わせて性能を検証したベンチマーク「FrontierHarness Eval v1.1」を合計2万7280回試行した結果を公開しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261119-frontierharness-eval/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -154,16 +174,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T04:35:00+00:00",
-      "title": "「Google検索の利用禁止」をアメリカの複数の学区が検討中、学生のAI使用を禁止した影響でGoogle検索も一緒に利用できなくなるため",
-      "description": "ニューヨーク、ロサンゼルス、シカゴなど複数の学区が、Google検索に代わる検索エンジンの利用を検討していることが明らかになりました。これは学生のAI使用を禁止したところ、一緒にGoogle検索も利用できなくなってしまったためです。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-school-consider-ditching-google-search/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T03:16:18+00:00",
       "title": "職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安",
@@ -189,16 +199,6 @@
       "title": "楽天証券漏えい、“テスト環境に顧客情報”のマズさ 識者「一般的でない」",
       "description": "第三者による不正アクセスを受け、最大約1125万口座分のIDや、約447万口座分の口座情報などが漏えいした可能性があると発表した楽天証券。テスト環境のシステム内で管理していた情報の一部が外部に漏えいした可能性があるという。ただ、識者はテスト環境で顧客情報を管理する状況を「一般的でない」と指摘する。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003312/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T03:00:00+00:00",
-      "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
-      "description": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
       "visual": "ai"
     },
     {
