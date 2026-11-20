@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-20T05:32:11.583953+00:00",
+  "updatedAt": "2026-11-20T06:59:56.310704+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T06:35:00+00:00",
+      "title": "「GTA6」の発売直前にパブリッシャーが「GTA5」モバイル版の海賊版フォークをGitHubから一斉に削除申請",
+      "description": "2026年11月19日発売の「グランド・セフト・オートVI(GTA6)」は、予約注文だけで7億5000万ドル(約1186億円)以上を売り上げていることが明らかになるほど、大きな注目を集めています。そんな「GTA6」の発売を数時間後に控えたタイミングで、パブリッシャーのTake-Twoがシリーズ前作の「グランド・セフト・オートV(GTA5)」の非公式モバイル版",
+      "url": "https://gigazine.net/news/20261120-gta-v-github/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T06:20:00+00:00",
+      "title": "メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる",
+      "description": "ウェブブラウザで大量のタブを開いたり複数のアプリを同時に動かしたりすると、PCのメモリ(RAM)が不足して動作が遅くなることがあります。メモリ不足を解消するにはRAMの増設が効果的ですが、CPUを使ってメモリ内のデータを圧縮すればRAMを増設せずに多くのデータを保持できるとのこと。ソフトウェアエンジニアのテリー・ファン・ネールフェン氏がLinuxにおけるメモ",
+      "url": "https://gigazine.net/news/20261120-memory-compress/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T06:11:05+00:00",
+      "title": "ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」",
+      "description": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T06:10:00+00:00",
+      "title": "Appleの会話要約AI「Siri Recap」を2週間使った結果「自分が救急搬送された」という架空の記録が生成される",
+      "description": "IT系ニュースサイトのThe VergeがApple Watchで周囲の会話を自動的に要約する新機能「Siri Recap」を2週間にわたって試した体験談を公開しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-siri-recap-hands-on/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T06:00:00+00:00",
+      "title": "Android開発者認証が2027年1月から世界展開開始",
+      "description": "Googleが「不正行為防止策」と呼び、一部の開発者が「オープンな開発を阻害するもの」と反発するAndroidのセキュリティシステム「開発者認証」が2027年1月から全世界向けに展開され始めます。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-android-developer-verification-expanding/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -84,51 +134,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T03:37:00+00:00",
-      "title": "Blueskyで投稿の閲覧数を確認できる機能のベータテストが始まる",
-      "description": "Blueskyのバージョン1.138がリリースされ、自分の投稿の閲覧数を確認できる機能のベータテストが始まりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-bluesky-impression/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T03:30:00+00:00",
-      "title": "濡れ場に合わせて映画館の座席が動く4DXならぬ4Dセックスが流行、「まるで3人で致したみたいだった」と鑑賞者は語る",
-      "description": "座席の振動、香り、水しぶきなどで臨場感を高める映画館の上映システム「4DX」で、アクションシーンだけでなく、情事の場面でも適切に動く作品が登場しました。体験した人によると「登場人物の動きに合わせて座席が揺れる」そうです。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-4dx-love-scene/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-20T03:01:06+00:00",
       "title": "掘らずに地中レーダー探査、AI分析も 奈良文化財研究所が挑む次世代のサイバー考古学",
       "description": "奈良文化財研究所（奈文研、奈良市）が少子高齢化や人件費高騰が進む中、発掘調査方法の見直しを模索している。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T02:47:00+00:00",
-      "title": "不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの",
-      "description": "2023年11月に起きたOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」の宣伝用ポスターが、まるでAI生成画像のようだと話題になっています。しかし、このAI生成画像風のポスターは人間のアーティストが手描きで作成したものであることが明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-artificial-unsettling-ai-poster-made-human/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T02:36:00+00:00",
-      "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
-      "description": "MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る",
       "description": "Anthropicは、Nasdaq市場に上場した（ティッカー：ANT）。公開価格は1株83ドルで、IPO調達額は約813億ドルとSpaceXを上回り史上最大規模となった。初値は公開価格を約34％上回る111.50ドルを付け、時価総額は初値ベースで約2兆ドルに達した。アモデイCEOは上場に際し、安全性を重視する姿勢を改めて表明した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T11:04:47+00:00",
-      "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
-      "description": "北海道岩見沢市と新得町で、業務の再委託先がマルウェアに感染し、個人情報が漏えいした恐れがある。委託先のGIS北海道は取材に対し、ゲーム「NIKKE」経由の感染を認めた。業務用PCでゲームを起動したかは回答を控えた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
       "visual": "ai"
     },
     {
