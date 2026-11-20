@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-20T04:26:55.680611+00:00",
+  "updatedAt": "2026-11-20T05:32:11.583953+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T05:30:00+00:00",
+      "title": "欧州委員会がAIを用いたサイバー攻撃の標的になったことを発表",
+      "description": "EUの行政執行機関である欧州委員会(EC)が、AIツールを使用したサイバー攻撃の標的になったことを、2026年11月19日に認めました。ECの報道官は「調査は進行中で、事件の規模を判断するのは難しい」と会見で述べています。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-eu-commission-cyberattack/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T05:15:00+00:00",
+      "title": "メールマーケティングツール・MailchimpをIntuitが5860億円でBending Spoonsに売却、5年前の買収時は1兆9100億円",
+      "description": "メール作成から送信、ABテスト、分析などをまとめて行うことができるマーケティングツール・Mailchimpを、IT企業・Intuitがブランド買収・再生を手がけることで知られるBending Spoonsに売却することで合意しました。売却価格はおよそ36億8000万ドル(約5860億円)で、Intuitが2021年にMailchimpを買収した際の120億ド",
+      "url": "https://gigazine.net/news/20261120-intuit-sell-mailchimp-to-bending-spoons/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T05:00:00+00:00",
+      "title": "300年分の肖像画486点から判明した女性の「美しさ」の基準の変化とは？",
+      "description": "イギリスのノーサンブリア大学などの研究チームが1650年から1950年までの約300年間に描かれた486点の肖像画を分析した結果、女性の美しさに関する価値観が現代のマスメディアが登場するよりもはるか以前から変化していたと指摘しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-female-beauty-change/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T04:41:00+00:00",
+      "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
+      "description": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T04:32:00+00:00",
+      "title": "Appleは独自のAIエージェントを開発するためにエンジニアを募集している",
+      "description": "Appleは「ウェブの閲覧」「複数のアプリをまたぐ作業」「コードの作成」「外部サービスの呼び出し」などをユーザーに代わって行うことができる独自のAIエージェントを開発するため、エンジニアを募集していることがBloombergが確認したAppleの求人情報から明らかになっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-apple-hiring-engineers-build-ai-agent/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T04:29:35+00:00",
+      "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "description": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -9,6 +69,16 @@
       "title": "重力を使って壁越しにメッセージを送信することに成功、遮断がほぼ不可能な通信方法だが1ビット送るのに1分かかる",
       "description": "オーストラリアのクイーンズランド大学の研究チームが重力の変化を利用してメッセージを送信する実験に成功したと発表しました。続きを読む...",
       "url": "https://gigazine.net/news/20261120-unblockable-message-gravity/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T04:05:21+00:00",
+      "title": "ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか 決済画面改ざんされる",
+      "description": "不正アクセスにより決済画面が改ざんされ、顧客が入力したカード情報が外部へ送信される状態になっていた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
       "visual": "ai"
     },
     {
@@ -59,56 +129,6 @@
       "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
       "description": "MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。続きを読む...",
       "url": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T02:35:00+00:00",
-      "title": "家電量販店Best Buyが3年ぶりにBlu-rayの販売を再開",
-      "description": "アメリカやカナダに店舗を展開している家電量販店チェーン・Best Buyが2024年に中止したBlu-rayとDVDの店舗での販売を再開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-best-buy-sells-again-bd/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T02:28:00+00:00",
-      "title": "ハッカーがVisaやMastercardの顧客データを入手",
-      "description": "「n0n」と名乗るランサムウェアグループが、Visa、Mastercard、そしてJPモルガン・チェースの数千人の顧客のデータを入手したとする犯行声明を出しました。クレジットカード番号は含まれていないと伝えられています。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-visa-mastercard-jpmorgan-data-leak/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T02:22:00+00:00",
-      "title": "Blue Originが2029年にGoogleのAIサーバー衛星を大型ロケット「New Glenn」で打ち上げへ",
-      "description": "Googleは2026年11月19日、宇宙空間にAIデータセンターを構築する研究プロジェクト「Project Suncatcher」で、宇宙開発企業のBlue Originと提携したと発表しました。2029年第1四半期にBlue Originの大型ロケット「New Glenn」を使用し、データセンターのラック1台に相当する計算能力を備えた衛星を打ち上げる計画",
-      "url": "https://gigazine.net/news/20261120-blue-origin-launch-google-ai-server/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T02:00:00+00:00",
-      "title": "AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明",
-      "description": "プログラミングの専門知識がなくてもAIでウェブアプリを作れるサービス「Lovable」で開発された一部のアプリで、パスポート情報や20万件超のプライベートなメッセージを非ログイン状態で閲覧できたとドイツのセキュリティ企業であるCrissy Fieldと、ドイツの経済紙「ハンデルスブラット」が報告しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-lovable-apps-data-exposure/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T01:34:00+00:00",
-      "title": "ValveのゲーミングPC「Steam Machine」が値上げの可能性",
-      "description": "2026年11月20日、ValveがゲーミングPC「Steam Machine」のハードウェア部品の供給制約が引き続き発生していると報告しました。特に2TBモデルは供給が大幅に制限される見込みで、値上げの可能性もあると示唆しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-valve-warns-steam-machine-price-hike/",
       "visual": "ai"
     },
     {
@@ -179,26 +199,6 @@
       "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
       "description": "北海道岩見沢市と新得町で、業務の再委託先がマルウェアに感染し、個人情報が漏えいした恐れがある。委託先のGIS北海道は取材に対し、ゲーム「NIKKE」経由の感染を認めた。業務用PCでゲームを起動したかは回答を控えた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T09:53:00+00:00",
-      "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止 予定を前倒し",
-      "description": "物語コーポレーションは11月19日、「焼肉きんぐ」「ゆず庵」などグループの公式アプリ計11本で、会員情報から氏名と電話番号の項目をなくしたとITmedia NEWSの取材に回答した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T09:40:42+00:00",
-      "title": "楽天証券、アンソロピックIPOで「抽選対象外」の表示不具合 後から「当選」の報告相次ぐ 「想定より申し込み多く」",
-      "description": "楽天証券で11月19日、米Anthropicの米国株式IPOの抽選結果の発表が遅れ、申込者の画面に一時「抽選対象外」の表示が出た。楽天証券は「想定よりお申込みが多く」処理に時間がかかったと説明しており、SNSでは表示が出た後に当選していたとの報告が相次いだ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
       "visual": "ai"
     },
     {
