@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-20T02:00:25.365482+00:00",
+  "updatedAt": "2026-11-20T03:14:09.151916+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T02:47:00+00:00",
+      "title": "不気味なAI生成風ビジュアルが話題のOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」のポスターは人間が作ったもの",
+      "description": "2023年11月に起きたOpenAIのサム・アルトマンCEO解任騒動を描く映画「Artificial」の宣伝用ポスターが、まるでAI生成画像のようだと話題になっています。しかし、このAI生成画像風のポスターは人間のアーティストが手描きで作成したものであることが明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-artificial-unsettling-ai-poster-made-human/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T02:36:00+00:00",
+      "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
+      "description": "MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T02:35:00+00:00",
+      "title": "家電量販店Best Buyが3年ぶりにBlu-rayの販売を再開",
+      "description": "アメリカやカナダに店舗を展開している家電量販店チェーン・Best Buyが2024年に中止したBlu-rayとDVDの店舗での販売を再開しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-best-buy-sells-again-bd/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T02:28:00+00:00",
+      "title": "ハッカーがVisaやMastercardの顧客データを入手",
+      "description": "「n0n」と名乗るランサムウェアグループが、Visa、Mastercard、そしてJPモルガン・チェースの数千人の顧客のデータを入手したとする犯行声明を出しました。クレジットカード番号は含まれていないと伝えられています。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-visa-mastercard-jpmorgan-data-leak/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T02:22:00+00:00",
+      "title": "Blue Originが2029年にGoogleのAIサーバー衛星を大型ロケット「New Glenn」で打ち上げへ",
+      "description": "Googleは2026年11月19日、宇宙空間にAIデータセンターを構築する研究プロジェクト「Project Suncatcher」で、宇宙開発企業のBlue Originと提携したと発表しました。2029年第1四半期にBlue Originの大型ロケット「New Glenn」を使用し、データセンターのラック1台に相当する計算能力を備えた衛星を打ち上げる計画",
+      "url": "https://gigazine.net/news/20261120-blue-origin-launch-google-ai-server/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T02:00:00+00:00",
+      "title": "AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明",
+      "description": "プログラミングの専門知識がなくてもAIでウェブアプリを作れるサービス「Lovable」で開発された一部のアプリで、パスポート情報や20万件超のプライベートなメッセージを非ログイン状態で閲覧できたとドイツのセキュリティ企業であるCrissy Fieldと、ドイツの経済紙「ハンデルスブラット」が報告しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-lovable-apps-data-exposure/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,61 +164,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T13:00:00+00:00",
-      "title": "NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる",
-      "description": "半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。これについて、経済メディアのFinancial Timesやウォール・ストリート・ジャーナルが報じています。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T12:00:00+00:00",
-      "title": "Huawei最大級のAIデータセンターでも計算能力はxAIの「Colossus 2」の約7％で中国は2028年まで大幅に後れを取る可能性大",
-      "description": "Huaweiは内モンゴル自治区のホリンゴルという地区に中国最大級のAIデータセンターを構えています。このデータセンターの計算能力を分析した研究機関のEpoch AIが、「世界最大のAIデータセンター・Colossus 2に比べるとまだまだ」と報告しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-china-ai-data-center-compute-gap/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T11:04:47+00:00",
       "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
       "description": "北海道岩見沢市と新得町で、業務の再委託先がマルウェアに感染し、個人情報が漏えいした恐れがある。委託先のGIS北海道は取材に対し、ゲーム「NIKKE」経由の感染を認めた。業務用PCでゲームを起動したかは回答を控えた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T11:00:00+00:00",
-      "title": "各AIモデルに最適なハーネスはどれか？",
-      "description": "AIエージェントの実行基盤を開発するRuntaが、AIコーディングエージェントのハーネス22構成とAIモデル5種類を組み合わせて性能を検証したベンチマーク「FrontierHarness Eval v1.1」を合計2万7280回試行した結果を公開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-frontierharness-eval/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T10:30:00+00:00",
-      "title": "後入れゴマペーストと追いゴマでゴマ風味が限界突破な「サッポロ一番 ゴママニア 濃厚胡麻担担麺」試食レビュー",
-      "description": "サンヨー食品のカップ麺ブランド「サッポロ一番」に、「マニアの素」を加えることでごまの風味が引き立つという「サッポロ一番 ゴママニア 濃厚胡麻担担麺」が2026年11月16日(月)から加わったということなので、買ってきて食べてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-sanyo-sesame-tantanmen/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T10:00:00+00:00",
-      "title": "「DNSリゾルバによる海賊版サイトのブロック」が著作権侵害対策に不向きな理由とは？",
-      "description": "インターネットユーザーをマルウェアやフィッシング詐欺から保護する機能を持つ無料のパブリックDNSサービス(DNSリゾルバ)であるQuad9が、2026年11月24日をもってフランスから撤退します。この背景には裁判所から「海賊版サイトのブロック」を命じられた件がありますが、テクノロジー系メディアのTech StackupsがDNSリゾルバによる対応は著作権侵害",
-      "url": "https://gigazine.net/news/20261119-quad9-dns-blocking-doesnt-work/",
       "visual": "ai"
     },
     {
@@ -179,16 +189,6 @@
       "title": "楽天証券、アンソロピックIPOで「抽選対象外」の表示不具合 後から「当選」の報告相次ぐ 「想定より申し込み多く」",
       "description": "楽天証券で11月19日、米Anthropicの米国株式IPOの抽選結果の発表が遅れ、申込者の画面に一時「抽選対象外」の表示が出た。楽天証券は「想定よりお申込みが多く」処理に時間がかかったと説明しており、SNSでは表示が出た後に当選していたとの報告が相次いだ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T09:38:00+00:00",
-      "title": "2026年11月19日のヘッドラインニュース",
-      "description": "マクドナルドが毎年恒例の「グラコロ」を2026年11月25日に発売することを告知しました。定番商品の「グラコロ」に加えて、新商品として「コク旨ボロネーゼグラコロ」が登場します。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-headline/",
       "visual": "ai"
     },
     {
