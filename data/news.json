@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-20T10:31:16.085770+00:00",
+  "updatedAt": "2026-11-20T11:51:04.117060+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T11:00:00+00:00",
+      "title": "イギリス政府がAppleに暗号化データへのアクセスを求める秘密命令を出していたことを正式に認める",
+      "description": "イギリス政府がAppleに対して暗号化されたiCloudのデータにアクセスできるよう求める秘密命令を出していたことが、2026年11月19日に公開された裁判所の判断で正式に確認されました。イギリス政府は命令の存在について肯定も否定もしない姿勢を続けていましたが、裁判所は命令の存在を公表しても国家安全保障に悪影響はないと判断しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-uk-government-apple-secret-encryption-order/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -129,16 +139,6 @@
       "title": "ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」",
       "description": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T06:10:00+00:00",
-      "title": "Appleの会話要約AI「Siri Recap」を2週間使った結果「自分が救急搬送された」という架空の記録が生成される",
-      "description": "IT系ニュースサイトのThe VergeがApple Watchで周囲の会話を自動的に要約する新機能「Siri Recap」を2週間にわたって試した体験談を公開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-siri-recap-hands-on/",
       "visual": "ai"
     },
     {
