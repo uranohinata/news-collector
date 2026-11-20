@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-20T03:14:09.151916+00:00",
+  "updatedAt": "2026-11-20T04:26:55.680611+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T04:15:00+00:00",
+      "title": "重力を使って壁越しにメッセージを送信することに成功、遮断がほぼ不可能な通信方法だが1ビット送るのに1分かかる",
+      "description": "オーストラリアのクイーンズランド大学の研究チームが重力の変化を利用してメッセージを送信する実験に成功したと発表しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-unblockable-message-gravity/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T03:37:00+00:00",
+      "title": "Blueskyで投稿の閲覧数を確認できる機能のベータテストが始まる",
+      "description": "Blueskyのバージョン1.138がリリースされ、自分の投稿の閲覧数を確認できる機能のベータテストが始まりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-bluesky-impression/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T03:30:00+00:00",
+      "title": "濡れ場に合わせて映画館の座席が動く4DXならぬ4Dセックスが流行、「まるで3人で致したみたいだった」と鑑賞者は語る",
+      "description": "座席の振動、香り、水しぶきなどで臨場感を高める映画館の上映システム「4DX」で、アクションシーンだけでなく、情事の場面でも適切に動く作品が登場しました。体験した人によると「登場人物の動きに合わせて座席が揺れる」そうです。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-4dx-love-scene/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T03:01:06+00:00",
+      "title": "掘らずに地中レーダー探査、AI分析も 奈良文化財研究所が挑む次世代のサイバー考古学",
+      "description": "奈良文化財研究所（奈文研、奈良市）が少子高齢化や人件費高騰が進む中、発掘調査方法の見直しを模索している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -124,41 +164,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T23:00:00+00:00",
-      "title": "iPhoneやAndroidスマホの強制ロック解除を防ぐ方法",
-      "description": "iPhoneやAndroidスマートフォンはロックを解除しない限り内部のファイルを閲覧できないように設計されていますが、特殊な手法やツールを用いてロックを強制解除されてしまう場合もあります。そんな強制ロック解除を防ぐための方法を非営利団体のOsservatorio Nessunoが解説しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-phone-unlocking/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T22:00:00+00:00",
-      "title": "好きな時にAmazonの商品を受け取れる「Amazonロッカー」のセキュリティをあらゆる手段を駆使して突破する試み～ハードウェア編",
-      "description": "DEF CON 34カンファレンスにおいてセキュリティエンジニアのマーティン・ヴィゴ氏が発表したAmazonロッカーのセキュリティに関する調査結果の後半は、ハードウェア部分に焦点を当てています。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-breaking-amazon-lockers-hardware/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-19T21:38:41+00:00",
       "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る",
       "description": "Anthropicは、Nasdaq市場に上場した（ティッカー：ANT）。公開価格は1株83ドルで、IPO調達額は約813億ドルとSpaceXを上回り史上最大規模となった。初値は公開価格を約34％上回る111.50ドルを付け、時価総額は初値ベースで約2兆ドルに達した。アモデイCEOは上場に際し、安全性を重視する姿勢を改めて表明した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T14:00:00+00:00",
-      "title": "録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能",
-      "description": "日本語特化型の音声認識AI「Haas-ja-v1.0」や音声合成AI「Irodori-TTS」などを1つの実行環境にまとめた無料のオープンソースツールが「speech.cpp」です。GPUが不要でブラウザから文字起こしや音声読み上げが可能とのことなので実際に使ってみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-speech-cpp/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "楽天証券、アンソロピックIPOで「抽選対象外」の表示不具合 後から「当選」の報告相次ぐ 「想定より申し込み多く」",
       "description": "楽天証券で11月19日、米Anthropicの米国株式IPOの抽選結果の発表が遅れ、申込者の画面に一時「抽選対象外」の表示が出た。楽天証券は「想定よりお申込みが多く」処理に時間がかかったと説明しており、SNSでは表示が出た後に当選していたとの報告が相次いだ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T09:18:57+00:00",
-      "title": "脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……",
-      "description": "素直に読むと「ンギンクス」だし、「エヌジーアイエヌエックス」「エヌジンクス」などと発音する人もいるようだが……。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/",
       "visual": "ai"
     },
     {
