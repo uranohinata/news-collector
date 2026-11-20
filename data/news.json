@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-19T23:37:19.138069+00:00",
+  "updatedAt": "2026-11-20T00:49:53.720689+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T00:25:43+00:00",
+      "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携 2029年に衛星打ち上げへ",
+      "description": "Googleは、衛星軌道上にAIデータセンターを構築する「Project Suncatcher」でジェフ・ベゾス氏率いる米Blue Originと提携したと発表した。2029年第1四半期を目標に、大型ロケット「New Glenn」で衛星を太陽同期軌道へ打ち上げる。各衛星はデータセンターのラック1本分程度の計算能力を持つとしている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T00:17:02+00:00",
+      "title": "PHP「緊急」脆弱性、サービス一時停止の動き再び ウマ娘やグラブル、イープラスなど緊急メンテ",
+      "description": "「PHP2Shell」への対応以降、脆弱性の修正に合わせ、サービスを止めてメンテナンスする流れができつつある。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T23:45:00+00:00",
+      "title": "日本で受け入れられるのか？ ネットにつながらない携帯「INFOBAR ZERO」 KDDIが語った発売の意図",
+      "description": "KDDIが11月18日に発表した、音声通話とSMSに機能を絞った携帯電話「INFOBAR ZERO」。スマートフォンが普及したいま、挑戦的とも思える商品だが、売れる見込みはあるのか。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003330/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T23:41:04+00:00",
+      "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加 まず米国で",
+      "description": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手順の業務を代行できる。まずは米国の有料プラン加入者向けに英語版から提供を始める。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-19T23:17:42+00:00",
+      "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
+      "description": "162万4000人分の氏名、性別、電話番号、メールアドレス、パスワード、住所、生年月日、などが流出。期間は2010年?2023年で、「当時は登録パスワードを暗号化せずに保存していた」という。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -149,56 +199,6 @@
       "title": "OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発",
       "description": "OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。続きを読む...",
       "url": "https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T06:30:00+00:00",
-      "title": "nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け",
-      "description": "nginx脆弱性を受け、木原稔官房長官は利用事業者に対して「必要な措置を取ることをお願いしたい」と呼び掛けた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003334/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T05:58:26+00:00",
-      "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
-      "description": "MicrosoftのAIエージェント開発用SDK「Microsoft Agent Framework」のPythonパッケージが侵害され、認証情報を盗む不正版「1.26.1」「1.26.2」がPyPIで一時公開された。Python起動時に自動実行され、クラウドやGitHubの認証情報を外部へ送信する。両版は削除済みで、影響環境での認証情報再発行や環境再構築が",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T05:11:07+00:00",
-      "title": "Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
-      "description": "日本政府の国家サイバー統括室も19日に注意喚起し、速やかなアップデートの適用を呼び掛けた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T03:16:18+00:00",
-      "title": "職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安",
-      "description": "日本のものづくりを支える職人の高齢化が進む中、経験や勘に頼ってきた技術を人工知能（AI）で「見える化」し、次世代に伝える取り組みが広がりつつある。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003324/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T03:00:00+00:00",
-      "title": "ちまたの“格安GPT”、中身は偽物？ 非公式APIのモデル偽装を調査した結果……",
-      "description": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
       "visual": "ai"
     },
     {
