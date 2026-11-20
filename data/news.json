@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-20T00:49:53.720689+00:00",
+  "updatedAt": "2026-11-20T02:00:25.365482+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T01:34:00+00:00",
+      "title": "ValveのゲーミングPC「Steam Machine」が値上げの可能性",
+      "description": "2026年11月20日、ValveがゲーミングPC「Steam Machine」のハードウェア部品の供給制約が引き続き発生していると報告しました。特に2TBモデルは供給が大幅に制限される見込みで、値上げの可能性もあると示唆しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-valve-warns-steam-machine-price-hike/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -189,16 +199,6 @@
       "title": "脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……",
       "description": "素直に読むと「ンギンクス」だし、「エヌジーアイエヌエックス」「エヌジンクス」などと発音する人もいるようだが……。",
       "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-19T07:58:00+00:00",
-      "title": "OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発",
-      "description": "OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。続きを読む...",
-      "url": "https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/",
       "visual": "ai"
     },
     {
