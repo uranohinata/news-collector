@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-20T06:59:56.310704+00:00",
+  "updatedAt": "2026-11-20T08:20:26.126422+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T08:09:00+00:00",
+      "title": "「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める",
+      "description": "OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T08:00:00+00:00",
+      "title": "「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的",
+      "description": "日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」を2026年11月23日に発売します。12月3日発売のゲーム『ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-nissin-mao-daimao-miso/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T07:35:00+00:00",
+      "title": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に",
+      "description": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年11月18日にMicrosoftとの提携を発表し、企業向け製品「Hermes Enterprise」を公開しました。Hermes EnterpriseはMicrosoft TeamsからAIに業務を依頼できるほか、AIが覚えた作業手順を社内で共有する機",
+      "url": "https://gigazine.net/news/20261120-nous-research-microsoft-hermes-enterprise/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T07:32:08+00:00",
+      "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
+      "description": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T07:10:00+00:00",
+      "title": "ドリームキャストにNINTENDO 64のカートリッジを挿してゲームをプレイ可能にする「DreamCart 64」を開発する猛者が登場",
+      "description": "セガのGD-ROMドライブ搭載型家庭用ゲーム機であるドリームキャストに、任天堂のゲーム機・NINTENDO 64のカセットROMを接続してプレイできるように改造したと、レトロゲームを中心にさまざまな改造を行うYouTuberのThroaty Mumbo氏がムービーで報告しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-nintendo-64-on-dreamcast/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T07:05:00+00:00",
+      "title": "Ubisoftが「記憶を持ったNPC」や「AIゲームマスター」を開発する生成AIゲームスタジオ「Motherbrain」を設立",
+      "description": "アサシンクリードシリーズやレインボーシックスシリーズで知られるフランスに本社を置くゲーム会社・Ubisoftが、生成AIの実装に特化したゲームスタジオ「Motherbrain」を設立しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-ubisoft-generative-ai-game-studio-motherbrain/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -64,61 +124,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T05:15:00+00:00",
-      "title": "メールマーケティングツール・MailchimpをIntuitが5860億円でBending Spoonsに売却、5年前の買収時は1兆9100億円",
-      "description": "メール作成から送信、ABテスト、分析などをまとめて行うことができるマーケティングツール・Mailchimpを、IT企業・Intuitがブランド買収・再生を手がけることで知られるBending Spoonsに売却することで合意しました。売却価格はおよそ36億8000万ドル(約5860億円)で、Intuitが2021年にMailchimpを買収した際の120億ド",
-      "url": "https://gigazine.net/news/20261120-intuit-sell-mailchimp-to-bending-spoons/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T05:00:00+00:00",
-      "title": "300年分の肖像画486点から判明した女性の「美しさ」の基準の変化とは？",
-      "description": "イギリスのノーサンブリア大学などの研究チームが1650年から1950年までの約300年間に描かれた486点の肖像画を分析した結果、女性の美しさに関する価値観が現代のマスメディアが登場するよりもはるか以前から変化していたと指摘しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-female-beauty-change/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T04:41:00+00:00",
-      "title": "MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か",
-      "description": "2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T04:32:00+00:00",
-      "title": "Appleは独自のAIエージェントを開発するためにエンジニアを募集している",
-      "description": "Appleは「ウェブの閲覧」「複数のアプリをまたぐ作業」「コードの作成」「外部サービスの呼び出し」などをユーザーに代わって行うことができる独自のAIエージェントを開発するため、エンジニアを募集していることがBloombergが確認したAppleの求人情報から明らかになっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-apple-hiring-engineers-build-ai-agent/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-20T04:29:35+00:00",
       "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
       "description": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T04:15:00+00:00",
-      "title": "重力を使って壁越しにメッセージを送信することに成功、遮断がほぼ不可能な通信方法だが1ビット送るのに1分かかる",
-      "description": "オーストラリアのクイーンズランド大学の研究チームが重力の変化を利用してメッセージを送信する実験に成功したと発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-unblockable-message-gravity/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
       "description": "162万4000人分の氏名、性別、電話番号、メールアドレス、パスワード、住所、生年月日、などが流出。期間は2010年?2023年で、「当時は登録パスワードを暗号化せずに保存していた」という。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T21:38:41+00:00",
-      "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル 初値は公開価格を34％上回る",
-      "description": "Anthropicは、Nasdaq市場に上場した（ティッカー：ANT）。公開価格は1株83ドルで、IPO調達額は約813億ドルとSpaceXを上回り史上最大規模となった。初値は公開価格を約34％上回る111.50ドルを付け、時価総額は初値ベースで約2兆ドルに達した。アモデイCEOは上場に際し、安全性を重視する姿勢を改めて表明した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
       "visual": "ai"
     },
     {
