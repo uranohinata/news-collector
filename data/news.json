@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-20T12:56:30.934607+00:00",
+  "updatedAt": "2026-11-20T14:14:11.582045+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T14:00:00+00:00",
+      "title": "VPN通信に使うWireGuardやOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載",
+      "description": "複数のVPNを利用していると接続先ごとに異なるアプリやコマンドを使い分ける必要があり、通信状態や通信経路の確認も複雑になります。そこでWireGuard・OpenVPNなどの接続管理を一つの画面にまとめ、通信速度・遅延のリアルタイム監視・情報漏えいの検出・VPN切断時の通信遮断まで行える無料のオープンソースツールが「Vortix」です。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-vortix/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T13:00:00+00:00",
+      "title": "SSDの価格は2027年後半に下落し始める可能性あり",
+      "description": "アナリストの分析により、HDDの価格が今後2年で高止まりする一方、SSDは価格が落ち着くという予測が出てきました。続きを読む...",
+      "url": "https://gigazine.net/news/20261120-ssd-prices-outlook/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,26 +139,6 @@
       "title": "ドリームキャストにNINTENDO 64のカートリッジを挿してゲームをプレイ可能にする「DreamCart 64」を開発する猛者が登場",
       "description": "セガのGD-ROMドライブ搭載型家庭用ゲーム機であるドリームキャストに、任天堂のゲーム機・NINTENDO 64のカセットROMを接続してプレイできるように改造したと、レトロゲームを中心にさまざまな改造を行うYouTuberのThroaty Mumbo氏がムービーで報告しています。続きを読む...",
       "url": "https://gigazine.net/news/20261120-nintendo-64-on-dreamcast/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T07:05:00+00:00",
-      "title": "Ubisoftが「記憶を持ったNPC」や「AIゲームマスター」を開発する生成AIゲームスタジオ「Motherbrain」を設立",
-      "description": "アサシンクリードシリーズやレインボーシックスシリーズで知られるフランスに本社を置くゲーム会社・Ubisoftが、生成AIの実装に特化したゲームスタジオ「Motherbrain」を設立しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-ubisoft-generative-ai-game-studio-motherbrain/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T06:35:00+00:00",
-      "title": "「GTA6」の発売直前にパブリッシャーが「GTA5」モバイル版の海賊版フォークをGitHubから一斉に削除申請",
-      "description": "2026年11月19日発売の「グランド・セフト・オートVI(GTA6)」は、予約注文だけで7億5000万ドル(約1186億円)以上を売り上げていることが明らかになるほど、大きな注目を集めています。そんな「GTA6」の発売を数時間後に控えたタイミングで、パブリッシャーのTake-Twoがシリーズ前作の「グランド・セフト・オートV(GTA5)」の非公式モバイル版",
-      "url": "https://gigazine.net/news/20261120-gta-v-github/",
       "visual": "ai"
     },
     {
