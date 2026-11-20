@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-20T08:20:26.126422+00:00",
+  "updatedAt": "2026-11-20T09:29:56.112225+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T08:48:50+00:00",
+      "title": "韓国大学入試で電子機器不正111件摘発 AI受験疑惑巡り死者も発生",
+      "description": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T08:13:16+00:00",
+      "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
+      "description": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-20T08:09:25+00:00",
+      "title": "H3ロケット打ち上げ、JAXAから三菱重工に移管 来年1月の11号機から",
+      "description": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -29,16 +59,6 @@
       "title": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に",
       "description": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年11月18日にMicrosoftとの提携を発表し、企業向け製品「Hermes Enterprise」を公開しました。Hermes EnterpriseはMicrosoft TeamsからAIに業務を依頼できるほか、AIが覚えた作業手順を社内で共有する機",
       "url": "https://gigazine.net/news/20261120-nous-research-microsoft-hermes-enterprise/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-20T07:32:08+00:00",
-      "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
-      "description": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
       "visual": "ai"
     },
     {
@@ -179,26 +199,6 @@
       "title": "日本で受け入れられるのか？ ネットにつながらない携帯「INFOBAR ZERO」 KDDIが語った発売の意図",
       "description": "KDDIが11月18日に発表した、音声通話とSMSに機能を絞った携帯電話「INFOBAR ZERO」。スマートフォンが普及したいま、挑戦的とも思える商品だが、売れる見込みはあるのか。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003330/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T23:41:04+00:00",
-      "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加 まず米国で",
-      "description": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手順の業務を代行できる。まずは米国の有料プラン加入者向けに英語版から提供を始める。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-19T23:17:42+00:00",
-      "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
-      "description": "162万4000人分の氏名、性別、電話番号、メールアドレス、パスワード、住所、生年月日、などが流出。期間は2010年?2023年で、「当時は登録パスワードを暗号化せずに保存していた」という。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
       "visual": "ai"
     },
     {
