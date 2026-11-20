@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-20T22:40:07.310404+00:00",
+  "updatedAt": "2026-11-20T23:40:41.206044+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-20T23:00:00+00:00",
+      "title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+      "description": "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -129,16 +139,6 @@
       "title": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に",
       "description": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年11月18日にMicrosoftとの提携を発表し、企業向け製品「Hermes Enterprise」を公開しました。Hermes EnterpriseはMicrosoft TeamsからAIに業務を依頼できるほか、AIが覚えた作業手順を社内で共有する機",
       "url": "https://gigazine.net/news/20261120-nous-research-microsoft-hermes-enterprise/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T07:10:00+00:00",
-      "title": "ドリームキャストにNINTENDO 64のカートリッジを挿してゲームをプレイ可能にする「DreamCart 64」を開発する猛者が登場",
-      "description": "セガのGD-ROMドライブ搭載型家庭用ゲーム機であるドリームキャストに、任天堂のゲーム機・NINTENDO 64のカセットROMを接続してプレイできるように改造したと、レトロゲームを中心にさまざまな改造を行うYouTuberのThroaty Mumbo氏がムービーで報告しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-nintendo-64-on-dreamcast/",
       "visual": "ai"
     },
     {
