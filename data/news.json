@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-21T05:25:10.865764+00:00",
+  "updatedAt": "2026-11-21T06:24:11.560256+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-21T06:00:00+00:00",
+      "title": "宇宙の温度の約2800億分の1まで原子を冷却することに成功",
+      "description": "中国の北京大学や中国科学院などの研究チームが、中国の宇宙ステーション「天宮」で原子気体の等価温度を9.7ピコケルビン(1兆分の9.7℃)まで低下させることに成功しました。微小重力環境を利用した実験で、従来の最低記録である38ピコケルビンを大幅に更新しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261121-10-picokelvin-quantum/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -129,16 +139,6 @@
       "title": "H3ロケット打ち上げ、JAXAから三菱重工に移管 来年1月の11号機から",
       "description": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T08:09:00+00:00",
-      "title": "「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める",
-      "description": "OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/",
       "visual": "ai"
     },
     {
