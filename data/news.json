@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-21T13:52:24.931360+00:00",
+  "updatedAt": "2026-11-21T14:44:16.743157+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-21T14:00:00+00:00",
+      "title": "無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能",
+      "description": "ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261121-wyrmrss/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -99,16 +109,6 @@
       "title": "VPN通信に使うWireGuardやOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載",
       "description": "複数のVPNを利用していると接続先ごとに異なるアプリやコマンドを使い分ける必要があり、通信状態や通信経路の確認も複雑になります。そこでWireGuard・OpenVPNなどの接続管理を一つの画面にまとめ、通信速度・遅延のリアルタイム監視・情報漏えいの検出・VPN切断時の通信遮断まで行える無料のオープンソースツールが「Vortix」です。続きを読む...",
       "url": "https://gigazine.net/news/20261120-vortix/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-20T13:00:00+00:00",
-      "title": "SSDの価格は2027年後半に下落し始める可能性あり",
-      "description": "アナリストの分析により、HDDの価格が今後2年で高止まりする一方、SSDは価格が落ち着くという予測が出てきました。続きを読む...",
-      "url": "https://gigazine.net/news/20261120-ssd-prices-outlook/",
       "visual": "ai"
     },
     {
