@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-22T22:14:32.151012+00:00",
+  "updatedAt": "2026-11-22T23:13:17.480992+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-22T23:00:00+00:00",
+      "title": "「世界の果て」の島で19世紀の漂流者キャンプ跡と思われる場所が発見される",
+      "description": "アルゼンチンの最南部で、考古学者たちが19世紀の漂流者のキャンプとみられる遺跡を発見しました。難破船の残骸などが見つかっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261123-19th-century-shipwreck-found/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-22T22:49:18+00:00",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "description": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -94,16 +114,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-22T02:00:00+00:00",
-      "title": "Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中",
-      "description": "AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検",
-      "url": "https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-21T23:21:31+00:00",
       "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
@@ -189,16 +199,6 @@
       "title": "ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか 決済画面改ざんされる",
       "description": "不正アクセスにより決済画面が改ざんされ、顧客が入力したカード情報が外部へ送信される状態になっていた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-20T03:01:06+00:00",
-      "title": "掘らずに地中レーダー探査、AI分析も 奈良文化財研究所が挑む次世代のサイバー考古学",
-      "description": "奈良文化財研究所（奈文研、奈良市）が少子高齢化や人件費高騰が進む中、発掘調査方法の見直しを模索している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
       "visual": "ai"
     },
     {
