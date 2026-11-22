@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-22T15:14:27.117941+00:00",
+  "updatedAt": "2026-11-22T16:13:53.036008+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-22T15:14:00+00:00",
+      "title": "ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」",
+      "description": "「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261123-lastbook-offline-knowledge/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -89,16 +99,6 @@
       "title": "Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中",
       "description": "AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検",
       "url": "https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-22T01:30:00+00:00",
-      "title": "SignalがAIエージェントによる情報収集を防ぐためアプリでのAIによるスクリーンショット撮影を制限、OSレベルのAIエージェントによる情報収集に警鐘",
-      "description": "プライベートメッセンジャーアプリのSignalが、モバイルアプリでのAIによるスクリーンショット撮影機能を制限しました。これはAIエージェントによる情報収集が、Signalの構築してきたプライバシー保護機能を崩してしまうためと説明されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261122-signal-restricts-mobile-screenshots-threat-ai-surveillance/",
       "visual": "ai"
     },
     {
