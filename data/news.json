@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-22T01:59:37.984396+00:00",
+  "updatedAt": "2026-11-22T02:52:45.737171+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-22T02:00:00+00:00",
+      "title": "Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中",
+      "description": "AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検",
+      "url": "https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -109,16 +119,6 @@
       "title": "宇宙の温度の約2800億分の1まで原子を冷却することに成功",
       "description": "中国の北京大学や中国科学院などの研究チームが、中国の宇宙ステーション「天宮」で原子気体の等価温度を9.7ピコケルビン(1兆分の9.7℃)まで低下させることに成功しました。微小重力環境を利用した実験で、従来の最低記録である38ピコケルビンを大幅に更新しています。続きを読む...",
       "url": "https://gigazine.net/news/20261121-10-picokelvin-quantum/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-21T03:00:00+00:00",
-      "title": "BlenderのGPUアクセラレーション対応UIを他のアプリケーションから再利用可能にする「BUI」",
-      "description": "BUI(Blender's User Interface)はBlenderの洗練されたユーザーインターフェースを、独立したUIライブラリとして再利用可能にするプロジェクトです。続きを読む...",
-      "url": "https://gigazine.net/news/20261121-bui/",
       "visual": "ai"
     },
     {
