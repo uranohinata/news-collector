@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-22T09:14:11.782988+00:00",
+  "updatedAt": "2026-11-22T10:15:57.398706+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-22T09:37:00+00:00",
+      "title": "Waymoの自動運転車が冠水した道路で立ち往生",
+      "description": "「サンフランシスコの冠水した道路でWaymoの自動運転車が立ち往生し、他の車両の邪魔になっている」という動画がXに投稿されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261122-waymo-flooded-lanes/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -99,16 +109,6 @@
       "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果",
       "description": "AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。続きを読む...",
       "url": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-21T11:00:00+00:00",
-      "title": "自分の仕事が「天職」だと思うことは私生活や人生の満足度にどのような影響を与えるのか？",
-      "description": "日々の仕事内容が自分のやりたいことや能力にぴったり当てはまっている人は、「この仕事は天職だ」と感じているかもしれません。自分の仕事が天職だと思うことが私生活や人生の満足度に与える影響について、ドイツの研究チームが調査しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261121-job-becomes-calling-well-being/",
       "visual": "ai"
     },
     {
