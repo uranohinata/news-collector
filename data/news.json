@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-23T02:51:26.319515+00:00",
+  "updatedAt": "2026-11-23T03:55:27.560889+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-23T03:12:33+00:00",
+      "title": "「Microsoft To Do」、2027年6月にアプリ提供終了 法人向けは「Planner」へ移行、個人向けは代替なし",
+      "description": "Microsoftは、タスク管理アプリ「Microsoft To Do」の全プラットフォーム向けアプリを2027年6月30日に提供終了すると発表した。職場・学校アカウント向けには「Microsoft Planner」を後継として案内するが、個人アカウントでは利用できず、代替アプリへの移行を勧めている。既存データは自動移行されない。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-23T03:00:00+00:00",
+      "title": "無料でMacのアプリのウィンドウをiPhoneやiPadからリアルタイムに操作できる「Sill」、オープンソースで中継サーバー不要",
+      "description": "Macで作業していると手元のiPhoneやiPadから特定のアプリケーションだけを操作したいことがあります。そこでMacのウィンドウをリアルタイムで転送し、タッチ・キーボード・トラックパッド・Apple Pencilなどで操作できるようにしたサーバー不要の無料のオープンソースアプリが「Sill」です。続きを読む...",
+      "url": "https://gigazine.net/news/20261123-sill/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,16 +134,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-22T09:37:00+00:00",
-      "title": "Waymoの自動運転車が冠水した道路で立ち往生",
-      "description": "「サンフランシスコの冠水した道路でWaymoの自動運転車が立ち往生し、他の車両の邪魔になっている」という動画がXに投稿されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261122-waymo-flooded-lanes/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-21T23:21:31+00:00",
       "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
@@ -189,16 +199,6 @@
       "title": "ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」",
       "description": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-20T04:29:35+00:00",
-      "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-      "description": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
       "visual": "ai"
     },
     {
