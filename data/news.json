@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-23T22:45:32.811487+00:00",
+  "updatedAt": "2026-11-23T23:43:46.071145+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-23T23:00:00+00:00",
+      "title": "世界の冷房電力需要が暖房電力需要を史上初めて上回る",
+      "description": "国際エネルギー機関(IEA)が2026年11月19日に公表した年次報告書「World Energy Outlook 2026(WEO-2026)」の中で、世界の建物の冷房に必要な電力量が、暖房に必要な電力量を史上初めて上回ることが発表されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-cooling-heating/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -119,16 +129,6 @@
       "title": "「Microsoft To Do」、2027年6月にアプリ提供終了 法人向けは「Planner」へ移行、個人向けは代替なし",
       "description": "Microsoftは、タスク管理アプリ「Microsoft To Do」の全プラットフォーム向けアプリを2027年6月30日に提供終了すると発表した。職場・学校アカウント向けには「Microsoft Planner」を後継として案内するが、個人アカウントでは利用できず、代替アプリへの移行を勧めている。既存データは自動移行されない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-23T03:00:00+00:00",
-      "title": "無料でMacのアプリのウィンドウをiPhoneやiPadからリアルタイムに操作できる「Sill」、オープンソースで中継サーバー不要",
-      "description": "Macで作業していると手元のiPhoneやiPadから特定のアプリケーションだけを操作したいことがあります。そこでMacのウィンドウをリアルタイムで転送し、タッチ・キーボード・トラックパッド・Apple Pencilなどで操作できるようにしたサーバー不要の無料のオープンソースアプリが「Sill」です。続きを読む...",
-      "url": "https://gigazine.net/news/20261123-sill/",
       "visual": "ai"
     },
     {
