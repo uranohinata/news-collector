@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-23T21:44:37.663897+00:00",
+  "updatedAt": "2026-11-23T22:45:32.811487+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-23T22:20:30+00:00",
+      "title": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "description": "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AIエージェントの保護を強化する。統合後の年間経常収益は100億ドルを超える見込みだ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-23T22:00:00+00:00",
+      "title": "複数のPCにローカルAIの処理を割り振れるNVIDIA製ツール「Personal AI Router(PAIR)」の有用性検証結果が公開される",
+      "description": "LAN内のデバイスにAI処理を割り振れるNVIDIA製ツール「NVIDIA Personal AI Router(PAIR)」について、テクノロジーメディアのLTT Labsがレビューを行い、使用感や課題について考察しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-nvidia-pair/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-23T21:32:46+00:00",
+      "title": "NVIDIA、フアン氏のCEO復帰を発表 トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
+      "description": "NVIDIAは、11月12日に退任したジェンスン・フアン氏の社長兼CEOおよび取締役への復帰を発表した。取締役会は米政府高官の意見を踏まえ、国家安全保障上のリスクはないと判断したという。トランプ大統領はCNBCの取材に対し、取締役会へ直接復帰を働きかけたことを認め、ウォーレン上院議員は「無謀な決定」と批判している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -114,16 +144,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-23T01:00:00+00:00",
-      "title": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める",
-      "description": "ニューヨーク市議会では、配送業務の委託を阻止する「配送保護法」が審議中です。これはAmazonの配送サービスパートナー(DSP)プログラムを解体するためのものであるとして、Amazonは同法案に反対の立場を示しています。新たに、Amazonは配送保護法に反対するために、配送物に「ニューヨーク市議会は注文ごとに最大5ドル(約790円)の追加料金を課す可能性があ",
-      "url": "https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-22T22:49:18+00:00",
       "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
@@ -179,26 +199,6 @@
       "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
       "description": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-20T08:09:25+00:00",
-      "title": "H3ロケット打ち上げ、JAXAから三菱重工に移管 来年1月の11号機から",
-      "description": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-20T06:11:05+00:00",
-      "title": "ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」",
-      "description": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
       "visual": "ai"
     },
     {
