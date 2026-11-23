@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-22T23:13:17.480992+00:00",
+  "updatedAt": "2026-11-23T00:11:37.220742+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-23T00:00:00+00:00",
+      "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
+      "description": "人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -99,16 +109,6 @@
       "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
       "description": "生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りな",
       "url": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-22T03:00:00+00:00",
-      "title": "無料のWindows用Pingツール「PingTool」、TCPポートチェック・速度テスト・Wake-on-LAN機能あり",
-      "description": "PingToolはシステム管理者やネットワーク管理者に向けた無料のユーティリティソフトウェアです。単なるping機能にとどまらず、TCPポートの可用性チェック・LAN内での速度テスト・Wake-on-Lan(WOL)・ネットワークスキャンなど、多岐にわたる機能を提供します。続きを読む...",
-      "url": "https://gigazine.net/news/20261122-ping-tool/",
       "visual": "ai"
     },
     {
