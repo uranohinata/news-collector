@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-23T13:02:12.518277+00:00",
+  "updatedAt": "2026-11-23T14:38:28.872193+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-23T14:34:00+00:00",
+      "title": "NVIDIAのジェンスン・フアンがCEOに復帰",
+      "description": "NVIDIAのジェンスン・フアン氏がCEOに再任されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-23T13:43:00+00:00",
+      "title": "NVIDIA RTX Sparkの暗号化ファームウェアにより、AC電源接続時にLinux上での推論速度が35％低下",
+      "description": "NVIDIA RTX Sparkプラットフォームを搭載したノートPCでLinuxをネイティブに実行すると、AC電源接続時にGPUのクロックスピードが大幅に低下するという深刻な問題に直面することが、ノーコードプラットフォーム開発元であるMindStudioのブログで指摘されています。この現象により、Linuxネイティブ環境ではWindows環境と比較してAIモ",
+      "url": "https://gigazine.net/news/20261123-linux-nvidia-rtx-spark-laptop/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -109,26 +129,6 @@
       "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
       "description": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
       "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-22T15:14:00+00:00",
-      "title": "ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」",
-      "description": "「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261123-lastbook-offline-knowledge/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-22T15:00:00+00:00",
-      "title": "「PCの父」のオススメ本・史上最高の小説100選・ソニー「WF-1000XM5」レビューなどAmazonで売上トップ10のGIGAZINE記事ランキング2026年10月版はコレ！",
-      "description": "GIGAZINEの記事を電子化した書籍を対象に「2026年10月に最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261123-gigazine-kindle-ranking-2026-10/",
       "visual": "ai"
     },
     {
