@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-24T02:10:47.546357+00:00",
+  "updatedAt": "2026-11-24T03:22:57.298056+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T03:20:00+00:00",
+      "title": "Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場",
+      "description": "アメリカに拠点を置くAI開発企業のThinking Machines LabがAIモデル「Inkling 2 Mini」を公開しました。ベンチマークテストではQwen3.8 27Bを上回っています。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-inkling-2-mini/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T03:00:00+00:00",
+      "title": "幼少期の砂糖摂取量が少なかった人は50代になった時点での「生物学的年齢」が若い可能性がある",
+      "description": "砂糖の摂り過ぎは健康によくないとされており、一部の親は子どもに甘い物を食べさせすぎないように気を配っています。かつてイギリスで導入されていた「砂糖の配給制とその撤廃」に着目した研究では、幼少期に砂糖の配給制を経験していた人々は、50代になった時点での生物学的年齢が若い可能性があるとの結果が示されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-sugar-early-life-biologically-younger/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T02:50:00+00:00",
+      "title": "OpenAIがシステムを停止せずに脆弱性を悪用した攻撃を防ぐ「Shirudo」を発表",
+      "description": "OpenAIがネットワーク機器大手のCiscoと共同で、Linuxシステムを稼働させたままサイバー攻撃から保護できるオープンソースのソフトウェア「Shirudo」を発表しました。Shirudoを使うことで、脆弱(ぜいじゃく)性が発見されてから修正パッチが適用されるまでの間もシステムを保護することが可能になるとのことです。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-openai-shirudo/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T02:30:00+00:00",
+      "title": "「Grokが児童性的虐待画像や非同意性的画像を生成している」とバージニア州とオレゴン州がSpaceXを提訴",
+      "description": "現地時間の2026年11月23日(月)、アメリカのバージニア州とオレゴン州が「Grokが女性や子どもの写真を何の制約もなく性的に描写し続けている」として、SpaceXを提訴しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-states-sue-spacex-grok-generating-child-sex-images/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -16,7 +56,7 @@
       "key": "technology",
       "source": "GIGAZINE",
       "time": "2026-11-24T01:41:00+00:00",
-      "title": "「『GTA6』のディスクがないならチキンを入れればいいじゃない」とKFCがフライドチキン製フライドチキンを無料配布",
+      "title": "「『GTA6』のディスクがないならチキンを入れればいいじゃない」とKFCがフライドチキン製ディスクを無料配布",
       "description": "2026年11月19日に発売された「グランド・セフト・オートVI(GTA6)」には、ゲームディスクが付属しないパッケージ版が用意されています。これを受けて、スペインのケンタッキーフライドチキン(KFC)がディスク型のフライドチキンを無料配布するキャンペーン「The Replacement Disc」を実施したと報じられています。続きを読む...",
       "url": "https://gigazine.net/news/20261124-replacement-disc-kfc-gta-6/",
       "visual": "ai"
@@ -89,46 +129,6 @@
       "title": "特殊な靴下を履くだけで歩行時に消費するエネルギーを軽減できるという研究結果",
       "description": "人間の足はチンパンジーなど他の霊長類の足に比べて曲がりにくい構造を持っており、この構造のおかげで二足歩行に使うエネルギーを抑えられるという説がありますが、靴底を硬くしたり中敷きで土踏まずのたわみを抑えたりした従来の実験では普段の速度で歩く際のエネルギー消費は減りませんでした。そんな中、テキサス大学オースティン校の研究チームが「足指の付け根を締め付ける靴下」を",
       "url": "https://gigazine.net/news/20261124-foot-stiffening-socks-walking/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-23T20:00:00+00:00",
-      "title": "精神的疲労によりタスク達成のモチベーションが低下する理由が示唆される",
-      "description": "タスクを終えたときにご褒美があるとわかっていても、精神的疲労が蓄積したとき、タスクを完了できずに諦めてしまうことがあります。その理由が脳内物質にある可能性が示唆されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261124-give-up-tough-tasks/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-23T14:34:00+00:00",
-      "title": "NVIDIAのジェンスン・フアンがCEOに復帰",
-      "description": "2026年11月23日23時頃にNVIDIAの取締役会がジェンスン・フアン氏をCEOに再任したことを発表しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-23T13:43:00+00:00",
-      "title": "NVIDIA RTX Sparkの暗号化ファームウェアにより、AC電源接続時にLinux上での推論速度が35％低下",
-      "description": "NVIDIA RTX Sparkプラットフォームを搭載したノートPCでLinuxをネイティブに実行すると、AC電源接続時にGPUのクロックスピードが大幅に低下するという深刻な問題に直面することが、ノーコードプラットフォーム開発元であるMindStudioのブログで指摘されています。この現象により、Linuxネイティブ環境ではWindows環境と比較してAIモ",
-      "url": "https://gigazine.net/news/20261123-linux-nvidia-rtx-spark-laptop/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-23T10:30:00+00:00",
-      "title": "AIの顔認識技術に依存して容疑者を誤認逮捕した刑事の免責主張を連邦裁判官が却下、顔認識は逮捕を認める「相当な理由」にあたらず",
-      "description": "監視カメラの映像から小切手詐欺の疑いで2025年に逮捕された人物が、カメラに映ったのと同時刻に別の場所で働いていたことから、州の検察局は訴追を取り下げました。容疑者を逮捕した刑事は「AI顔認識技術」のみに依存したことで容疑者を誤認しており、「AIは、アメリカ憲法の修正第4条に規定される捜査や押収における『相当な理由』にはあたらない」として、刑事の免責を連邦裁",
-      "url": "https://gigazine.net/news/20261123-probable-cause-ai/",
       "visual": "ai"
     },
     {
