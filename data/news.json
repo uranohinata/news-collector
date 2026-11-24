@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-24T07:01:27.953288+00:00",
+  "updatedAt": "2026-11-24T08:41:12.738385+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T08:00:00+00:00",
+      "title": "温州みかん果汁のフルーティーな甘酸っぱさが楽しめる＆1日分のビタミンCも入った「三ツ矢ほっこりみかん」試飲レビュー",
+      "description": "アサヒ飲料の三ツ矢シリーズに、2026年11月17日(火)から期間限定で「三ツ矢ほっこりみかん」が加わっています。温州みかん果汁を使用したという三ツ矢の味が気になったので、実際に買って飲んでみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-mitsuya-hokkori-mikan/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -109,16 +119,6 @@
       "title": "トランプ大統領がジェンスン・フアンのCEO復帰について「私が説得した」と発言、フアンがブラジャーを掲げるAI画像を投稿し復帰を歓迎",
       "description": "2026年11月23日夜、不倫問題で辞任していたNVIDIAのジェンスン・フアン氏がCEOに再任されました。この件で、ドナルド・トランプ大統領が横やりを入れていたことが明らかになりました。続きを読む...",
       "url": "https://gigazine.net/news/20261124-jensen-huang-nvidia-return-trump-behest/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-24T03:30:00+00:00",
-      "title": "teenage engineeringがCDをむき出しで回転させるCDプレーヤー「EP/BC-1」を発表",
-      "description": "スウェーデンの電子楽器メーカーであるteenage engineeringが、CDプレーヤー「EP/BC-1」を2026年11月20日に発表しました。CDをむき出しの状態で回転させる独特なデザインを採用しており、Bluetoothによる音声出力や再生速度の変更、CDの音楽データをUSB経由で取り込む機能などを備えています。続きを読む...",
-      "url": "https://gigazine.net/news/20261124-teenage-engineering-ep-bc-1/",
       "visual": "ai"
     },
     {
