@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-24T04:32:50.361981+00:00",
+  "updatedAt": "2026-11-24T05:53:54.477563+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T05:00:00+00:00",
+      "title": "独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場",
+      "description": "Google ChromeやMicrosoft Edge、Opera、Braveといったウェブブラウザは、Googleが開発とメンテナンスを主導するChromiumをベースとしています。こういったGoogleのエコシステムから離れた、独自開発のウェブブラウザが「Ladybird」です。そんなLadybirdのアルファ版がついに登場しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-ladybird-now-alpha/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T04:38:00+00:00",
+      "title": "GTA6のXBOX版実行ファイルが第三者により公開される",
+      "description": "2026年11月19日に「グランド・セフト・オートVI(GTA6)」のPlayStation 5(PS5)およびXBOX Series X|S版が発売されて以降、このゲームを公式より先にPCへ移植しようとする試みが進められています。新たにXBOX版の実行ファイルがリリースされ、以前にリリースされたXBOX版ビルドが完成したことが分かりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-gta6-xbox-build-leaked/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -69,26 +89,6 @@
       "title": "Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場",
       "description": "アメリカに拠点を置くAI開発企業のThinking Machines LabがAIモデル「Inkling 2 Mini」を公開しました。ベンチマークテストではQwen3.8 27Bを上回っています。続きを読む...",
       "url": "https://gigazine.net/news/20261124-inkling-2-mini/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-24T03:00:00+00:00",
-      "title": "幼少期の砂糖摂取量が少なかった人は50代になった時点での「生物学的年齢」が若い可能性がある",
-      "description": "砂糖の摂り過ぎは健康によくないとされており、一部の親は子どもに甘い物を食べさせすぎないように気を配っています。かつてイギリスで導入されていた「砂糖の配給制とその撤廃」に着目した研究では、幼少期に砂糖の配給制を経験していた人々は、50代になった時点での生物学的年齢が若い可能性があるとの結果が示されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261124-sugar-early-life-biologically-younger/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-24T02:50:00+00:00",
-      "title": "OpenAIがシステムを停止せずに脆弱性を悪用した攻撃を防ぐ「Shirudo」を発表",
-      "description": "OpenAIがネットワーク機器大手のCiscoと共同で、Linuxシステムを稼働させたままサイバー攻撃から保護できるオープンソースのソフトウェア「Shirudo」を発表しました。Shirudoを使うことで、脆弱(ぜいじゃく)性が発見されてから修正パッチが適用されるまでの間もシステムを保護することが可能になるとのことです。続きを読む...",
-      "url": "https://gigazine.net/news/20261124-openai-shirudo/",
       "visual": "ai"
     },
     {
