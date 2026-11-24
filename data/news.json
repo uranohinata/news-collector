@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-24T11:52:30.143443+00:00",
+  "updatedAt": "2026-11-24T13:02:43.884493+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T12:15:00+00:00",
+      "title": "AmazonがAIスタートアップ「Decart」の主要事業を約1兆2000億円で買収へ、AIチップの性能を引き出す技術と研究者を獲得",
+      "description": "Amazonは日本時間の2026年11月23日、イスラエルのAIスタートアップ「Decart」が開発したAI処理の最適化技術「Decart Optimization Stack(DOS)」を買収する契約を締結したと発表しました。Decartの共同創業者やAI研究者、エンジニアもAmazonに加わる予定で、Bloombergは買収額が75億ドル(約1兆2000",
+      "url": "https://gigazine.net/news/20261124-amazon-acquire-decart/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-24T12:02:48+00:00",
+      "title": "ソフトバンク、アイティメディアの売却検討か 2社「コメント控える」「決定した事実ない」",
+      "description": "ソフトバンクが傘下のアイティメディアの売却を検討していると日本経済新聞が報じた。ITmedia NEWSの取材に対し、ソフトバンクは「コメントを控える」、アイティメディアは「現時点で決定した事実はない」と回答した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003427/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T12:00:00+00:00",
+      "title": "AI開発は人間レベルの汎用人工知能「AGI」を超え人間の専門家集団を凌駕する汎用人工超知能「ASI」へと向かうとGoogle DeepMindの研究者が主張",
+      "description": "Googleの研究開発機関であるGoogle DeepMindが、AI開発が進めば人間レベルの知能を持ち合わせた「汎用人工知能(AGI)」や、人間の専門家集団を凌駕する「汎用人工超知能(ASI)」へ到達するとして、その道のりに待ち受ける課題などについて解説しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-what-comes-after-agi/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -115,26 +145,6 @@
       "category": "テクノロジー",
       "key": "technology",
       "source": "GIGAZINE",
-      "time": "2026-11-24T05:00:00+00:00",
-      "title": "独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場",
-      "description": "Google ChromeやMicrosoft Edge、Opera、Braveといったウェブブラウザは、Googleが開発とメンテナンスを主導するChromiumをベースとしています。こういったGoogleのエコシステムから離れた、独自開発のウェブブラウザが「Ladybird」です。そんなLadybirdのアルファ版がついに登場しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261124-ladybird-now-alpha/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-24T04:38:00+00:00",
-      "title": "GTA6のXBOX版実行ファイルが第三者により公開される",
-      "description": "2026年11月19日に「グランド・セフト・オートVI(GTA6)」のPlayStation 5(PS5)およびXBOX Series X|S版が発売されて以降、このゲームを公式より先にPCへ移植しようとする試みが進められています。新たにXBOX版の実行ファイルがリリースされ、以前にリリースされたXBOX版ビルドが完成したことが分かりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261124-gta6-xbox-build-leaked/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
       "time": "2026-11-24T00:00:00+00:00",
       "title": "【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど",
       "description": "AIにコードを書いてもらったり面倒な仕事をAIエージェントに任せたりと、生成AIを活用することで効率的に仕事を進められるようになってきました。しかし、うまくAIに働いてもらうにはAIに適切な指示を出したりAIが生成したプログラムを動かすインフラを用意したり、安全に運用するためのセキュリティを確保したりするためのスキルが必要です。そんなAI時代に役立つスキルを",
@@ -189,16 +199,6 @@
       "title": "高級感のためだけじゃない 財布やバッグの新しいアイデアが“革製品”から生まれる理由",
       "description": "革製品の魅力は高級感だけではない。留め具なしで閉じる薄い財布、パンツのポケットに収まる長財布、平たく畳める革のバッグ。どれも、革という素材でなければ成立しない仕掛けで作られているのだ。5年半続いた連載の最終回は、筆者が何年も愛用してきた財布とバッグから、革製品が“新しいアイデアの実験場”になる理由を探る。",
       "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003389/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-22T22:49:18+00:00",
-      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
-      "description": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
       "visual": "ai"
     },
     {
