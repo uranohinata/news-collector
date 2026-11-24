@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-24T05:53:54.477563+00:00",
+  "updatedAt": "2026-11-24T07:01:27.953288+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T07:00:00+00:00",
+      "title": "好みの柄の猫ちゃんを思う存分なでなでできる「猫撫でシミュレーター」が登場、デブ猫やちび猫やゴロゴロ音まで完全再現",
+      "description": "猫は気まぐれな生き物で、飼い猫であっても気分が乗らない時には全然なでさせてくれないこともあります。しかし、「猫撫でシミュレーター」なら自分の好きな柄の猫を思う存分、気が済むまでなでまくることが可能ということで、実際になでなでしてみました。「猫撫でシミュレーター」を開発したのは、フリーのUnityゲームクリエイターであるzubuさんです。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-cat-pet-simulator/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-24T06:24:19+00:00",
+      "title": "東京都内自治体の中小企業向けサイバーセキュリティー支援相次ぐ 専門家訪問や窓口開設",
+      "description": "大量の個人情報の流出など情報システムの不正アクセス被害に歯止めがかからない中、東京都内の自治体が相次いで中小企業向けのサイバーセキュリティ支援に乗り出している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003409/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-24T06:08:49+00:00",
+      "title": "月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？",
+      "description": "NTTドコモへの信頼が揺らぎつつある。11月5日、11日、16日と3回に渡って通信障害を発生させ、17日には藤井比早之総務相が「国民生活の重要なインフラとなっている通信サービスにおいて、短期間で3度の障害は大変遺憾だ」と原因究明と再発防止を求めた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003405/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-24T06:06:51+00:00",
+      "title": "爆増するサイバー攻撃、魔の手はITだけでなく「OT」にも 元米軍のセキュリティ専門家が警鐘",
+      "description": "工場や水道、店舗の冷蔵設備を動かす制御システム「OT」を狙う攻撃が海外で相次いでいる。OTセキュリティに関する11月20日の記者説明会では米DragosのCEOが、AIを使った攻撃者がITからOTへ標的を移した事例を紹介した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003408/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-24T06:00:00+00:00",
+      "title": "冷笑的な敵意や自己主張の欠如は後の人生におけるうつ病症状の悪化と関連している",
+      "description": "自己主張が欠如している人は自分の中に不満を抱え込んでしまいがちであり、やがて他人に「どうせ信じても裏切られる」「心の中では悪いことを考えてるくせに」といった冷笑的な敵意を向けるようになってしまうことがあります。そんな自己主張の欠如や冷笑的な敵意が、後の人生におけるうつ病の症状悪化と関連しているとの研究結果が発表されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261124-cynical-hostility-lack-assertiveness-depression/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -69,26 +119,6 @@
       "title": "teenage engineeringがCDをむき出しで回転させるCDプレーヤー「EP/BC-1」を発表",
       "description": "スウェーデンの電子楽器メーカーであるteenage engineeringが、CDプレーヤー「EP/BC-1」を2026年11月20日に発表しました。CDをむき出しの状態で回転させる独特なデザインを採用しており、Bluetoothによる音声出力や再生速度の変更、CDの音楽データをUSB経由で取り込む機能などを備えています。続きを読む...",
       "url": "https://gigazine.net/news/20261124-teenage-engineering-ep-bc-1/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-24T03:23:00+00:00",
-      "title": "超党派議員グループがジェンスン・フアンのNVIDIA復帰を非難、中国への半導体輸出規制法案を議会が可決すべきと主張",
-      "description": "2026年11月23日、NVIDIAの取締役会が不倫騒動で辞任したジェンスン・フアン氏をCEOの座に呼び戻しました。この件を受け、一部の超党派議員が復職に反対したと報じられています。続きを読む...",
-      "url": "https://gigazine.net/news/20261124-us-lawmakers-criticiza-nvidia/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-24T03:20:00+00:00",
-      "title": "Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場",
-      "description": "アメリカに拠点を置くAI開発企業のThinking Machines LabがAIモデル「Inkling 2 Mini」を公開しました。ベンチマークテストではQwen3.8 27Bを上回っています。続きを読む...",
-      "url": "https://gigazine.net/news/20261124-inkling-2-mini/",
       "visual": "ai"
     },
     {
@@ -169,36 +199,6 @@
       "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
       "description": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-21T06:38:29+00:00",
-      "title": "AIは人並みに動画編集できる？ “バズる切り抜き”からガジェット開封動画まで2つのツールを試す",
-      "description": "ネット動画では、長尺コンテンツから短い動画を大量に切り出す手法が主流になりつつある。ただ、必要なところを自分で拾い上げる編集は一朝一夕には身につかない。ならばAIに任せればいいのでは？ 長尺動画を自動で切り抜く「FlexClip」と、AIに指示して編集させる「CutBay」を試した。指示通りに動かないAIを鬼詰めしつつ、人間が編集した動画とも比べてみた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/21/2000003387/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-20T12:18:07+00:00",
-      "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
-      "description": "デジタル庁は11月20日、政府共通の業務環境「GSS」のファイル共有サービスで、ファイルの一部が外部に漏えいした可能性があると発表した。7月30日から11月12日までの間、正規の共有相手先以外の者によるアクセスがあったことを確認したという。個人情報が含まれることも想定されるとして、個人情報保護委員会に報告した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-20T08:48:50+00:00",
-      "title": "韓国大学入試で電子機器不正111件摘発 AI受験疑惑巡り死者も発生",
-      "description": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
       "visual": "ai"
     },
     {
