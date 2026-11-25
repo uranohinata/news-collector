@@ -1,24 +1,114 @@
 {
-  "updatedAt": "2026-11-25T07:16:28.585225+00:00",
+  "updatedAt": "2026-11-25T18:06:39.081253+00:00",
   "articles": [
     {
       "category": "テクノロジー",
       "key": "technology",
       "source": "GIGAZINE",
-      "time": "2026-11-25T07:00:00+00:00",
-      "title": "バードウォッチャーが「GTA6のバードウォッチングガイド」を公開",
-      "description": "100年以上の歴史を持つ野生生物保護団体「全米オーデュボン協会」のウェブサイトに、ゲーム「グランド・セフト・オートVI(GTA6)」でバードウォッチングを楽しむためのガイドが寄稿されました。現実のバードウォッチング専門家がゲーム内で鳥を見つける方法を解説しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261125-gta6-bird-watching/",
+      "time": "2026-11-25T14:00:00+00:00",
+      "title": "無料のCloudflareアカウントを使って動かすパーソナルAIエージェント「Talorys」",
+      "description": "自分専用のAIエージェントを自前で動かそうとすると、VPSなどのサーバー契約や管理の手間に加えて有料AIのAPI利用料といったコストがかかります。そこでCloudflareの無料アカウントを使ってコマンド1つで構築でき、AIチャット・タスク管理・メモリー・リマインダーなどの機能を備えたオープンソースの「Talorys」を使ってみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-talorys/",
       "visual": "ai"
     },
     {
       "category": "テクノロジー",
       "key": "technology",
       "source": "GIGAZINE",
-      "time": "2026-11-25T06:30:00+00:00",
-      "title": "最先端のAIでも日常的な作業の完了率はわずか約60％だと新ベンチマーク「ShellBench」で判明",
-      "description": "オープンソースのAIエージェント「OpenClaw」の開発を支えるOpenClaw Foundationが、2026年11月24日にAIエージェントの日常的な作業能力を評価する新たなベンチマーク「ShellBench」を発表しました。実際のAI利用状況を参考に作成された100種類のタスクでテストを実施した結果、最上位のAIモデルでも日常的なタスクの完了率は約",
-      "url": "https://gigazine.net/news/20261125-openclaw-shellbench-real-world-task/",
+      "time": "2026-11-25T13:00:00+00:00",
+      "title": "なぜ犯罪組織は「偽造ワイン」を作るのか？偽造手口はどのように進化してきたのか？",
+      "description": "ワインは世界中の人々に愛されており、市場には1本数百万円する高級ワインも出回っていますが、同時に犯罪組織による「偽造ワイン」の製造・売買も問題となっています。そんな犯罪組織による偽造ワイン製造の手口や司法当局の捜査について、ジャーナリストであるウィリアム・ラルストン氏がまとめています。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-inside-criminal-gangs-making-fake-wine/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T12:00:00+00:00",
+      "title": "AIにリアルタイムでマインクラフトをプレイさせて性能を測定する「KradleBench」、総合1位はGPT-6.2 AstraだがPVPなら人間が最強",
+      "description": "AIにMinecraftをプレイさせて性能を測定する「KradleBench」がAI研究組織のKradleによって公開されました。単体のAIにプレイさせるのではなく、複数のAIエージェントにマルチプレイさせるのが特徴で、協力プレイだけでなく競合プレイの性能も測定されています。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-kradlebench-ai-benchmark-minecraft/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T11:30:00+00:00",
+      "title": "AnthropicとOpenAIの従業員らが「未公開モデルが強力になりすぎて一般公開するのは危険」と懸念",
+      "description": "大手AI企業のAnthropicやOpenAIで、複数の従業員が未公開の最先端AIモデルの能力が高くなりすぎたことを懸念していることがわかりました。この情報を伝えたニュースサイト・Axiosによると、すでにAIモデルを制御するための技術的解決策を凌駕し始めているそうです。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-anthropic-openai-employees-fear-unreleased-ai-models/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T11:00:00+00:00",
+      "title": "MacBookのトラックパッドをスピーカーに変えてしゃべらせる「NO SPEAKER」が登場",
+      "description": "MacBookのトラックパッドにはクリックした感触を指先に伝えるための振動モーターが内蔵されています。この振動モーターを高速で駆動することで、スピーカーを一切使わずに音声や音楽を再生できるオープンソースのソフトウェア「NO SPEAKER」を、開発者のコーディー・コリアー氏が公開しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-no-speaker-macbook-trackpad/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T10:45:00+00:00",
+      "title": "りんご風味をショウガのビリビリが上書きしていく「ウィルキンソン ドライジンジャエールアップル」試飲レビュー",
+      "description": "アサヒ飲料の炭酸水ブランド「ウィルキンソン」に、2026年11月24日(火)から新しく「ウィルキンソン ドライジンジャエールアップル」が登場したので、買ってきて飲んでみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-wilkinson-ginger-apple/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T10:00:00+00:00",
+      "title": "「PCやスマホのGPUをAIトレーニングに利用する代わりに報酬を支払う仕組み」の特許をMicrosoftが出願",
+      "description": "AIのトレーニングには膨大なコンピューティングリソースが必要ですが、GPUの生産量には限りがあり、AI開発企業はGPUの確保に奔走しています。そんな中でMicrosoftが、「使われていないゲーミングPCやノートPCのGPUをAIトレーニングに利用して、計算量に応じて報酬を支払う仕組み」の(PDFファイル)特許を出願したことが判明しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-microsoft-ai-use-gpu-capacity/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T09:55:00+00:00",
+      "title": "2026年11月25日のヘッドラインニュース",
+      "description": "牛丼チェーンのすき家が、本日2026年11月25日(水)9時から「白髪ねぎ牛丼」と、新商品の「食べラー白髪ねぎ牛丼」の販売を開始しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-headline/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T09:45:00+00:00",
+      "title": "中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに",
+      "description": "「中国の情報機関である国家安全部(MSS)が中国企業による高性能AIチップの入手を支援する秘密工作を少なくとも2年前から展開している」とアメリカやアジア、ヨーロッパの現職および元当局者らがThe New York Timesに証言しました。国家安全部はアメリカなどが課す輸出規制に対抗するための専門チームを設置し、半導体の調達支援や情報収集を進めているとのこと",
+      "url": "https://gigazine.net/news/20261125-china-spy-nvidia-chips/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T09:30:00+00:00",
+      "title": "24時間超のMicrosoft 365停止を受け重大なサービス障害の防止と対応方法を根本的に見直すための「コードレッド」をMicrosoftが宣言",
+      "description": "Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生しました。これを受けてMicrosoftは、重大なサービス障害の防止および対応方法を抜本的に見直すため、「コードレッド」体制を宣言しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261125-microsoft-code-red/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-25T09:16:02+00:00",
+      "title": "海外経由の接続は見放題、議論尽くせるか 「ブロッキング」法制化、識者の見方は",
+      "description": "総務省は11月20日、漏えいした個人情報の二次被害の抑止策を議論する作業部会の初会合を開き、通信事業者がWebサイトへのアクセスを強制的に遮断する「ブロッキング」の法制化に向けた議論をスタートした。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003458/",
       "visual": "ai"
     },
     {
@@ -34,61 +124,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T06:10:00+00:00",
-      "title": "NVIDIAのジェンスン・フアンCEO復帰を中国国営メディアは「王が帰ってきた！」と報道＆台湾では故郷の英雄として応援、一方で社内での横暴ぶりも報じられる",
-      "description": "中国のスパイであることが疑われている女性との不倫が発覚して2026年11月12日にCEOを辞任していたNVIDIAのジェンスン・フアン氏は、日本時間の2026年11月23日23時頃に取締役会がCEOに再任しました。この決定に中国と台湾では祝賀ムードが高まっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261125-nvidia-asia/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T06:09:00+00:00",
-      "title": "「自動車の座席暖房をサブスクで解禁」など自動車の後付けサブスクを禁止する法律がニューヨークで成立",
-      "description": "一部の自動車メーカーは、自動車に搭載された特定の機能をサブスクリプション形式で提供しています。この「自動車は普通買い切りのはずなのに実はサブスクが必要」問題を是正すべく、ニューヨーク州が新たな法律を成立させました。続きを読む...",
-      "url": "https://gigazine.net/news/20261125-no-vehicle-subscription-fee-act/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-25T05:51:07+00:00",
       "title": "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内",
       "description": "対象は、暗号化された運転免許証などの本人確認書類の画像データへの不正アクセスと、外部送信を示す痕跡が確認された約146万件。",
       "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003443/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T05:40:00+00:00",
-      "title": "NVIDIAのジェンスン・フアンCEOが従業員に謝罪し「NVIDIAは最も政治と無縁な会社」と主張",
-      "description": "不倫問題発覚後にNVIDIAのCEOを辞任したジェンスン・フアン氏が、辞任から2週間弱でCEOに復帰しました。フアン氏のCEO復帰を巡っては、トランプ大統領が「取締役会の会議に電話で参加してフアン氏の復帰を求めた」と主張していますが、フアン氏は従業員全員を集めた会議で「政治の関与があったなどと思わないでください」「NVIDIAは最も政治と縁のない会社」と述べ",
-      "url": "https://gigazine.net/news/20261125-jensen-huang-apologizes-to-nvidia-employees/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T05:35:00+00:00",
-      "title": "AI導入事例の多くはコスト削減ではなく生産性の向上と加速によって価値を生み出しており、AIで構築されたアプリ100件のうち80％が手作業を自動化していることがAnthropicのレポートで明らかに",
-      "description": "現地時間の2026年11月23日、Anthropicが「企業がAIを導入すると仕事の進め方や雇用はどう変わるのか」を調べた報告書「Working with AI」を公開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261125-anthropic-working-with-ai/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T05:30:00+00:00",
-      "title": "Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される",
-      "description": "AI企業のAnthropicが2026年11月24日、ClaudeのアーティファクトをMacやWindowsのデスクトップアプリとしてインストールできる新機能「Install as app(アプリとしてインストール)」のベータ版を公開しました。Claudeとの対話を通じて作成したアプリを独立したウィンドウで起動できるほか、PC内のファイルへのアクセスやシステ",
-      "url": "https://gigazine.net/news/20261125-anthropic-claude-install-as-app/",
       "visual": "ai"
     },
     {
@@ -114,41 +154,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T05:00:00+00:00",
-      "title": "人気の肥満治療薬が「精子の質の改善」や「テストステロン値の増加」をもたらす可能性がある",
-      "description": "マンジャロ(チルゼパチド)やオゼンピック(セマグルチド)といったGLP-1受容体作動薬は、2型糖尿病や肥満の治療薬として広く使用されています。そんなGLP-1受容体作動薬を服用した男性に、「精子の質の改善」や「男性ホルモンであるテストステロン値の増加」といった効果が生じる可能性があるとの研究結果が発表されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261125-semaglutide-liraglutide-sperm-quality-testosterone/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T04:44:00+00:00",
-      "title": "Anthropicが「わざとセキュリティの甘いサンドボックスにAIを配置して行動を観察する」というセキュリティ評価手法「Siren」について解説",
-      "description": "AIエージェントをテストする際は、外部から隔離された「サンドボックス」という環境で稼働させることがあります。しかし、OpenAIのAIエージェントがHugging Faceをハッキングしてしまった件のように、サンドボックス自体に欠陥がありAIエージェントが密かに抜け出してしまう例も少なくありません。こうした欠陥のある状況でAIエージェントがどう行動するかを評",
-      "url": "https://gigazine.net/news/20261125-ai-sandbox-escape-siren/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-25T04:27:21+00:00",
       "title": "タワレコ、会員情報約1100万件流出 「3年以内の退会者」も対象 通販サイト停止続く",
       "description": "退会後3年以内の人の情報も含まれているという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003439/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T03:33:00+00:00",
-      "title": "GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功",
-      "description": "OpenAIは2026年11月24日、汎用大規模言語モデル(LLM)のGPT-6シリーズが推論とコーディングだけで新たなタンパク質の立体構造やアミノ酸配列を設計できることを発表しました。さらに、GPT-6.2による設計を基に実際にタンパク質を合成し、意図した標的に結合することを実験で確認しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261125-openai-gpt-6-protein/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
       "description": "音楽ストリーミングサービスのTIDALは、完全AI生成楽曲の受付を停止し、配信済みの楽曲も削除すると発表した。直近90日間に配信された楽曲の43％が完全AI生成と判定されており、現在カタログの6.3％に当たる約2700万曲が該当する。AIを補助的に使った楽曲は引き続き配信可能だ。",
       "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-25T01:31:48+00:00",
-      "title": "JAXAの衛星データ提供システムに不正アクセス コマンドインジェクション脆弱性悪用、アカウント情報流出",
-      "description": "Webアプリケーションプログラムの一部にコマンドインジェクションの脆弱性があったことが判明。攻撃者はこの脆弱性を悪用してバックドアを設置し、システムの探索や情報の窃取を試みていた。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003432/",
       "visual": "ai"
     },
     {
