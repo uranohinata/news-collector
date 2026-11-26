@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-11-25T18:06:39.081253+00:00",
+  "updatedAt": "2026-11-26T01:54:09.405032+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-26T01:00:00+00:00",
+      "title": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+      "description": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-26T00:23:25+00:00",
+      "title": "「サツドラ」顧客情報22万件流出 委託先サイバーエージェントがデータ誤公開、1年以上気づかず",
+      "description": "サイバーエージェントが開発環境のクラウド上の保管領域に、顧客の個人情報を含むファイルを誤って公開設定で1年以上にわたって配置しており、第三者が対象のファイルを少なくとも9回にわたって取得していたという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003469/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-26T00:15:54+00:00",
+      "title": "SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認",
+      "description": "米連邦通信委員会（FCC）は、SpaceXによる軌道上データセンター衛星群「Starmind」の配備を条件付きで承認した。宇宙空間のデータセンター群に対する認可は米国初で、最大100万基の軌道コンピュートモジュールで構成する。一方、高度600km超の衛星の一部に関する宇宙デブリ対策については判断を保留した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003468/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-26T00:00:00+00:00",
+      "title": "「普段どれくらいゲームするのか？」「欲しいゲーム機は？」「Steamでよく遊ぶジャンルは？」などGIGAZINE読者のゲーム事情を調査してみた",
+      "description": "GIGAZINEにはゲームのカテゴリがあり、普段から新作ゲームの情報を記事化したり編集部が実際に遊んだゲームのレビューを掲載したりしています。そこで2025年冬・2026年春に続き、2026年夏のプレゼントアンケートでも読者に1日にゲームをする時間や持っているゲーム機、欲しいゲーム機などを聞いてみました。続きを読む...",
+      "url": "https://gigazine.net/news/20261126-gigazine-user-game-preference/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-25T23:35:38+00:00",
+      "title": "M&A検討資料など最大数千社分漏えいか ミロク情報子会社に不正アクセス 役職員の認証情報取得される",
+      "description": "ファイアウォール機器に、第三者が作成したとみられる管理者アカウントなどの不審な設定があった。役職員の認証情報の一部が不正に取得されたことも確認したという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003467/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T23:00:00+00:00",
+      "title": "「トマト詐欺」で大手食品メーカーが訴えられる",
+      "description": "大手食品メーカーのCento Fine Foodsが、「トマト詐欺」で訴えられました。この「トマト詐欺」について、オンラインマガジンのSlateが解説しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261126-cento-fine-foods-sued-tomato-fraud/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-25T22:01:52+00:00",
+      "title": "1Password、一部顧客の氏名やメールアドレスが流出 保管庫内のデータに「影響なし」",
+      "description": "パスワード管理ツール「1Password」を手掛けるカナダのAgileBitsは、従業員のGitHubアカウントを悪用した不正アクセスにより、一部顧客の氏名やメールアドレスなどが流出したと発表した。保管庫（Vault）内のデータや暗号化鍵に影響はなく、ユーザー側でのパスワード変更は不要だが、フィッシング詐欺への注意を呼び掛けている。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003466/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-25T21:00:00+00:00",
+      "title": "Linux上で完全なmacOS GUIユーザー空間を実現する「xnulinux」",
+      "description": "Linux環境上でmacOSのGUIユーザー空間を実行可能にする「xnulinux」がオープンソースプロジェクトとして開発されています。macOSのオープンソースカーネルであるXNUをLinuxカーネルモジュールとして直接実行するのが特徴で、すでにApple Silicon Mac上のLinux仮想環境やNVIDIA DGX Sparkといったarm64 L",
+      "url": "https://gigazine.net/news/20261126-xnu-linux/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -74,36 +154,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T09:55:00+00:00",
-      "title": "2026年11月25日のヘッドラインニュース",
-      "description": "牛丼チェーンのすき家が、本日2026年11月25日(水)9時から「白髪ねぎ牛丼」と、新商品の「食べラー白髪ねぎ牛丼」の販売を開始しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261125-headline/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T09:45:00+00:00",
-      "title": "中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに",
-      "description": "「中国の情報機関である国家安全部(MSS)が中国企業による高性能AIチップの入手を支援する秘密工作を少なくとも2年前から展開している」とアメリカやアジア、ヨーロッパの現職および元当局者らがThe New York Timesに証言しました。国家安全部はアメリカなどが課す輸出規制に対抗するための専門チームを設置し、半導体の調達支援や情報収集を進めているとのこと",
-      "url": "https://gigazine.net/news/20261125-china-spy-nvidia-chips/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-25T09:30:00+00:00",
-      "title": "24時間超のMicrosoft 365停止を受け重大なサービス障害の防止と対応方法を根本的に見直すための「コードレッド」をMicrosoftが宣言",
-      "description": "Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生しました。これを受けてMicrosoftは、重大なサービス障害の防止および対応方法を抜本的に見直すため、「コードレッド」体制を宣言しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261125-microsoft-code-red/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-25T09:16:02+00:00",
       "title": "海外経由の接続は見放題、議論尽くせるか 「ブロッキング」法制化、識者の見方は",
@@ -149,56 +199,6 @@
       "title": "子どもの成績や月謝、口座番号など最大5万件漏えいか 学習塾「ベスト個別」運営元に不正アクセス",
       "description": "漏えいした可能性がある顧客情報は、保護者の氏名、子どもの氏名、兄弟姉妹情報、住所、電話番号、メールアドレスなど。",
       "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003440/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-25T04:27:21+00:00",
-      "title": "タワレコ、会員情報約1100万件流出 「3年以内の退会者」も対象 通販サイト停止続く",
-      "description": "退会後3年以内の人の情報も含まれているという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003439/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-25T03:00:00+00:00",
-      "title": "AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌",
-      "description": "米ボストン大学、米BCGのヘンダーソン研究所、米OpenAIに所属する研究者らがNature Human Behaviourで発表した論文「Generative AI and the temporary upskilling of knowledge workers」は、生成AIによる一時的なスキルアップの効果と限界を調査した研究報告だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-25T02:25:59+00:00",
-      "title": "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も",
-      "description": "楽天証券は11月24日、17日に発表した不正アクセスを巡り、情報漏えいを確認したと発表した。ログインIDなどは約1198万口座分、氏名や住所などは約441万件漏えい。入金先口座情報などの漏えいも新たに判明した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003435/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-25T02:22:20+00:00",
-      "title": "復旧費用1000万円超が6割 被害相次ぐサイバー攻撃、保険広がるも中小企業に死角",
-      "description": "サイバー攻撃の脅威がが増す中、「サイバー保険」に加入する企業が増えている。特に不正アクセスによる情報漏えいが頻発した10月以降、保険会社への問い合わせが急増している。専門家は「サイバー攻撃は従業員個人の努力だけで防げるものではなくなっている」と警告。組織全体で重層的な対策を施す必要性を強調する。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003436/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-25T01:57:02+00:00",
-      "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
-      "description": "音楽ストリーミングサービスのTIDALは、完全AI生成楽曲の受付を停止し、配信済みの楽曲も削除すると発表した。直近90日間に配信された楽曲の43％が完全AI生成と判定されており、現在カタログの6.3％に当たる約2700万曲が該当する。AIを補助的に使った楽曲は引き続き配信可能だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/",
       "visual": "ai"
     },
     {
