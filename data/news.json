@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-26T10:31:19.419470+00:00",
+  "updatedAt": "2026-11-26T19:59:47.634266+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-26T14:00:00+00:00",
+      "title": "Windows・Mac・Linux・AndroidでファイルやテキストをLAN・インターネット経由で共有できる「flipflop」を使ってみた",
+      "description": "PCとスマートフォンの間でファイルを共有するにはクラウドストレージにアップロードしたり相手の端末を探したりする必要があります。こうした作業を簡略化し、一度ペアリングした端末同士でLANやインターネット、さらに実験的機能としてBluetooth経由でもファイル転送やテキスト共有ができる無料のオープンソースアプリが「flipflop」です。続きを読む...",
+      "url": "https://gigazine.net/news/20261126-flipflop/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-26T13:00:00+00:00",
+      "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
+      "description": "アメリカの大手日刊紙であるニューヨーク・タイムズが、フリーランスの写真家に対して「ユーザーにもわからない生成AI機能」が搭載されているとして、Photoshop 2027にアップデートしないように警告してることが報じられました。続きを読む...",
+      "url": "https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-26T12:00:00+00:00",
+      "title": "プロの録音したマルチサンプリング効果音が50種類以上使えて商用利用・改変も自由にOKな「Button Sounds」",
+      "description": "複数の企業で上級エンジニアとして働いてきた独立系のハッカーであるジョシュ・コモー氏が、プロが録音した50種類以上のマルチサンプリング効果音をまとめたコレクションの「Button Sounds」を公開しました。Button SoundsはMITライセンスで配布されており、商用利用や改変を含め誰でも自由かつ無償で利用可能です。続きを読む...",
+      "url": "https://gigazine.net/news/20261126-button-sounds/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-26T11:40:00+00:00",
+      "title": "イーロン・マスクのNeuralinkが脳インプラントの実用化に前進、アメリカ初の主要臨床試験が承認される",
+      "description": "実業家のイーロン・マスク氏が設立した脳インプラント開発企業のNeuralinkが、アメリカ食品医薬品局(FDA)から新たな臨床試験「LINK」の開始承認を取得したと日本時間の2026年11月26日に発表しました。LINKはアメリカ初の埋め込み型ブレイン・コンピューター・インターフェース(BCI)の主要臨床試験で、製品の販売承認に向けて安全性や有効性を検証する",
+      "url": "https://gigazine.net/news/20261126-neuralink-fda-approval/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-26T11:00:00+00:00",
+      "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
+      "description": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -54,26 +104,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T08:00:00+00:00",
-      "title": "濃厚なミルクソースとバニラが口中を甘さで満たすロッテ「爽 贅沢濃味バニラ」試食レビュー",
-      "description": "微細氷入りで口溶けのいい食感が特徴のロッテ「爽」シリーズで、冬限定アイテムとして毎度反響を呼ぶ「爽 贅沢濃味バニラ」が2026年11月16日(月)からみたび復活したということなので、買ってきて食べてみました。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-lotte-sou-rich-vanilla/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T07:15:00+00:00",
-      "title": "AIとアーカイブ録音で故サッカー解説者ジョン・モトソンを「EA SPORTS FC」で蘇らせる、家族の許可あり",
-      "description": "2023年2月に亡くなったBBCのサッカー解説者であるジョン・モトソン氏の音声が、「EA SPORTS FC 27」に追加されることが発表されました。音声はEA SPORTSの「FIFA」シリーズ(EA SPORTS FCの前身)に1996年から2006年にかけて収録された約10年間の録音データから最新のAIツールで作成されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-ai-john-motson/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-26T07:06:43+00:00",
       "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
@@ -84,41 +114,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T07:00:00+00:00",
-      "title": "深センの中国人業者が規制されているNVIDIAのGPUを取り扱っていてアメリカの4～5倍の値段になっている品もあるとの指摘",
-      "description": "中国・深センの電気街・華強北市場で、アメリカにより規制されているはずのNVIDIA製品が出回っているとワシントン・ポストの記者が報告しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-nvidia-chip-china/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-26T06:34:12+00:00",
       "title": "鉄道運転シミュレーターをマイクロバスに搭載「ライドライブ」 東急テクノシステムが開発",
       "description": "東急電鉄のグループ会社東急テクノシステムは11月26日、マイクロバスに鉄道の運転シミュレーターを搭載した「RideLIVE（ライドライブ）」を開発し、2027年11月から販売すると発表した。",
       "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T06:00:00+00:00",
-      "title": "「猫なで」に続き「馬なで」や「うさぎなで」ができるシミュレーターまで登場、いろんな動物をなで放題で癒され放題",
-      "description": "好きな体形・好きな柄の猫を思う存分なでられる「猫撫でシミュレーター」の開発者であるフリーのUnityゲームクリエイターであるzubuさんが、馬を思う存分なでられる「馬撫でシミュレーター」を公開しました。さらに、Xユーザーの@lv08zyさんが猫撫でシミュレーターを模した「うさ撫でシミュレータ🐰」を公開しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-pet-horse-rabbit-simulator/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T05:50:00+00:00",
-      "title": "手書き文字やスケッチを生成できるAIモデル「PenGPT」",
-      "description": "テキストから手書き文字やスケッチを生成する小型トランスフォーマー「PenGPT」を機械学習研究者のサム・グレイダナス氏が公開しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-pengpt/",
       "visual": "ai"
     },
     {
