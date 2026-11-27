@@ -1,24 +1,184 @@
 {
-  "updatedAt": "2026-11-27T02:45:40.602437+00:00",
+  "updatedAt": "2026-11-27T11:49:13.367426+00:00",
   "articles": [
     {
       "category": "テクノロジー",
       "key": "technology",
       "source": "GIGAZINE",
-      "time": "2026-11-27T02:42:00+00:00",
-      "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
-      "description": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+      "time": "2026-11-27T11:00:00+00:00",
+      "title": "YouTubeで広告が出たら自動的にページを再読み込みして広告を消すChrome拡張「YouTube Ad Punisher」",
+      "description": "「YouTube Ad Punisher」は、YouTubeで広告が再生された瞬間にページを自動でリロードし、広告を回避するブラウザ拡張機能です。一般的な広告ブロッカーとは異なり、広告の通信自体を遮断するのではなく、ページの再読み込みによってYouTubeに広告配信の判定をやり直させる仕組みを採用しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-youtube-ad-punisher/",
       "visual": "ai"
     },
     {
       "category": "テクノロジー",
       "key": "technology",
       "source": "GIGAZINE",
-      "time": "2026-11-27T02:24:00+00:00",
-      "title": "Androidアプリ開発者はまもなく自身の住所を公開しなければならなくなる",
-      "description": "GoogleはEUのデジタルサービス法(DSA)に対応するため、2027年からAndroidアプリ開発者に電話番号と住所の公開を求めると発表しました。「個人開発者の間でプライバシーへの懸念が広がっている」とテクノロジーメディアのThe Vergeは報じています。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-android-app-developers-have-to-share-address-publicly/",
+      "time": "2026-11-27T10:00:00+00:00",
+      "title": "有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果",
+      "description": "運動が血糖値のコントロールに役立つことは広く知られており、ジョギングやサイクリングなどの有酸素運動と筋力トレーニングはそれぞれ異なる効果をもたらします。中国とスウェーデンの研究者らは、これらの運動をどのような順番で行うことでより高い効果を得られるかについて研究しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-workout-blood-sugar/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T09:21:00+00:00",
+      "title": "2026年11月27日のヘッドラインニュース",
+      "description": "ボリューム満点の弁当を展開する「爆盛」シリーズの第2弾として、5種類の揚げ物を盛り付けた「爆盛のり弁」と大人のお子様ランチをイメージした「爆盛ハンバーグコロッケ＆ナポリタン丼」をローソンストア100が2026年12月2日(水)に発売します。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-headline/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T08:33:00+00:00",
+      "title": "ガーリックソースたっぷりなバーガーキングの小型にんにくバーガー「にんにく・ガーリックチーズバーガー」試食レビュー",
+      "description": "ガーリックペースト・フライドガーリック・ガーリックパウダーの3タイプのにんにくを使った「にんにく・ガーリックチーズバーガー」が2026年11月27日にバーガーキングの期間限定メニューとして登場しました。チーズを4種類に増やした「にんにく・ガーリッククアトロチーズバーガー」と、スモーキーなベーコンを追加した「にんにく・ガーリックベーコンチーズバーガー」も同時に",
+      "url": "https://gigazine.net/news/20261127-burgerking-ninniku/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T08:30:00+00:00",
+      "title": "「AIは信用できない」と考えている人でもAIのアドバイスに影響されてしまうという研究結果",
+      "description": "AIが生成する回答には誤った情報が含まれることもあるため、「AIよりも人間のアドバイスを信用する」という人も多いはず。ところが、AIを信用していない人であっても実際に意思決定を行う際にはAIのアドバイスに影響されてしまうことがイギリスのロンドン大学シティ・セントジョージズの研究チームによって明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-ai-doesnt-deter/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T08:15:00+00:00",
+      "title": "NVIDIAがシンガポールなど東南アジア4カ国へのサーバー出荷停止をDELLやSupermicroなどに指示",
+      "description": "NVIDIAがDELLやSupermicroといったメーカーに対し、シンガポール、マレーシア、インドネシア、タイの東南アジア4カ国にNVIDIA製半導体を搭載したサーバーを出荷しないよう指示したことがわかりました。東南アジア諸国が、NVIDIA製半導体を何とかして入手したい中国にとっての中継地になっており、アメリカの商務省が対策に乗り出したためです。続きを読",
+      "url": "https://gigazine.net/news/20261127-nvidia-stops-chips-shipments-to-south-east-asia/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T07:47:38+00:00",
+      "title": "顧客情報を守るため、売上15％の自社ECを閉店 ドールメーカーが明かした「決断」の背景",
+      "description": "個人情報保護のため、全社売上高の約15％を占める自社ECサイトの閉店を決めたアゾンインターナショナル。AIによるサイバー攻撃の高度化をどう捉え、なぜ個人情報を「持たない」方針に転換したのか。経営陣に聞いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T07:19:56+00:00",
+      "title": "「AI関連の需要強い」京セラ 5年で設備投資9000億円、データセンター需要狙う",
+      "description": "京セラは26日、2031年3月期までの5年間で設備投資に計9000億円を投じると発表した。人工知能（AI）の普及に伴って拡大するデータセンターや半導体関連の需要の取り込みを狙う。これとは別に研究開発にも5年間で6500億円を投資する。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T07:00:00+00:00",
+      "title": "カビの生えた食品はカビの部分だけ切り除けば食べられるのか？",
+      "description": "カビの生えた食品を誤って食べてしまったらどうなるのか、一部にカビが生えていた場合はそこを切り取れば問題なく食べられるのかといった疑問について、教育系YouTubeチャンネルのTED-Edが解説しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-moldy-food/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T06:42:43+00:00",
+      "title": "「時給1280円?」「在宅勤務」 ローソンが募集する「アバターオペレーター」という謎のお仕事",
+      "description": "ローソンは10月16日、在宅でアバターを操作して接客する「ローソンアバターオペレーター」の募集を始めた。導入店舗の数や効果、接客をAIではなく人が担う理由などを同社に聞いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003511/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T06:00:00+00:00",
+      "title": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
+      "description": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-payphone-on-pacific-island/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T05:57:00+00:00",
+      "title": "AIキャラと会話できるアプリ「Talkie」が性的コンテンツを理由にApp Storeから削除される、Google Playでは配信が続く",
+      "description": "中国のAI企業であるMiniMaxが展開するAIアプリ「Talkie」がApp Storeから削除されました。Appleは削除の理由を「性的コンテンツが原因」と説明しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-talkie-ai-chat-app/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T05:55:00+00:00",
+      "title": "止まらないKARTE漏えい 契約終了後「削除されたはず」のデータ流出相次ぐ 「人的オペレーションと管理の不備」",
+      "description": "プレイドによると、契約終了後のデータは「利用規約に則り適切に削除されるべき」だったが、「人的オペレーションおよび管理の不備」により保管されたままだったケースがあるという。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003517/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T05:22:00+00:00",
+      "title": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
+      "description": "NVIDIAがAIモデルの学習に著作権で保護された書籍を無断で使用したとして、2024年に書籍著者らから提訴されました。裁判所は訴訟の一部却下申し立てを認めましたが、一部の主張は訴訟を継続できると判断しており、書籍著者らは2026年11月23日に「NVIDIAはダウンロードした海賊版書籍をAdobeなどの提携企業に拡散した」と訴状を修正しています。続きを読む",
+      "url": "https://gigazine.net/news/20261127-nvidia-adobe-pirate/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T04:41:50+00:00",
+      "title": "聴覚障害の社員にスマートグラス支給 会話をリアルタイムに文字表示 ソフトバンク、連携アプリも独自開発",
+      "description": "外部のサーバを介さずにスマホ内で音声認識処理と文字起こしを完結させ、文字起こしした内容をスマートグラスに表示する。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T04:33:51+00:00",
+      "title": "MCPに新機能「Skills over MCP」登場 ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+      "description": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003513/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T03:00:00+00:00",
+      "title": "サブスクの「お試し→自動更新」は客を逃していた？ 新規購読者数は「お試し→自動解約」比23％減 140万人で実験",
+      "description": "米スタンフォード大学や米シカゴ大学などに所属する研究者らが5月に発表した論文「Sophisticated Consumers with Inertia: Long-Term Implications from a Large-Scale Field Experiment」は、サブスクリプションのお試し契約における「自動更新」と「自動解約」の条件の違いが、消費",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003503/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T03:00:00+00:00",
+      "title": "「フィッシング対策訓練」って実効性あるの？ 約1.2万人に模擬メール送り検証、結果は……",
+      "description": "米パデュー大学に所属する研究者らが発表した論文「Anti-Phishing Training (Still) Does Not Work: A Large-Scale Reproduction of Phishing Training Inefficacy Grounded in the NIST Phish Scale」は、フィッシング対策研修に効果がある",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003502/",
       "visual": "ai"
     },
     {
@@ -34,171 +194,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T01:46:00+00:00",
-      "title": "X(旧Twitter)がついにペアレンタルコントロール機能を導入",
-      "description": "X(旧Twitter)の安全性部門が、13～17歳の子どもを保護するためのペアレンタルコントロール機能を追加したことを発表しました。2006年にTwitterが始まって以来、実に20年越しのペアレンタルコントロール機能実装になります。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-x-finally-parental-controls/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T01:45:00+00:00",
-      "title": "イーロン・マスクがアメリカのすべての子どもにSpaceX株を2株プレゼントすることを表明",
-      "description": "SpaceXのイーロン・マスクCEOが、アメリカのすべての子どもに対してSpaceXの株式を2株贈ることを表明しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-elon-musk-spacex-every-child/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T01:43:00+00:00",
-      "title": "NVIDIA・ATI・3dfxの往年のGPUデモ36種類をブラウザ上で楽しめる「GPU Demo Gallery」",
-      "description": "NVIDIAやATI、3dfxなどのグラフィックスカードメーカーは、かつて新製品の性能や新たな描画技術をアピールするために、さまざまな3Dグラフィックスのデモを公開していました。そんな往年のGPUデモ36種類を、オリジナルのファイルを基に再構築してブラウザ上で動作するようにした「GPU Demo Gallery」が個人開発者のアーチット・コーデ氏によって公開",
-      "url": "https://gigazine.net/news/20261127-gpu-demo-gallery/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-27T01:33:52+00:00",
       "title": "三井ショッピングパーク、約312万会員の個人情報漏えい アプリに不正アクセス",
       "description": "対象は、氏名、生年月日、住所、メールアドレス、電話番号、性別、会員番号。クレジットカード情報やパスワードは含まない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-27T00:55:22+00:00",
-      "title": "航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい 契約終了後も削除されず残存",
-      "description": "契約終了後、顧客情報は削除されるべきだったが、「プレイドにおける人的オペレーションおよび管理の不備」により残存していたという。Peachはプレイドに「消去証明書」を求める。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003509/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-27T00:08:04+00:00",
-      "title": "文部科学省の入札システムに不正アクセス 最大16万件漏えいか",
-      "description": "10月1日に不正アクセスを検知し、外部専門機関と連携して調査した結果、漏えいの可能性が判明した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003508/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T23:52:03+00:00",
-      "title": "SpaceXとマスク氏、米国の子どもに自社株を計2株ずつ贈与へ トランプ政権の「Trump Account」経由で",
-      "description": "SpaceXは、トランプ政権が運用する子ども向け投資口座「Trump Account」の有効な全口座に、新規発行するクラスA普通株式を1株ずつ拠出すると発表した。イーロン・マスクCEOも個人として同数を贈与し、計2株ずつとなる。会社分は12月、マスク氏個人分はロックアップ解除後の2027年6月に移管される予定だ。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003507/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T22:25:54+00:00",
-      "title": "X、「ペアレンタルコントロール」を導入 メッセージ内容は見られず",
-      "description": "Xは、13?17歳のユーザーを対象とした「ペアレンタルコントロール」機能の提供を開始した。保護者は1日の利用上限時間や表示コンテンツ、フォロワー承認、DMの受信相手などを管理できる。設定変更はすべて記録され、子どもも確認可能だが、保護者は子どものメッセージ内容や閲覧履歴は閲覧できない。日本でも利用できる。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003506/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T22:00:00+00:00",
-      "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
-      "description": "AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフォーマンスを改善したかが明らかになっています。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-amd-epyc-performance/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T14:00:00+00:00",
-      "title": "Windows・Mac・Linux・AndroidでファイルやテキストをLAN・インターネット経由で共有できる「flipflop」を使ってみた",
-      "description": "PCとスマートフォンの間でファイルを共有するにはクラウドストレージにアップロードしたり相手の端末を探したりする必要があります。こうした作業を簡略化し、一度ペアリングした端末同士でLANやインターネット、さらに実験的機能としてBluetooth経由でもファイル転送やテキスト共有ができる無料のオープンソースアプリが「flipflop」です。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-flipflop/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T13:00:00+00:00",
-      "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
-      "description": "アメリカの大手日刊紙であるニューヨーク・タイムズが、フリーランスの写真家に対して「ユーザーにもわからない生成AI機能」が搭載されているとして、Photoshop 2027にアップデートしないように警告してることが報じられました。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T12:00:00+00:00",
-      "title": "プロの録音したマルチサンプリング効果音が50種類以上使えて商用利用・改変も自由にOKな「Button Sounds」",
-      "description": "複数の企業で上級エンジニアとして働いてきた独立系のハッカーであるジョシュ・コモー氏が、プロが録音した50種類以上のマルチサンプリング効果音をまとめたコレクションの「Button Sounds」を公開しました。Button SoundsはMITライセンスで配布されており、商用利用や改変を含め誰でも自由かつ無償で利用可能です。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-button-sounds/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T11:40:00+00:00",
-      "title": "イーロン・マスクのNeuralinkが脳インプラントの実用化に前進、アメリカ初の主要臨床試験が承認される",
-      "description": "実業家のイーロン・マスク氏が設立した脳インプラント開発企業のNeuralinkが、アメリカ食品医薬品局(FDA)から新たな臨床試験「LINK」の開始承認を取得したと日本時間の2026年11月26日に発表しました。LINKはアメリカ初の埋め込み型ブレイン・コンピューター・インターフェース(BCI)の主要臨床試験で、製品の販売承認に向けて安全性や有効性を検証する",
-      "url": "https://gigazine.net/news/20261126-neuralink-fda-approval/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T07:06:43+00:00",
-      "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
-      "description": "飲食店のメニューにAIで生成した画像を使用した場合を例に、生成AIによる商品画像と景品表示法の関係について考える。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T06:34:12+00:00",
-      "title": "鉄道運転シミュレーターをマイクロバスに搭載「ライドライブ」 東急テクノシステムが開発",
-      "description": "東急電鉄のグループ会社東急テクノシステムは11月26日、マイクロバスに鉄道の運転シミュレーターを搭載した「RideLIVE（ライドライブ）」を開発し、2027年11月から販売すると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T05:31:18+00:00",
-      "title": "アディーレ法律事務所、個人情報約1828件漏えい 氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
-      "description": "氏名、メールアドレス、電話番号、都道府県、性別、生年月日、法人名・業種・担当者名、学校名・自治体名、問い合わせの内容、連絡に関する希望などが漏えいしたという。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T05:11:44+00:00",
-      "title": "KDDI、Xのデータ利用で包括契約 通信品質向上や法人向けサービスに活用へ",
-      "description": "データは個人を特定できない形で活用する。KDDIが保有するデータアセットをXに提供することはなく、XのアカウントとKDDIの顧客の情報を個人単位でひもづけることもない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
       "visual": "ai"
     },
     {
