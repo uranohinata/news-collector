@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-27T11:49:13.367426+00:00",
+  "updatedAt": "2026-11-27T20:44:33.035985+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T14:00:00+00:00",
+      "title": "シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化",
+      "description": "テキストで図形や矢印の関係を記述するだけで図を自動生成できる「D2」は、2022年に基本的な使い方をレビューしました。その後は手描き風のデザインやアニメーション、ターミナルでも表示できるASCII出力などに対応し、図の表現方法が広がっています。2026年9月には運営体制が非営利に切り替わり、独自の自動配置エンジンもオープンソース化されたので、追加された機能を",
+      "url": "https://gigazine.net/news/20261127-d2/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T13:00:00+00:00",
+      "title": "ゴミ捨て場で大量のアポピスの儀式の痕跡が見つかり古代エジプトでは呪いの儀式が広く行われていたことが明らかに",
+      "description": "エジプトの古代都市であるテーベの遺跡で、焼け焦げたパピルス(古代エジプトで利用された紙)の断片40点が見つかりました。ここから、古代エジプトで有名な呪いの儀式は、これまで考えられてきたよりも広く日常的に行われていた可能性が浮上しています。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-curse-ritual-widespread-ancient-egypt/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T12:00:00+00:00",
+      "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+      "description": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていまし",
+      "url": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -104,41 +134,11 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T06:00:00+00:00",
-      "title": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
-      "description": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-payphone-on-pacific-island/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T05:57:00+00:00",
-      "title": "AIキャラと会話できるアプリ「Talkie」が性的コンテンツを理由にApp Storeから削除される、Google Playでは配信が続く",
-      "description": "中国のAI企業であるMiniMaxが展開するAIアプリ「Talkie」がApp Storeから削除されました。Appleは削除の理由を「性的コンテンツが原因」と説明しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-talkie-ai-chat-app/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-27T05:55:00+00:00",
       "title": "止まらないKARTE漏えい 契約終了後「削除されたはず」のデータ流出相次ぐ 「人的オペレーションと管理の不備」",
       "description": "プレイドによると、契約終了後のデータは「利用規約に則り適切に削除されるべき」だったが、「人的オペレーションおよび管理の不備」により保管されたままだったケースがあるという。",
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003517/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T05:22:00+00:00",
-      "title": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
-      "description": "NVIDIAがAIモデルの学習に著作権で保護された書籍を無断で使用したとして、2024年に書籍著者らから提訴されました。裁判所は訴訟の一部却下申し立てを認めましたが、一部の主張は訴訟を継続できると判断しており、書籍著者らは2026年11月23日に「NVIDIAはダウンロードした海賊版書籍をAdobeなどの提携企業に拡散した」と訴状を修正しています。続きを読む",
-      "url": "https://gigazine.net/news/20261127-nvidia-adobe-pirate/",
       "visual": "ai"
     },
     {
