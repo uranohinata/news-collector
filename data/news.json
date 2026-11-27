@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-26T19:59:47.634266+00:00",
+  "updatedAt": "2026-11-27T02:45:40.602437+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T02:42:00+00:00",
+      "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
+      "description": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T02:24:00+00:00",
+      "title": "Androidアプリ開発者はまもなく自身の住所を公開しなければならなくなる",
+      "description": "GoogleはEUのデジタルサービス法(DSA)に対応するため、2027年からAndroidアプリ開発者に電話番号と住所の公開を求めると発表しました。「個人開発者の間でプライバシーへの懸念が広がっている」とテクノロジーメディアのThe Vergeは報じています。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-android-app-developers-have-to-share-address-publicly/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T02:21:41+00:00",
+      "title": "JAXA宇宙飛行士、5年ぶり募集へ 月面探査を担う人材育成",
+      "description": "募集は2021年以来約5年ぶり。将来の月面探査や地球低軌道活動を担う新たな宇宙飛行士候補者を育成する。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003512/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T01:46:00+00:00",
+      "title": "X(旧Twitter)がついにペアレンタルコントロール機能を導入",
+      "description": "X(旧Twitter)の安全性部門が、13～17歳の子どもを保護するためのペアレンタルコントロール機能を追加したことを発表しました。2006年にTwitterが始まって以来、実に20年越しのペアレンタルコントロール機能実装になります。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-x-finally-parental-controls/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T01:45:00+00:00",
+      "title": "イーロン・マスクがアメリカのすべての子どもにSpaceX株を2株プレゼントすることを表明",
+      "description": "SpaceXのイーロン・マスクCEOが、アメリカのすべての子どもに対してSpaceXの株式を2株贈ることを表明しました。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-elon-musk-spacex-every-child/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T01:43:00+00:00",
+      "title": "NVIDIA・ATI・3dfxの往年のGPUデモ36種類をブラウザ上で楽しめる「GPU Demo Gallery」",
+      "description": "NVIDIAやATI、3dfxなどのグラフィックスカードメーカーは、かつて新製品の性能や新たな描画技術をアピールするために、さまざまな3Dグラフィックスのデモを公開していました。そんな往年のGPUデモ36種類を、オリジナルのファイルを基に再構築してブラウザ上で動作するようにした「GPU Demo Gallery」が個人開発者のアーチット・コーデ氏によって公開",
+      "url": "https://gigazine.net/news/20261127-gpu-demo-gallery/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T01:33:52+00:00",
+      "title": "三井ショッピングパーク、約312万会員の個人情報漏えい アプリに不正アクセス",
+      "description": "対象は、氏名、生年月日、住所、メールアドレス、電話番号、性別、会員番号。クレジットカード情報やパスワードは含まない。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T00:55:22+00:00",
+      "title": "航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい 契約終了後も削除されず残存",
+      "description": "契約終了後、顧客情報は削除されるべきだったが、「プレイドにおける人的オペレーションおよび管理の不備」により残存していたという。Peachはプレイドに「消去証明書」を求める。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003509/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-27T00:08:04+00:00",
+      "title": "文部科学省の入札システムに不正アクセス 最大16万件漏えいか",
+      "description": "10月1日に不正アクセスを検知し、外部専門機関と連携して調査した結果、漏えいの可能性が判明した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003508/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-26T23:52:03+00:00",
+      "title": "SpaceXとマスク氏、米国の子どもに自社株を計2株ずつ贈与へ トランプ政権の「Trump Account」経由で",
+      "description": "SpaceXは、トランプ政権が運用する子ども向け投資口座「Trump Account」の有効な全口座に、新規発行するクラスA普通株式を1株ずつ拠出すると発表した。イーロン・マスクCEOも個人として同数を贈与し、計2株ずつとなる。会社分は12月、マスク氏個人分はロックアップ解除後の2027年6月に移管される予定だ。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003507/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-26T22:25:54+00:00",
+      "title": "X、「ペアレンタルコントロール」を導入 メッセージ内容は見られず",
+      "description": "Xは、13?17歳のユーザーを対象とした「ペアレンタルコントロール」機能の提供を開始した。保護者は1日の利用上限時間や表示コンテンツ、フォロワー承認、DMの受信相手などを管理できる。設定変更はすべて記録され、子どもも確認可能だが、保護者は子どものメッセージ内容や閲覧履歴は閲覧できない。日本でも利用できる。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003506/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-26T22:00:00+00:00",
+      "title": "AMD製サーバー向けCPU「EPYC」は10年間でAI性能が133倍に向上、Zen 6世代とZen 1世代のベンチマーク比較が公開される",
+      "description": "AMDのサーバープロセッサであるEPYCシリーズのZen 1世代「Naples」とZen 6世代「Venice」の性能比較がハードウェアレビュー系ニュースサイトのPhoronixによって実施されました。EPYCが過去約10年間でどれだけパフォーマンスを改善したかが明らかになっています。続きを読む...",
+      "url": "https://gigazine.net/news/20261127-amd-epyc-performance/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -44,66 +164,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T11:00:00+00:00",
-      "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
-      "description": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T10:07:00+00:00",
-      "title": "2026年11月26日のヘッドラインニュース",
-      "description": "カプコンの「モンスターハンターワイルズ」とコラボレーションした「ぷっくり箔 木樽ジョッキ」が、本日2026年11月26日(木)より販売開始されました。国産の天然木を使用した木樽ジョッキに、指で触れるとデザインの凹凸を感じられる特殊な装飾加工「ぷっくり箔」が施されています。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-headline/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T10:00:00+00:00",
-      "title": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
-      "description": "AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-muse-amazon-discuss/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T09:40:00+00:00",
-      "title": "NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた",
-      "description": "NVIDIAの最先端高性能GPUはアメリカから中国への輸出が規制されています。ところが、NVIDIAが優先パートナーとして扱っている2つのアメリカ企業が中国企業と深いつながりを持っていることがCBSによって報じられました。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-nvidia-china-company/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T09:14:00+00:00",
-      "title": "「Anthropicのダリオ・アモデイCEOが人間の自由意志をAIに委ねようとしている」という報道を本人が真っ向から否定し「AIの未来は民主的なプロセスで決定されるべき」と明言",
-      "description": "海外メディアのAxiosが2026年11月25日に「Anthropicのダリオ・アモデイCEOは人間の意思決定を高性能AIに委ねることを肯定している」と報じました。アモデイCEOは自身Xアカウントで報道内容を否定し、自身のAIについての考え方を長文で説明しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-dario-amodei-ai-human/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-26T08:30:00+00:00",
-      "title": "OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開",
-      "description": "OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきました。続きを読む...",
-      "url": "https://gigazine.net/news/20261126-openai-matrix-multiplication/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-26T07:06:43+00:00",
       "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
@@ -139,66 +199,6 @@
       "title": "KDDI、Xのデータ利用で包括契約 通信品質向上や法人向けサービスに活用へ",
       "description": "データは個人を特定できない形で活用する。KDDIが保有するデータアセットをXに提供することはなく、XのアカウントとKDDIの顧客の情報を個人単位でひもづけることもない。",
       "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T05:04:44+00:00",
-      "title": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
-      "description": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T04:32:50+00:00",
-      "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議 未成年者の約210万アカウント分も対象",
-      "description": "米カリフォルニアやコネチカットなど41州とワシントンD.C.の司法長官は、破産申請した「Character.AI」の資産競売に異議を申し立てた。競売には未成年者の210万以上を含む2100万超のチャット履歴が含まれるが、買い手にデータ保護の義務がなく、プライバシー法に反するとして売却の却下を求めている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T03:00:00+00:00",
-      "title": "GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査",
-      "description": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってど",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T02:27:43+00:00",
-      "title": "「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
-      "description": "PayPayマネーライトを現金化する目的で第三者へ譲渡する行為はPayPayの利用規約違反であり、PayPay残高の利用停止やアカウントの閉鎖などの措置を講じる場合があると警告している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003474/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T02:24:00+00:00",
-      "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論",
-      "description": "Anthropicのダリオ・アモデイCEOは、超知能AIに人間の意思決定権を委ねるべきだと考えているとしたAxiosの報道をXで否定した。社会の統治と個別タスクの自動化を混同していると反論し、AIは民主的プロセスで管理されるべきだと強調した。超知能時代の主導権を巡っては、OpenAIやMeta幹部も発言しており議論が広がっている。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-26T01:32:28+00:00",
-      "title": "都が育児支援で配った「QUOカードPay」が「使えない」「残高減っている」……委託先への不正アクセスが関係か",
-      "description": "赤ちゃんファーストコールセンターに「QUOカードPayが利用できない」「残高が少なくなっている」などの相談が寄せられ、リンベルが調べたところ、問題を確認した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003472/",
       "visual": "ai"
     },
     {
