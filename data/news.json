@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-28T03:07:20.519305+00:00",
+  "updatedAt": "2026-11-28T12:10:21.665924+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-28T11:46:00+00:00",
+      "title": "『機動戦士ガンダムSEED FREEDOM ZERO』本予告映像公開、主題歌は西川貴教 with t.komuro＆EDはSee-Saw",
+      "description": "2027年1月15日(金)から劇場公開となる『機動戦士ガンダムSEED FREEDOM ZERO』の本予告映像がYouTubeで公開されました。2024年に公開された映画『機動戦士ガンダムSEED FREEDOM』につながる前日譚で、主題歌とエンディングテーマはそれぞれ前作に引き続き西川貴教 with t.komuroとSee-Sawが担当します。続きを読む",
+      "url": "https://gigazine.net/news/20261128-gundam-seed-freedom-zero-trailer/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-28T10:00:00+00:00",
+      "title": "組み立て済みPCをパーツごとに価格表示しおトクかどうか自動判定してくれるサイト「PC Deal Check」",
+      "description": "組み立て済みPCの購入を検討する際、購入の決め手となる指標の一つに「パーツの合計価格から見てお買い得かどうか」があります。「PC Deal Check」は購入予定のPCが適正価格で提示されているかを、専門知識がなくても手軽に判断できるサイトです。続きを読む...",
+      "url": "https://gigazine.net/news/20261128-pc-deal-check/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-28T09:35:00+00:00",
+      "title": "1週間以上バッテリーが持続するスマートウォッチ「Google Fitbit Edge」を1カ月以上使ってみたよレビュー",
+      "description": "「Google Fitbit Edge」は多機能スマートウォッチ「Google Pixel Watch」と画面なしスマートトラッカー「Google Fitbit Air」の中間的な立ち位置の製品として開発されたスマートウォッチです。そんなGoogle Fitbit Edgeを1カ月以上にわたって着用し続けたので、使用感をまとめました。続きを読む...",
+      "url": "https://gigazine.net/news/20261128-google-fitbit-edge-review/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-28T09:00:00+00:00",
+      "title": "無料で使えるブラウザベースのファイルマネージャー「FileBrowser Quantum」、超高速検索・複数ユーザー管理・アクセス制御・期限やパスワード付き共有・ファイルプレビュー・編集などができてローカルでセルフホスト可能",
+      "description": "保存したファイルが増えていくと目的のファイルを探し出すだけでなく、内容を確認して別のユーザーに共有する作業にも手間がかかります。そこで、インデックスを使った高速検索や画像・動画・文書のプレビュー、パスワードや有効期限付きのファイル共有などに対応した無料のファイルマネージャーが「FileBrowser Quantum」です。ブラウザからどのような操作ができるの",
+      "url": "https://gigazine.net/news/20261128-filebrowser-quantum/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -69,46 +109,6 @@
       "title": "ゴミ捨て場で大量のアポピスの儀式の痕跡が見つかり古代エジプトでは呪いの儀式が広く行われていたことが明らかに",
       "description": "エジプトの古代都市であるテーベの遺跡で、焼け焦げたパピルス(古代エジプトで利用された紙)の断片40点が見つかりました。ここから、古代エジプトで有名な呪いの儀式は、これまで考えられてきたよりも広く日常的に行われていた可能性が浮上しています。続きを読む...",
       "url": "https://gigazine.net/news/20261127-curse-ritual-widespread-ancient-egypt/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T12:00:00+00:00",
-      "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
-      "description": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていまし",
-      "url": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T11:00:00+00:00",
-      "title": "YouTubeで広告が出たら自動的にページを再読み込みして広告を消すChrome拡張「YouTube Ad Punisher」",
-      "description": "「YouTube Ad Punisher」は、YouTubeで広告が再生された瞬間にページを自動でリロードし、広告を回避するブラウザ拡張機能です。一般的な広告ブロッカーとは異なり、広告の通信自体を遮断するのではなく、ページの再読み込みによってYouTubeに広告配信の判定をやり直させる仕組みを採用しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-youtube-ad-punisher/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T10:00:00+00:00",
-      "title": "有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果",
-      "description": "運動が血糖値のコントロールに役立つことは広く知られており、ジョギングやサイクリングなどの有酸素運動と筋力トレーニングはそれぞれ異なる効果をもたらします。中国とスウェーデンの研究者らは、これらの運動をどのような順番で行うことでより高い効果を得られるかについて研究しました。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-workout-blood-sugar/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T09:21:00+00:00",
-      "title": "2026年11月27日のヘッドラインニュース",
-      "description": "ボリューム満点の弁当を展開する「爆盛」シリーズの第2弾として、5種類の揚げ物を盛り付けた「爆盛のり弁」と大人のお子様ランチをイメージした「爆盛ハンバーグコロッケ＆ナポリタン丼」をローソンストア100が2026年12月2日(水)に発売します。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-headline/",
       "visual": "ai"
     },
     {
