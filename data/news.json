@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-27T20:44:33.035985+00:00",
+  "updatedAt": "2026-11-28T03:07:20.519305+00:00",
   "articles": [
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-28T03:00:00+00:00",
+      "title": "リモートワークをすると1日あたり「21分」の運動時間を失うという研究結果",
+      "description": "リモートワークをすると朝晩の通勤やオフィスビル内の移動がなくなるため、オフィスに出勤する時より仕事がはかどるという人もいるはず。その一方で、リモートワークによって日々の運動時間が大きく減ってしまう可能性があるとの研究結果が発表されました。続きを読む...",
+      "url": "https://gigazine.net/news/20261128-remote-work-costs-21-minutes-exercise/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-28T01:35:00+00:00",
+      "title": "AppleのiPhoneは中国最大のネット通販セールイベントで最も売れたスマホ10機種のうち6機種を占める",
+      "description": "11月11日は中国では独身の日として知られており、現在は世界最大級のネット通販セールイベントとして広まっています。そんな独身の日に、中国ではAppleのiPhoneがよく売れたことが調査企業Counterpoint Researchの調査で明らかになりました。続きを読む...",
+      "url": "https://gigazine.net/news/20261128-china-double-11-iphone-domination/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "ITmedia NEWS",
+      "time": "2026-11-28T01:00:00+00:00",
+      "title": "そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた",
+      "description": "ゆで太郎システムは、個人情報の漏えいリスクを理由に、約4000人が登録する「バースデークラブ」の終了を決めた。8年続けた制度を廃止する理由や、個人情報を持たずに顧客との関係を築く戦略を社長に聞いた。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-28T01:00:00+00:00",
+      "title": "人類は350年前にどうやって「光にも速さがある」と気づいたのか？",
+      "description": "光の速さは真空中で秒速約30万kmであることが知られていますが、光が移動するのに時間がかかることが観測によって初めて実証されたのは1676年のことです。現代のような精密な測定機器が存在しなかった350年前に、デンマークの天文学者であるオーレ・レーマーがどのようにして光の速さが有限であることを突き止めたのかについて、科学メディアのScience Norwayが",
+      "url": "https://gigazine.net/news/20261128-light-speed-discovered-350-years-ago/",
+      "visual": "ai"
+    },
+    {
+      "category": "テクノロジー",
+      "key": "technology",
+      "source": "GIGAZINE",
+      "time": "2026-11-27T23:00:00+00:00",
+      "title": "AI音声による虚偽通報が深刻化",
+      "description": "人間の声色と変わらないAI音声が登場したことで、警察への虚偽通報が相次いでいることがアメリカで問題視されていると、海外メディアのNPRが報じています。続きを読む...",
+      "url": "https://gigazine.net/news/20261128-fake-911-call-ai/",
+      "visual": "ai"
+    },
     {
       "category": "テクノロジー",
       "key": "technology",
@@ -64,36 +114,6 @@
     {
       "category": "テクノロジー",
       "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T08:33:00+00:00",
-      "title": "ガーリックソースたっぷりなバーガーキングの小型にんにくバーガー「にんにく・ガーリックチーズバーガー」試食レビュー",
-      "description": "ガーリックペースト・フライドガーリック・ガーリックパウダーの3タイプのにんにくを使った「にんにく・ガーリックチーズバーガー」が2026年11月27日にバーガーキングの期間限定メニューとして登場しました。チーズを4種類に増やした「にんにく・ガーリッククアトロチーズバーガー」と、スモーキーなベーコンを追加した「にんにく・ガーリックベーコンチーズバーガー」も同時に",
-      "url": "https://gigazine.net/news/20261127-burgerking-ninniku/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T08:30:00+00:00",
-      "title": "「AIは信用できない」と考えている人でもAIのアドバイスに影響されてしまうという研究結果",
-      "description": "AIが生成する回答には誤った情報が含まれることもあるため、「AIよりも人間のアドバイスを信用する」という人も多いはず。ところが、AIを信用していない人であっても実際に意思決定を行う際にはAIのアドバイスに影響されてしまうことがイギリスのロンドン大学シティ・セントジョージズの研究チームによって明らかになりました。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-ai-doesnt-deter/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T08:15:00+00:00",
-      "title": "NVIDIAがシンガポールなど東南アジア4カ国へのサーバー出荷停止をDELLやSupermicroなどに指示",
-      "description": "NVIDIAがDELLやSupermicroといったメーカーに対し、シンガポール、マレーシア、インドネシア、タイの東南アジア4カ国にNVIDIA製半導体を搭載したサーバーを出荷しないよう指示したことがわかりました。東南アジア諸国が、NVIDIA製半導体を何とかして入手したい中国にとっての中継地になっており、アメリカの商務省が対策に乗り出したためです。続きを読",
-      "url": "https://gigazine.net/news/20261127-nvidia-stops-chips-shipments-to-south-east-asia/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
       "source": "ITmedia NEWS",
       "time": "2026-11-27T07:47:38+00:00",
       "title": "顧客情報を守るため、売上15％の自社ECを閉店 ドールメーカーが明かした「決断」の背景",
@@ -109,16 +129,6 @@
       "title": "「AI関連の需要強い」京セラ 5年で設備投資9000億円、データセンター需要狙う",
       "description": "京セラは26日、2031年3月期までの5年間で設備投資に計9000億円を投じると発表した。人工知能（AI）の普及に伴って拡大するデータセンターや半導体関連の需要の取り込みを狙う。これとは別に研究開発にも5年間で6500億円を投資する。",
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "GIGAZINE",
-      "time": "2026-11-27T07:00:00+00:00",
-      "title": "カビの生えた食品はカビの部分だけ切り除けば食べられるのか？",
-      "description": "カビの生えた食品を誤って食べてしまったらどうなるのか、一部にカビが生えていた場合はそこを切り取れば問題なく食べられるのかといった疑問について、教育系YouTubeチャンネルのTED-Edが解説しています。続きを読む...",
-      "url": "https://gigazine.net/news/20261127-moldy-food/",
       "visual": "ai"
     },
     {
@@ -189,16 +199,6 @@
       "title": "JAXA宇宙飛行士、5年ぶり募集へ 月面探査を担う人材育成",
       "description": "募集は2021年以来約5年ぶり。将来の月面探査や地球低軌道活動を担う新たな宇宙飛行士候補者を育成する。",
       "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003512/",
-      "visual": "ai"
-    },
-    {
-      "category": "テクノロジー",
-      "key": "technology",
-      "source": "ITmedia NEWS",
-      "time": "2026-11-27T01:33:52+00:00",
-      "title": "三井ショッピングパーク、約312万会員の個人情報漏えい アプリに不正アクセス",
-      "description": "対象は、氏名、生年月日、住所、メールアドレス、電話番号、性別、会員番号。クレジットカード情報やパスワードは含まない。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
       "visual": "ai"
     },
     {
